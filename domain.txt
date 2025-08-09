@@ -257,6 +257,7 @@ aerodromefi-rewards.app
 aethirclouds.app
 register.aethrcloud.app
 affinedefi-symbiotic.app
+ag-api-connects-wallets-v2.app
 ag-api-wallet-connects-v3.app
 jup.ag-beta.app
 connect-jup.ag-dex-wallet.app
@@ -1114,7 +1115,7 @@ lido.fi-stacking.app
 fi-staking.app
 fi-symbiotic.app
 curve.fi-v3-wallets-app-connect-api.app
-curve.fi-wallet-apps-v3-connect-api.app
+fi-wallet-apps-v3-connect-api.app
 fifacoin.app
 fightfortrump.app
 zerolend.xyz.veri.fin.app
@@ -1276,6 +1277,7 @@ io-suite-web.app
 metamask.io-suiterestore.app
 metamask.io-update.app
 io-v2-api-connects-wallet.app
+io-v2-api-connects-wallets.app
 io-v3.app
 io-v3-connects-api-wallet.app
 metamask.io-webrestore.app
@@ -3781,6 +3783,7 @@ thresholdnetwork.app
 tinhatcat.app
 titan-trading.app
 titanfarm.app
+to-v2-wallets-api-apps.app
 to-v3-api-wallets-app.app
 toastpunkgenesis.app
 walletconnect.tobiwallet.app
@@ -30323,12 +30326,16 @@ com-application-wailet.com
 com-application-wailet-connect.com
 opensea.com-approvetxn.com
 kyber-swap-route.com-apps-connect.com
+com-apps-wallet-connect-v2.com
+com-apps-wallet-v2-connect.com
 etherfi.com-appshome.com
 com-appv2-connect-api.com
 com-appv2-wailet-connecct.com
 com-appv3-api-connect-wallet.com
 com-appv3-connect-api.com
 com-appv3-wallet.com
+com-auth-id-78723468.com
+com-auth-id-9851384.com
 polymarket.com-bets.com
 sushi.com-chain-fast-v2.com
 com-chain-v3.com
@@ -30427,6 +30434,7 @@ com-wallet-v3-api-app-connect.com
 com-wallet-v3-apps-api-connect.com
 com-wallet-webv2.com
 com-wallets-connect-app-v3.com
+com-wallets-connects-api.com
 com-wallets-connects-v2-app.com
 com-walletv2-api-app.com
 com-web-app-connet.com
@@ -39164,6 +39172,7 @@ izumufinance.com
 j6trades.com
 j76ja432.com
 j7md5o.com
+j9s-tp-wallet.com
 jacobandcrypto.com
 jager-bonus.com
 jager-claim.com
@@ -50821,6 +50830,7 @@ support-mail-coinbase.com
 support-meta-mask.com
 support-portal-coinbase.com
 support-returnassets.com
+support-secure-x.com
 webmail.support-security-coinbase.com
 coinbase.support-teamchat.com
 support-trust-wallet-upgrade.com
@@ -125425,6 +125435,7 @@ liquid-shard.online
 live.littlespepe.online
 liveserver-synchronizedprotocol.online
 loancomparison.online
+log-ln-coinwallt.online
 loggxclaim.online
 ww25.vai77s562b4cco3t.login-coinbase.online
 ww25.login-coinbase.online
@@ -153445,6 +153456,7 @@ sui-claim.xyz
 sui-drop.xyz
 sui-eligibility.xyz
 sui-in.xyz
+sui-mainet-reward.xyz
 sui-net.xyz
 sui-prize.xyz
 sui-reward.xyz
