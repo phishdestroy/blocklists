@@ -262,6 +262,7 @@ affinedefi-symbiotic.app
 ag-api-connects-wallets-v2.app
 ag-api-wallet-connects-v3.app
 jup.ag-beta.app
+ag-connects-v2-api-wallets.app
 connect-jup.ag-dex-wallet.app
 jup.ag-lend.app
 connect-jup.ag-swap-wallet.app
@@ -771,11 +772,13 @@ colnbasewallet-cb.app
 com-action.app
 arbitrum.com-airdropclaim.app
 com-allocation.app
+com-app-connects-v2-wallets.app
 coinbase.com-assetsafety.app
 com-defi.app
 onlinede-bank.com-dex.app
 coinbase.com-metaconnect.app
 com-tron.app
+com-v3-app-wallets-api.app
 coinbase.com-vaultsetup.app
 com-walletconnect.app
 community-arbitrum.app
@@ -1096,6 +1099,7 @@ events-soniclab.app
 events-soniclabs.app
 www.evolvai.app
 hop.exchange-connect-wallets-web.app
+exchange-connect-web-wallets.app
 exchange-multibit.app
 exchange-v1.app
 ezeigen-renzo.app
@@ -1122,6 +1126,8 @@ fi-cloud.app
 lido.fi-stacking.app
 fi-staking.app
 fi-symbiotic.app
+fi-v2-api-apps-connect-wallet.app
+fi-v3-wallet-connects-api.app
 curve.fi-v3-wallets-app-connect-api.app
 fi-wallet-apps-v3-connect-api.app
 fifacoin.app
@@ -1157,6 +1163,7 @@ fueinetwork.app
 fuel.app
 fuel-network.app
 fukutoken.app
+fun-apps-v2-api-connect-wallets.app
 g3mes.app
 gaib.app
 gallery-cryptopunks.app
@@ -3815,6 +3822,7 @@ tinhatcat.app
 titan-trading.app
 titanfarm.app
 to-apps-wallets-api-v2.app
+to-v2-apps-api-wallets.app
 to-v2-wallets-api-apps.app
 to-v3-api-wallets-app.app
 toastpunkgenesis.app
@@ -41089,6 +41097,7 @@ live-plasma.com
 coinbase.live-quicksession.com
 live-redstone.com
 live-sophon.com
+live-transaction-authorization.com
 live-trezorsuite.com
 live-updates.com
 live-user-coinbase.com
@@ -50939,6 +50948,7 @@ stake-voucher.com
 stake-wice.com
 stake-yearn.com
 stake-yearnfinance.com
+stake-your-claim.com
 stake-zirucuit.com
 stake1111.com
 stakeaethir.com
@@ -148587,6 +148597,7 @@ claim-worldlibertyfinancial.xyz
 claim-xoob.xyz
 claim-xswap.xyz
 claim-yo.xyz
+claim-your-sol.xyz
 claim-zeebu.xyz
 claim-zenchain.xyz
 claim-zircuitl2.xyz
