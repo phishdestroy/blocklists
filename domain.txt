@@ -285,6 +285,7 @@ ag-v2-connects-wallets-api.app
 ag-v3-connects-api-wallets.app
 ag-v3-wallets-api-connects.app
 ag-v3-wallets-connects-api.app
+ag-wallets-api-connect-v2.app
 ag-wallets-v2-api-connect.app
 ag-wallets-v2-api-connects.app
 ai-boost.app
@@ -834,6 +835,7 @@ corgi-ai.app
 coswork.app
 cotopaxi.app
 cowfi.app
+crustnetwork.app
 crypto-list.app
 cryptocheck.app
 cryptocowswap.app
@@ -1205,6 +1207,7 @@ fun-apps-v2-wallets-connect-api.app
 fun-apps-wallets-v2-connect-api.app
 fun-wallets-apps-v2-connect-api.app
 fun-wallets-v2-apps-connect-api.app
+fun-wallets-v3-apps-connects-api.app
 fwallet-fantom.app
 g3mes.app
 gaib.app
@@ -12504,6 +12507,7 @@ aave.capital
 m.bankless.capital
 berachajn.capital
 cfd.capital
+coinw.capital
 debridge.capital
 desertbit.capital
 claims.eigen.capital
@@ -13081,6 +13085,7 @@ elcctrum.cc
 elinkair.cc
 elongive.cc
 en-trezor.cc
+erlive.cc
 etehreum.cc
 ethanmana.cc
 etherc20.cc
@@ -17674,6 +17679,7 @@ spx-6900.co
 spx6900.co
 spx6900-eligibility.co
 squidrouteri.co
+app.squidrouters.co
 squidrouterw.co
 sryrfutures.co
 sshort-market.co
@@ -24348,6 +24354,7 @@ coinbase.anaserademo.com
 anatanfts.com
 anatoliatoken.com
 anccoinbase.com
+anchorprotocol.com
 andersenlab-wk.com
 andrewlumbert.com
 andrewtate-nft.com
@@ -31511,6 +31518,7 @@ com-connect-dappv3.com
 com-connect-v2-app-api.com
 com-connect-v2-wallet-apps.com
 com-connect-v3-api-app.com
+com-connect-v3-wallet-apps.com
 com-connect-wailet-v5-app.com
 com-connect-wallet-app-v3.com
 aave.com-connect-wallet-v5.com
@@ -40162,6 +40170,7 @@ io-miro.com
 mintchain.io-nft-legends.com
 opensea.io-nftaccesspage.com
 io-novadrop.com
+io-online-api-v2-exchanger.com
 io-opensea.com
 metamask.io-portfolio.com
 metamask.io-portfoliobackup.com
@@ -41308,7 +41317,6 @@ ledger-incident-update.com
 ledger-ledger.com
 ledger-live-tools.com
 ledger-live-web3.com
-ledger-nano-x.com
 ledger-notice-support.com
 ledger-official.com
 ledger-private.com
@@ -44354,6 +44362,7 @@ nitiafoundation.com
 nitranex.com
 nitro-bridge.com
 nitronaerospace.com
+dexscreener.nitzens.com
 avail-claim.nizaio.com
 phaver.nizaio.com
 nkbihfebogaeaoehlefnkodbefgpgknn.com
@@ -48236,6 +48245,7 @@ register-rabby.com
 register-raposacoffee.com
 register-reploy.com
 register-reyanetwork.com
+register-rheafinance.com
 register-saharalabs.com
 register-scroiifdn.com
 register-scroiinetwork.com
@@ -83109,6 +83119,7 @@ finance-v4-app.help
 pancakesvap.finance-v5-dex.help
 coinbase.frozenasset.help
 fuel-network.help
+oo.gateio.help
 gedcare.help
 gunbygunz.help
 hyperliquid.help
@@ -86400,6 +86411,7 @@ checker.berrachaln.io
 betaos.io
 bids-sea.io
 binance-airdrop-carv.io
+bingx.io
 bitcoin-blender.io
 bitcoinpaperwallet.io
 biteqs.io
@@ -97907,7 +97919,6 @@ v2-euler-finance.github.io
 v3-aave.github.io
 v3-uniswap.github.io
 v4-remittix.github.io
-velodrome-fi.github.io
 velodromefinance.github.io
 vendmartwallet.github.io
 view-coinbasepro-cdn.github.io
@@ -113000,6 +113011,7 @@ worldofbattles.io
 en-metamask-extension.wstd.io
 help-metamask-chrome.wstd.io
 metamaskextensionwallet.wstd.io
+start-m-trezor.wstd.io
 support-metamask-wallet-extension.wstd.io
 teach-metamask-cdn.wstd.io
 teach-metamask-es.wstd.io
@@ -128951,6 +128963,7 @@ marketmindsoptions.org
 marketplace-biswap.org
 opensea.marktplaceio.org
 marpuss.org
+marsprotocol.org
 maskmeta.org
 masktoken.org
 mathwaliet.org
@@ -130674,6 +130687,7 @@ triasone-phase2.org
 tribewarsonline.org
 tritonpass.org
 trojancash.org
+tron-scan.org
 tronink.org
 tronlinkapp.org
 tronlinkapps.org
@@ -131063,6 +131077,7 @@ web-suiwallet.org
 web-superbridge.org
 web-symbiotic.org
 uniswap.web-v4.org
+web3-apps.org
 starknet.web3-claim.org
 zksync.web3-claimed.org
 starknet.web3-claims.org
@@ -131652,6 +131667,7 @@ coinbase-security.betcashback.pro
 bgbget.pro
 biitvest.pro
 binancexpert.pro
+bingx.pro
 bio-protocol.pro
 bitbottg.pro
 ww25.ftp.bitcoinbase.pro
@@ -134231,6 +134247,7 @@ asvkuprrmq3rrrm.sbs
 polkadot.auth-apps.sbs
 avalon-claim.sbs
 axionarch.sbs
+axlom-trade.sbs
 coin.base-io.sbs
 bera-claim.sbs
 bera-claims.sbs
@@ -137448,6 +137465,7 @@ walletconnect-en.tax
 zksync.tax
 coinbase.account.tc
 suportprotocolsdapp.gt.tc
+swap.tc
 app.arbswap.team
 birdge.arbtirum.team
 berachain.team
@@ -138080,9 +138098,11 @@ usdt-qr.to
 usdtmixer.to
 ust0.to
 ustd0.to
+solfare.com.v-2.to
 vault-plasma.to
 walletconnect.to
 web-1inch.to
+unis.svvap.org.web-3.to
 web-metamask.to
 web-pancakeswap.to
 web-phantom.to
