@@ -1389,15 +1389,19 @@ io-allocation.app
 io-allocations.app
 io-api-connects-v2-wallets.app
 io-api-connects-v3-wallet.app
-1inch.io-api-connects-wallet-v2.app
+io-api-connects-wallet-v2.app
 io-api-connects-wallets-v3.app
 metamask.io-com.app
 io-connect.app
 io-connects-api-v3-wallets.app
 io-connects-v2-wallets-api.app
+io-crypto-exchanger-v2.app
+io-cryptocurrency-exchanger-api-v3.app
 opensea.io-drop.app
+io-exchanger-cryptocurrency-v2.app
+io-instant-crypto-exchange-api-v2.app
 io-instant-crypto-exchange-api-v3.app
-changenow.io-instant-exchange-api-crypto-v3.app
+io-instant-exchange-api-crypto-v3.app
 opensea.io-nftaccess.app
 io-protocol.app
 io-suite-web.app
@@ -1410,6 +1414,7 @@ io-v3.app
 io-v3-api-connects-wallet.app
 io-v3-connects-api-wallet.app
 io-wallets-api-connects-v2.app
+io-wallets-connect-v3-api-app.app
 io-wallets-v2-connects-api.app
 metamask.io-webrestore.app
 iogx.app
@@ -3984,6 +3989,7 @@ tonfuture.app
 tonluck.app
 tonmeta.app
 tooncoin.app
+trade-connect-bridges-v2-wallets-apps.app
 tradeshapeshift.app
 tranderjoexzy.app
 trdtrump.app
@@ -6599,6 +6605,7 @@ usualmoneys.app
 usualprotocol.app
 v1-basebridge.app
 v2-avalaunch.app
+v2-hashpack-webwallet.app
 v2-kodiakfinance.app
 v2-lido.app
 v2-phantom.app
@@ -11047,6 +11054,7 @@ web3suii.app
 web3verif.app
 webacy.app
 webrpc-protocol.app
+webull-v3-personal-auth-online.app
 webward.app
 whitelist-cbbtc.app
 whitelist-defi.app
@@ -16118,6 +16126,7 @@ vicunafinance.cloud
 video-conference.cloud
 walletamlcheck.cloud
 web3global.cloud
+webull-v5-auth-online.cloud
 whalechart.cloud
 wirtek.cloud
 illivuim.world-community.cloud
@@ -40957,6 +40966,7 @@ io-connect-apiv3-wallet.com
 io-connect-defi.com
 io-connect-v3-api-wallet.com
 1inch.io-connect-v3-api.com
+io-connect-waallet-api-v2-app.com
 zksync.io-cpask.com
 io-debank.com
 io-defi.com
@@ -40984,6 +40994,7 @@ mintchain.io-nft-legends.com
 opensea.io-nftaccesspage.com
 io-novadrop.com
 io-online-api-v2-exchanger.com
+io-online-exchange-api-v3.com
 io-online-v2-exchanger-api.com
 io-opensea.com
 metamask.io-portfolio.com
@@ -41008,7 +41019,7 @@ raydlum.io-v2-defi.com
 1inch.io-v3-api-connect-wailet.com
 io-v3-api-connects-wallet.com
 io-v3-api-wailet-connect.com
-1inch.io-v3-api-wallet-connect.com
+io-v3-api-wallet-connect.com
 io-v3-connect-api.com
 io-v3-defi.com
 1inch.io-v3-online.com
@@ -41026,12 +41037,14 @@ io-v4-connect-swap.com
 1lnch.io-v4-wallet.com
 metamask.io-verification.com
 io-waallets-api-connect-v2-app.com
+io-waallets-connect-api-v2-app.com
 io-wallet-api-connect-v3-app.com
 io-wallet-apiv2-connect.com
 io-wallet-app-v3-connect.com
 io-wallet-connect.com
 io-wallet-connect-apiv2.com
 io-wallets-hardware-api-v2.com
+io-wallets-v2-hardware-api.com
 io-webv3-chain-app.com
 metamask.iogoogle.com
 iombard.com
@@ -54599,10 +54612,12 @@ binary.tntphub.com
 tradenation.tntphub.com
 to-api-v3-app.com
 to-api-v3-app-wailet.com
+to-api-v3-wallets-app.com
 to-app-api-v4.com
 to-coinbase.com
 to-minting.com
 to-protocol-api-v3.com
+to-v3-api-app-wallets.com
 toadswaps.com
 1inch-i0.online.todaycustomerservice.com
 app-1inch-i0.online.todaycustomerservice.com
@@ -54868,7 +54883,7 @@ trade-aixbt.com
 trade-app-bridges-v2-wallets-connect.com
 trade-app-connect-bridgev2.com
 trade-app-connect-v3-bridge.com
-dydx.trade-app-v2-bridge-wallets-connect.com
+trade-app-v2-bridge-wallets-connect.com
 trade-appv2-connect-bridge.com
 trade-ava-finance.com
 trade-connect-app-v3-bridge.com
@@ -56263,6 +56278,7 @@ v2-depank.com
 v2-dex-screener.com
 v2-dydx.com
 v2-ether-fi.com
+v2-ethereumnameservice.com
 v2-eulerfi.com
 v2-falconfinance.com
 v2-fixedfloat.com
@@ -56284,6 +56300,7 @@ v2-matrixport.com
 v2-myxfinance.com
 v2-nothingmatter.com
 v2-o-p-e-n-s-e-a.com
+v2-ondofinance.com
 v2-opensea.com
 v2-opsec-claim.com
 v2-orcafinance.com
@@ -56310,6 +56327,7 @@ v2-stargate-finance.com
 v2-suilend.com
 v2-superbridge.com
 v2-synapseprotocol.com
+v2-tharwafinance.com
 v2-thorchain.com
 v2-thorswap.com
 v2-tokenpocket.com
@@ -56331,6 +56349,7 @@ v2congecko.com
 v2mintchain.com
 v2near-protocol.com
 v3-1inch.com
+v3-atomicwallet.com
 v3-baiancer.com
 v3-balancer.com
 v3-bancor.com
@@ -57370,6 +57389,7 @@ wealthfuned.com
 wealthifytrades.com
 wealthmanagementinv.com
 wealthsfront.com
+wealthsimple-v3-web-online.com
 wealthstarb.com
 wealthtdnmkt.com
 wealthwisecompanylimited.com
@@ -57564,6 +57584,7 @@ web3-utilites.com
 web3-utils.com
 web3-v9system.com
 web3-verification.com
+web3-verify.com
 metamask.web3-vietnam.com
 web3-wallet-coinbase.com
 web33investigations.com
@@ -57678,6 +57699,8 @@ websuite-trezor.com
 websupport-coinbase.com
 webtrana.com
 webtrustappwallet.com
+webull-v4-auth-online.com
+webull-v4-online-auth.com
 webullbotpro.com
 webuyhousetokens.com
 wechat-call.com
@@ -82962,8 +82985,13 @@ usuai.finance
 usual.finance
 usualmoney.finance
 usualmoneys.finance
+v2-app-yei.finance
+v2-circularity.finance
 v2-convex.finance
 v2-euler.finance
+v2-geist.finance
+v2-milkyway-zone.finance
+v2-rari.finance
 v2allbridge.finance
 v2aperture.finance
 v2cables.finance
@@ -82983,6 +83011,7 @@ v2rah.finance
 v2rarible.finance
 v2raydium.finance
 v2simpleswap.finance
+v2solayer.finance
 v2thena.finance
 v3-aave-dashboard.finance
 v3-magnuscapital.finance
@@ -87798,6 +87827,7 @@ trust.web3-tools.info
 trust.web3apps.info
 coinbaseaccount.webmail-customerconfirmations.info
 websmrtrobots.info
+webull-v5-auth-online.info
 webwalletsvalidation.info
 wedyydsfadacai.info
 weeblykit.info
@@ -131206,6 +131236,7 @@ io-official.org
 io-portal.org
 io-raydium.org
 io-sol.org
+io-v1.org
 arbitrum.io-v2.org
 ioocsrare.org
 iotatokenclaim.org
@@ -136797,6 +136828,7 @@ unites.run
 uniti.run
 urbannesthomes.run
 usualmoney.run
+v45fi572gv.run
 venlce.run
 vomeus.run
 vote-lido.run
@@ -145446,6 +145478,7 @@ io-0x7be8076f4ea4a4ad08075c2508e481d6c946d12b.us
 io-co.us
 io-fc.us
 io-n3.us
+io-v2.us
 jaxxliberty.us
 jaxxwallet.us
 jito-app.us
@@ -148084,6 +148117,7 @@ sophon.wtf
 thesaudigoblins.wtf
 thesaudisnft.wtf
 trumpckemistry.wtf
+uniswapv3.wtf
 weareallgoingtodie.wtf
 xn--gobintown-sub.wtf
 zerion.wtf
@@ -152756,6 +152790,7 @@ eigenlayer.io-restake.xyz
 io-solana.xyz
 altlayer.io-stake.xyz
 rnetamask.io-swap.xyz
+io-v1.xyz
 io-velora.xyz
 io-web.xyz
 iolaosnetwork.xyz
@@ -157119,6 +157154,7 @@ v2-extrafi.xyz
 v2-gitcoln.xyz
 v2-juptier-swap.xyz
 v2-juptierswap.xyz
+v2-maplefinance.xyz
 v2-maw.xyz
 v2-mdex.xyz
 v2-paraswap.xyz
@@ -157147,6 +157183,7 @@ v3-baiancer.xyz
 v3-beefy.xyz
 v3-copmound.xyz
 v3-debenk.xyz
+v3-hybridge.xyz
 v3-iayer3.xyz
 v3-iido.xyz
 v3-juptier-swap.xyz

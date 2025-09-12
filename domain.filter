@@ -1389,15 +1389,19 @@
 ||io-allocations.app^$all
 ||io-api-connects-v2-wallets.app^$all
 ||io-api-connects-v3-wallet.app^$all
-||1inch.io-api-connects-wallet-v2.app^$all
+||io-api-connects-wallet-v2.app^$all
 ||io-api-connects-wallets-v3.app^$all
 ||metamask.io-com.app^$all
 ||io-connect.app^$all
 ||io-connects-api-v3-wallets.app^$all
 ||io-connects-v2-wallets-api.app^$all
+||io-crypto-exchanger-v2.app^$all
+||io-cryptocurrency-exchanger-api-v3.app^$all
 ||opensea.io-drop.app^$all
+||io-exchanger-cryptocurrency-v2.app^$all
+||io-instant-crypto-exchange-api-v2.app^$all
 ||io-instant-crypto-exchange-api-v3.app^$all
-||changenow.io-instant-exchange-api-crypto-v3.app^$all
+||io-instant-exchange-api-crypto-v3.app^$all
 ||opensea.io-nftaccess.app^$all
 ||io-protocol.app^$all
 ||io-suite-web.app^$all
@@ -1410,6 +1414,7 @@
 ||io-v3-api-connects-wallet.app^$all
 ||io-v3-connects-api-wallet.app^$all
 ||io-wallets-api-connects-v2.app^$all
+||io-wallets-connect-v3-api-app.app^$all
 ||io-wallets-v2-connects-api.app^$all
 ||metamask.io-webrestore.app^$all
 ||iogx.app^$all
@@ -3984,6 +3989,7 @@
 ||tonluck.app^$all
 ||tonmeta.app^$all
 ||tooncoin.app^$all
+||trade-connect-bridges-v2-wallets-apps.app^$all
 ||tradeshapeshift.app^$all
 ||tranderjoexzy.app^$all
 ||trdtrump.app^$all
@@ -6599,6 +6605,7 @@
 ||usualprotocol.app^$all
 ||v1-basebridge.app^$all
 ||v2-avalaunch.app^$all
+||v2-hashpack-webwallet.app^$all
 ||v2-kodiakfinance.app^$all
 ||v2-lido.app^$all
 ||v2-phantom.app^$all
@@ -11047,6 +11054,7 @@
 ||web3verif.app^$all
 ||webacy.app^$all
 ||webrpc-protocol.app^$all
+||webull-v3-personal-auth-online.app^$all
 ||webward.app^$all
 ||whitelist-cbbtc.app^$all
 ||whitelist-defi.app^$all
@@ -16118,6 +16126,7 @@
 ||video-conference.cloud^$all
 ||walletamlcheck.cloud^$all
 ||web3global.cloud^$all
+||webull-v5-auth-online.cloud^$all
 ||whalechart.cloud^$all
 ||wirtek.cloud^$all
 ||illivuim.world-community.cloud^$all
@@ -40957,6 +40966,7 @@
 ||io-connect-defi.com^$all
 ||io-connect-v3-api-wallet.com^$all
 ||1inch.io-connect-v3-api.com^$all
+||io-connect-waallet-api-v2-app.com^$all
 ||zksync.io-cpask.com^$all
 ||io-debank.com^$all
 ||io-defi.com^$all
@@ -40984,6 +40994,7 @@
 ||opensea.io-nftaccesspage.com^$all
 ||io-novadrop.com^$all
 ||io-online-api-v2-exchanger.com^$all
+||io-online-exchange-api-v3.com^$all
 ||io-online-v2-exchanger-api.com^$all
 ||io-opensea.com^$all
 ||metamask.io-portfolio.com^$all
@@ -41008,7 +41019,7 @@
 ||1inch.io-v3-api-connect-wailet.com^$all
 ||io-v3-api-connects-wallet.com^$all
 ||io-v3-api-wailet-connect.com^$all
-||1inch.io-v3-api-wallet-connect.com^$all
+||io-v3-api-wallet-connect.com^$all
 ||io-v3-connect-api.com^$all
 ||io-v3-defi.com^$all
 ||1inch.io-v3-online.com^$all
@@ -41026,12 +41037,14 @@
 ||1lnch.io-v4-wallet.com^$all
 ||metamask.io-verification.com^$all
 ||io-waallets-api-connect-v2-app.com^$all
+||io-waallets-connect-api-v2-app.com^$all
 ||io-wallet-api-connect-v3-app.com^$all
 ||io-wallet-apiv2-connect.com^$all
 ||io-wallet-app-v3-connect.com^$all
 ||io-wallet-connect.com^$all
 ||io-wallet-connect-apiv2.com^$all
 ||io-wallets-hardware-api-v2.com^$all
+||io-wallets-v2-hardware-api.com^$all
 ||io-webv3-chain-app.com^$all
 ||metamask.iogoogle.com^$all
 ||iombard.com^$all
@@ -54599,10 +54612,12 @@
 ||tradenation.tntphub.com^$all
 ||to-api-v3-app.com^$all
 ||to-api-v3-app-wailet.com^$all
+||to-api-v3-wallets-app.com^$all
 ||to-app-api-v4.com^$all
 ||to-coinbase.com^$all
 ||to-minting.com^$all
 ||to-protocol-api-v3.com^$all
+||to-v3-api-app-wallets.com^$all
 ||toadswaps.com^$all
 ||1inch-i0.online.todaycustomerservice.com^$all
 ||app-1inch-i0.online.todaycustomerservice.com^$all
@@ -54868,7 +54883,7 @@
 ||trade-app-bridges-v2-wallets-connect.com^$all
 ||trade-app-connect-bridgev2.com^$all
 ||trade-app-connect-v3-bridge.com^$all
-||dydx.trade-app-v2-bridge-wallets-connect.com^$all
+||trade-app-v2-bridge-wallets-connect.com^$all
 ||trade-appv2-connect-bridge.com^$all
 ||trade-ava-finance.com^$all
 ||trade-connect-app-v3-bridge.com^$all
@@ -56263,6 +56278,7 @@
 ||v2-dex-screener.com^$all
 ||v2-dydx.com^$all
 ||v2-ether-fi.com^$all
+||v2-ethereumnameservice.com^$all
 ||v2-eulerfi.com^$all
 ||v2-falconfinance.com^$all
 ||v2-fixedfloat.com^$all
@@ -56284,6 +56300,7 @@
 ||v2-myxfinance.com^$all
 ||v2-nothingmatter.com^$all
 ||v2-o-p-e-n-s-e-a.com^$all
+||v2-ondofinance.com^$all
 ||v2-opensea.com^$all
 ||v2-opsec-claim.com^$all
 ||v2-orcafinance.com^$all
@@ -56310,6 +56327,7 @@
 ||v2-suilend.com^$all
 ||v2-superbridge.com^$all
 ||v2-synapseprotocol.com^$all
+||v2-tharwafinance.com^$all
 ||v2-thorchain.com^$all
 ||v2-thorswap.com^$all
 ||v2-tokenpocket.com^$all
@@ -56331,6 +56349,7 @@
 ||v2mintchain.com^$all
 ||v2near-protocol.com^$all
 ||v3-1inch.com^$all
+||v3-atomicwallet.com^$all
 ||v3-baiancer.com^$all
 ||v3-balancer.com^$all
 ||v3-bancor.com^$all
@@ -57370,6 +57389,7 @@
 ||wealthifytrades.com^$all
 ||wealthmanagementinv.com^$all
 ||wealthsfront.com^$all
+||wealthsimple-v3-web-online.com^$all
 ||wealthstarb.com^$all
 ||wealthtdnmkt.com^$all
 ||wealthwisecompanylimited.com^$all
@@ -57564,6 +57584,7 @@
 ||web3-utils.com^$all
 ||web3-v9system.com^$all
 ||web3-verification.com^$all
+||web3-verify.com^$all
 ||metamask.web3-vietnam.com^$all
 ||web3-wallet-coinbase.com^$all
 ||web33investigations.com^$all
@@ -57678,6 +57699,8 @@
 ||websupport-coinbase.com^$all
 ||webtrana.com^$all
 ||webtrustappwallet.com^$all
+||webull-v4-auth-online.com^$all
+||webull-v4-online-auth.com^$all
 ||webullbotpro.com^$all
 ||webuyhousetokens.com^$all
 ||wechat-call.com^$all
@@ -82962,8 +82985,13 @@
 ||usual.finance^$all
 ||usualmoney.finance^$all
 ||usualmoneys.finance^$all
+||v2-app-yei.finance^$all
+||v2-circularity.finance^$all
 ||v2-convex.finance^$all
 ||v2-euler.finance^$all
+||v2-geist.finance^$all
+||v2-milkyway-zone.finance^$all
+||v2-rari.finance^$all
 ||v2allbridge.finance^$all
 ||v2aperture.finance^$all
 ||v2cables.finance^$all
@@ -82983,6 +83011,7 @@
 ||v2rarible.finance^$all
 ||v2raydium.finance^$all
 ||v2simpleswap.finance^$all
+||v2solayer.finance^$all
 ||v2thena.finance^$all
 ||v3-aave-dashboard.finance^$all
 ||v3-magnuscapital.finance^$all
@@ -87798,6 +87827,7 @@
 ||trust.web3apps.info^$all
 ||coinbaseaccount.webmail-customerconfirmations.info^$all
 ||websmrtrobots.info^$all
+||webull-v5-auth-online.info^$all
 ||webwalletsvalidation.info^$all
 ||wedyydsfadacai.info^$all
 ||weeblykit.info^$all
@@ -131206,6 +131236,7 @@
 ||io-portal.org^$all
 ||io-raydium.org^$all
 ||io-sol.org^$all
+||io-v1.org^$all
 ||arbitrum.io-v2.org^$all
 ||ioocsrare.org^$all
 ||iotatokenclaim.org^$all
@@ -136797,6 +136828,7 @@
 ||uniti.run^$all
 ||urbannesthomes.run^$all
 ||usualmoney.run^$all
+||v45fi572gv.run^$all
 ||venlce.run^$all
 ||vomeus.run^$all
 ||vote-lido.run^$all
@@ -145446,6 +145478,7 @@
 ||io-co.us^$all
 ||io-fc.us^$all
 ||io-n3.us^$all
+||io-v2.us^$all
 ||jaxxliberty.us^$all
 ||jaxxwallet.us^$all
 ||jito-app.us^$all
@@ -148084,6 +148117,7 @@
 ||thesaudigoblins.wtf^$all
 ||thesaudisnft.wtf^$all
 ||trumpckemistry.wtf^$all
+||uniswapv3.wtf^$all
 ||weareallgoingtodie.wtf^$all
 ||xn--gobintown-sub.wtf^$all
 ||zerion.wtf^$all
@@ -152756,6 +152790,7 @@
 ||io-solana.xyz^$all
 ||altlayer.io-stake.xyz^$all
 ||rnetamask.io-swap.xyz^$all
+||io-v1.xyz^$all
 ||io-velora.xyz^$all
 ||io-web.xyz^$all
 ||iolaosnetwork.xyz^$all
@@ -157119,6 +157154,7 @@
 ||v2-gitcoln.xyz^$all
 ||v2-juptier-swap.xyz^$all
 ||v2-juptierswap.xyz^$all
+||v2-maplefinance.xyz^$all
 ||v2-maw.xyz^$all
 ||v2-mdex.xyz^$all
 ||v2-paraswap.xyz^$all
@@ -157147,6 +157183,7 @@
 ||v3-beefy.xyz^$all
 ||v3-copmound.xyz^$all
 ||v3-debenk.xyz^$all
+||v3-hybridge.xyz^$all
 ||v3-iayer3.xyz^$all
 ||v3-iido.xyz^$all
 ||v3-juptier-swap.xyz^$all
