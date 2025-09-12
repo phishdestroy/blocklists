@@ -13003,6 +13003,8 @@
 ||a16zcrypto.cc^$all
 ||3.a36.cc^$all
 ||aa16z.cc^$all
+||aave-eth-v3.cc^$all
+||aave-v3-eth.cc^$all
 ||aavue.cc^$all
 ||acexh.cc^$all
 ||ach-sushi.cc^$all
@@ -23153,6 +23155,7 @@
 ||aave-defi.com^$all
 ||aave-defi-connect.com^$all
 ||aave-drops.com^$all
+||aave-eth-v3.com^$all
 ||aave-event.com^$all
 ||aave-horizon.com^$all
 ||aave-info-market.com^$all
@@ -23560,6 +23563,7 @@
 ||ag-api-connect-v2-wallet.com^$all
 ||ag-api-connect-v3-wailet.com^$all
 ||ag-api-connect-v3-wallet.com^$all
+||ag-api-connect-wallet-v3.com^$all
 ||ag-api-connect-walletv2.com^$all
 ||ag-api-v2-connect-wallet.com^$all
 ||ag-api-v3-connect-wallet.com^$all
@@ -25968,6 +25972,7 @@
 ||auth-ripio-ex.com^$all
 ||auth-session.com^$all
 ||auth-trustwallet.com^$all
+||auth-webull-v2-online.com^$all
 ||auth0-coinbase.com^$all
 ||autharkm.com^$all
 ||authcbase.com^$all
@@ -32119,10 +32124,13 @@
 ||com-api-v2-wallet.com^$all
 ||com-api-v2-wallet-app.com^$all
 ||com-api-v3-app.com^$all
+||com-api-wailet-v4-app-connect.com^$all
+||com-apiv2-wallet-connect.com^$all
 ||com-apiv3-app-connect.com^$all
 ||com-app-api-connect-v5-wallet.com^$all
 ||com-app-api-v4-connect-wallet.com^$all
 ||com-app-api-wallet-v3.com^$all
+||com-app-api-wallet-v3-connect.com^$all
 ||com-app-apiv2-connect.com^$all
 ||com-app-apiv2-connect-wallet.com^$all
 ||com-app-connect-api-wallet-v2.com^$all
@@ -32139,6 +32147,7 @@
 ||com-app-v2-wailets-connect.com^$all
 ||com-app-v2-waliets-connect.com^$all
 ||com-app-v3-connect-api-wailet.com^$all
+||com-app-v3-wallet-connect.com^$all
 ||com-app-v5-wallet-connect.com^$all
 ||com-app-wailets-connects-v2.com^$all
 ||com-app-wallet-api-v3-connect.com^$all
@@ -32148,6 +32157,7 @@
 ||com-app-wallets-connects-v4.com^$all
 ||com-app-wallets-v2-connect.com^$all
 ||com-app-wallets-v3-connect.com^$all
+||com-app-walletv3-api.com^$all
 ||com-app-web-connect.com^$all
 ||com-application-wailet.com^$all
 ||com-application-wailet-connect.com^$all
@@ -32157,6 +32167,7 @@
 ||com-apps-wallet-connect-v2.com^$all
 ||com-apps-wallet-v2-connect.com^$all
 ||etherfi.com-appshome.com^$all
+||com-appv2-api-connect-wallet.com^$all
 ||com-appv2-connect-api.com^$all
 ||com-appv2-wailet-connecct.com^$all
 ||com-appv3-api-connect-wallet.com^$all
@@ -32173,7 +32184,8 @@
 ||com-check-wallet.com^$all
 ||com-coin-base.com^$all
 ||coinbase.com-coinkyc.com^$all
-||aave.com-conect-v3-wallet.com^$all
+||com-conect-v2-wallet.com^$all
+||com-conect-v3-wallet.com^$all
 ||com-connect-api-appv2.com^$all
 ||com-connect-api-appv3.com^$all
 ||com-connect-api-wallet-apps.com^$all
@@ -32194,10 +32206,11 @@
 ||com-connect-wallets-app-v2.com^$all
 ||com-connect-wallets-best-web3.com^$all
 ||com-connect-wallets-v2-app.com^$all
+||com-connectwallet-v2.com^$all
 ||com-crypto-hardware-wallet-v2.com^$all
 ||com-crypto-wallets-hardware-v2.com^$all
 ||com-dapp-swap.com^$all
-||aave.com-dapp-v2-fast.com^$all
+||com-dapp-v2-fast.com^$all
 ||com-dapp-wailetv3.com^$all
 ||com-dapp-wallet-connect.com^$all
 ||com-dapps.com^$all
@@ -32244,6 +32257,7 @@
 ||blockchain.com-update.com^$all
 ||coinbase.com-updatekyc.com^$all
 ||com-updates.com^$all
+||com-v2-api-connect.com^$all
 ||com-v2-api-wallet-app.com^$all
 ||com-v2-app-connect-api-wailet.com^$all
 ||com-v2-app-waliets-connect.com^$all
@@ -32255,6 +32269,7 @@
 ||com-v2-wallet-connect-apps.com^$all
 ||com-v2-wallets-api-app.com^$all
 ||com-v3-api.com^$all
+||com-v3-app-wallet-connect.com^$all
 ||com-v3-wallet-app-connect.com^$all
 ||com-v4-app-wallet-connect.com^$all
 ||com-v5-wallet-app.com^$all
@@ -32272,6 +32287,7 @@
 ||com-wallet-safe.com^$all
 ||com-wallet-v2-app.com^$all
 ||com-wallet-v2-apps-connect.com^$all
+||com-wallet-v2-connect-api.com^$all
 ||com-wallet-v2-defi-api.com^$all
 ||com-wallet-v3-api-app-connect.com^$all
 ||com-wallet-v3-apps-api-connect.com^$all
@@ -36571,7 +36587,8 @@
 ||fi-api-v2-connect-app-wailet.com^$all
 ||fi-apiv4-connect-app-wallet.com^$all
 ||ether.fi-app-cash.com^$all
-||curve.fi-app-connect-v2-api-wallet.com^$all
+||fi-app-connect-v2-api-wallet.com^$all
+||fi-app-connect-walletv2.com^$all
 ||fi-app-v2-api-connect-wallet.com^$all
 ||fi-app-v2-connect-api-wallet.com^$all
 ||fi-app-v2-connect-waallets.com^$all
@@ -36579,21 +36596,22 @@
 ||fi-app-v3-wallet-connect.com^$all
 ||fi-app-v3-wallets-api-connect.com^$all
 ||fi-app-wallet-connect-v2.com^$all
+||fi-app-wallet-v2-connect.com^$all
 ||fi-appv4-connect-wailet.com^$all
 ||fi-builds.com^$all
 ||fi-chain-app.com^$all
 ||fi-chain-web3.com^$all
 ||fi-connect-api-v3-app-wailet.com^$all
-||curve.fi-connect-app-v2-wailet.com^$all
+||fi-connect-app-v2-wailet.com^$all
 ||fi-connect-app-waallets-v3.com^$all
 ||fi-connect-dapp-walletv5.com^$all
 ||fi-connect-dappv3-wailet.com^$all
 ||fi-connect-defiv3-wailet.com^$all
 ||fi-connect-fast.com^$all
-||curve.fi-connect-personalv3-wailet.com^$all
+||fi-connect-personalv3-wailet.com^$all
 ||curve.fi-connect-swap.com^$all
 ||fi-connect-v3-app-wailet.com^$all
-||curve.fi-connect-v3-app-waliet.com^$all
+||fi-connect-v3-app-waliet.com^$all
 ||fi-connect-v4-wallet.com^$all
 ||fi-connects-wailet-v3-api.com^$all
 ||fi-cow.com^$all
@@ -36606,11 +36624,12 @@
 ||fi-dappv3-wailet-world.com^$all
 ||fi-dappv4-connect-wailet.com^$all
 ||fi-dappv4-wailet.com^$all
-||curwe.fi-dappv4-wailet-connect.com^$all
+||fi-dappv4-wailet-connect.com^$all
 ||fi-defi-app-chain.com^$all
 ||curve.fi-defi-connect.com^$all
 ||fi-defi-wallet-chain.com^$all
 ||fi-defi-wallet-connect.com^$all
+||fi-defiv2-connect-wallet.com^$all
 ||fi-earns.com^$all
 ||curve.fi-enter.com^$all
 ||curve.fi-fast-connect.com^$all
@@ -36623,7 +36642,7 @@
 ||fi-online-connect-defi.com^$all
 ||fi-online-v3-chain.com^$all
 ||curve.fi-online-web.com^$all
-||curve.fi-personal-connect-v3-wallet.com^$all
+||fi-personal-connect-v3-wallet.com^$all
 ||fi-personal-wallet-connectv3.com^$all
 ||fi-rewards.com^$all
 ||fi-s1.com^$all
@@ -36634,7 +36653,7 @@
 ||curve.fi-swap-connect.com^$all
 ||fi-token-hub.com^$all
 ||fi-v1.com^$all
-||curve.fi-v2-app-api-connect-wallet.com^$all
+||fi-v2-app-api-connect-wallet.com^$all
 ||fi-v2-chain.com^$all
 ||fi-v3-app-connect-wallet.com^$all
 ||curve.fi-v3-pool.com^$all
@@ -36646,6 +36665,7 @@
 ||fi-wailet-api-v2-connect.com^$all
 ||fi-wailet-connect-api-v3.com^$all
 ||fi-wailet-dappv2.com^$all
+||fi-wailet-dappv3.com^$all
 ||fi-wailetv2-dapp.com^$all
 ||fi-wallet-api-connectv2.com^$all
 ||fi-wallet-api-v3-connect.com^$all
@@ -37719,8 +37739,9 @@
 ||fun-app-connect-v3-wallet-api.com^$all
 ||fun-app-v4-connect-wallet-api.com^$all
 ||fun-app-wailet-api-v2-connect.com^$all
-||pump.fun-app-wallet-api-connect-v2.com^$all
+||fun-app-wallet-api-connect-v2.com^$all
 ||fun-app-wallet-apiv2-connect.com^$all
+||fun-app-walletv3.com^$all
 ||pump.fun-app-web3-connect.com^$all
 ||fun-apps-connect-v2-wallets-api.com^$all
 ||fun-connect-app-v2-wallets-api.com^$all
@@ -37735,7 +37756,7 @@
 ||fun-v3-app-api-connect-wallet.com^$all
 ||pump.fun-v3-web-fast.com^$all
 ||fun-wallet-apiv3.com^$all
-||pump.fun-wallet-dappv3.com^$all
+||fun-wallet-dappv3.com^$all
 ||fun-wallet-dexv3.com^$all
 ||fun-walletv3-app-decentralization.com^$all
 ||fun-web-v2-chain.com^$all
@@ -40963,11 +40984,12 @@
 ||1inch.io-chain-webv3-app.com^$all
 ||blast.io-code.com^$all
 ||io-coinbase.com^$all
+||io-connect-api-v2.com^$all
 ||io-connect-api-wallet-app-v3.com^$all
 ||io-connect-apiv3-wallet.com^$all
 ||io-connect-defi.com^$all
+||io-connect-v3-api.com^$all
 ||io-connect-v3-api-wallet.com^$all
-||1inch.io-connect-v3-api.com^$all
 ||io-connect-waallet-api-v2-app.com^$all
 ||zksync.io-cpask.com^$all
 ||io-debank.com^$all
@@ -41018,7 +41040,7 @@
 ||trezor.io-us-org.com^$all
 ||io-v2-connect-api-wailet.com^$all
 ||raydlum.io-v2-defi.com^$all
-||1inch.io-v3-api-connect-wailet.com^$all
+||io-v3-api-connect-wailet.com^$all
 ||io-v3-api-connects-wallet.com^$all
 ||io-v3-api-wailet-connect.com^$all
 ||io-v3-api-wallet-connect.com^$all
@@ -41028,6 +41050,7 @@
 ||1inch.io-v3-swap-app.com^$all
 ||io-v3-swap-connect.com^$all
 ||io-v3-wailet-api-connect.com^$all
+||io-v3-wallet-api-connect.com^$all
 ||1inch.io-v4-app-wallet.com^$all
 ||1lnch.io-v4-app.com^$all
 ||io-v4-connect-swap.com^$all
@@ -86977,6 +87000,7 @@
 ||com-news.info^$all
 ||ripple.com-program.info^$all
 ||metamask.com-token.info^$all
+||com-wallet-connect-v2-app.info^$all
 ||com-xtoken.info^$all
 ||compoundfinance.info^$all
 ||desarrolloe.comunidadhosanna.info^$all
@@ -117554,6 +117578,7 @@
 ||fantom-tokens.live^$all
 ||fastdownloads.live^$all
 ||fi-api-connect-v3-app-wailet.live^$all
+||fi-app-v2-connect-wallet.live^$all
 ||fi-app-v3-api-connect-wallet.live^$all
 ||fi-app-wallet-connect-v3.live^$all
 ||curve.fi-pools.live^$all
@@ -117562,6 +117587,8 @@
 ||figh2maga.live^$all
 ||blue.fin.live^$all
 ||finance-app-v2-wallet.live^$all
+||finance-boiler-ehkq0v.live^$all
+||finance-boiler-v1ohrw.live^$all
 ||finance-crypto-staking-fznv72.live^$all
 ||finance-v3-wallet-connect-api.live^$all
 ||finance-vanguard-d1vkln.live^$all
@@ -120634,6 +120661,7 @@
 ||aa9090.net^$all
 ||claim.aavae.net^$all
 ||aave-aave.net^$all
+||aave-eth-v3.net^$all
 ||aave-reward.net^$all
 ||aave-rewards.net^$all
 ||aave-soniclabs.net^$all
@@ -129102,6 +129130,7 @@
 ||aakashapps.org^$all
 ||aave-aave-aave.org^$all
 ||aave-bakery.org^$all
+||aave-eth-v3.org^$all
 ||aave-ethereum.org^$all
 ||aave-gateway.org^$all
 ||aave-governance.org^$all
@@ -134496,6 +134525,7 @@
 ||coinvest.pro^$all
 ||coinvex.pro^$all
 ||com-a.pro^$all
+||com-app-wallet-v2-connect.pro^$all
 ||beefy.com-g.pro^$all
 ||curve.com-g.pro^$all
 ||gov-vstrk.com-g.pro^$all
@@ -152794,6 +152824,7 @@
 ||altlayer.io-stake.xyz^$all
 ||rnetamask.io-swap.xyz^$all
 ||io-v1.xyz^$all
+||io-v3.xyz^$all
 ||io-velora.xyz^$all
 ||io-web.xyz^$all
 ||iolaosnetwork.xyz^$all

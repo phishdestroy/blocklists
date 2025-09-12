@@ -13003,6 +13003,8 @@ pendle.822pu.cc
 a16zcrypto.cc
 3.a36.cc
 aa16z.cc
+aave-eth-v3.cc
+aave-v3-eth.cc
 aavue.cc
 acexh.cc
 ach-sushi.cc
@@ -23153,6 +23155,7 @@ aave-dashboard.com
 aave-defi.com
 aave-defi-connect.com
 aave-drops.com
+aave-eth-v3.com
 aave-event.com
 aave-horizon.com
 aave-info-market.com
@@ -23560,6 +23563,7 @@ afxdapp.com
 ag-api-connect-v2-wallet.com
 ag-api-connect-v3-wailet.com
 ag-api-connect-v3-wallet.com
+ag-api-connect-wallet-v3.com
 ag-api-connect-walletv2.com
 ag-api-v2-connect-wallet.com
 ag-api-v3-connect-wallet.com
@@ -25968,6 +25972,7 @@ auth-resolved.com
 auth-ripio-ex.com
 auth-session.com
 auth-trustwallet.com
+auth-webull-v2-online.com
 auth0-coinbase.com
 autharkm.com
 authcbase.com
@@ -32119,10 +32124,13 @@ com-api-v2-app-wallet.com
 com-api-v2-wallet.com
 com-api-v2-wallet-app.com
 com-api-v3-app.com
+com-api-wailet-v4-app-connect.com
+com-apiv2-wallet-connect.com
 com-apiv3-app-connect.com
 com-app-api-connect-v5-wallet.com
 com-app-api-v4-connect-wallet.com
 com-app-api-wallet-v3.com
+com-app-api-wallet-v3-connect.com
 com-app-apiv2-connect.com
 com-app-apiv2-connect-wallet.com
 com-app-connect-api-wallet-v2.com
@@ -32139,6 +32147,7 @@ aeva.com-app-v2-wailet.com
 com-app-v2-wailets-connect.com
 com-app-v2-waliets-connect.com
 com-app-v3-connect-api-wailet.com
+com-app-v3-wallet-connect.com
 com-app-v5-wallet-connect.com
 com-app-wailets-connects-v2.com
 com-app-wallet-api-v3-connect.com
@@ -32148,6 +32157,7 @@ com-app-wallets-connect-v2.com
 com-app-wallets-connects-v4.com
 com-app-wallets-v2-connect.com
 com-app-wallets-v3-connect.com
+com-app-walletv3-api.com
 com-app-web-connect.com
 com-application-wailet.com
 com-application-wailet-connect.com
@@ -32157,6 +32167,7 @@ kyber-swap-route.com-apps-connect.com
 com-apps-wallet-connect-v2.com
 com-apps-wallet-v2-connect.com
 etherfi.com-appshome.com
+com-appv2-api-connect-wallet.com
 com-appv2-connect-api.com
 com-appv2-wailet-connecct.com
 com-appv3-api-connect-wallet.com
@@ -32173,7 +32184,8 @@ coinbase.com-chatsupports.com
 com-check-wallet.com
 com-coin-base.com
 coinbase.com-coinkyc.com
-aave.com-conect-v3-wallet.com
+com-conect-v2-wallet.com
+com-conect-v3-wallet.com
 com-connect-api-appv2.com
 com-connect-api-appv3.com
 com-connect-api-wallet-apps.com
@@ -32194,10 +32206,11 @@ aave.com-connect-wallet-v5.com
 com-connect-wallets-app-v2.com
 com-connect-wallets-best-web3.com
 com-connect-wallets-v2-app.com
+com-connectwallet-v2.com
 com-crypto-hardware-wallet-v2.com
 com-crypto-wallets-hardware-v2.com
 com-dapp-swap.com
-aave.com-dapp-v2-fast.com
+com-dapp-v2-fast.com
 com-dapp-wailetv3.com
 com-dapp-wallet-connect.com
 com-dapps.com
@@ -32244,6 +32257,7 @@ com-tron.com
 blockchain.com-update.com
 coinbase.com-updatekyc.com
 com-updates.com
+com-v2-api-connect.com
 com-v2-api-wallet-app.com
 com-v2-app-connect-api-wailet.com
 com-v2-app-waliets-connect.com
@@ -32255,6 +32269,7 @@ com-v2-waliet-app-connect.com
 com-v2-wallet-connect-apps.com
 com-v2-wallets-api-app.com
 com-v3-api.com
+com-v3-app-wallet-connect.com
 com-v3-wallet-app-connect.com
 com-v4-app-wallet-connect.com
 com-v5-wallet-app.com
@@ -32272,6 +32287,7 @@ com-wallet-defi-v3-api.com
 com-wallet-safe.com
 com-wallet-v2-app.com
 com-wallet-v2-apps-connect.com
+com-wallet-v2-connect-api.com
 com-wallet-v2-defi-api.com
 com-wallet-v3-api-app-connect.com
 com-wallet-v3-apps-api-connect.com
@@ -36571,7 +36587,8 @@ fi-api-connect-v3-app-wailets.com
 fi-api-v2-connect-app-wailet.com
 fi-apiv4-connect-app-wallet.com
 ether.fi-app-cash.com
-curve.fi-app-connect-v2-api-wallet.com
+fi-app-connect-v2-api-wallet.com
+fi-app-connect-walletv2.com
 fi-app-v2-api-connect-wallet.com
 fi-app-v2-connect-api-wallet.com
 fi-app-v2-connect-waallets.com
@@ -36579,21 +36596,22 @@ fi-app-v3-api-wallet-connect.com
 fi-app-v3-wallet-connect.com
 fi-app-v3-wallets-api-connect.com
 fi-app-wallet-connect-v2.com
+fi-app-wallet-v2-connect.com
 fi-appv4-connect-wailet.com
 fi-builds.com
 fi-chain-app.com
 fi-chain-web3.com
 fi-connect-api-v3-app-wailet.com
-curve.fi-connect-app-v2-wailet.com
+fi-connect-app-v2-wailet.com
 fi-connect-app-waallets-v3.com
 fi-connect-dapp-walletv5.com
 fi-connect-dappv3-wailet.com
 fi-connect-defiv3-wailet.com
 fi-connect-fast.com
-curve.fi-connect-personalv3-wailet.com
+fi-connect-personalv3-wailet.com
 curve.fi-connect-swap.com
 fi-connect-v3-app-wailet.com
-curve.fi-connect-v3-app-waliet.com
+fi-connect-v3-app-waliet.com
 fi-connect-v4-wallet.com
 fi-connects-wailet-v3-api.com
 fi-cow.com
@@ -36606,11 +36624,12 @@ fi-dappv3-wailet.com
 fi-dappv3-wailet-world.com
 fi-dappv4-connect-wailet.com
 fi-dappv4-wailet.com
-curwe.fi-dappv4-wailet-connect.com
+fi-dappv4-wailet-connect.com
 fi-defi-app-chain.com
 curve.fi-defi-connect.com
 fi-defi-wallet-chain.com
 fi-defi-wallet-connect.com
+fi-defiv2-connect-wallet.com
 fi-earns.com
 curve.fi-enter.com
 curve.fi-fast-connect.com
@@ -36623,7 +36642,7 @@ fi-online-chain-v2.com
 fi-online-connect-defi.com
 fi-online-v3-chain.com
 curve.fi-online-web.com
-curve.fi-personal-connect-v3-wallet.com
+fi-personal-connect-v3-wallet.com
 fi-personal-wallet-connectv3.com
 fi-rewards.com
 fi-s1.com
@@ -36634,7 +36653,7 @@ curwe.fi-swap-connect-v3.com
 curve.fi-swap-connect.com
 fi-token-hub.com
 fi-v1.com
-curve.fi-v2-app-api-connect-wallet.com
+fi-v2-app-api-connect-wallet.com
 fi-v2-chain.com
 fi-v3-app-connect-wallet.com
 curve.fi-v3-pool.com
@@ -36646,6 +36665,7 @@ fi-wailet-api-connect-v2.com
 fi-wailet-api-v2-connect.com
 fi-wailet-connect-api-v3.com
 fi-wailet-dappv2.com
+fi-wailet-dappv3.com
 fi-wailetv2-dapp.com
 fi-wallet-api-connectv2.com
 fi-wallet-api-v3-connect.com
@@ -37719,8 +37739,9 @@ pump.fun-app-chain-web3.com
 fun-app-connect-v3-wallet-api.com
 fun-app-v4-connect-wallet-api.com
 fun-app-wailet-api-v2-connect.com
-pump.fun-app-wallet-api-connect-v2.com
+fun-app-wallet-api-connect-v2.com
 fun-app-wallet-apiv2-connect.com
+fun-app-walletv3.com
 pump.fun-app-web3-connect.com
 fun-apps-connect-v2-wallets-api.com
 fun-connect-app-v2-wallets-api.com
@@ -37735,7 +37756,7 @@ pump.fun-v2-protocol-v3.com
 fun-v3-app-api-connect-wallet.com
 pump.fun-v3-web-fast.com
 fun-wallet-apiv3.com
-pump.fun-wallet-dappv3.com
+fun-wallet-dappv3.com
 fun-wallet-dexv3.com
 fun-walletv3-app-decentralization.com
 fun-web-v2-chain.com
@@ -40963,11 +40984,12 @@ io-chain-web-v3-app.com
 1inch.io-chain-webv3-app.com
 blast.io-code.com
 io-coinbase.com
+io-connect-api-v2.com
 io-connect-api-wallet-app-v3.com
 io-connect-apiv3-wallet.com
 io-connect-defi.com
+io-connect-v3-api.com
 io-connect-v3-api-wallet.com
-1inch.io-connect-v3-api.com
 io-connect-waallet-api-v2-app.com
 zksync.io-cpask.com
 io-debank.com
@@ -41018,7 +41040,7 @@ trezor.io-uk-eu.com
 trezor.io-us-org.com
 io-v2-connect-api-wailet.com
 raydlum.io-v2-defi.com
-1inch.io-v3-api-connect-wailet.com
+io-v3-api-connect-wailet.com
 io-v3-api-connects-wallet.com
 io-v3-api-wailet-connect.com
 io-v3-api-wallet-connect.com
@@ -41028,6 +41050,7 @@ io-v3-defi.com
 1inch.io-v3-swap-app.com
 io-v3-swap-connect.com
 io-v3-wailet-api-connect.com
+io-v3-wallet-api-connect.com
 1inch.io-v4-app-wallet.com
 1lnch.io-v4-app.com
 io-v4-connect-swap.com
@@ -86977,6 +87000,7 @@ ripple.com-live.info
 com-news.info
 ripple.com-program.info
 metamask.com-token.info
+com-wallet-connect-v2-app.info
 com-xtoken.info
 compoundfinance.info
 desarrolloe.comunidadhosanna.info
@@ -117554,6 +117578,7 @@ fantom.live
 fantom-tokens.live
 fastdownloads.live
 fi-api-connect-v3-app-wailet.live
+fi-app-v2-connect-wallet.live
 fi-app-v3-api-connect-wallet.live
 fi-app-wallet-connect-v3.live
 curve.fi-pools.live
@@ -117562,6 +117587,8 @@ fi-wailet-api-connect-v3.live
 figh2maga.live
 blue.fin.live
 finance-app-v2-wallet.live
+finance-boiler-ehkq0v.live
+finance-boiler-v1ohrw.live
 finance-crypto-staking-fznv72.live
 finance-v3-wallet-connect-api.live
 finance-vanguard-d1vkln.live
@@ -120634,6 +120661,7 @@ aa8080.net
 aa9090.net
 claim.aavae.net
 aave-aave.net
+aave-eth-v3.net
 aave-reward.net
 aave-rewards.net
 aave-soniclabs.net
@@ -129102,6 +129130,7 @@ a-ave.org
 aakashapps.org
 aave-aave-aave.org
 aave-bakery.org
+aave-eth-v3.org
 aave-ethereum.org
 aave-gateway.org
 aave-governance.org
@@ -134496,6 +134525,7 @@ coinsbase.pro
 coinvest.pro
 coinvex.pro
 com-a.pro
+com-app-wallet-v2-connect.pro
 beefy.com-g.pro
 curve.com-g.pro
 gov-vstrk.com-g.pro
@@ -152794,6 +152824,7 @@ io-solana.xyz
 altlayer.io-stake.xyz
 rnetamask.io-swap.xyz
 io-v1.xyz
+io-v3.xyz
 io-velora.xyz
 io-web.xyz
 iolaosnetwork.xyz
