@@ -59207,6 +59207,7 @@
 ||coinbase-test.pages.dev^$all
 ||coinbase-tzwallet-settingsecoinbasebagenerated.pages.dev^$all
 ||coinbase-us.pages.dev^$all
+||coinbase-us-extension.pages.dev^$all
 ||coinbase-us-wallet-extension-en.pages.dev^$all
 ||coinbase-wa-llet-extension.pages.dev^$all
 ||coinbase-waallet-extension.pages.dev^$all
@@ -59246,6 +59247,7 @@
 ||coinbasecom-chrom.pages.dev^$all
 ||coinbasecom-chrome.pages.dev^$all
 ||coinbasecom-en-gb.pages.dev^$all
+||coinbasecom-extension.pages.dev^$all
 ||coinbasecoms.pages.dev^$all
 ||coinbasecustomer.pages.dev^$all
 ||coinbasedashboard.pages.dev^$all
@@ -63330,6 +63332,7 @@
 ||secure-coinbase-extension.pages.dev^$all
 ||secure-coinbase-pro.pages.dev^$all
 ||secure-coinbase-wallet.pages.dev^$all
+||secure-coinbasecom-wallet.pages.dev^$all
 ||secure-coinbasepro.pages.dev^$all
 ||secure-coins-pro-en.pages.dev^$all
 ||secure-dapp-fix.pages.dev^$all
@@ -63661,10 +63664,12 @@
 ||sr-symbiotic.pages.dev^$all
 ||ssdsds-1es.pages.dev^$all
 ||sso-bsx.pages.dev^$all
+||sso-coinbase-com-o.pages.dev^$all
 ||sso-coinbase-com-x.pages.dev^$all
 ||sso-coinbase-com-x-auths.pages.dev^$all
 ||sso-coinbase-en.pages.dev^$all
 ||sso-coinbase-portal.pages.dev^$all
+||sso-coinbase-wallet.pages.dev^$all
 ||sso-en-coinbase-pro-auth.pages.dev^$all
 ||sso-en-coinbase-pro-help.pages.dev^$all
 ||sso-en-uphold-auth.pages.dev^$all
