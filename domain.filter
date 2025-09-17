@@ -767,6 +767,7 @@
 ||arbitrum.com-airdropclaim.app^$all
 ||com-allocation.app^$all
 ||com-alpha-apps-wallet-connects.app^$all
+||com-alpha-online-connect-cdn.app^$all
 ||com-api-business-v2-banking.app^$all
 ||com-api-gateway-api-alpha-edge.app^$all
 ||com-api-gateway-portal-secure-auth.app^$all
@@ -795,6 +796,7 @@
 ||com-personal-banking-api-v2-online.app^$all
 ||com-personal-finance-api-v2.app^$all
 ||com-swap-browser-api-v2.app^$all
+||com-swap-v4-dex-secure.app^$all
 ||com-tax-account-api-v2.app^$all
 ||com-tax-account-v3-api.app^$all
 ||com-trading-api-online-v3.app^$all
@@ -1293,8 +1295,10 @@
 ||io-connects-v2-wallets-api.app^$all
 ||io-crypto-exchanger-v2.app^$all
 ||io-cryptocurrency-exchanger-api-v3.app^$all
+||io-dex-api-gateway-api-alpha.app^$all
 ||opensea.io-drop.app^$all
 ||io-exchanger-cryptocurrency-v2.app^$all
+||ff.io-gateway-cdn-dex-edge.app^$all
 ||io-instant-crypto-exchange-api-v2.app^$all
 ||io-instant-crypto-exchange-api-v3.app^$all
 ||io-instant-exchange-api-crypto-v3.app^$all
@@ -25415,6 +25419,7 @@
 ||bing-btc.com^$all
 ||binghtx.com^$all
 ||bingtrader.com^$all
+||bingtradings.com^$all
 ||bingx-joined.com^$all
 ||bingxexchange.com^$all
 ||binoptx.com^$all
@@ -29579,6 +29584,7 @@
 ||coinbaseinvesting.com^$all
 ||coinbaseinvestment.com^$all
 ||coinbaseinvestmentgroup.com^$all
+||coinbaseinvestpro.com^$all
 ||coinbaseinvitation.com^$all
 ||coinbaseinvoce.com^$all
 ||coinbaseinvoice.com^$all
@@ -30608,6 +30614,7 @@
 ||com-v2-wallets-api-app.com^$all
 ||com-v3-api.com^$all
 ||com-v3-app-wallet-connect.com^$all
+||com-v3-prod-connect-alpha.com^$all
 ||com-v3-wallet-app-connect.com^$all
 ||com-v4-app-wallet-connect.com^$all
 ||com-v5-wallet-app.com^$all
@@ -40178,6 +40185,7 @@
 ||lido-ethpool.com^$all
 ||airdrop.lido-event.com^$all
 ||lido-fi-app.com^$all
+||lido-fi-swap.com^$all
 ||lido-fi-us.com^$all
 ||lido-finance-us.com^$all
 ||lido-foundation.com^$all
@@ -42930,6 +42938,7 @@
 ||novaspiregrowth.com^$all
 ||novatradeinvest.com^$all
 ||novavaulttapp.com^$all
+||novawalletdesktop.com^$all
 ||novax-profit-app.com^$all
 ||novax-profit-system.com^$all
 ||noveraxcapital.com^$all
@@ -44848,6 +44857,7 @@
 ||pklymarket.com^$all
 ||pkobp-vip.com^$all
 ||pkolymarket.com^$all
+||pump-fun.pktao.com^$all
 ||pkudaf.com^$all
 ||pl-mine.com^$all
 ||placebid-sea.com^$all
@@ -49477,6 +49487,7 @@
 ||stake-venusio.com^$all
 ||stake-vestradao.com^$all
 ||stake-voucher.com^$all
+||stake-web.com^$all
 ||stake-yearn.com^$all
 ||stake-yearnfinance.com^$all
 ||stake-your-claim.com^$all
@@ -56190,6 +56201,7 @@
 ||xmoverse.com^$all
 ||xmr-mixer.com^$all
 ||xmr-qr-code-generators.com^$all
+||xmrwallet.com^$all
 ||xmwrewards.com^$all
 ||xn--acim-nra57c.com^$all
 ||xn--acim-sib74j.com^$all
@@ -57474,6 +57486,7 @@
 ||coinbase-update.plm.cr^$all
 ||aerodrome.credit^$all
 ||appsize.credit^$all
+||hyperlend.credit^$all
 ||tornadocash.credit^$all
 ||coin-bise.cv^$all
 ||uphold.com.cv^$all
@@ -76012,6 +76025,7 @@
 ||dungee.exchange^$all
 ||eigen.exchange^$all
 ||eigenlayer.exchange^$all
+||en-shadow.exchange^$all
 ||es-hop.exchange^$all
 ||gmgn.exchange^$all
 ||h3x.exchange^$all
@@ -78717,6 +78731,7 @@
 ||hosico-cat.fun^$all
 ||humafinance.fun^$all
 ||launch.humas.fun^$all
+||hypebeast.fun^$all
 ||itzjajeohlrfve.fun^$all
 ||j88qk0fxvjw1mgr.fun^$all
 ||j9qqxh0hiuenruc.fun^$all
@@ -90792,11 +90807,14 @@
 ||app-hyper-liquid.github.io^$all
 ||app-meteora.github.io^$all
 ||app-omni.github.io^$all
+||app-safepal.github.io^$all
 ||app-scroll.github.io^$all
 ||app-sunswap.github.io^$all
+||app-thorchain.github.io^$all
 ||app-tronscan.github.io^$all
 ||app-zetahub.github.io^$all
 ||arbiscan-arbiscan.github.io^$all
+||arbiscan-com.github.io^$all
 ||arbiscan-io.github.io^$all
 ||arbiscans.github.io^$all
 ||arbitrum-foundations.github.io^$all
@@ -91082,6 +91100,7 @@
 ||nightycastar.github.io^$all
 ||node-pay.github.io^$all
 ||now-coinbasepro-cdn.github.io^$all
+||oceanprotocoll.github.io^$all
 ||ocrasolana.github.io^$all
 ||official-coinbase-assistance-help.github.io^$all
 ||officialcoinbase.github.io^$all
@@ -91212,6 +91231,7 @@
 ||swalletsugarteam.github.io^$all
 ||swapnanilghosh.github.io^$all
 ||symbioticsnake.github.io^$all
+||synapsebrldge.github.io^$all
 ||techenthusiastarmaan.github.io^$all
 ||tornado-cash-ipfs.github.io^$all
 ||tornadocash-ipfs.github.io^$all
@@ -92250,6 +92270,7 @@
 ||tr3nity.io^$all
 ||tradecurve.io^$all
 ||traderscollective.io^$all
+||tradingweb.io^$all
 ||trainflock.io^$all
 ||treasure-mintchain.io^$all
 ||trezor-suites.io^$all
@@ -105635,6 +105656,7 @@
 ||xrpgiveaway.io^$all
 ||xtoken-platform.io^$all
 ||xversewallet.io^$all
+||xversewallets.io^$all
 ||hotfix-disable-coinbase-wallet.xyro.io^$all
 ||yapoy.io^$all
 ||yaypo.io^$all
@@ -108010,6 +108032,7 @@
 ||otakuculturestudio.live^$all
 ||owllto.live^$all
 ||pancakeswep.live^$all
+||pangolindex.live^$all
 ||pansos4dpsg.live^$all
 ||panteraglobal.live^$all
 ||papesale.live^$all
@@ -108412,6 +108435,7 @@
 ||trumpco.live^$all
 ||trumpiusclaim.live^$all
 ||trumpmagameme.live^$all
+||trust-apps.live^$all
 ||trust-pd.live^$all
 ||trade.trustfinancemarket.live^$all
 ||trustpad-season.live^$all
@@ -108419,6 +108443,7 @@
 ||trustwallet-payment.live^$all
 ||airdrop.tten.live^$all
 ||ubeswap.live^$all
+||ubeswapcrypto.live^$all
 ||udex.live^$all
 ||unisvvap.live^$all
 ||uniswap.live^$all
@@ -108453,6 +108478,7 @@
 ||v4-ledger.live^$all
 ||vanquishtradefin.live^$all
 ||vapordex.live^$all
+||vapornodes.live^$all
 ||variation.live^$all
 ||vatanbet.live^$all
 ||vatanplatform.live^$all
@@ -109648,6 +109674,7 @@
 ||jupiter-swap.imweb.me^$all
 ||metamaskwallet.imweb.me^$all
 ||sushiswapf.imweb.me^$all
+||synapseprotocol.imweb.me^$all
 ||initia.me^$all
 ||io-allocation.me^$all
 ||io-v3.me^$all
@@ -118169,6 +118196,7 @@
 ||app-hyperbeat.org^$all
 ||app-hyperiliquild.org^$all
 ||app-ignition.org^$all
+||app-jupiter-swap.org^$all
 ||app-jupriter.org^$all
 ||app-mantrachain.org^$all
 ||app-minswap.org^$all
@@ -127742,6 +127770,7 @@
 ||yieldwatch.site^$all
 ||yoq93pgf70hb4ge.site^$all
 ||zapperfi.site^$all
+||zeta-market.site^$all
 ||zetachain-claim.site^$all
 ||zipconnectconsolesolution.site^$all
 ||zipconnectconsolesolution24.site^$all
@@ -129068,6 +129097,7 @@
 ||ethmix.to^$all
 ||fdn-plasma.to^$all
 ||ff-app.to^$all
+||ff-io.to^$all
 ||fixed-float.to^$all
 ||frax.to^$all
 ||info-change.to^$all
@@ -135160,6 +135190,7 @@
 ||berabera.world^$all
 ||berachain-ecosystem.world^$all
 ||berachains.world^$all
+||web3.bgw.world^$all
 ||bio-protocol.world^$all
 ||bioprotocol-claim.world^$all
 ||bitpayconnect.world^$all
@@ -135565,6 +135596,7 @@
 ||spark-app.world^$all
 ||spheron.world^$all
 ||stake-altlayer.world^$all
+||stakestone.world^$all
 ||starknet.world^$all
 ||story-foundation.world^$all
 ||subuild.world^$all
@@ -139485,6 +139517,7 @@
 ||finance-kamino.xyz^$all
 ||euler.finance-lend.xyz^$all
 ||finance-moonwell.xyz^$all
+||wallet-keplr.finance-sys.xyz^$all
 ||finance-v3.xyz^$all
 ||finance-wallet.xyz^$all
 ||financebrokentoolstore.xyz^$all

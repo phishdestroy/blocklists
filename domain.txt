@@ -767,6 +767,7 @@ com-action.app
 arbitrum.com-airdropclaim.app
 com-allocation.app
 com-alpha-apps-wallet-connects.app
+com-alpha-online-connect-cdn.app
 com-api-business-v2-banking.app
 com-api-gateway-api-alpha-edge.app
 com-api-gateway-portal-secure-auth.app
@@ -795,6 +796,7 @@ com-passport-account-v3-api-options.app
 com-personal-banking-api-v2-online.app
 com-personal-finance-api-v2.app
 com-swap-browser-api-v2.app
+com-swap-v4-dex-secure.app
 com-tax-account-api-v2.app
 com-tax-account-v3-api.app
 com-trading-api-online-v3.app
@@ -1293,8 +1295,10 @@ io-connects-api-v3-wallets.app
 io-connects-v2-wallets-api.app
 io-crypto-exchanger-v2.app
 io-cryptocurrency-exchanger-api-v3.app
+io-dex-api-gateway-api-alpha.app
 opensea.io-drop.app
 io-exchanger-cryptocurrency-v2.app
+ff.io-gateway-cdn-dex-edge.app
 io-instant-crypto-exchange-api-v2.app
 io-instant-crypto-exchange-api-v3.app
 io-instant-exchange-api-crypto-v3.app
@@ -25415,6 +25419,7 @@ bincoin-rew.com
 bing-btc.com
 binghtx.com
 bingtrader.com
+bingtradings.com
 bingx-joined.com
 bingxexchange.com
 binoptx.com
@@ -29579,6 +29584,7 @@ coinbaseinvest.com
 coinbaseinvesting.com
 coinbaseinvestment.com
 coinbaseinvestmentgroup.com
+coinbaseinvestpro.com
 coinbaseinvitation.com
 coinbaseinvoce.com
 coinbaseinvoice.com
@@ -30608,6 +30614,7 @@ com-v2-wallet-connect-apps.com
 com-v2-wallets-api-app.com
 com-v3-api.com
 com-v3-app-wallet-connect.com
+com-v3-prod-connect-alpha.com
 com-v3-wallet-app-connect.com
 com-v4-app-wallet-connect.com
 com-v5-wallet-app.com
@@ -40178,6 +40185,7 @@ lido-etherstake.com
 lido-ethpool.com
 airdrop.lido-event.com
 lido-fi-app.com
+lido-fi-swap.com
 lido-fi-us.com
 lido-finance-us.com
 lido-foundation.com
@@ -42930,6 +42938,7 @@ coinbasesupports.us.novaltrustbn.com
 novaspiregrowth.com
 novatradeinvest.com
 novavaulttapp.com
+novawalletdesktop.com
 novax-profit-app.com
 novax-profit-system.com
 noveraxcapital.com
@@ -44848,6 +44857,7 @@ pizzanickaformylife.com
 pklymarket.com
 pkobp-vip.com
 pkolymarket.com
+pump-fun.pktao.com
 pkudaf.com
 pl-mine.com
 placebid-sea.com
@@ -49477,6 +49487,7 @@ stake-veniceai.com
 stake-venusio.com
 stake-vestradao.com
 stake-voucher.com
+stake-web.com
 stake-yearn.com
 stake-yearnfinance.com
 stake-your-claim.com
@@ -56190,6 +56201,7 @@ metamask.xmoresz.com
 xmoverse.com
 xmr-mixer.com
 xmr-qr-code-generators.com
+xmrwallet.com
 xmwrewards.com
 xn--acim-nra57c.com
 xn--acim-sib74j.com
@@ -57474,6 +57486,7 @@ top-floki.coupons
 coinbase-update.plm.cr
 aerodrome.credit
 appsize.credit
+hyperlend.credit
 tornadocash.credit
 coin-bise.cv
 uphold.com.cv
@@ -76012,6 +76025,7 @@ drx.exchange
 dungee.exchange
 eigen.exchange
 eigenlayer.exchange
+en-shadow.exchange
 es-hop.exchange
 gmgn.exchange
 h3x.exchange
@@ -78717,6 +78731,7 @@ home-pump.fun
 hosico-cat.fun
 humafinance.fun
 launch.humas.fun
+hypebeast.fun
 itzjajeohlrfve.fun
 j88qk0fxvjw1mgr.fun
 j9qqxh0hiuenruc.fun
@@ -90792,11 +90807,14 @@ app-eigenlayer.github.io
 app-hyper-liquid.github.io
 app-meteora.github.io
 app-omni.github.io
+app-safepal.github.io
 app-scroll.github.io
 app-sunswap.github.io
+app-thorchain.github.io
 app-tronscan.github.io
 app-zetahub.github.io
 arbiscan-arbiscan.github.io
+arbiscan-com.github.io
 arbiscan-io.github.io
 arbiscans.github.io
 arbitrum-foundations.github.io
@@ -91082,6 +91100,7 @@ nftporsche.github.io
 nightycastar.github.io
 node-pay.github.io
 now-coinbasepro-cdn.github.io
+oceanprotocoll.github.io
 ocrasolana.github.io
 official-coinbase-assistance-help.github.io
 officialcoinbase.github.io
@@ -91212,6 +91231,7 @@ susheswap.github.io
 swalletsugarteam.github.io
 swapnanilghosh.github.io
 symbioticsnake.github.io
+synapsebrldge.github.io
 techenthusiastarmaan.github.io
 tornado-cash-ipfs.github.io
 tornadocash-ipfs.github.io
@@ -92250,6 +92270,7 @@ towerresearch.io
 tr3nity.io
 tradecurve.io
 traderscollective.io
+tradingweb.io
 trainflock.io
 treasure-mintchain.io
 trezor-suites.io
@@ -105635,6 +105656,7 @@ xrp-gives.io
 xrpgiveaway.io
 xtoken-platform.io
 xversewallet.io
+xversewallets.io
 hotfix-disable-coinbase-wallet.xyro.io
 yapoy.io
 yaypo.io
@@ -108010,6 +108032,7 @@ origindefi-claim.live
 otakuculturestudio.live
 owllto.live
 pancakeswep.live
+pangolindex.live
 pansos4dpsg.live
 panteraglobal.live
 papesale.live
@@ -108412,6 +108435,7 @@ truezeuscoin.live
 trumpco.live
 trumpiusclaim.live
 trumpmagameme.live
+trust-apps.live
 trust-pd.live
 trade.trustfinancemarket.live
 trustpad-season.live
@@ -108419,6 +108443,7 @@ trustpadcrypto.live
 trustwallet-payment.live
 airdrop.tten.live
 ubeswap.live
+ubeswapcrypto.live
 udex.live
 unisvvap.live
 uniswap.live
@@ -108453,6 +108478,7 @@ venus.v3-protocol.live
 v4-ledger.live
 vanquishtradefin.live
 vapordex.live
+vapornodes.live
 variation.live
 vatanbet.live
 vatanplatform.live
@@ -109648,6 +109674,7 @@ immutables.me
 jupiter-swap.imweb.me
 metamaskwallet.imweb.me
 sushiswapf.imweb.me
+synapseprotocol.imweb.me
 initia.me
 io-allocation.me
 io-v3.me
@@ -118169,6 +118196,7 @@ app-everclear.org
 app-hyperbeat.org
 app-hyperiliquild.org
 app-ignition.org
+app-jupiter-swap.org
 app-jupriter.org
 app-mantrachain.org
 app-minswap.org
@@ -127742,6 +127770,7 @@ sign-coinbase-com-cdn.ycode.site
 yieldwatch.site
 yoq93pgf70hb4ge.site
 zapperfi.site
+zeta-market.site
 zetachain-claim.site
 zipconnectconsolesolution.site
 zipconnectconsolesolution24.site
@@ -129068,6 +129097,7 @@ ethereum-mix.to
 ethmix.to
 fdn-plasma.to
 ff-app.to
+ff-io.to
 fixed-float.to
 frax.to
 info-change.to
@@ -135160,6 +135190,7 @@ bera-henlo.world
 berabera.world
 berachain-ecosystem.world
 berachains.world
+web3.bgw.world
 bio-protocol.world
 bioprotocol-claim.world
 bitpayconnect.world
@@ -135565,6 +135596,7 @@ spaceandtime.world
 spark-app.world
 spheron.world
 stake-altlayer.world
+stakestone.world
 starknet.world
 story-foundation.world
 subuild.world
@@ -139485,6 +139517,7 @@ finance-ex1.xyz
 finance-kamino.xyz
 euler.finance-lend.xyz
 finance-moonwell.xyz
+wallet-keplr.finance-sys.xyz
 finance-v3.xyz
 finance-wallet.xyz
 financebrokentoolstore.xyz
