@@ -111041,18 +111041,6 @@
 ||claim-mintchain.run^$all
 ||claim-soiayer.run^$all
 ||claim-sui.run^$all
-||lido.claiming-token.run^$all
-||arb-check.claimings8-request-web3.run^$all
-||beefy.claimings8-request-web3.run^$all
-||celestia.claimings8-request-web3.run^$all
-||curve.claimings8-request-web3.run^$all
-||debridge.claimings8-request-web3.run^$all
-||gov-vstrk.claimings8-request-web3.run^$all
-||linea.claimings8-request-web3.run^$all
-||optimism.claimings8-request-web3.run^$all
-||zetachain.claimings8-request-web3.run^$all
-||zircuit.claimings8-request-web3.run^$all
-||zksync.claimings8-request-web3.run^$all
 ||claims-eclipse.run^$all
 ||claims-quai.run^$all
 ||claims-rlvalz.run^$all
@@ -111062,7 +111050,6 @@
 ||coinstats.run^$all
 ||colnofworld.run^$all
 ||com-app.run^$all
-||com-event.run^$all
 ||com-t2.run^$all
 ||com-v2.run^$all
 ||coresky.run^$all
@@ -111151,7 +111138,6 @@
 ||elh-v4.run^$all
 ||ellxlr-app.run^$all
 ||ethereal.run^$all
-||etherfistake.run^$all
 ||etheriumclassic.run^$all
 ||eulers.run^$all
 ||exploreadrevs.run^$all
@@ -111165,7 +111151,6 @@
 ||finance-v3.run^$all
 ||fitfuellab.run^$all
 ||flamingofi.run^$all
-||pyth.foundation-claim.run^$all
 ||foundations.run^$all
 ||froggionbase.run^$all
 ||frogward.run^$all
@@ -111181,7 +111166,6 @@
 ||grandline.run^$all
 ||greenpatheco.run^$all
 ||genesis.heavens.run^$all
-||hedera.run^$all
 ||henlo-airdrop.run^$all
 ||hoes.run^$all
 ||huma-finance.run^$all
@@ -111193,7 +111177,6 @@
 ||claim.hyperline.run^$all
 ||iayeredge.run^$all
 ||claim.iika.run^$all
-||illuvium.run^$all
 ||immortairising2.run^$all
 ||infinityg.run^$all
 ||inita.run^$all
@@ -111209,7 +111192,6 @@
 ||jito.run^$all
 ||jito-airdrop.run^$all
 ||jito-network.run^$all
-||jumped.run^$all
 ||jup-sun.run^$all
 ||jupuary.jup.run^$all
 ||jupe.run^$all
@@ -111222,7 +111204,6 @@
 ||kernelbao.run^$all
 ||kgen.run^$all
 ||kinto.run^$all
-||lamacybrai.run^$all
 ||layeredge.run^$all
 ||layerlabs.run^$all
 ||linea-ignition.run^$all
@@ -111263,7 +111244,6 @@
 ||monadchecker.run^$all
 ||monads.run^$all
 ||monadverse.run^$all
-||moor.run^$all
 ||morkie.run^$all
 ||movementnetworke.run^$all
 ||movementsnetwrk.run^$all
@@ -111274,14 +111254,12 @@
 ||neiro-claim-edge.run^$all
 ||neiro-claimdrop-now.run^$all
 ||neiro-you-claim.run^$all
-||gov-vstrk.net-r.run^$all
 ||network-t2.run^$all
 ||network-v2.run^$all
 ||newfon.run^$all
 ||newtons.run^$all
 ||nilllion.run^$all
 ||obol.run^$all
-||oort.run^$all
 ||op-l3.run^$all
 ||atomicwallet.op-v4.run^$all
 ||optmism.run^$all
