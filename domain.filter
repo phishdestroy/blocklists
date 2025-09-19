@@ -52943,6 +52943,7 @@
 ||get-50eth.pages.dev^$all
 ||get-coinbase-log-eng.pages.dev^$all
 ||get-coinbase-login.pages.dev^$all
+||get-coinbase-login-us.pages.dev^$all
 ||get-coinbasepro-login.pages.dev^$all
 ||get-coinbasepro-login-us.pages.dev^$all
 ||get-eth.pages.dev^$all
@@ -52951,6 +52952,7 @@
 ||get-griffain.pages.dev^$all
 ||get-metalogin.pages.dev^$all
 ||get-metamask-login.pages.dev^$all
+||get-metamask-login-us.pages.dev^$all
 ||get-metamasklogin.pages.dev^$all
 ||get-ord.pages.dev^$all
 ||get-started-coinbase.pages.dev^$all
@@ -69978,10 +69980,6 @@
 ||simplex.gold^$all
 ||suichain.gold^$all
 ||tronscan.gold^$all
-||apisweb3oe.gq^$all
-||authweb3cf.gq^$all
-||authweb3ck.gq^$all
-||authweb3do.gq^$all
 ||authweb3fi.gq^$all
 ||authweb3gd.gq^$all
 ||authweb3gn.gq^$all
@@ -72447,7 +72445,6 @@
 ||metisl2io.info^$all
 ||metisl2protocol.info^$all
 ||metisrewards.info^$all
-||metomask.info^$all
 ||mettwal.info^$all
 ||mev-explorer.info^$all
 ||miggles.info^$all
