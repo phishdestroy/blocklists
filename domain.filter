@@ -51074,6 +51074,7 @@
 ||auth-tool.pages.dev^$all
 ||auth-trezor-sso-suit.pages.dev^$all
 ||auth-trezor-web.pages.dev^$all
+||auth-trezrr-suite-io.pages.dev^$all
 ||auth-upheld-io.pages.dev^$all
 ||auth-uphelld-en-io.pages.dev^$all
 ||auth-uphold-login-account-en-us.pages.dev^$all
@@ -54278,6 +54279,7 @@
 ||help-coinbase-log.pages.dev^$all
 ||help-coinbase-log-in.pages.dev^$all
 ||help-coinbase-logg-en.pages.dev^$all
+||help-coinbase-pro-logine.pages.dev^$all
 ||help-coinbase-sign-in.pages.dev^$all
 ||help-coinbase-us.pages.dev^$all
 ||help-coinbase-walet.pages.dev^$all
@@ -54289,6 +54291,7 @@
 ||help-guide-coinbase.pages.dev^$all
 ||help-io-krcken-en.pages.dev^$all
 ||help-kraken-login-dmb.pages.dev^$all
+||help-logn-secure-ledgr.pages.dev^$all
 ||help-metamask.pages.dev^$all
 ||help-metamask-app.pages.dev^$all
 ||help-metamask-learn.pages.dev^$all
@@ -54658,6 +54661,7 @@
 ||kraken-logn.pages.dev^$all
 ||krakenactual-cc.pages.dev^$all
 ||krakenauth-api.pages.dev^$all
+||krakenwalletsupport.pages.dev^$all
 ||krakken-login-s.pages.dev^$all
 ||kraklog.pages.dev^$all
 ||kraklog113.pages.dev^$all
@@ -54679,6 +54683,7 @@
 ||krken-login-start.pages.dev^$all
 ||krkn-logn.pages.dev^$all
 ||flaresnetwor.ks.pages.dev^$all
+||kucoin-login-secure-crypto-us.pages.dev^$all
 ||kyber-23k.pages.dev^$all
 ||kyberswap-one.pages.dev^$all
 ||kyberswaps.pages.dev^$all
@@ -54752,12 +54757,16 @@
 ||learn-trezor-io-auth.pages.dev^$all
 ||learn-trezor-wallet.pages.dev^$all
 ||learn-trezor-wallet-6pw.pages.dev^$all
+||learn-trezor-wallet-us.pages.dev^$all
 ||learn-uphold-logn.pages.dev^$all
 ||learn-upholdlogin.pages.dev^$all
 ||learns-ex-coinbase.pages.dev^$all
 ||led0i9rf-jahjufr9f-4kisdfju.pages.dev^$all
 ||ledge-live-auth.pages.dev^$all
 ||ledge-live-wallet-com.pages.dev^$all
+||ledgeer-live-wallet-eng-us.pages.dev^$all
+||ledger--auth-sso.pages.dev^$all
+||ledger--wallett.pages.dev^$all
 ||ledger-live-wallet-trade.pages.dev^$all
 ||ledger-live-wallet-us.pages.dev^$all
 ||ledger-live-wallet-uss.pages.dev^$all
@@ -54765,7 +54774,11 @@
 ||ledger-live-webapp.pages.dev^$all
 ||ledger-live-wwallet.pages.dev^$all
 ||ledger-wallet-live-as.pages.dev^$all
+||ledger-wallet-live-dbg.pages.dev^$all
 ||ledger-wallet-qas.pages.dev^$all
+||ledger-wallet-us.pages.dev^$all
+||ledger-wallet-web.pages.dev^$all
+||ledger-wallet-wsa.pages.dev^$all
 ||ledgere-live-wallet.pages.dev^$all
 ||ledgerliveflex.pages.dev^$all
 ||ledgerr-live-wallett.pages.dev^$all
@@ -54774,6 +54787,7 @@
 ||ledgr-live-auth-7tc.pages.dev^$all
 ||ledgr-wallet-get.pages.dev^$all
 ||ledgr-wallet-live.pages.dev^$all
+||ledgr-wallett.pages.dev^$all
 ||ledgur-wallet-us.pages.dev^$all
 ||ledzer-live-wallet.pages.dev^$all
 ||legacy-1inch-io.pages.dev^$all
@@ -55788,6 +55802,7 @@
 ||new-extn-coinbse.pages.dev^$all
 ||new-extns-coinbase.pages.dev^$all
 ||new-jup.pages.dev^$all
+||new-ledgr-live-io-auth.pages.dev^$all
 ||new-metamasklogin-us.pages.dev^$all
 ||new-school-day-1.pages.dev^$all
 ||newactivitiestrumpmeme.pages.dev^$all
@@ -57635,6 +57650,7 @@
 ||start-coinbase-io.pages.dev^$all
 ||start-coinbase-on.pages.dev^$all
 ||start-eng-us-wallet-uphold.pages.dev^$all
+||start-ledgr-com-auth.pages.dev^$all
 ||start-metamask-com.pages.dev^$all
 ||start-metamask-login.pages.dev^$all
 ||start-opensee.pages.dev^$all
@@ -57746,6 +57762,8 @@
 ||support-donaldtrump.pages.dev^$all
 ||support-en-coinbase-cdn.pages.dev^$all
 ||support-en-metsmask.pages.dev^$all
+||support-ledger-auth.pages.dev^$all
+||support-lives-en-ledger-live-wallet.pages.dev^$all
 ||support-login-opensea.pages.dev^$all
 ||support-login-x-uphold-us.pages.dev^$all
 ||support-metamask.pages.dev^$all
@@ -58523,6 +58541,7 @@
 ||uptimeflare-ewo.pages.dev^$all
 ||uptimeflare-f2x.pages.dev^$all
 ||uptimeflare-mo0.pages.dev^$all
+||us-auth-ldger.pages.dev^$all
 ||us-coinbase-login.pages.dev^$all
 ||us-coinbaselogin.pages.dev^$all
 ||us-coinnbase.pages.dev^$all
@@ -58713,6 +58732,8 @@
 ||wallet-metamskio-guide.pages.dev^$all
 ||wallet-metamskio-help.pages.dev^$all
 ||wallet-msk.pages.dev^$all
+||wallet-trezer.pages.dev^$all
+||wallet-trezor-hardware.pages.dev^$all
 ||wallet-trezor-usa.pages.dev^$all
 ||wallet-tzcoinbase-ne101000201022001coinbase.pages.dev^$all
 ||wallet-uphold-docs.pages.dev^$all
@@ -74497,6 +74518,7 @@
 ||atorswap.io^$all
 ||attntoken.io^$all
 ||aurealone.io^$all
+||auth-trezor.io^$all
 ||backup.authenticate-metamask.io^$all
 ||authenticator-metamask.io^$all
 ||avaswap.io^$all
@@ -113818,6 +113840,7 @@
 ||1xxslots.sbs^$all
 ||2fa-presaerch-account.sbs^$all
 ||46ace0a.sbs^$all
+||72-51.sbs^$all
 ||aave.sbs^$all
 ||abstract-claim.sbs^$all
 ||acolytai-tokenclaim.sbs^$all
