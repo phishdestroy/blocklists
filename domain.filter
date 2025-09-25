@@ -1094,6 +1094,7 @@
 ||io-api-connects-wallet-v2.app^$all
 ||io-api-connects-wallets-v3.app^$all
 ||io-api-gateway-dex-secure-gateway.app^$all
+||io-api-gateway-online-prod-exchange.app^$all
 ||io-api-wallet-api-gateway-service.app^$all
 ||metamask.io-com.app^$all
 ||io-connects-api-v3-wallets.app^$all
@@ -1113,6 +1114,7 @@
 ||metamask.io-update.app^$all
 ||io-v2-api-connects-wallet.app^$all
 ||io-v2-api-connects-wallets.app^$all
+||io-v2-api-gateway-api-prod.app^$all
 ||io-v2-connects-api-wallet.app^$all
 ||io-v3-api-connects-wallet.app^$all
 ||io-v3-connects-api-wallet.app^$all
@@ -10325,7 +10327,7 @@
 ||ether-fi.art^$all
 ||ethfi-sushi.art^$all
 ||ff-exchange.art^$all
-||euler.finance-v3.art^$all
+||finance-v3.art^$all
 ||fluxgallery.art^$all
 ||jup-drop.art^$all
 ||jurnper.art^$all
@@ -14364,6 +14366,7 @@
 ||aipalmistry.club^$all
 ||aircash.club^$all
 ||airdrop-berachain.club^$all
+||airdrop-nobodysausage.club^$all
 ||airdrop-opensea.club^$all
 ||app-turtle.club^$all
 ||apx.club^$all
@@ -20094,6 +20097,7 @@
 ||airdrop-bitunix.com^$all
 ||airdrop-blockstreet.com^$all
 ||airdrop-bondex.com^$all
+||airdrop-bonk.com^$all
 ||airdrop-boundless.com^$all
 ||airdrop-broccoli.com^$all
 ||airdrop-bsquared.com^$all
@@ -20150,6 +20154,7 @@
 ||airdrop-lineabuild.com^$all
 ||airdrop-luckio.com^$all
 ||airdrop-magiceden.com^$all
+||airdrop-mask.com^$all
 ||airdrop-megaeth.com^$all
 ||airdrop-melania.com^$all
 ||airdrop-melaniameme.com^$all
@@ -20224,6 +20229,7 @@
 ||airdrop-sui.com^$all
 ||airdrop-sunrise.com^$all
 ||airdrop-swarms.com^$all
+||airdrop-synd.com^$all
 ||airdrop-tapswapai.com^$all
 ||airdrop-tate.com^$all
 ||airdrop-tectum.com^$all
@@ -28042,6 +28048,7 @@
 ||dappavailotp.com^$all
 ||dappbinance-support.com^$all
 ||dappcconnect.com^$all
+||dappchainresolver.com^$all
 ||dappcloudmainnet.com^$all
 ||dappconnectworld.com^$all
 ||dappcore.com^$all
@@ -31169,6 +31176,7 @@
 ||flrevmetwork.com^$all
 ||portal.flrevmnetwork.com^$all
 ||flrlinespark.com^$all
+||flrnetclaim.com^$all
 ||flrnetworkdao.com^$all
 ||flronlinetoken.com^$all
 ||flrportal.com^$all
@@ -31241,6 +31249,7 @@
 ||foundationlayeredge.com^$all
 ||foundationslayeredge.com^$all
 ||foundationsolana.com^$all
+||founder-finance.com^$all
 ||fourmemebot.com^$all
 ||fourmemecz.com^$all
 ||fourmemmes.com^$all
@@ -38946,6 +38955,7 @@
 ||paradextrade.com^$all
 ||paradise-app.com^$all
 ||paradlgm.com^$all
+||paragon-claims.com^$all
 ||parailelai.com^$all
 ||parallel-rewards.com^$all
 ||parallelaix.com^$all
@@ -41438,6 +41448,7 @@
 ||coinbase.resetseed.com^$all
 ||resolv-boost.com^$all
 ||resolv-checker.com^$all
+||resolv-claim.com^$all
 ||resolv-eligibility.com^$all
 ||resolvclaim.com^$all
 ||resolveappalgorithm.com^$all
@@ -51114,6 +51125,7 @@
 ||authorizetoken.pages.dev^$all
 ||authresolvefix.pages.dev^$all
 ||auths-coinbase-login.pages.dev^$all
+||auths-com-metamsk.pages.dev^$all
 ||auths-metamask-login.pages.dev^$all
 ||auths-uphold-login-learn.pages.dev^$all
 ||authservice.pages.dev^$all
@@ -53220,6 +53232,7 @@
 ||dev-coinbase-start-io-pro.pages.dev^$all
 ||dev-dapp.pages.dev^$all
 ||dev-dapps.pages.dev^$all
+||dev-metmasklogin-guide.pages.dev^$all
 ||dev-node-26u.pages.dev^$all
 ||dev-sso-uphuld-io-eng.pages.dev^$all
 ||devdappsengine.pages.dev^$all
@@ -73921,6 +73934,7 @@
 ||pawscommunlty.info^$all
 ||pawspaws.info^$all
 ||pengucoin.info^$all
+||pepeheimer-claim.info^$all
 ||pepubridge.info^$all
 ||pepubridgeapp.info^$all
 ||phairdrop.info^$all
@@ -83207,6 +83221,7 @@
 ||grassfoundaition.io^$all
 ||grassfoundatlon.io^$all
 ||grassfundation.io^$all
+||grindery-claims.io^$all
 ||grokcoin.io^$all
 ||grokdrop.io^$all
 ||groktoken.io^$all
@@ -99921,6 +99936,7 @@
 ||claim-sophon.lol^$all
 ||claim-sophons.lol^$all
 ||claim-sunpump.lol^$all
+||claim-zora.lol^$all
 ||claimbonusrewardsnow-xyz.lol^$all
 ||claimcryptorewardz-bonus.lol^$all
 ||claimgomble.lol^$all
@@ -106405,6 +106421,7 @@
 ||ccooiinnbbaassee.online^$all
 ||celestia-drop.online^$all
 ||centralprotocolpad.online^$all
+||centrifuge-dapp.online^$all
 ||centurionblockapps.online^$all
 ||cgpt-v2.online^$all
 ||www.cgptclaim-omnia.online^$all
@@ -106547,6 +106564,7 @@
 ||customerservicecoinbase.online^$all
 ||dabank.online^$all
 ||dagredeems.online^$all
+||dapp-protocols.online^$all
 ||dapp-radar.online^$all
 ||dappmarketclaim.online^$all
 ||dapppconnectzeta.online^$all
@@ -108255,6 +108273,7 @@
 ||claim-resolv.org^$all
 ||claim-rivalz.org^$all
 ||claim-scoutly.org^$all
+||claim-shibatokens.org^$all
 ||claim-shibtoken.org^$all
 ||claim-skate.org^$all
 ||claim-skymoney.org^$all
@@ -108954,6 +108973,7 @@
 ||flaredrop.org^$all
 ||flareevmnetwork.org^$all
 ||flarenetwork.org^$all
+||flarenetwork-claim.org^$all
 ||flarenetwork-xrpconnect.org^$all
 ||flaretoken.org^$all
 ||flaretrustline.org^$all
@@ -110123,6 +110143,7 @@
 ||pump-fun.org^$all
 ||pump-presale.org^$all
 ||pump-sale.org^$all
+||pumpairdrop.org^$all
 ||pumpdrop.org^$all
 ||pumps-event.org^$all
 ||pumps-events.org^$all
@@ -110546,6 +110567,7 @@
 ||smardex.org^$all
 ||smart-wallet-connect.org^$all
 ||smartchainconnect.org^$all
+||smartcontractdapp.org^$all
 ||smartlifefoundation.org^$all
 ||smartrenderdapp.org^$all
 ||snaplist.org^$all
@@ -114795,6 +114817,7 @@
 ||claim-now.site^$all
 ||claim-origindefi.site^$all
 ||claim-pudgy.site^$all
+||claim-rabby.site^$all
 ||claim-redstone.site^$all
 ||claim-renzoprotocol.site^$all
 ||claim-s0xlayer.site^$all
@@ -114883,6 +114906,7 @@
 ||consistent-bridge.site^$all
 ||consulbet.site^$all
 ||contractcompiler.site^$all
+||controlsdappsolve.site^$all
 ||copecoin.site^$all
 ||core-app.site^$all
 ||cornpound.site^$all
@@ -117112,6 +117136,7 @@
 ||atomic-wallet.to^$all
 ||bitjet.to^$all
 ||bunq.to^$all
+||claim-plasma.to^$all
 ||coin-qrs.to^$all
 ||coinbasse.to^$all
 ||coindase.to^$all
@@ -120292,6 +120317,7 @@
 ||h5.defi-coinbasei.vip^$all
 ||h7.defi-coinbasei.vip^$all
 ||erccai.vip^$all
+||eth-airdrop.vip^$all
 ||et.ethsave.vip^$all
 ||www.hyperswop.vip^$all
 ||dev.krakencoinbase.vip^$all
@@ -122036,6 +122062,7 @@
 ||airdrop-x.xyz^$all
 ||airdrop-zircuit.xyz^$all
 ||airdrop-zklink.xyz^$all
+||airdrop1inch.xyz^$all
 ||airdropaave.xyz^$all
 ||airdropbabylon.xyz^$all
 ||airdropcarrv.xyz^$all
@@ -122915,6 +122942,7 @@
 ||claim.bluefinchain.xyz^$all
 ||bluelighter.xyz^$all
 ||bluemeteor.xyz^$all
+||blum-airdrop.xyz^$all
 ||blum-aps.xyz^$all
 ||blums-xray.xyz^$all
 ||bluwhaleai.xyz^$all
@@ -123367,6 +123395,7 @@
 ||claim-krakendrops.xyz^$all
 ||claim-kzgfuneral.xyz^$all
 ||claim-lagrangefoundation.xyz^$all
+||claim-layer.xyz^$all
 ||claim-lighter.xyz^$all
 ||claim-linea.xyz^$all
 ||claim-lineabulid.xyz^$all
@@ -124004,8 +124033,10 @@
 ||dapp-labs.xyz^$all
 ||dapp-magnifier.xyz^$all
 ||dapp-resolver.xyz^$all
+||dapp-sols.xyz^$all
 ||dapp-sync.xyz^$all
 ||dapp-v2network.xyz^$all
+||dappaave.xyz^$all
 ||dappblockchainprotocol.xyz^$all
 ||dappcadar.xyz^$all
 ||dappchainprotocol.xyz^$all
@@ -124036,6 +124067,7 @@
 ||dapps-radars.xyz^$all
 ||dapps-resolve.xyz^$all
 ||dapps-walletconnect.xyz^$all
+||dappsaave.xyz^$all
 ||dappsblockchainsolve.xyz^$all
 ||dappsconnectorauth.xyz^$all
 ||dappsconnectorsolve.xyz^$all
@@ -124509,6 +124541,7 @@
 ||etherexes.xyz^$all
 ||claim.etherexfi.xyz^$all
 ||etherexy.xyz^$all
+||etherfi-claim.xyz^$all
 ||etherfi-v.xyz^$all
 ||etherficlaim.xyz^$all
 ||etherfinetwork.xyz^$all
@@ -124713,6 +124746,9 @@
 ||floki--sushi.xyz^$all
 ||flokidroptg.xyz^$all
 ||flokiverse.xyz^$all
+||flrairdrop.xyz^$all
+||flrdapp.xyz^$all
+||flrdapps.xyz^$all
 ||flremvblock.xyz^$all
 ||flresspkconnect.xyz^$all
 ||flrevmblock.xyz^$all
@@ -124772,6 +124808,8 @@
 ||fsp-sushi.xyz^$all
 ||fstswap.xyz^$all
 ||ftm-sushi.xyz^$all
+||ftmdapp.xyz^$all
+||ftmdapps.xyz^$all
 ||walletconnect.ftmt.xyz^$all
 ||app.fuei-netlwork.xyz^$all
 ||fuel-newtork.xyz^$all
@@ -124947,6 +124985,9 @@
 ||growtoken.xyz^$all
 ||grt--sushi.xyz^$all
 ||grt-sushi.xyz^$all
+||grtairdrop.xyz^$all
+||grtdapp.xyz^$all
+||grtdapps.xyz^$all
 ||gtether.xyz^$all
 ||guarded-proof.xyz^$all
 ||guardingbase.xyz^$all
@@ -125695,6 +125736,7 @@
 ||zone.mantrachecker.xyz^$all
 ||mantrechain.xyz^$all
 ||mantrrazone.xyz^$all
+||manual-dapp.xyz^$all
 ||maple-register.xyz^$all
 ||maple-registers.xyz^$all
 ||maplelab.xyz^$all
@@ -125869,6 +125911,7 @@
 ||mogyup.xyz^$all
 ||moleswap.xyz^$all
 ||claim.monaad.xyz^$all
+||monad-airdrop.xyz^$all
 ||monad-build.xyz^$all
 ||monad-checher.xyz^$all
 ||monad-check.xyz^$all
@@ -126075,6 +126118,7 @@
 ||ndx6900eth.xyz^$all
 ||near--sushi.xyz^$all
 ||nearmobile-airdrop.xyz^$all
+||nearprotocoldapp.xyz^$all
 ||neet-allocation.xyz^$all
 ||neiro--sushi.xyz^$all
 ||neiroeth-register.xyz^$all
@@ -126305,6 +126349,7 @@
 ||orbitprisales.xyz^$all
 ||orbitprivatesale.xyz^$all
 ||orbitrewards.xyz^$all
+||orca-airdrope.xyz^$all
 ||orcablog.xyz^$all
 ||ordinalswallets.xyz^$all
 ||ordinalwallets.xyz^$all
@@ -127687,6 +127732,7 @@
 ||smartchainweb3.xyz^$all
 ||web3.smartdappchain.xyz^$all
 ||smartdappconnect.xyz^$all
+||smartdappsnode.xyz^$all
 ||smartdappsprotocol.xyz^$all
 ||smartfixprotocol.xyz^$all
 ||smartonlinedaps.xyz^$all
