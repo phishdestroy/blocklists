@@ -995,9 +995,15 @@ finance-app-connects-beta-swap.app
 finance-apps-v2-wallets.app
 finance-auth-beta-prod-api.app
 finance-cdn-secure-v2-gateway.app
+finance-connects-gateway-portal-api.app
 finance-connects-prod-secure-online.app
 finance-dex-v1-api-gateway-cdn.app
+finance-edge-portal-api-gateway-api.app
+finance-edge-prod-wallets-api-gateway.app
 pendle.finance-p.app
+finance-prod-swap-edge-gateway.app
+finance-swap-dex-v5-wallet.app
+finance-swap-portal-api-services.app
 finance-v2-wallets-apps.app
 finance-v3.app
 finance-v3-wallet-connect-apps.app
@@ -11627,7 +11633,8 @@ twosigmavc.capital
 invest.wealthy.capital
 m.bankless.cards
 cow.daoswap.cards
-euler.finance-v3.cards
+fi-app.cards
+finance-v3.cards
 laso.cards
 zircuit.staklng.cards
 dev.gitlab.stellar.cards
@@ -12297,6 +12304,12 @@ app-1inch.io-v3.cc
 io-xi.cc
 io-xo.cc
 io-xp.cc
+io-xq.cc
+io-xr.cc
+io-xt.cc
+io-xu.cc
+io-xw.cc
+io-xy.cc
 izroztllmagldg.cc
 jadklv.cc
 jasmy-sushi.cc
@@ -30745,6 +30758,7 @@ ff-master-io.com
 fgswss.com
 fgzdm0pk.com
 fhefaucet.com
+fi-allocation.com
 fi-amm.com
 fi-api-connect-appv3-wallet.com
 fi-api-connect-v2-app-wailet.com
@@ -30813,6 +30827,7 @@ fi-super-swap.com
 curwe.fi-swap-connect-v3.com
 curve.fi-swap-connect.com
 fi-token-hub.com
+fi-treasury.com
 fi-v1.com
 fi-v2-app-api-connect-wallet.com
 fi-v2-chain.com
@@ -30899,6 +30914,7 @@ finance-apps-v2-connect-wallets.com
 finance-appv4-wailet.com
 finance-cake.com
 finance-chain-web3-swap.com
+finance-coinbase.com
 finance-connect-app-v3-wallet-api.com
 finance-connect-app-wallet-v2-api.com
 finance-connect-chain-v2.com
@@ -30926,6 +30942,7 @@ finance-legend.com
 finance-legendapp-app.com
 appcompound.finance-lendingprocess.com
 finance-lnfo.com
+finance-okx.com
 kamino.finance-personal.com
 finance-portal-app-dex-swap.com
 finance-pstrake.com
@@ -51197,7 +51214,7 @@ zerolend.de
 zetachain.de
 google.comes-cc.ttnautilus.coinbase.deal
 dapsradar.deals
-euler.finance-v2.deals
+finance-v2.deals
 finance-v3.deals
 openseaoffers.deals
 openseapro.deals
@@ -69669,7 +69686,7 @@ ethereum-bot.digital
 event-doodles.digital
 exchamge-v4.digital
 fairdrops.digital
-compound.fi-app.digital
+fi-app.digital
 smell.network.fi-i1.digital
 fi-t1.digital
 app.curvc.fi-t2.digital
@@ -72962,6 +72979,7 @@ feliro.fyi
 finance-crypto-staking-37ml66.fyi
 finance-crypto-staking-ml7ayj.fyi
 finance-crypto-staking-wlnw7x.fyi
+finance-fundraising-events-qlnp6h.fyi
 www.fredshop.fyi
 fronix.fyi
 hyperliquid.fyi
@@ -99485,6 +99503,7 @@ coinbasedeffisupport.link
 coinbaserevoke.link
 coinbasewallet.link
 coincbint.link
+com-verifier.link
 crecifymedial.link
 cryptoall-stars.link
 dexchain.link
@@ -100368,8 +100387,10 @@ finance-app-v2-wallet.live
 finance-boiler-ehkq0v.live
 finance-boiler-v1ohrw.live
 finance-crypto-staking-fznv72.live
+finance-crypto-staking-zelrig.live
+finance-crypto-staking-zosims.live
+finance-v3.live
 finance-v3-wallet-connect-api.live
-euler.finance-v3.live
 finance-vanguard-d1vkln.live
 fiweb.live
 flare-drop.live
@@ -114590,6 +114611,10 @@ dbank.pw
 debank.pw
 httpsdebridgefoundation.pw
 io-vn49w.pw
+io-yd4ed.pw
+io-yg8ll.pw
+io-ytf45.pw
+io-zihvc.pw
 ixfi.pw
 juplter.pw
 help.linea-hk.pw
@@ -126656,6 +126681,7 @@ fg004.xyz
 ww25.fgobob.xyz
 fhe-sushi.xyz
 fi-builds.xyz
+fi-connect.xyz
 fi-ex1.xyz
 fi-explorer.xyz
 v2-ether.fi-index.xyz

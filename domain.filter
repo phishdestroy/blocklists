@@ -995,9 +995,15 @@
 ||finance-apps-v2-wallets.app^$all
 ||finance-auth-beta-prod-api.app^$all
 ||finance-cdn-secure-v2-gateway.app^$all
+||finance-connects-gateway-portal-api.app^$all
 ||finance-connects-prod-secure-online.app^$all
 ||finance-dex-v1-api-gateway-cdn.app^$all
+||finance-edge-portal-api-gateway-api.app^$all
+||finance-edge-prod-wallets-api-gateway.app^$all
 ||pendle.finance-p.app^$all
+||finance-prod-swap-edge-gateway.app^$all
+||finance-swap-dex-v5-wallet.app^$all
+||finance-swap-portal-api-services.app^$all
 ||finance-v2-wallets-apps.app^$all
 ||finance-v3.app^$all
 ||finance-v3-wallet-connect-apps.app^$all
@@ -11627,7 +11633,8 @@
 ||invest.wealthy.capital^$all
 ||m.bankless.cards^$all
 ||cow.daoswap.cards^$all
-||euler.finance-v3.cards^$all
+||fi-app.cards^$all
+||finance-v3.cards^$all
 ||laso.cards^$all
 ||zircuit.staklng.cards^$all
 ||dev.gitlab.stellar.cards^$all
@@ -12297,6 +12304,12 @@
 ||io-xi.cc^$all
 ||io-xo.cc^$all
 ||io-xp.cc^$all
+||io-xq.cc^$all
+||io-xr.cc^$all
+||io-xt.cc^$all
+||io-xu.cc^$all
+||io-xw.cc^$all
+||io-xy.cc^$all
 ||izroztllmagldg.cc^$all
 ||jadklv.cc^$all
 ||jasmy-sushi.cc^$all
@@ -30745,6 +30758,7 @@
 ||fgswss.com^$all
 ||fgzdm0pk.com^$all
 ||fhefaucet.com^$all
+||fi-allocation.com^$all
 ||fi-amm.com^$all
 ||fi-api-connect-appv3-wallet.com^$all
 ||fi-api-connect-v2-app-wailet.com^$all
@@ -30813,6 +30827,7 @@
 ||curwe.fi-swap-connect-v3.com^$all
 ||curve.fi-swap-connect.com^$all
 ||fi-token-hub.com^$all
+||fi-treasury.com^$all
 ||fi-v1.com^$all
 ||fi-v2-app-api-connect-wallet.com^$all
 ||fi-v2-chain.com^$all
@@ -30899,6 +30914,7 @@
 ||finance-appv4-wailet.com^$all
 ||finance-cake.com^$all
 ||finance-chain-web3-swap.com^$all
+||finance-coinbase.com^$all
 ||finance-connect-app-v3-wallet-api.com^$all
 ||finance-connect-app-wallet-v2-api.com^$all
 ||finance-connect-chain-v2.com^$all
@@ -30926,6 +30942,7 @@
 ||finance-legendapp-app.com^$all
 ||appcompound.finance-lendingprocess.com^$all
 ||finance-lnfo.com^$all
+||finance-okx.com^$all
 ||kamino.finance-personal.com^$all
 ||finance-portal-app-dex-swap.com^$all
 ||finance-pstrake.com^$all
@@ -51197,7 +51214,7 @@
 ||zetachain.de^$all
 ||google.comes-cc.ttnautilus.coinbase.deal^$all
 ||dapsradar.deals^$all
-||euler.finance-v2.deals^$all
+||finance-v2.deals^$all
 ||finance-v3.deals^$all
 ||openseaoffers.deals^$all
 ||openseapro.deals^$all
@@ -69669,7 +69686,7 @@
 ||event-doodles.digital^$all
 ||exchamge-v4.digital^$all
 ||fairdrops.digital^$all
-||compound.fi-app.digital^$all
+||fi-app.digital^$all
 ||smell.network.fi-i1.digital^$all
 ||fi-t1.digital^$all
 ||app.curvc.fi-t2.digital^$all
@@ -72962,6 +72979,7 @@
 ||finance-crypto-staking-37ml66.fyi^$all
 ||finance-crypto-staking-ml7ayj.fyi^$all
 ||finance-crypto-staking-wlnw7x.fyi^$all
+||finance-fundraising-events-qlnp6h.fyi^$all
 ||www.fredshop.fyi^$all
 ||fronix.fyi^$all
 ||hyperliquid.fyi^$all
@@ -99485,6 +99503,7 @@
 ||coinbaserevoke.link^$all
 ||coinbasewallet.link^$all
 ||coincbint.link^$all
+||com-verifier.link^$all
 ||crecifymedial.link^$all
 ||cryptoall-stars.link^$all
 ||dexchain.link^$all
@@ -100368,8 +100387,10 @@
 ||finance-boiler-ehkq0v.live^$all
 ||finance-boiler-v1ohrw.live^$all
 ||finance-crypto-staking-fznv72.live^$all
+||finance-crypto-staking-zelrig.live^$all
+||finance-crypto-staking-zosims.live^$all
+||finance-v3.live^$all
 ||finance-v3-wallet-connect-api.live^$all
-||euler.finance-v3.live^$all
 ||finance-vanguard-d1vkln.live^$all
 ||fiweb.live^$all
 ||flare-drop.live^$all
@@ -114590,6 +114611,10 @@
 ||debank.pw^$all
 ||httpsdebridgefoundation.pw^$all
 ||io-vn49w.pw^$all
+||io-yd4ed.pw^$all
+||io-yg8ll.pw^$all
+||io-ytf45.pw^$all
+||io-zihvc.pw^$all
 ||ixfi.pw^$all
 ||juplter.pw^$all
 ||help.linea-hk.pw^$all
@@ -126656,6 +126681,7 @@
 ||ww25.fgobob.xyz^$all
 ||fhe-sushi.xyz^$all
 ||fi-builds.xyz^$all
+||fi-connect.xyz^$all
 ||fi-ex1.xyz^$all
 ||fi-explorer.xyz^$all
 ||v2-ether.fi-index.xyz^$all
