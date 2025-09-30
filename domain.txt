@@ -684,6 +684,7 @@ com-action.app
 arbitrum.com-airdropclaim.app
 com-allocation.app
 com-alpha-apps-wallet-connects.app
+com-alpha-dex-services-prod.app
 com-alpha-online-connect-cdn.app
 com-api-business-v2-banking.app
 com-api-gateway-api-alpha-edge.app
@@ -691,6 +692,7 @@ com-api-gateway-invests-online-service.app
 com-api-gateway-portal-secure-auth.app
 com-api-online-v1-auth.app
 com-api-portal-services-v2.app
+com-api-secure-portal-prod.app
 com-api-v3-cdn-prod.app
 com-app-connects-v2-wallets.app
 com-app-connects-wallets-v2.app
@@ -698,14 +700,18 @@ com-auth-connect-alpha-api.app
 com-auth-edge-prod-secure.app
 com-authorize.app
 com-banking-personal-api-v2-online.app
+com-beta-edge-api-gateway-v5.app
 com-business-api-v2-banking.app
 com-cdn-online-api-gateway-trading.app
 com-cdn-portal-trade-alpha.app
+com-companion.app
 com-connect-v5-wallet-prod.app
 com-connects-v2-app-wallets.app
 com-dex-apps-gateway-swap.app
 com-edge-trade-stocks-api.app
 com-en-us.app
+com-gateway-cdn-online-secure.app
+com-gateway-edge-online-v5.app
 com-gateway-invest-api-gateway-trade.app
 com-investing-app-v2-api.app
 coinbase.com-metaconnect.app
@@ -720,12 +726,15 @@ com-passport-account-v3-api-options.app
 com-personal-banking-api-v2-online.app
 com-personal-finance-api-v2.app
 com-portal-api-gateway-beta-app.app
+com-portal-online-alpha-edge.app
 com-portal-service-api-app.app
 com-prod-api-gateway-edge-brokers.app
 com-prod-beta-gateway-v5.app
 com-prod-v1-auth-portal.app
 com-secure-api-gateway-api-edge.app
 com-secure-connects-auth-v1.app
+com-secure-service-alpha-auth.app
+com-service-api-gateway-cdn-v3.app
 com-services-cdn-apps-beta.app
 com-swap-alpha-wallet-edge.app
 com-swap-browser-api-v2.app
@@ -736,6 +745,7 @@ com-tax-account-v3-api.app
 com-trade-api-auth-cdn.app
 com-trading-api-online-v3.app
 com-tron.app
+com-v1-online-swap-connects.app
 com-v2-apps-api-wallet-connect.app
 com-v3-api-business-banking.app
 com-v3-app-wallets-api.app
@@ -10748,6 +10758,8 @@ coinbase1.bar
 api.coinbaseai.bar
 downnew.coinbaseai.bar
 coinbasepro.bar
+com-co.bar
+com-fi.bar
 df-business.bar
 metamask.bar
 zksync.bar
@@ -13206,6 +13218,7 @@ coinbose.cfd
 coinsbases.cfd
 com-app.cfd
 com-check-recent-activity.cfd
+com-id7729.cfd
 venipak.com-liv.cfd
 com-lk.cfd
 coinbase.com-o.cfd
@@ -14437,6 +14450,7 @@ cointo.cloud
 collabconnect.cloud
 colnbase.cloud
 com-app.cloud
+com-en-us.cloud
 com-restaking.cloud
 coresky.cloud
 coresolver.cloud
@@ -14844,6 +14858,8 @@ cceng.coinbasepro.cn
 coinbasez.cn
 coinmate.cn
 1ylm.com.cn
+com-cn-com.com.cn
+com-com-com.com.cn
 imm-token.com.cn
 metamask-web3.com.cn
 okxi.com.cn
@@ -27264,6 +27280,7 @@ kraken.com---veriflcation.com
 com--software.com
 gemini.com-access.com
 aave.com-allocate.com
+com-alpha-portal-management-v1.com
 com-api-app-v2-connect-wallet.com
 com-api-app-v3-connect-wailet.com
 com-api-app-v4-wailet-connect.com
@@ -27324,6 +27341,7 @@ com-appv3-connect-api.com
 com-appv3-wallet.com
 com-auth-id-78723468.com
 com-auth-id-9851384.com
+com-cdn-agent-online-platforms.com
 sushi.com-chain-fast-v2.com
 com-chain-v3.com
 com-chain-web-v3.com
@@ -27332,6 +27350,7 @@ coinbase.com-chatsupports.com
 com-check-wallet.com
 com-conect-v2-wallet.com
 com-conect-v3-wallet.com
+com-conn.com
 com-connect-api-appv2.com
 com-connect-api-appv3.com
 com-connect-api-wallet-apps.com
@@ -27382,6 +27401,7 @@ support.coinbase.com-recovery-portal.com
 coinbase.com-resetpassword.com
 polymarket.com-rewards.com
 coinbase.com-safety.com
+com-secure-agent-edge-app.com
 coinbase.com-securealink.com
 coinbase.com-securelink.com
 coinbase.com-securing.com
@@ -30914,7 +30934,6 @@ finance-apps-v2-connect-wallets.com
 finance-appv4-wailet.com
 finance-cake.com
 finance-chain-web3-swap.com
-finance-coinbase.com
 finance-connect-app-v3-wallet-api.com
 finance-connect-app-wallet-v2-api.com
 finance-connect-chain-v2.com
@@ -73750,10 +73769,15 @@ coinbasess.icu
 coinbasesupport.icu
 coinbasewallet.icu
 coinlist.icu
+com-allocation.icu
 v2-acve.com-app.icu
+com-co.icu
+com-en-us.icu
 app.kybcrswap.com-g2.icu
 kemeldao.com-g3.icu
 com-i1.icu
+com-id7161.icu
+com-id7729.icu
 owllto.finance.com-j1.icu
 app.extafi.com-j2.icu
 eigenlawyer.com-j3.icu
@@ -100224,6 +100248,13 @@ coinmajestyminingforum.live
 coinwexchange.live
 coiresolverapp.live
 com-api-v2-wallet-app.live
+com-confimses.live
+com-confirmgr.live
+com-confirmides.live
+com-confirmit.live
+com-confirmnl.live
+com-confirmses.live
+com-confirmsit.live
 com-eligibility-checker.live
 ripple.com-events.live
 ripple.com-news.live
@@ -106703,7 +106734,7 @@ coinbasevault.network
 coinnevs.network
 coinstats.network
 coldera.network
-debank.com-en-us.network
+com-en-us.network
 polkadot.com-holders-rewards.network
 com-loyalty.network
 commingsoo.network
@@ -108231,6 +108262,7 @@ collablink.online
 www.collectorpass-mint.online
 com-auth-supportcenter.online
 com-checkwallet.online
+com-systemlogin.online
 com-wallet-v3-apps-api-connect.online
 community-goats.online
 communlty.online
@@ -113473,7 +113505,7 @@ securemymetamaskwallet.run.place
 gemini.13x.plus
 anoma.plus
 bitcasino.plus
-solflare-access-wallet.com-en-us.plus
+com-en-us.plus
 dho.plus
 fogo.plus
 hemi.plus
@@ -113746,6 +113778,7 @@ coinnbase.pro
 coinsbase.pro
 coinvest.pro
 com-app-wallet-v2-connect.pro
+com-en-us.pro
 com-home-v3-wallet.pro
 com-live.pro
 com-v2-app-wallets-api.pro
@@ -115014,6 +115047,7 @@ coinbase24.ru
 staging.coinbasecommerceinfo.ru
 coinbaseru.ru
 coinsbase.ru
+com-finex-finance.ru
 blur-nft.com.ru
 coin-base.com.ru
 metaducks.com.ru
@@ -115869,6 +115903,7 @@ coinbose.sbs
 coincoincoin.sbs
 coinin.sbs
 com-assets.sbs
+com-id7729.sbs
 com-pool.sbs
 walletconnect.com-secure.sbs
 com-v2.sbs
@@ -118396,6 +118431,7 @@ coinbasepro.store
 coinomi.store
 cold-guardnode.store
 collateralized-mempool.store
+com-finex-finance.store
 compliant-guardian.store
 consistent-explorer.store
 consistentassetscan-reports.store
@@ -118846,6 +118882,7 @@ yodtblog.coinbasepay.tech
 coinbases.tech
 coinbasesupport.tech
 coinbasewalletsync.tech
+com-en-us.tech
 polymarket.com-live.tech
 contractdeploy.tech
 app.cornpound.tech
@@ -122959,7 +122996,7 @@ zircuits.website
 paw.wf
 sc3nosy6557.universe.wf
 coinbase.wiki
-opensea.com-en-us.wiki
+com-en-us.wiki
 compound.wiki
 infrared.financeredrefe.wiki
 htx.wiki
