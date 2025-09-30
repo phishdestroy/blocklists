@@ -253,7 +253,10 @@
 ||aevc.app^$all
 ||aeve.app^$all
 ||ag-alpha-edge-swap-gateway.app^$all
+||ag-alpha-portal-api-gateway.app^$all
+||ag-api-beta-dex-alpha.app^$all
 ||ag-api-connect-wallets-v2.app^$all
+||ag-api-connects-prod-gateway.app^$all
 ||ag-api-connects-wallets-v2.app^$all
 ||ag-api-wallet-connects-v3.app^$all
 ||ag-api-wallets-v3-connect.app^$all
@@ -262,6 +265,7 @@
 ||ag-beta-secure-connects-dex.app^$all
 ||jup.ag-beta.app^$all
 ||ag-connects-v2-api-wallets.app^$all
+||ag-dex-prod-app-api-gateway.app^$all
 ||jup.ag-lend.app^$all
 ||ag-service-auth-cdn-connect.app^$all
 ||jup.ag-swap.app^$all

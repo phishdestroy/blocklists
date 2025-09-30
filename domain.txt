@@ -253,7 +253,10 @@ register.aethrcloud.app
 aevc.app
 aeve.app
 ag-alpha-edge-swap-gateway.app
+ag-alpha-portal-api-gateway.app
+ag-api-beta-dex-alpha.app
 ag-api-connect-wallets-v2.app
+ag-api-connects-prod-gateway.app
 ag-api-connects-wallets-v2.app
 ag-api-wallet-connects-v3.app
 ag-api-wallets-v3-connect.app
@@ -262,6 +265,7 @@ ag-auth-cdn-api-gateway-services.app
 ag-beta-secure-connects-dex.app
 jup.ag-beta.app
 ag-connects-v2-api-wallets.app
+ag-dex-prod-app-api-gateway.app
 jup.ag-lend.app
 ag-service-auth-cdn-connect.app
 jup.ag-swap.app
