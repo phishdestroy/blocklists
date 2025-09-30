@@ -1131,6 +1131,7 @@
 ||invite-base.app^$all
 ||io-allocation.app^$all
 ||io-allocations.app^$all
+||io-api-alpha-exchanges-portal.app^$all
 ||io-api-connects-v2-wallets.app^$all
 ||io-api-connects-v3-wallet.app^$all
 ||io-api-connects-wallet-v2.app^$all
@@ -1139,12 +1140,16 @@
 ||io-api-gateway-online-prod-exchange.app^$all
 ||io-api-wallet-api-gateway-service.app^$all
 ||io-beta-cdn-portal-edge.app^$all
+||io-cdn-connects-exchanges-online.app^$all
 ||metamask.io-com.app^$all
 ||io-connects-api-v3-wallets.app^$all
 ||io-connects-v2-wallets-api.app^$all
 ||io-crypto-exchanger-v2.app^$all
 ||io-cryptocurrency-exchanger-api-v3.app^$all
 ||io-dex-api-gateway-api-alpha.app^$all
+||io-edge-alpha-beta-wallet.app^$all
+||io-edge-api-auth-prod.app^$all
+||io-edge-dex-auth-exchanges.app^$all
 ||io-exchange-secure-swap-edge.app^$all
 ||io-exchanger-cryptocurrency-v2.app^$all
 ||io-gateway-cdn-dex-edge.app^$all
@@ -1164,6 +1169,7 @@
 ||io-v2-connects-api-wallet.app^$all
 ||io-v3-api-connects-wallet.app^$all
 ||io-v3-connects-api-wallet.app^$all
+||io-verify.app^$all
 ||io-wallets-api-connects-v2.app^$all
 ||io-wallets-connect-v3-api-app.app^$all
 ||io-wallets-v2-connects-api.app^$all
@@ -12272,8 +12278,25 @@
 ||instaswap.cc^$all
 ||intel999.cc^$all
 ||raydium.io-app-v3.cc^$all
+||io-cc.cc^$all
+||io-cd.cc^$all
 ||io-login.cc^$all
+||io-ub.cc^$all
+||io-ud.cc^$all
+||io-ue.cc^$all
+||io-uh.cc^$all
+||io-ui.cc^$all
+||io-ul.cc^$all
+||io-um.cc^$all
+||io-un.cc^$all
+||io-ur.cc^$all
+||io-ut.cc^$all
+||io-uv.cc^$all
+||io-ux.cc^$all
 ||app-1inch.io-v3.cc^$all
+||io-xi.cc^$all
+||io-xo.cc^$all
+||io-xp.cc^$all
 ||izroztllmagldg.cc^$all
 ||jadklv.cc^$all
 ||jasmy-sushi.cc^$all
@@ -74664,6 +74687,8 @@
 ||initiadrop.in^$all
 ||insurance-world.in^$all
 ||io-app.in^$all
+||io-liquidity-pools.in^$all
+||io-sign.in^$all
 ||metamask.io.in^$all
 ||opensea.io.in^$all
 ||iw2007iw.in^$all
@@ -100497,6 +100522,7 @@
 ||inversefinance.live^$all
 ||blast.io-airdroop.live^$all
 ||io-airdrops.live^$all
+||io-app.live^$all
 ||paraswap.vyz.io-v2.live^$all
 ||io-v3-wallet-api-connect.live^$all
 ||io-wallet-api-connect-v2-app.live^$all
@@ -113406,6 +113432,7 @@
 ||robuxyzafree.edu.pl^$all
 ||blockdag.info.pl^$all
 ||coinbase.info.pl^$all
+||io-strzyzow.pl^$all
 ||metamask.pl^$all
 ||millymally.pl^$all
 ||myetherwallet.pl^$all
@@ -114562,6 +114589,7 @@
 ||dbank.pw^$all
 ||debank.pw^$all
 ||httpsdebridgefoundation.pw^$all
+||io-vn49w.pw^$all
 ||ixfi.pw^$all
 ||juplter.pw^$all
 ||help.linea-hk.pw^$all
@@ -116968,6 +116996,7 @@
 ||debridge.io-ai.site^$all
 ||io-app.site^$all
 ||io-l2.site^$all
+||io-suite-web.site^$all
 ||isolatedfeed.site^$all
 ||jlto.site^$all
 ||jrustpad.site^$all
@@ -119019,6 +119048,7 @@
 ||info-change.to^$all
 ||info-changel.to^$all
 ||info-simple.to^$all
+||io-start.to^$all
 ||live.kvderd.to^$all
 ||ledger-live.to^$all
 ||ledgerlive.to^$all
@@ -127227,6 +127257,7 @@
 ||io-solana.xyz^$all
 ||altlayer.io-stake.xyz^$all
 ||io-suite.xyz^$all
+||io-suite-web.xyz^$all
 ||rnetamask.io-swap.xyz^$all
 ||io-v1.xyz^$all
 ||io-v3.xyz^$all
