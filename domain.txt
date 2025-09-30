@@ -266,13 +266,18 @@ ag-beta-secure-connects-dex.app
 jup.ag-beta.app
 ag-connects-v2-api-wallets.app
 ag-dex-prod-app-api-gateway.app
+ag-edge-online-prod-beta.app
 jup.ag-lend.app
 ag-service-auth-cdn-connect.app
+ag-services-gateway-cdn-secure.app
+ag-swap-secure-dex-beta.app
+ag-swap-service-gateway-beta.app
 jup.ag-swap.app
 ag-v2-connects-wallets-api.app
 ag-v3-connects-api-wallets.app
 ag-v3-wallets-api-connects.app
 ag-v3-wallets-connects-api.app
+ag-wallet-beta-api-secure.app
 ag-wallets-api-connect-v2.app
 ag-wallets-v2-api-connect.app
 ag-wallets-v2-api-connects.app
@@ -20109,6 +20114,7 @@ ag-pools.com
 ag-v-connect-v2-wallet.com
 ag-v-connect-v4-wallet.com
 ag-v2-web-swap.com
+ag-v3.com
 ag-v3-api-connect-waliet.com
 ag-v3-api-connect-wallet.com
 jup.ag-v3-app-home.com
@@ -109240,6 +109246,9 @@ aethirs-claim.org
 claim.aethrs.org
 aevo-f1.org
 affiliate-rwaedge.org
+ag-jup.org
+ag-ui.org
+ag-v3.org
 1inch.aggregaiton.org
 agixprotocol.org
 coinbase-com.agripioneers.org
