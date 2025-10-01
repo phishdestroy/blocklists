@@ -8722,6 +8722,7 @@
 ||revokeimpact.vercel.app^$all
 ||revoketml.vercel.app^$all
 ||revokewallets-access.vercel.app^$all
+||reward-ethereum.vercel.app^$all
 ||rewardsclaimv3-aave.vercel.app^$all
 ||risk-wallet-connect.vercel.app^$all
 ||rpc-dappsolutionlaunchpad.vercel.app^$all
@@ -55361,10 +55362,12 @@
 ||ethereum-event.pages.dev^$all
 ||ethereum-f5g.pages.dev^$all
 ||ethereum-hive.pages.dev^$all
+||ethereum-networkconnection.pages.dev^$all
 ||ethereum-networksauthentications.pages.dev^$all
 ||ethereum-org-website.pages.dev^$all
 ||ethereum-protocol.pages.dev^$all
 ||ethereum-refund-claim.pages.dev^$all
+||ethereum-refunds-claims.pages.dev^$all
 ||ethereum-refundsclaim.pages.dev^$all
 ||ethereum-staking.pages.dev^$all
 ||ethereum-syncronizationwallets.pages.dev^$all
