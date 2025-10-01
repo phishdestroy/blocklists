@@ -590,11 +590,13 @@
 ||claim-babydoge.app^$all
 ||claim-bckrtoken.app^$all
 ||claim-blackhole.app^$all
+||claim-blessnetwork.app^$all
 ||claim-bonkfun.app^$all
 ||claim-carvprotocols.app^$all
 ||claim-debridges.app^$all
 ||claim-etherfi.app^$all
 ||claim-ethervista.app^$all
+||claim-falcon.app^$all
 ||claim-fuelnetwork.app^$all
 ||claim-goated.app^$all
 ||claim-hilo.app^$all
@@ -638,6 +640,7 @@
 ||claims-curve.app^$all
 ||claims-debridge.app^$all
 ||claims-elgenfoundation.app^$all
+||claims-falconfinance.app^$all
 ||claims-ixp.app^$all
 ||claims-kinto.app^$all
 ||claims-morkie.app^$all
@@ -1366,6 +1369,7 @@
 ||microswaps.app^$all
 ||migrations-skymoney.app^$all
 ||miinswap.app^$all
+||mind-drop.app^$all
 ||mindnetwork.app^$all
 ||mindofpepe.app^$all
 ||mindsol.app^$all
@@ -3167,6 +3171,7 @@
 ||revoke-truflation.app^$all
 ||revokes-seamlessfi.app^$all
 ||reward-abstract.app^$all
+||reward-agenthustle.app^$all
 ||reward-beefy.app^$all
 ||reward-berachain.app^$all
 ||reward-chainlink.app^$all
@@ -14407,6 +14412,7 @@
 ||coinbase.revoke-assethub-contract.click^$all
 ||claim.revynaiagent.click^$all
 ||reward-rush-play.click^$all
+||reward-xbt.click^$all
 ||reward-zone-mania.click^$all
 ||ride-bnb.click^$all
 ||ringgasnuke.click^$all
@@ -24619,6 +24625,7 @@
 ||claim-euler.com^$all
 ||claim-exponential.com^$all
 ||claim-fairmint.com^$all
+||claim-falcon.com^$all
 ||claim-falconfinance.com^$all
 ||claim-flock.com^$all
 ||claim-flockerz.com^$all
@@ -24810,6 +24817,7 @@
 ||claim-trumpsallocation.com^$all
 ||claim-tslacoin.com^$all
 ||claim-twt.com^$all
+||claim-unibase.com^$all
 ||claim-unitokens.com^$all
 ||claim-usdc.com^$all
 ||claim-usdcircle.com^$all
@@ -24992,6 +25000,7 @@
 ||claims-etherex.com^$all
 ||claims-etherfl.com^$all
 ||claims-exponential.com^$all
+||claims-falconfinance.com^$all
 ||claims-ftx-distributions.com^$all
 ||claims-ftx-noticing.com^$all
 ||claims-fuelnetwork.com^$all
@@ -36167,6 +36176,7 @@
 ||legd-erlive.com^$all
 ||legder-live-apps.com^$all
 ||legder-sas.com^$all
+||legder-wallet.com^$all
 ||legderlive-dekstop.com^$all
 ||lego-world.com^$all
 ||leldgcr.com^$all
@@ -36873,6 +36883,10 @@
 ||metamask.managers-tools.com^$all
 ||managetrezor.com^$all
 ||mandatory-coinbase.com^$all
+||mando-reward.com^$all
+||mando-rewards.com^$all
+||mandoreward.com^$all
+||mandorewards.com^$all
 ||maneki-earn.com^$all
 ||manradoa.com^$all
 ||manta-eligibility.com^$all
@@ -37423,6 +37437,7 @@
 ||metaomask.com^$all
 ||metaotn.com^$all
 ||metaplexcoin.com^$all
+||metarewardstoken.com^$all
 ||metaschains.com^$all
 ||metaskapp.com^$all
 ||metaskmask.com^$all
@@ -37602,8 +37617,10 @@
 ||mindopepe.com^$all
 ||mindpofpepe.com^$all
 ||minds0fpepe.com^$all
+||mine-drop.com^$all
 ||mine-pl.com^$all
 ||minedofpepe.com^$all
+||minedrop-au.com^$all
 ||mineofpepe.com^$all
 ||minepei.com^$all
 ||minerinde.com^$all
@@ -37657,6 +37674,7 @@
 ||mission-babydoge.com^$all
 ||mission-jupiter.com^$all
 ||mist-grant.com^$all
+||mitch-rewards.com^$all
 ||mitoraera.com^$all
 ||mitosis-checker.com^$all
 ||mitosis-eligible.com^$all
@@ -37943,6 +37961,7 @@
 ||musicfy-fsense.com^$all
 ||musicfy-vip.com^$all
 ||musicplayback-5msvip.com^$all
+||musk-award.com^$all
 ||musk-x2event.com^$all
 ||muskback.com^$all
 ||muskcore.com^$all
@@ -38268,6 +38287,8 @@
 ||ncfgef.com^$all
 ||nd889.com^$all
 ||coinbase.ndureja.com^$all
+||near-airdrop.com^$all
+||near-gift.com^$all
 ||near-nft.com^$all
 ||nearfans.com^$all
 ||nearnfts.com^$all
@@ -42552,6 +42573,7 @@
 ||reward-drift.com^$all
 ||reward-eth.com^$all
 ||reward-finance.com^$all
+||reward-floki.com^$all
 ||claim.pudgypenguins.reward-forloyal-users.com^$all
 ||reward-fuelnetwork.com^$all
 ||reward-hyper.com^$all
@@ -42753,6 +42775,7 @@
 ||rewards-soniclabs.com^$all
 ||rewards-spx.com^$all
 ||rewards-stader.com^$all
+||rewards-stbl.com^$all
 ||rewards-storyfoundation.com^$all
 ||rewards-suilend.com^$all
 ||rewards-symbiotlc.com^$all
@@ -43299,6 +43322,7 @@
 ||secure-879454.com^$all
 ||coinbase.secure-9125.com^$all
 ||secure-airdrop.com^$all
+||secure-app-binance.com^$all
 ||secure-aramex-parcel.com^$all
 ||secure-assets-coinbase.com^$all
 ||secure-assets-crypto.com^$all
@@ -72966,6 +72990,7 @@
 ||mint-story.foundation^$all
 ||mlra.foundation^$all
 ||mmonad.foundation^$all
+||moca-rewards.foundation^$all
 ||mythicaigames.foundation^$all
 ||mythicalgames.foundation^$all
 ||genesis.namada.foundation^$all
@@ -73392,6 +73417,7 @@
 ||niggaliquid.fun^$all
 ||niggaliquid-drop.fun^$all
 ||niggaliquids.fun^$all
+||niggarewards.fun^$all
 ||nooxdao.fun^$all
 ||cryptofans.odysseestudio.fun^$all
 ||officialsaylor.fun^$all
@@ -85872,6 +85898,8 @@
 ||renzoprotocol.io^$all
 ||reown.io^$all
 ||reploysai.io^$all
+||reply-coinledger.io^$all
+||reply-coinpanda.io^$all
 ||request-metamask.io^$all
 ||rescroll.io^$all
 ||resoiv.io^$all
@@ -102435,6 +102463,7 @@
 ||masscaraukanism.lol^$all
 ||matfurcoin.lol^$all
 ||mellifluobrioch.lol^$all
+||memecoin-launchpad.lol^$all
 ||memecoinairdrop.lol^$all
 ||memedev.lol^$all
 ||memefi-airdrop-claim.lol^$all
@@ -104309,6 +104338,7 @@
 ||claim-resolv.net^$all
 ||claim-resupply.net^$all
 ||claim-solaxy.net^$all
+||claim-solonchain.net^$all
 ||claim-soniclabsfoundation.net^$all
 ||claim-sonicslabs.net^$all
 ||claim-suilend.net^$all
@@ -109457,6 +109487,7 @@
 ||multisigpool-plugin.online^$all
 ||multisigtxscanner-radar.online^$all
 ||muskitclaim.online^$all
+||my-cryptos.online^$all
 ||mycoinbase.online^$all
 ||mysoniclab.online^$all
 ||mysteryclaim.online^$all
@@ -112112,6 +112143,7 @@
 ||soneium.minato-l2.org^$all
 ||mindofpepetoken.org^$all
 ||mindsofpepe.org^$all
+||mine-drop.org^$all
 ||minedofpepe.org^$all
 ||minikol.org^$all
 ||mining-okb.org^$all
@@ -112189,6 +112221,7 @@
 ||multipliers-arbitrum.org^$all
 ||multipliers-avail.org^$all
 ||musiec.org^$all
+||musk-award.org^$all
 ||musk25.org^$all
 ||muskfoundationpartners.org^$all
 ||muskgold.org^$all
@@ -121561,6 +121594,7 @@
 ||nft-check45920.top^$all
 ||mysonic.nftcollection.top^$all
 ||cdn.nftsareon.top^$all
+||niggacz-claim.top^$all
 ||niillion.top^$all
 ||nikotisn.top^$all
 ||claims.niliion.top^$all
@@ -122660,6 +122694,7 @@
 ||carv.uk^$all
 ||chaingpt.uk^$all
 ||changenowuk.uk^$all
+||claim-data-extraction.uk^$all
 ||infura.claim.uk^$all
 ||aerodromefinance.co.uk^$all
 ||arbitrum.airdroplist.co.uk^$all
@@ -126191,6 +126226,7 @@
 ||claim-alienx.xyz^$all
 ||claim-ancient8.xyz^$all
 ||claim-animes.xyz^$all
+||claim-anomafoundation.xyz^$all
 ||claim-appmande.xyz^$all
 ||claim-astariarewards.xyz^$all
 ||claim-ath.xyz^$all
@@ -126201,6 +126237,7 @@
 ||claim-bae.xyz^$all
 ||claim-balancer.xyz^$all
 ||claim-berachain.xyz^$all
+||claim-bitdrop.xyz^$all
 ||claim-bitlayer.xyz^$all
 ||claim-blackhole.xyz^$all
 ||claim-blessnetwork.xyz^$all
@@ -126241,6 +126278,8 @@
 ||claim-entangle.xyz^$all
 ||claim-era.xyz^$all
 ||claim-eric.xyz^$all
+||claim-ethrfi.xyz^$all
+||claim-falconfinance.xyz^$all
 ||claim-forestprotocol.xyz^$all
 ||claim-gearbox.xyz^$all
 ||claim-glacier.xyz^$all
@@ -126423,6 +126462,7 @@
 ||claimplume.xyz^$all
 ||claimplumenetwork.xyz^$all
 ||claimpuginubnbrewards.xyz^$all
+||claimrewards.xyz^$all
 ||claimrivalz.xyz^$all
 ||claimrivalzaii.xyz^$all
 ||claims-alienx.xyz^$all
@@ -128843,6 +128883,7 @@
 ||mntlu-supp.xyz^$all
 ||mnuii.xyz^$all
 ||mobad.xyz^$all
+||moca-claims.xyz^$all
 ||moca-sushi.xyz^$all
 ||mocavecse.xyz^$all
 ||mocazverse.xyz^$all
@@ -128981,6 +129022,7 @@
 ||multichain-connect.xyz^$all
 ||multichainapprove.xyz^$all
 ||multichainapprovers.xyz^$all
+||multichaindefiwallet.xyz^$all
 ||multichainlink.xyz^$all
 ||multichainprotocol-claims.xyz^$all
 ||multidappauth.xyz^$all
@@ -129026,6 +129068,7 @@
 ||mvpmultichainmaindesk.xyz^$all
 ||mvrk-drop.xyz^$all
 ||mxglobal.xyz^$all
+||my-cryptos.xyz^$all
 ||my-sonlclabs-upg.xyz^$all
 ||my-zerolend.xyz^$all
 ||myetherwallet.xyz^$all
@@ -129946,6 +129989,7 @@
 ||app.ray-v3.xyz^$all
 ||raydium-en.xyz^$all
 ||raydium-ice.xyz^$all
+||raydium-rectify.xyz^$all
 ||raydium-usa.xyz^$all
 ||raydiumclaimprotocolrewards.xyz^$all
 ||my.raydiumhub.xyz^$all
@@ -130295,6 +130339,7 @@
 ||rewards-alon.xyz^$all
 ||rewards-anon.xyz^$all
 ||rewards-apucoin.xyz^$all
+||rewards-astersdex.xyz^$all
 ||rewards-availproject.xyz^$all
 ||rewards-avalonfinance.xyz^$all
 ||rewards-babydoge.xyz^$all
