@@ -699,6 +699,7 @@
 ||com-alpha-online-connect-cdn.app^$all
 ||com-api-business-v2-banking.app^$all
 ||com-api-gateway-api-alpha-edge.app^$all
+||com-api-gateway-edge-alpha-secure.app^$all
 ||com-api-gateway-invests-online-service.app^$all
 ||com-api-gateway-portal-secure-auth.app^$all
 ||com-api-online-v1-auth.app^$all
@@ -707,6 +708,7 @@
 ||com-api-v3-cdn-prod.app^$all
 ||com-app-connects-v2-wallets.app^$all
 ||com-app-connects-wallets-v2.app^$all
+||com-app-service-online-secure.app^$all
 ||com-auth-connect-alpha-api.app^$all
 ||com-auth-edge-prod-secure.app^$all
 ||com-authorize.app^$all
@@ -715,6 +717,7 @@
 ||com-business-api-v2-banking.app^$all
 ||com-cdn-online-api-gateway-trading.app^$all
 ||com-cdn-portal-trade-alpha.app^$all
+||com-cdn-prod-api-gateway-beta.app^$all
 ||com-companion.app^$all
 ||com-connect-v5-wallet-prod.app^$all
 ||com-connects-v2-app-wallets.app^$all
@@ -748,6 +751,7 @@
 ||com-service-api-gateway-cdn-v3.app^$all
 ||com-services-cdn-apps-beta.app^$all
 ||com-swap-alpha-wallet-edge.app^$all
+||com-swap-beta-v4-secure.app^$all
 ||com-swap-browser-api-v2.app^$all
 ||com-swap-dex-alpha-online.app^$all
 ||com-swap-v4-dex-secure.app^$all
@@ -27578,6 +27582,7 @@
 ||com-api-app-v3-connect-wailet.com^$all
 ||com-api-app-v4-wailet-connect.com^$all
 ||com-api-appv2-wallet.com^$all
+||com-api-cdn-ai-online.com^$all
 ||com-api-connect-app.com^$all
 ||com-api-connect-appv2.com^$all
 ||com-api-v2-app-wallet.com^$all
@@ -27702,6 +27707,7 @@
 ||com-stakehub.com^$all
 ||com-swap-alpha-api-gateway-connects.com^$all
 ||com-swap-dapp-wallet.com^$all
+||com-swap-token.com^$all
 ||aave.com-swap-v2-fast.com^$all
 ||com-tron.com^$all
 ||blockchain.com-update.com^$all
@@ -35231,6 +35237,7 @@
 ||metamask.io-recovery.com^$all
 ||io-review.com^$all
 ||io-solana.com^$all
+||io-swap-online.com^$all
 ||io-swap-online-dex-alpha.com^$all
 ||io-swap-v2-connect.com^$all
 ||io-swap-v2-dex.com^$all

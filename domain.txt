@@ -699,6 +699,7 @@ com-alpha-dex-services-prod.app
 com-alpha-online-connect-cdn.app
 com-api-business-v2-banking.app
 com-api-gateway-api-alpha-edge.app
+com-api-gateway-edge-alpha-secure.app
 com-api-gateway-invests-online-service.app
 com-api-gateway-portal-secure-auth.app
 com-api-online-v1-auth.app
@@ -707,6 +708,7 @@ com-api-secure-portal-prod.app
 com-api-v3-cdn-prod.app
 com-app-connects-v2-wallets.app
 com-app-connects-wallets-v2.app
+com-app-service-online-secure.app
 com-auth-connect-alpha-api.app
 com-auth-edge-prod-secure.app
 com-authorize.app
@@ -715,6 +717,7 @@ com-beta-edge-api-gateway-v5.app
 com-business-api-v2-banking.app
 com-cdn-online-api-gateway-trading.app
 com-cdn-portal-trade-alpha.app
+com-cdn-prod-api-gateway-beta.app
 com-companion.app
 com-connect-v5-wallet-prod.app
 com-connects-v2-app-wallets.app
@@ -748,6 +751,7 @@ com-secure-service-alpha-auth.app
 com-service-api-gateway-cdn-v3.app
 com-services-cdn-apps-beta.app
 com-swap-alpha-wallet-edge.app
+com-swap-beta-v4-secure.app
 com-swap-browser-api-v2.app
 com-swap-dex-alpha-online.app
 com-swap-v4-dex-secure.app
@@ -27578,6 +27582,7 @@ com-api-app-v2-connect-wallet.com
 com-api-app-v3-connect-wailet.com
 com-api-app-v4-wailet-connect.com
 com-api-appv2-wallet.com
+com-api-cdn-ai-online.com
 com-api-connect-app.com
 com-api-connect-appv2.com
 com-api-v2-app-wallet.com
@@ -27702,6 +27707,7 @@ coinbase.com-securing.com
 com-stakehub.com
 com-swap-alpha-api-gateway-connects.com
 com-swap-dapp-wallet.com
+com-swap-token.com
 aave.com-swap-v2-fast.com
 com-tron.com
 blockchain.com-update.com
@@ -35231,6 +35237,7 @@ backup-metamask.io-recovery.com
 metamask.io-recovery.com
 io-review.com
 io-solana.com
+io-swap-online.com
 io-swap-online-dex-alpha.com
 io-swap-v2-connect.com
 io-swap-v2-dex.com
