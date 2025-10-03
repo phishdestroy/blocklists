@@ -549,6 +549,8 @@
 ||centralsyncingswifts.app^$all
 ||cetusbridge.app^$all
 ||chainbera.app^$all
+||chainiink-rewards.app^$all
+||chainlink-expansion.app^$all
 ||chainlink-rewards.app^$all
 ||changenow-io.app^$all
 ||check-berachain.app^$all
@@ -6576,6 +6578,8 @@
 ||author-dapp.vercel.app^$all
 ||automation-ui-feature-front-6789-cll.vercel.app^$all
 ||automation-ui-fix-unit-tests-cll.vercel.app^$all
+||automation-ui-front-6711-fix-transaction-mod-cll.vercel.app^$all
+||automation-ui-front-6764-platform-navigation-cll.vercel.app^$all
 ||automation-ui-sish-mint-rpc-cll.vercel.app^$all
 ||avaai-iota.vercel.app^$all
 ||avabase.vercel.app^$all
@@ -6716,7 +6720,17 @@
 ||ccip-3nfmf988r-chainlinklabs.vercel.app^$all
 ||ccip-5hke246t3-chainlinklabs.vercel.app^$all
 ||ccip-6yqrd5xeu-chainlinklabs.vercel.app^$all
+||ccip-80n6havdj-chainlinklabs.vercel.app^$all
+||ccip-84mxd8y4b-chainlinklabs.vercel.app^$all
+||ccip-8wvuyrjqd-chainlinklabs.vercel.app^$all
+||ccip-98rebcytj-chainlinklabs.vercel.app^$all
 ||ccip-a4rioerz4-chainlinklabs.vercel.app^$all
+||ccip-bdsfik2fo-chainlinklabs.vercel.app^$all
+||ccip-h1gdymbtw-chainlinklabs.vercel.app^$all
+||ccip-jmpshsxwq-chainlinklabs.vercel.app^$all
+||ccip-kd5svbwzo-chainlinklabs.vercel.app^$all
+||ccip-mzxqtvevc-chainlinklabs.vercel.app^$all
+||ccip-ntugnb2k7-chainlinklabs.vercel.app^$all
 ||celestia-cirdrop-checker.vercel.app^$all
 ||celestia-orbit.vercel.app^$all
 ||celestiadexapp.vercel.app^$all
@@ -14106,9 +14120,11 @@
 ||ch-crypto-exchange-cc.click^$all
 ||zeta.chain.click^$all
 ||chainboost.click^$all
+||cdn.chainlink1.click^$all
 ||ww1.chainlink1.click^$all
 ||ww7.chainlink1.click^$all
 ||ww1.chainlink3.click^$all
+||ww1.chainlink7.click^$all
 ||ww7.chainlink7.click^$all
 ||changelly.click^$all
 ||check-incentiv.click^$all
@@ -24394,12 +24410,14 @@
 ||chainlink-airdrops.com^$all
 ||chainlink-allocation.com^$all
 ||chainlink-ceo.com^$all
+||chainlink-expansion.com^$all
 ||chainlink-give.com^$all
 ||chainlink-lab.com^$all
 ||chainlink-labs.com^$all
 ||chainlink-rewards.com^$all
 ||chainlink-tcg.com^$all
 ||chainlink-web3dev.com^$all
+||chainlinkcrypto.com^$all
 ||chainlinkdrop.com^$all
 ||chainlinketf.com^$all
 ||chainlinkfitting.com^$all
@@ -24407,8 +24425,11 @@
 ||chainlinkk.com^$all
 ||chainlinknews.com^$all
 ||chainlinknodes.com^$all
+||chainlinkpcp.com^$all
+||chainlinkprice.com^$all
 ||allocation.chainlinkprotocolio.com^$all
 ||chainlinkvalue.com^$all
+||chainlinkwork.com^$all
 ||chainllist.com^$all
 ||chainlynxs.com^$all
 ||chainmultiversepages.com^$all
@@ -30475,6 +30496,7 @@
 ||trade.essentialstake.com^$all
 ||trade.essentialxchange.com^$all
 ||essenzafemme.com^$all
+||establish-chainlink.com^$all
 ||estanciapuestoviejo.com^$all
 ||estellaroy.com^$all
 ||estlatex.com^$all
@@ -48257,6 +48279,7 @@
 ||v3-bancor.com^$all
 ||v3-bouncebit.com^$all
 ||arbitrum.v3-bridge.com^$all
+||v3-chainlink.com^$all
 ||v3-combound.com^$all
 ||aave.v3-core.com^$all
 ||v3-cow-swap.com^$all
@@ -74520,6 +74543,7 @@
 ||blockdag-dashboard.help^$all
 ||blockdag-portal.help^$all
 ||bluefinnodes.help^$all
+||buychainlink.help^$all
 ||bybit.help^$all
 ||bybit-audit.help^$all
 ||checkwallet.help^$all
@@ -76256,6 +76280,7 @@
 ||centralsyncing.info^$all
 ||centrifugeapp.info^$all
 ||chaihaware.info^$all
+||chainlink-network.info^$all
 ||allocation.chainlinkprotocol.info^$all
 ||chaonimasanonucas.info^$all
 ||checkbsc.info^$all
@@ -77431,6 +77456,7 @@
 ||cerv.io^$all
 ||cfxnetwork.io^$all
 ||chain-link.io^$all
+||chainlink-app.io^$all
 ||deepseek.chainpoint.io^$all
 ||chalngpt.io^$all
 ||changenovv.io^$all
@@ -100841,6 +100867,7 @@
 ||alcazar-moonmultidex.link^$all
 ||altlayer.link^$all
 ||aml-checker-pro.link^$all
+||app-chain.link^$all
 ||app-sushi.link^$all
 ||bybi75-alternate.app.link^$all
 ||changenow.app.link^$all
@@ -100857,7 +100884,9 @@
 ||bridgeclaim.link^$all
 ||catizen.link^$all
 ||centricmigrationclaim.link^$all
+||chain-rewards.link^$all
 ||chainlink-rewards.link^$all
+||chajn.link^$all
 ||chaln.link^$all
 ||cherrymint.link^$all
 ||claim-chain.link^$all
@@ -109658,8 +109687,9 @@
 ||cgpt-v2.online^$all
 ||www.cgptclaim-omnia.online^$all
 ||chaingptairdrop.online^$all
-||7.chainlink1.online^$all
-||db.chainlink1.online^$all
+||chainlink1.online^$all
+||7.chainlink3.online^$all
+||ap.chainlink3.online^$all
 ||chainlinklabs.online^$all
 ||chainlinkrewards.online^$all
 ||chainlinksecurity.online^$all
@@ -111262,6 +111292,7 @@
 ||arbitrum-http.k8s1.aviproduction.org^$all
 ||award-lido.org^$all
 ||ojti6n3xap.award-linktoken.org^$all
+||x1da3aj22b.award-linktoken.org^$all
 ||award-ondo.org^$all
 ||award-sand.org^$all
 ||award-shibfoundation.org^$all
@@ -126958,6 +126989,7 @@
 ||chainflip-mainnet.xyz^$all
 ||chainlayers.xyz^$all
 ||chainlink-stake.xyz^$all
+||chainlink-v2.xyz^$all
 ||chainlinkbank.xyz^$all
 ||chainlinkdrop.xyz^$all
 ||airdrop.chainlinkdrops.xyz^$all
