@@ -756,6 +756,7 @@
 ||com-portal-service-api-app.app^$all
 ||com-prod-api-gateway-edge-brokers.app^$all
 ||com-prod-beta-gateway-v5.app^$all
+||sushi.com-prod-edge-alpha-api-gateway.app^$all
 ||com-prod-v1-auth-portal.app^$all
 ||com-secure-api-gateway-api-edge.app^$all
 ||com-secure-connects-auth-v1.app^$all
@@ -43987,6 +43988,7 @@
 ||sender-coinbase.com^$all
 ||sending-coinbase.com^$all
 ||sendout-coinbase.com^$all
+||app.sendqrid.com^$all
 ||sendrealvision.com^$all
 ||sends-coinbase.com^$all
 ||sendsafe-coinbase.com^$all
