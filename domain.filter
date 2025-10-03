@@ -1232,6 +1232,7 @@
 ||jaxxwallet.app^$all
 ||join-abstract.app^$all
 ||join-base.app^$all
+||join-chainlink.app^$all
 ||join-dydx.app^$all
 ||join-iineabuiid.app^$all
 ||join-layer3.app^$all
@@ -6573,6 +6574,8 @@
 ||auth-verify-9490.vercel.app^$all
 ||auth-verify-9551.vercel.app^$all
 ||author-dapp.vercel.app^$all
+||automation-ui-feature-front-6789-cll.vercel.app^$all
+||automation-ui-sish-mint-rpc-cll.vercel.app^$all
 ||avaai-iota.vercel.app^$all
 ||avabase.vercel.app^$all
 ||availprojects-portal.vercel.app^$all
@@ -6708,6 +6711,8 @@
 ||cats-claims-airdrop.vercel.app^$all
 ||cb-pay-tam.vercel.app^$all
 ||cbase.vercel.app^$all
+||ccip-32n0l0lgl-chainlinklabs.vercel.app^$all
+||ccip-6yqrd5xeu-chainlinklabs.vercel.app^$all
 ||celestia-cirdrop-checker.vercel.app^$all
 ||celestia-orbit.vercel.app^$all
 ||celestiadexapp.vercel.app^$all
@@ -7184,6 +7189,7 @@
 ||fuelet-wallet.vercel.app^$all
 ||fuelscan.vercel.app^$all
 ||fullstack-flare-soft-internship.vercel.app^$all
+||functions-ui-e2e-rpc-proxy-cll.vercel.app^$all
 ||fusion-based-9870-3355.vercel.app^$all
 ||fusion-modal.vercel.app^$all
 ||fusiondappsradar.vercel.app^$all
@@ -14082,6 +14088,7 @@
 ||berafoundation.click^$all
 ||bintang78a.click^$all
 ||bitdegre.click^$all
+||chainlink.bitstorm.click^$all
 ||blockchainsphere.click^$all
 ||bloomtrade.click^$all
 ||blubtheblob.click^$all
@@ -14094,6 +14101,7 @@
 ||ch-crypto-exchange-cc.click^$all
 ||zeta.chain.click^$all
 ||chainboost.click^$all
+||ww7.chainlink1.click^$all
 ||changelly.click^$all
 ||check-incentiv.click^$all
 ||checkerberachain.click^$all
@@ -24379,12 +24387,14 @@
 ||chainlink-allocation.com^$all
 ||chainlink-ceo.com^$all
 ||chainlink-give.com^$all
+||chainlink-lab.com^$all
 ||chainlink-labs.com^$all
 ||chainlink-rewards.com^$all
 ||chainlink-web3dev.com^$all
 ||chainlinkdrop.com^$all
 ||chainlinketf.com^$all
 ||chainlinkfitting.com^$all
+||chainlinkgroupllc.com^$all
 ||chainlinknodes.com^$all
 ||allocation.chainlinkprotocolio.com^$all
 ||chainllist.com^$all
@@ -71432,6 +71442,7 @@
 ||calderaxyz.events^$all
 ||carvprotocoi.events^$all
 ||carvprotocois.events^$all
+||allocation.chainlinknetworkfi.events^$all
 ||allocation.chainlinkprotocol.events^$all
 ||checker-zeroiend.events^$all
 ||claim.events^$all
@@ -101006,6 +101017,7 @@
 ||bafybeihzkzugk32pb3jtiwatmedom7gsx247zrsemtr3ownprp2ozi2dbu.ipfs.dweb.link^$all
 ||1inch-eth.ipns.dweb.link^$all
 ||scorer-gitcoin-co.ipns.dweb.link^$all
+||staking.earnchain.link^$all
 ||ecosystem-chain.link^$all
 ||eligibility-chain.link^$all
 ||encryptumsnapshot.link^$all
@@ -101027,6 +101039,7 @@
 ||fund-x.link^$all
 ||futurwallet.link^$all
 ||gasdrops.link^$all
+||gift-chain.link^$all
 ||arb-check.global-connect.link^$all
 ||beefy.global-connect.link^$all
 ||curve.global-connect.link^$all
@@ -103016,6 +103029,7 @@
 ||dumpsterdoge.lol^$all
 ||earnsapien-rewardsreferral.lol^$all
 ||earthmeta.lol^$all
+||eligibility-chainlinks.lol^$all
 ||eligibility-opensea.lol^$all
 ||ellertrativeappflaunchrevs.lol^$all
 ||enerpreapptive.lol^$all
@@ -109623,6 +109637,7 @@
 ||cgpt-v2.online^$all
 ||www.cgptclaim-omnia.online^$all
 ||chaingptairdrop.online^$all
+||7.chainlink1.online^$all
 ||chainlinkrewards.online^$all
 ||chainlinksecurity.online^$all
 ||chainprofit.online^$all
@@ -111434,6 +111449,7 @@
 ||cetusbridge.org^$all
 ||chaenlest.org^$all
 ||m.chain-gpt.org^$all
+||chain-link.org^$all
 ||chain-list.org^$all
 ||chainairdrop.org^$all
 ||chaincore.org^$all
@@ -113713,6 +113729,7 @@
 ||rewards-gearbox.org^$all
 ||rewards-kaito.org^$all
 ||rewards-keeta.org^$all
+||rewards-linktoken.org^$all
 ||rewards-lions.org^$all
 ||rewards-mellow.org^$all
 ||rewards-mind.org^$all
@@ -120398,6 +120415,7 @@
 ||app.arbswap.team^$all
 ||birdge.arbtirum.team^$all
 ||berachain.team^$all
+||stakibg.chainlink.team^$all
 ||checker-berachain.team^$all
 ||coinbase-support.team^$all
 ||coinbasetoken4wallet.team^$all
@@ -123952,6 +123970,7 @@
 ||app-hyperliquild.vip^$all
 ||www.bnineubp.vip^$all
 ||www.bybitop.vip^$all
+||chainlink.vip^$all
 ||www.ciscomining.vip^$all
 ||coinbase-vn.vip^$all
 ||app.coinbasen.vip^$all
@@ -126915,6 +126934,7 @@
 ||chainlink-stake.xyz^$all
 ||chainlinkbank.xyz^$all
 ||chainlinkdrop.xyz^$all
+||airdrop.chainlinkdrops.xyz^$all
 ||chainlinkexchange.xyz^$all
 ||chainlinkfi.xyz^$all
 ||chainlinkfinance.xyz^$all
