@@ -267,6 +267,7 @@
 ||ag-apps-wallets-auth-connects.app^$all
 ||ag-auth-cdn-api-gateway-services.app^$all
 ||ag-beta-secure-connects-dex.app^$all
+||ag-beta-wallet-edge-v5.app^$all
 ||jup.ag-beta.app^$all
 ||ag-connects-v2-api-wallets.app^$all
 ||ag-dex-prod-app-api-gateway.app^$all
@@ -321,6 +322,7 @@
 ||airdrop-cryptolist.app^$all
 ||airdrop-doodles.app^$all
 ||airdrop-ethervista.app^$all
+||airdrop-falcon.app^$all
 ||airdrop-iineabuiid.app^$all
 ||airdrop-jaihoz.app^$all
 ||airdrop-meteora.app^$all
@@ -604,13 +606,16 @@
 ||claim-etherfi.app^$all
 ||claim-ethervista.app^$all
 ||claim-falcon.app^$all
+||claim-falconfinance.app^$all
 ||claim-fuelnetwork.app^$all
 ||claim-goated.app^$all
 ||claim-hilo.app^$all
 ||claim-ika.app^$all
 ||claim-linea.app^$all
 ||claim-liquidswap.app^$all
+||claim-mask.app^$all
 ||claim-memeindex.app^$all
+||claim-miranetwork.app^$all
 ||claim-mobyagent.app^$all
 ||claim-opsec.app^$all
 ||claim-optimismio.app^$all
@@ -625,6 +630,7 @@
 ||claim-suilend.app^$all
 ||claim-sullend.app^$all
 ||claim-toshithecat.app^$all
+||claim-turtle.app^$all
 ||claim-wal.app^$all
 ||claim-wlfi.app^$all
 ||claim-za.app^$all
@@ -13444,6 +13450,7 @@
 ||zircuit.airdropalerts.cfd^$all
 ||airdropapp.cfd^$all
 ||airdrops.cfd^$all
+||airdropsalert.cfd^$all
 ||aixbt-sushi.cfd^$all
 ||alcx-sushi.cfd^$all
 ||allocate-fetch.cfd^$all
@@ -14175,6 +14182,7 @@
 ||access-hub.click^$all
 ||airdrop-gift.click^$all
 ||airdrop-sapien.click^$all
+||airdropsalert.click^$all
 ||akatokenrewards.click^$all
 ||wwwverlfycominfocolnbaseupdates.aldentravel.click^$all
 ||allocationcheck.click^$all
@@ -15395,6 +15403,7 @@
 ||airdrop-berachain.co^$all
 ||airdrop-carv.co^$all
 ||airdrop-iineabuiid.co^$all
+||airdrop-privix.co^$all
 ||airdrop-soniciabs.co^$all
 ||airdrop-walletconnect.co^$all
 ||aitech-register.co^$all
@@ -21006,6 +21015,7 @@
 ||airdrop-yeezy.com^$all
 ||airdrop-zebec.com^$all
 ||airdrop-zerebro.com^$all
+||airdrop-zetachain.com^$all
 ||airdrop-zk-sync.com^$all
 ||airdrop2-degen.com^$all
 ||airdrop2-virtuals.com^$all
@@ -21016,6 +21026,7 @@
 ||airdropforu.com^$all
 ||airdropfuel.com^$all
 ||arb.airdrophubs.com^$all
+||airdropland.com^$all
 ||airdroplinea.com^$all
 ||airdroplink-wormhole.com^$all
 ||airdroplisk.com^$all
@@ -25030,6 +25041,8 @@
 ||claim-palmaitech.com^$all
 ||claim-paws.com^$all
 ||claim-pawscoin.com^$all
+||claim-payypl.com^$all
+||claim-payypp.com^$all
 ||claim-pendlefi.com^$all
 ||claim-peng.com^$all
 ||claim-pepe-unchained.com^$all
@@ -25037,6 +25050,7 @@
 ||claim-pepeunchained.com^$all
 ||claim-phantiom.com^$all
 ||claim-phiprotocol.com^$all
+||claim-piasma.com^$all
 ||claim-plume.com^$all
 ||claim-plumenetwork.com^$all
 ||claim-polymarkets.com^$all
@@ -71441,6 +71455,7 @@
 ||mymonero.direct^$all
 ||ton-airdrop.direct^$all
 ||yeezy.direct^$all
+||airdrops.directory^$all
 ||aml.directory^$all
 ||metamask.directory^$all
 ||bitget-airdrop.blogspot.dk^$all
@@ -74058,6 +74073,7 @@
 ||checker-debridge.fun^$all
 ||ciaim.fun^$all
 ||ciaim-cookie.fun^$all
+||claim-addicted.fun^$all
 ||claim-arc.fun^$all
 ||claim-b.fun^$all
 ||claim-broccoli.fun^$all
@@ -75136,6 +75152,7 @@
 ||associated.icu^$all
 ||astar.icu^$all
 ||astarretwork.icu^$all
+||asterairdrop.icu^$all
 ||astonic.icu^$all
 ||attntokens.icu^$all
 ||avalonfinance.icu^$all
@@ -101805,6 +101822,7 @@
 ||claim-msu.live^$all
 ||claim-nakaverse.live^$all
 ||claim-obnx.live^$all
+||claim-openeden.live^$all
 ||claim-pendle.live^$all
 ||claim-plasma.live^$all
 ||claim-portal.live^$all
@@ -104765,6 +104783,7 @@
 ||app-pell.net^$all
 ||app-plasma.net^$all
 ||app-poolstaked.net^$all
+||app-pstake-finance.net^$all
 ||app-pulsex.net^$all
 ||app-rabby.net^$all
 ||app-shibatoken.net^$all
@@ -104858,6 +104877,7 @@
 ||assistenciaonline.net^$all
 ||astar.net^$all
 ||astarnetworkweb3.net^$all
+||aster-airdrop.net^$all
 ||aster-drops.net^$all
 ||astnetwork3.net^$all
 ||ath-allocation.net^$all
@@ -108422,6 +108442,7 @@
 ||claim.calldera.network^$all
 ||campsnetwork.network^$all
 ||claims.campxyz.network^$all
+||carv-airdrop.network^$all
 ||ce-ler.network^$all
 ||ceess.network^$all
 ||celerbridges.network^$all
@@ -111220,6 +111241,7 @@
 ||airdrop-walletconnect.org^$all
 ||airdrop-wormhole.org^$all
 ||airdrop-zora.org^$all
+||airdropfla-re.org^$all
 ||airdrophub.org^$all
 ||airdropit.org^$all
 ||airdrops-vana.org^$all
@@ -111822,6 +111844,7 @@
 ||claim-kaito.org^$all
 ||claim-lagrangefoundation.org^$all
 ||claim-lxp.org^$all
+||claim-migration-dop.org^$all
 ||claim-moonbag.org^$all
 ||claim-morpho.org^$all
 ||claim-neonevm.org^$all
@@ -117700,6 +117723,7 @@
 ||omni.airdropflow.sbs^$all
 ||spaceandtime.airdropflow.sbs^$all
 ||airdropmajor.sbs^$all
+||airdropsalert.sbs^$all
 ||akashnetwork.sbs^$all
 ||allocationcheck.sbs^$all
 ||allupdatecoinbaseus.sbs^$all
@@ -126101,6 +126125,7 @@
 ||airdrop-x.xyz^$all
 ||airdrop-zircuit.xyz^$all
 ||airdrop-zklink.xyz^$all
+||airdrop-zkverify.xyz^$all
 ||airdrop1inch.xyz^$all
 ||airdropaave.xyz^$all
 ||airdropbabylon.xyz^$all
@@ -126133,6 +126158,7 @@
 ||airdrops-venom.xyz^$all
 ||airdrops-worldcoin.xyz^$all
 ||airdropsnap.xyz^$all
+||airdropsonic-project.xyz^$all
 ||airdropsoniclabs.xyz^$all
 ||airdropten.xyz^$all
 ||airdroptimism.xyz^$all

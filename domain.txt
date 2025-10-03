@@ -267,6 +267,7 @@ ag-api-wallets-v3-connect.app
 ag-apps-wallets-auth-connects.app
 ag-auth-cdn-api-gateway-services.app
 ag-beta-secure-connects-dex.app
+ag-beta-wallet-edge-v5.app
 jup.ag-beta.app
 ag-connects-v2-api-wallets.app
 ag-dex-prod-app-api-gateway.app
@@ -321,6 +322,7 @@ airdrop-carv.app
 airdrop-cryptolist.app
 airdrop-doodles.app
 airdrop-ethervista.app
+airdrop-falcon.app
 airdrop-iineabuiid.app
 airdrop-jaihoz.app
 airdrop-meteora.app
@@ -604,13 +606,16 @@ claim-debridges.app
 claim-etherfi.app
 claim-ethervista.app
 claim-falcon.app
+claim-falconfinance.app
 claim-fuelnetwork.app
 claim-goated.app
 claim-hilo.app
 claim-ika.app
 claim-linea.app
 claim-liquidswap.app
+claim-mask.app
 claim-memeindex.app
+claim-miranetwork.app
 claim-mobyagent.app
 claim-opsec.app
 claim-optimismio.app
@@ -625,6 +630,7 @@ claim-sophon.app
 claim-suilend.app
 claim-sullend.app
 claim-toshithecat.app
+claim-turtle.app
 claim-wal.app
 claim-wlfi.app
 claim-za.app
@@ -13444,6 +13450,7 @@ zeebu.airdropalerts.cfd
 zircuit.airdropalerts.cfd
 airdropapp.cfd
 airdrops.cfd
+airdropsalert.cfd
 aixbt-sushi.cfd
 alcx-sushi.cfd
 allocate-fetch.cfd
@@ -14175,6 +14182,7 @@ abstractchainlive.click
 access-hub.click
 airdrop-gift.click
 airdrop-sapien.click
+airdropsalert.click
 akatokenrewards.click
 wwwverlfycominfocolnbaseupdates.aldentravel.click
 allocationcheck.click
@@ -15395,6 +15403,7 @@ airdrop-0xscniclab.co
 airdrop-berachain.co
 airdrop-carv.co
 airdrop-iineabuiid.co
+airdrop-privix.co
 airdrop-soniciabs.co
 airdrop-walletconnect.co
 aitech-register.co
@@ -21006,6 +21015,7 @@ airdrop-xyzverse.com
 airdrop-yeezy.com
 airdrop-zebec.com
 airdrop-zerebro.com
+airdrop-zetachain.com
 airdrop-zk-sync.com
 airdrop2-degen.com
 airdrop2-virtuals.com
@@ -21016,6 +21026,7 @@ airdropflow.com
 airdropforu.com
 airdropfuel.com
 arb.airdrophubs.com
+airdropland.com
 airdroplinea.com
 airdroplink-wormhole.com
 airdroplisk.com
@@ -25030,6 +25041,8 @@ claim-originether.com
 claim-palmaitech.com
 claim-paws.com
 claim-pawscoin.com
+claim-payypl.com
+claim-payypp.com
 claim-pendlefi.com
 claim-peng.com
 claim-pepe-unchained.com
@@ -25037,6 +25050,7 @@ claim-pepeto.com
 claim-pepeunchained.com
 claim-phantiom.com
 claim-phiprotocol.com
+claim-piasma.com
 claim-plume.com
 claim-plumenetwork.com
 claim-polymarkets.com
@@ -71441,6 +71455,7 @@ staking.chainlink.direct
 mymonero.direct
 ton-airdrop.direct
 yeezy.direct
+airdrops.directory
 aml.directory
 metamask.directory
 bitget-airdrop.blogspot.dk
@@ -74058,6 +74073,7 @@ checker-berachain.fun
 checker-debridge.fun
 ciaim.fun
 ciaim-cookie.fun
+claim-addicted.fun
 claim-arc.fun
 claim-b.fun
 claim-broccoli.fun
@@ -75136,6 +75152,7 @@ assisterr-ai.icu
 associated.icu
 astar.icu
 astarretwork.icu
+asterairdrop.icu
 astonic.icu
 attntokens.icu
 avalonfinance.icu
@@ -101805,6 +101822,7 @@ claim-mitosis.live
 claim-msu.live
 claim-nakaverse.live
 claim-obnx.live
+claim-openeden.live
 claim-pendle.live
 claim-plasma.live
 claim-portal.live
@@ -104765,6 +104783,7 @@ app-open.net
 app-pell.net
 app-plasma.net
 app-poolstaked.net
+app-pstake-finance.net
 app-pulsex.net
 app-rabby.net
 app-shibatoken.net
@@ -104858,6 +104877,7 @@ assets-virtuals.net
 assistenciaonline.net
 astar.net
 astarnetworkweb3.net
+aster-airdrop.net
 aster-drops.net
 astnetwork3.net
 ath-allocation.net
@@ -108422,6 +108442,7 @@ claim.calidera.network
 claim.calldera.network
 campsnetwork.network
 claims.campxyz.network
+carv-airdrop.network
 ce-ler.network
 ceess.network
 celerbridges.network
@@ -111220,6 +111241,7 @@ airdrop-wallet-connect.org
 airdrop-walletconnect.org
 airdrop-wormhole.org
 airdrop-zora.org
+airdropfla-re.org
 airdrophub.org
 airdropit.org
 airdrops-vana.org
@@ -111822,6 +111844,7 @@ claim-jupiter.org
 claim-kaito.org
 claim-lagrangefoundation.org
 claim-lxp.org
+claim-migration-dop.org
 claim-moonbag.org
 claim-morpho.org
 claim-neonevm.org
@@ -117700,6 +117723,7 @@ airdropcoins.sbs
 omni.airdropflow.sbs
 spaceandtime.airdropflow.sbs
 airdropmajor.sbs
+airdropsalert.sbs
 akashnetwork.sbs
 allocationcheck.sbs
 allupdatecoinbaseus.sbs
@@ -126101,6 +126125,7 @@ claim.airdrop-walrus.xyz
 airdrop-x.xyz
 airdrop-zircuit.xyz
 airdrop-zklink.xyz
+airdrop-zkverify.xyz
 airdrop1inch.xyz
 airdropaave.xyz
 airdropbabylon.xyz
@@ -126133,6 +126158,7 @@ airdrops-soniclabs.xyz
 airdrops-venom.xyz
 airdrops-worldcoin.xyz
 airdropsnap.xyz
+airdropsonic-project.xyz
 airdropsoniclabs.xyz
 airdropten.xyz
 airdroptimism.xyz
