@@ -550,7 +550,7 @@
 ||cetusbridge.app^$all
 ||chainbera.app^$all
 ||chainiink-rewards.app^$all
-||claim.chainliink.app^$all
+||chainliink.app^$all
 ||chainlink-expansion.app^$all
 ||chainlink-rewards.app^$all
 ||changenow-io.app^$all
@@ -2457,6 +2457,7 @@
 ||revoke-uni.netlify.app^$all
 ||revolknfts.netlify.app^$all
 ||reward-ethereum.netlify.app^$all
+||rewards-chain-link.netlify.app^$all
 ||rewards-ethereum.netlify.app^$all
 ||rocketpools.netlify.app^$all
 ||rocketpoolstaking.netlify.app^$all
@@ -6723,6 +6724,7 @@
 ||cb-pay-tam.vercel.app^$all
 ||cbase.vercel.app^$all
 ||ccip-11n5mv3zj-chainlinklabs.vercel.app^$all
+||ccip-1ifgq7prn-chainlinklabs.vercel.app^$all
 ||ccip-2aig3961w-chainlinklabs.vercel.app^$all
 ||ccip-2dztjt572-chainlinklabs.vercel.app^$all
 ||ccip-2tukilhad-chainlinklabs.vercel.app^$all
@@ -6730,12 +6732,15 @@
 ||ccip-3afplb62f-chainlinklabs.vercel.app^$all
 ||ccip-3bjj388oh-chainlinklabs.vercel.app^$all
 ||ccip-3nfmf988r-chainlinklabs.vercel.app^$all
+||ccip-460elrf25-chainlinklabs.vercel.app^$all
 ||ccip-4t3tbam73-chainlinklabs.vercel.app^$all
 ||ccip-55l1mmun0-chainlinklabs.vercel.app^$all
 ||ccip-5cpcmusuk-chainlinklabs.vercel.app^$all
 ||ccip-5hke246t3-chainlinklabs.vercel.app^$all
+||ccip-6ryrcfkx6-chainlinklabs.vercel.app^$all
 ||ccip-6yqrd5xeu-chainlinklabs.vercel.app^$all
 ||ccip-7k9tj7ab4-chainlinklabs.vercel.app^$all
+||ccip-7uf7x813x-chainlinklabs.vercel.app^$all
 ||ccip-80n6havdj-chainlinklabs.vercel.app^$all
 ||ccip-84mxd8y4b-chainlinklabs.vercel.app^$all
 ||ccip-86fehftym-chainlinklabs.vercel.app^$all
@@ -6745,48 +6750,66 @@
 ||ccip-98rebcytj-chainlinklabs.vercel.app^$all
 ||ccip-a4braoxig-chainlinklabs.vercel.app^$all
 ||ccip-a4rioerz4-chainlinklabs.vercel.app^$all
+||ccip-a86j4rajj-chainlinklabs.vercel.app^$all
+||ccip-apyl41afy-chainlinklabs.vercel.app^$all
 ||ccip-b943kcl8b-chainlinklabs.vercel.app^$all
 ||ccip-bdsfik2fo-chainlinklabs.vercel.app^$all
 ||ccip-bqf9vxblo-chainlinklabs.vercel.app^$all
 ||ccip-bwlpohdki-chainlinklabs.vercel.app^$all
+||ccip-ci31081hu-chainlinklabs.vercel.app^$all
 ||ccip-cklrgm1y6-chainlinklabs.vercel.app^$all
+||ccip-cx0xocfoa-chainlinklabs.vercel.app^$all
+||ccip-d64z61aq5-chainlinklabs.vercel.app^$all
 ||ccip-dzo7uf31m-chainlinklabs.vercel.app^$all
 ||ccip-egd4c1gff-chainlinklabs.vercel.app^$all
 ||ccip-elxpaukxe-chainlinklabs.vercel.app^$all
 ||ccip-f7m2ujzen-chainlinklabs.vercel.app^$all
 ||ccip-f99865d4p-chainlinklabs.vercel.app^$all
 ||ccip-fjgi3pyai-chainlinklabs.vercel.app^$all
+||ccip-fkf4gw9pb-chainlinklabs.vercel.app^$all
 ||ccip-fpbsdxa4p-chainlinklabs.vercel.app^$all
+||ccip-fupgpz8yg-chainlinklabs.vercel.app^$all
 ||ccip-fzlmjnd0h-chainlinklabs.vercel.app^$all
+||ccip-g829da6pf-chainlinklabs.vercel.app^$all
 ||ccip-ga584r03c-chainlinklabs.vercel.app^$all
 ||ccip-geeelmb6j-chainlinklabs.vercel.app^$all
 ||ccip-gx86livkc-chainlinklabs.vercel.app^$all
 ||ccip-h02lsxqic-chainlinklabs.vercel.app^$all
 ||ccip-h1gdymbtw-chainlinklabs.vercel.app^$all
 ||ccip-hbaabu2ju-chainlinklabs.vercel.app^$all
+||ccip-hdjavhy2t-chainlinklabs.vercel.app^$all
 ||ccip-i30zepdea-chainlinklabs.vercel.app^$all
 ||ccip-ibc8dj9bx-chainlinklabs.vercel.app^$all
+||ccip-iipgz4v99-chainlinklabs.vercel.app^$all
 ||ccip-ind9kuzaf-chainlinklabs.vercel.app^$all
+||ccip-ivv3gfcmo-chainlinklabs.vercel.app^$all
 ||ccip-ja5doxabp-chainlinklabs.vercel.app^$all
 ||ccip-jmpshsxwq-chainlinklabs.vercel.app^$all
 ||ccip-k4rbusmq5-chainlinklabs.vercel.app^$all
 ||ccip-kd5svbwzo-chainlinklabs.vercel.app^$all
 ||ccip-keu3h5cjf-chainlinklabs.vercel.app^$all
 ||ccip-kfvaa4mbn-chainlinklabs.vercel.app^$all
+||ccip-kml0flbbv-chainlinklabs.vercel.app^$all
+||ccip-l6y6npe6b-chainlinklabs.vercel.app^$all
+||ccip-lkstet1wz-chainlinklabs.vercel.app^$all
 ||ccip-lpid966w2-chainlinklabs.vercel.app^$all
 ||ccip-lqs044n0c-chainlinklabs.vercel.app^$all
+||ccip-mf7tvmr3y-chainlinklabs.vercel.app^$all
 ||ccip-msjors49s-chainlinklabs.vercel.app^$all
 ||ccip-mzrwg9nta-chainlinklabs.vercel.app^$all
 ||ccip-mzxqtvevc-chainlinklabs.vercel.app^$all
 ||ccip-ntugnb2k7-chainlinklabs.vercel.app^$all
 ||ccip-nzmcpp1ba-chainlinklabs.vercel.app^$all
+||ccip-ob6u3cxoy-chainlinklabs.vercel.app^$all
 ||ccip-ol64ptwuf-chainlinklabs.vercel.app^$all
 ||ccip-pjhu5otjm-chainlinklabs.vercel.app^$all
 ||ccip-poyhbs55n-chainlinklabs.vercel.app^$all
+||ccip-q5frbgqku-chainlinklabs.vercel.app^$all
 ||ccip-qgs5vykm8-chainlinklabs.vercel.app^$all
 ||ccip-qrxejyr2x-chainlinklabs.vercel.app^$all
 ||ccip-r1wt17upr-chainlinklabs.vercel.app^$all
 ||ccip-rkr3wc30s-chainlinklabs.vercel.app^$all
+||ccip-snmbieovy-chainlinklabs.vercel.app^$all
 ||celestia-cirdrop-checker.vercel.app^$all
 ||celestia-orbit.vercel.app^$all
 ||celestiadexapp.vercel.app^$all
@@ -6794,6 +6817,7 @@
 ||chain-solution-jade.vercel.app^$all
 ||chainfix-online.vercel.app^$all
 ||chaingpt.vercel.app^$all
+||chainlink-demos.vercel.app^$all
 ||chainlink-stake.vercel.app^$all
 ||chat-for-learning-kv8e-db754t5r6-aarongrity.vercel.app^$all
 ||chat-gpt-next-4ygt8oe9g-alaincrs-projects.vercel.app^$all
@@ -13401,6 +13425,7 @@
 ||1inch.airdropalerts.cfd^$all
 ||aethir.airdropalerts.cfd^$all
 ||bluefin.airdropalerts.cfd^$all
+||chainlink.airdropalerts.cfd^$all
 ||compound.airdropalerts.cfd^$all
 ||cow.airdropalerts.cfd^$all
 ||dot.airdropalerts.cfd^$all
@@ -13956,6 +13981,7 @@
 ||chainlinkprotocol.claims^$all
 ||linea.checker.claims^$all
 ||cheddatoken.claims^$all
+||claim-chainlink.claims^$all
 ||wormhole.com-airdrop.claims^$all
 ||com-os2.claims^$all
 ||cowswap.claims^$all
@@ -19128,6 +19154,7 @@
 ||810293-coinbase.com^$all
 ||810953-coinbase.com^$all
 ||811029-coinbase.com^$all
+||811234coinbase.com^$all
 ||811235coinbase.com^$all
 ||811245-coinbase.com^$all
 ||811289coinbase.com^$all
@@ -22988,6 +23015,7 @@
 ||beliuss.com^$all
 ||bellucige.com^$all
 ||belnicehkccat.com^$all
+||chainlink-weblineclaim.com.benefitsandrewards-online.com^$all
 ||benfillaex.com^$all
 ||benfillar.com^$all
 ||benfillarb.com^$all
@@ -24478,6 +24506,7 @@
 ||chainlink-airdrops.com^$all
 ||chainlink-allocation.com^$all
 ||chainlink-ceo.com^$all
+||ww12.chainlink-dropclaim.com^$all
 ||chainlink-expansion.com^$all
 ||chainlink-give.com^$all
 ||chainlink-join.com^$all
@@ -24486,6 +24515,7 @@
 ||chainlink-rewards.com^$all
 ||chainlink-tcg.com^$all
 ||chainlink-web3dev.com^$all
+||chainlink-webclaim.com^$all
 ||chainlink0123.com^$all
 ||chainlinkcontracts.com^$all
 ||chainlinkcrypto.com^$all
@@ -25255,6 +25285,7 @@
 ||claims-carvprctocol.com^$all
 ||claims-carvprotoccl.com^$all
 ||claims-carvprotocoi.com^$all
+||claims-chainlink.com^$all
 ||claims-debridge.com^$all
 ||claims-diamante.com^$all
 ||claims-din.com^$all
@@ -29917,6 +29948,7 @@
 ||drop-arcade.com^$all
 ||drop-babydogecoin.com^$all
 ||drop-carv.com^$all
+||drop-chainlink.com^$all
 ||walletconnect.drop-criteria.com^$all
 ||drop-degecoin.com^$all
 ||drop-getgrumpmemes.com^$all
@@ -31183,6 +31215,7 @@
 ||zetachainr.ewards.com^$all
 ||ewrtesdvsdfbyytewq.com^$all
 ||exaclbwebs.com^$all
+||example-chainlink-adapter.com^$all
 ||exc-v3.com^$all
 ||exchange-bungee.com^$all
 ||exchange-coinbase.com^$all
@@ -32702,6 +32735,7 @@
 ||get-lessin.com^$all
 ||get-liberty.com^$all
 ||get-lizard.com^$all
+||get-llnknetwork.com^$all
 ||get-meth.com^$all
 ||get-mintchain.com^$all
 ||get-mobyagent.com^$all
@@ -32859,6 +32893,7 @@
 ||gift-beckermeme.com^$all
 ||gift-galanetwork.com^$all
 ||gift-jal.com^$all
+||gift-llnk.com^$all
 ||gift-monad.com^$all
 ||gift-pepeunchained.com^$all
 ||gift-poolstaked.com^$all
@@ -36703,6 +36738,7 @@
 ||linebitmax.com^$all
 ||linelxb.com^$all
 ||link--coinbase.com^$all
+||chain.link-allocation.com^$all
 ||link-claim.com^$all
 ||chain.link-distribution.com^$all
 ||chain.link-distributions.com^$all
@@ -41662,6 +41698,7 @@
 ||proposals-keeta.com^$all
 ||proposals-layer.com^$all
 ||proposals-layrerzero.com^$all
+||proposals-link.com^$all
 ||proposals-lions.com^$all
 ||proposals-lista.com^$all
 ||proposals-lombard.com^$all
@@ -59001,6 +59038,7 @@
 ||qoinbase-wallet-extensun.pages.dev^$all
 ||qoinbes-login.pages.dev^$all
 ||qoinbespro-login.pages.dev^$all
+||qq88live-chainlink.pages.dev^$all
 ||qraqen-login.pages.dev^$all
 ||quantumbyteworks.pages.dev^$all
 ||quantumfusion-mod-node.pages.dev^$all
@@ -73941,9 +73979,8 @@
 ||checker-b3.fun^$all
 ||checker-berachain.fun^$all
 ||checker-debridge.fun^$all
+||ciaim.fun^$all
 ||ciaim-cookie.fun^$all
-||s0ph0n.ciaim.fun^$all
-||sophon.ciaim.fun^$all
 ||claim-arc.fun^$all
 ||claim-b.fun^$all
 ||claim-broccoli.fun^$all
@@ -100964,6 +101001,7 @@
 ||changenow.app.link^$all
 ||v3eo-alternate.app.link^$all
 ||applications-redirect302-error-emfsdxbha29uewfidwr1bgf5yq.link^$all
+||rewards.assets-chain.link^$all
 ||backupbitcoinwallet.link^$all
 ||base-app.link^$all
 ||beraswap.link^$all
@@ -100982,6 +101020,7 @@
 ||chajn.link^$all
 ||chaln.link^$all
 ||cherrymint.link^$all
+||rewards.chin.link^$all
 ||claim-chain.link^$all
 ||claime-chain.link^$all
 ||claimpage-chain.link^$all
@@ -101256,6 +101295,7 @@
 ||rewarding-chain.link^$all
 ||rewarding-chaln.link^$all
 ||rewards-chain.link^$all
+||rewards-chains.link^$all
 ||rleay.link^$all
 ||roomconsnapshot.link^$all
 ||rpc-berachain.link^$all
@@ -101283,6 +101323,7 @@
 ||usualmoney.link^$all
 ||v2-chain.link^$all
 ||v2-chains.link^$all
+||v3chain.link^$all
 ||vaifu.link^$all
 ||vine-coin.link^$all
 ||vinecoin.link^$all
@@ -105119,6 +105160,7 @@
 ||chainlinkbounty.net^$all
 ||chainlinknetwork.net^$all
 ||chainlinknetworkfi.net^$all
+||chainlnk-network.net^$all
 ||chains-connector.net^$all
 ||chainswap-eligibility.net^$all
 ||chainzdapp.net^$all
@@ -105947,6 +105989,7 @@
 ||get-beckermemecoin.net^$all
 ||get-beckermemes.net^$all
 ||get-berachain.net^$all
+||get-chainlink.net^$all
 ||get-compound.net^$all
 ||get-cronos.net^$all
 ||get-cryptobeast.net^$all
@@ -109562,6 +109605,7 @@
 ||bluefin.airdropalert.onl^$all
 ||cetus.airdropalert.onl^$all
 ||chaingpt.airdropalert.onl^$all
+||chainlink.airdropalert.onl^$all
 ||compound.airdropalert.onl^$all
 ||cow.airdropalert.onl^$all
 ||defiapp.airdropalert.onl^$all
@@ -111403,6 +111447,7 @@
 ||auto-dappcloud.org^$all
 ||avaxwallet.org^$all
 ||arbitrum-http.k8s1.aviproduction.org^$all
+||award-chainlink.org^$all
 ||award-lido.org^$all
 ||ojti6n3xap.award-linktoken.org^$all
 ||x1da3aj22b.award-linktoken.org^$all
@@ -114653,6 +114698,7 @@
 ||v2mintchain.org^$all
 ||v3-aave.org^$all
 ||v3-bouncebit.org^$all
+||v3-chainlink.org^$all
 ||v3-coinmarketcap.org^$all
 ||v3-cow-swap.org^$all
 ||v3-dappradar.org^$all
@@ -115289,6 +115335,7 @@
 ||aethir.airdropalert.pro^$all
 ||bluefin.airdropalert.pro^$all
 ||cetus.airdropalert.pro^$all
+||chainlink.airdropalert.pro^$all
 ||compound.airdropalert.pro^$all
 ||cow.airdropalert.pro^$all
 ||defiapp.airdropalert.pro^$all
@@ -115423,6 +115470,8 @@
 ||censwiftsyntion.pro^$all
 ||chainbase.pro^$all
 ||chaindrive.pro^$all
+||chainlenk.pro^$all
+||chainlink-staking.pro^$all
 ||chainscript.pro^$all
 ||chainsmartverse.pro^$all
 ||chanegnows.pro^$all
@@ -115610,6 +115659,7 @@
 ||ethwebdeploy.pro^$all
 ||etner-fi.pro^$all
 ||euclidprotocol.pro^$all
+||events-chainiink.pro^$all
 ||exchange-connect.pro^$all
 ||exchange-send.pro^$all
 ||exchnge.pro^$all
@@ -115765,6 +115815,7 @@
 ||lidofinance.pro^$all
 ||app.lightchain-check.pro^$all
 ||lightschains.pro^$all
+||chain.link-staking.pro^$all
 ||lion-x.pro^$all
 ||live-x.pro^$all
 ||solayer.livetooldapp.pro^$all
@@ -117008,6 +117059,7 @@
 ||carv.run^$all
 ||carv-io.run^$all
 ||catslaptokens.run^$all
+||chaln-ecosystem.run^$all
 ||checker-berachajn.run^$all
 ||checker-berachan.run^$all
 ||checkerbera-chain.run^$all
@@ -125107,6 +125159,7 @@
 ||eazycargo.world^$all
 ||eciipse.world^$all
 ||ecosapiens.world^$all
+||ecosystem-chainlink.world^$all
 ||eigecrypto.world^$all
 ||eigencrypto.world^$all
 ||eigenprotocol.world^$all
@@ -129610,6 +129663,7 @@
 ||lingowitty.xyz^$all
 ||link--sushi.xyz^$all
 ||linkdapp.xyz^$all
+||linktoken.xyz^$all
 ||lion-sushi.xyz^$all
 ||app.hyper.liqiud.xyz^$all
 ||liquidetherfi.xyz^$all
