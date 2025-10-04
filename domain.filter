@@ -708,7 +708,7 @@
 ||com-alpha-dex-services-prod.app^$all
 ||com-alpha-online-connect-cdn.app^$all
 ||com-alpha-wallets-v5-beta.app^$all
-||hyperliquid.com-api-auth-online-gateway.app^$all
+||com-api-auth-online-gateway.app^$all
 ||com-api-business-v2-banking.app^$all
 ||com-api-gateway-api-alpha-edge.app^$all
 ||com-api-gateway-edge-alpha-secure.app^$all
@@ -743,6 +743,7 @@
 ||coinbase.com-metaconnect.app^$all
 ||com-online-api-v2-trading.app^$all
 ||com-online-banking-api-personal-v3.app^$all
+||com-online-dex-api-prod.app^$all
 ||com-online-portal-auth-service.app^$all
 ||com-online-trading-api-v3.app^$all
 ||com-options-account-passport-api-v2.app^$all
@@ -756,8 +757,10 @@
 ||com-portal-service-api-app.app^$all
 ||com-prod-api-gateway-edge-brokers.app^$all
 ||com-prod-beta-gateway-v5.app^$all
-||sushi.com-prod-edge-alpha-api-gateway.app^$all
+||com-prod-edge-alpha-api-gateway.app^$all
+||com-prod-secure-online-auth.app^$all
 ||com-prod-v1-auth-portal.app^$all
+||com-secure-alpha-api-online.app^$all
 ||com-secure-api-gateway-api-edge.app^$all
 ||com-secure-connects-auth-v1.app^$all
 ||com-secure-service-alpha-auth.app^$all
@@ -1236,6 +1239,7 @@
 ||io-v3-connects-api-wallet.app^$all
 ||io-verify.app^$all
 ||io-wallets-api-connects-v2.app^$all
+||io-wallets-beta-cdn-edge.app^$all
 ||io-wallets-connect-v3-api-app.app^$all
 ||io-wallets-v2-connects-api.app^$all
 ||metamask.io-webrestore.app^$all
@@ -13254,6 +13258,7 @@
 ||us-unlswap.cc^$all
 ||adminduoke.metamask.us.cc^$all
 ||us05web-zoom.cc^$all
+||usdc-v4-test.cc^$all
 ||usdc100.cc^$all
 ||app.usdcai.cc^$all
 ||admin.usdcbep2099.cc^$all
@@ -14446,6 +14451,7 @@
 ||incentivearlybadge.click^$all
 ||incentivsecure.click^$all
 ||incentivsocial-earlybadge.click^$all
+||io-v3.click^$all
 ||japaguna.click^$all
 ||japarg.click^$all
 ||jup-swap.click^$all
@@ -15253,6 +15259,7 @@
 ||metamask-web3.com.cn^$all
 ||okxi.com.cn^$all
 ||os-tokenpocket.com.cn^$all
+||personal-finance-bnpparibas.com.cn^$all
 ||pgfc.com.cn^$all
 ||trustwallet-web3.com.cn^$all
 ||v-3.com.cn^$all
@@ -27912,6 +27919,7 @@
 ||com-app-api-wallet-v3-connect.com^$all
 ||com-app-apiv2-connect.com^$all
 ||com-app-apiv2-connect-wallet.com^$all
+||com-app-beta-online-edge.com^$all
 ||com-app-connect-api-wallet-v2.com^$all
 ||com-app-connect-api-wallet-v5.com^$all
 ||com-app-connect-v2-wailet.com^$all
@@ -31647,6 +31655,7 @@
 ||finance-appv4-wailet.com^$all
 ||finance-cake.com^$all
 ||finance-chain-web3-swap.com^$all
+||finance-connect-api-v3.com^$all
 ||finance-connect-app-v3-wallet-api.com^$all
 ||finance-connect-app-wallet-v2-api.com^$all
 ||finance-connect-chain-v2.com^$all
@@ -45435,6 +45444,7 @@
 ||support-returnassets.com^$all
 ||support-secure-x.com^$all
 ||coinbase.support-teamchat.com^$all
+||support-verif-auth.com^$all
 ||support-wallets.com^$all
 ||supportchannel-coinbase.com^$all
 ||supportcoinbase.com^$all
@@ -75431,6 +75441,7 @@
 ||app.extafi.com-j2.icu^$all
 ||eigenlawyer.com-j3.icu^$all
 ||com-n4.icu^$all
+||com-org.icu^$all
 ||com-p2.icu^$all
 ||trderjoexyz.com-p3.icu^$all
 ||comvexfinance.com-p4.icu^$all
@@ -76324,6 +76335,7 @@
 ||coinbasket.in^$all
 ||coinfast.in^$all
 ||coinsbase.in^$all
+||com-sign.in^$all
 ||appx-uniswap.com.in^$all
 ||bc-games.com.in^$all
 ||jup-ag.com.in^$all

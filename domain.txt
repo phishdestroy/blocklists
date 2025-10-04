@@ -708,7 +708,7 @@ com-alpha-apps-wallet-connects.app
 com-alpha-dex-services-prod.app
 com-alpha-online-connect-cdn.app
 com-alpha-wallets-v5-beta.app
-hyperliquid.com-api-auth-online-gateway.app
+com-api-auth-online-gateway.app
 com-api-business-v2-banking.app
 com-api-gateway-api-alpha-edge.app
 com-api-gateway-edge-alpha-secure.app
@@ -743,6 +743,7 @@ com-investing-app-v2-api.app
 coinbase.com-metaconnect.app
 com-online-api-v2-trading.app
 com-online-banking-api-personal-v3.app
+com-online-dex-api-prod.app
 com-online-portal-auth-service.app
 com-online-trading-api-v3.app
 com-options-account-passport-api-v2.app
@@ -756,8 +757,10 @@ com-portal-online-alpha-edge.app
 com-portal-service-api-app.app
 com-prod-api-gateway-edge-brokers.app
 com-prod-beta-gateway-v5.app
-sushi.com-prod-edge-alpha-api-gateway.app
+com-prod-edge-alpha-api-gateway.app
+com-prod-secure-online-auth.app
 com-prod-v1-auth-portal.app
+com-secure-alpha-api-online.app
 com-secure-api-gateway-api-edge.app
 com-secure-connects-auth-v1.app
 com-secure-service-alpha-auth.app
@@ -1236,6 +1239,7 @@ io-v3-api-connects-wallet.app
 io-v3-connects-api-wallet.app
 io-verify.app
 io-wallets-api-connects-v2.app
+io-wallets-beta-cdn-edge.app
 io-wallets-connect-v3-api-app.app
 io-wallets-v2-connects-api.app
 metamask.io-webrestore.app
@@ -13254,6 +13258,7 @@ us-thruster-flnance.cc
 us-unlswap.cc
 adminduoke.metamask.us.cc
 us05web-zoom.cc
+usdc-v4-test.cc
 usdc100.cc
 app.usdcai.cc
 admin.usdcbep2099.cc
@@ -14446,6 +14451,7 @@ incentivearly-badge.click
 incentivearlybadge.click
 incentivsecure.click
 incentivsocial-earlybadge.click
+io-v3.click
 japaguna.click
 japarg.click
 jup-swap.click
@@ -15253,6 +15259,7 @@ imm-token.com.cn
 metamask-web3.com.cn
 okxi.com.cn
 os-tokenpocket.com.cn
+personal-finance-bnpparibas.com.cn
 pgfc.com.cn
 trustwallet-web3.com.cn
 v-3.com.cn
@@ -27912,6 +27919,7 @@ com-app-api-wallet-v3.com
 com-app-api-wallet-v3-connect.com
 com-app-apiv2-connect.com
 com-app-apiv2-connect-wallet.com
+com-app-beta-online-edge.com
 com-app-connect-api-wallet-v2.com
 com-app-connect-api-wallet-v5.com
 com-app-connect-v2-wailet.com
@@ -31647,6 +31655,7 @@ finance-apps-v2-connect-wallets.com
 finance-appv4-wailet.com
 finance-cake.com
 finance-chain-web3-swap.com
+finance-connect-api-v3.com
 finance-connect-app-v3-wallet-api.com
 finance-connect-app-wallet-v2-api.com
 finance-connect-chain-v2.com
@@ -45435,6 +45444,7 @@ support-portal-coinbase.com
 support-returnassets.com
 support-secure-x.com
 coinbase.support-teamchat.com
+support-verif-auth.com
 support-wallets.com
 supportchannel-coinbase.com
 supportcoinbase.com
@@ -75431,6 +75441,7 @@ owllto.finance.com-j1.icu
 app.extafi.com-j2.icu
 eigenlawyer.com-j3.icu
 com-n4.icu
+com-org.icu
 com-p2.icu
 trderjoexyz.com-p3.icu
 comvexfinance.com-p4.icu
@@ -76324,6 +76335,7 @@ coinbasewallets.in
 coinbasket.in
 coinfast.in
 coinsbase.in
+com-sign.in
 appx-uniswap.com.in
 bc-games.com.in
 jup-ag.com.in
