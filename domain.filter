@@ -15090,11 +15090,13 @@
 ||cointo.cloud^$all
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
+||com-api-v4-swap.cloud^$all
 ||com-app.cloud^$all
 ||hyperliquid.com-cdn-v2-auth-online.cloud^$all
 ||com-en-us.cloud^$all
 ||com-online-beta-gateway-swap.cloud^$all
-||aave.com-online-secure-api-gateway-dex.cloud^$all
+||com-online-secure-api-gateway-dex.cloud^$all
+||com-portal-api-gateway-beta-app.cloud^$all
 ||com-restaking.cloud^$all
 ||com-swap-cdn-auth-edge.cloud^$all
 ||coresky.cloud^$all
@@ -15137,7 +15139,9 @@
 ||ff-exchange.cloud^$all
 ||fi-borrow.cloud^$all
 ||finance-app.cloud^$all
+||finance-auth-gateway-prod-connects.cloud^$all
 ||pancakeswap.finance-connects-wallet-online-app.cloud^$all
+||finance-swap-services-api-auth.cloud^$all
 ||yieldnest.finance-ynd.cloud^$all
 ||fixdappsvalidate.cloud^$all
 ||fllaredexo.cloud^$all
@@ -123983,6 +123987,7 @@
 ||acoingg.top^$all
 ||actgold.top^$all
 ||galxe.actions-app.top^$all
+||ad-eth-defi62.top^$all
 ||aecve.top^$all
 ||aero-sushi.top^$all
 ||aerodrome.top^$all
