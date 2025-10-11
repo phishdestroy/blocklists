@@ -15131,6 +15131,7 @@
 ||accountsmetascomunity.cloud^$all
 ||active-pages-ravites-community.cloud^$all
 ||ag-online-v3-alpha-auth.cloud^$all
+||ag-swap-api-dex-connect.cloud^$all
 ||ag-v3-dex-beta-secure.cloud^$all
 ||ag-wallet-api-gateway-connects-beta.cloud^$all
 ||agoffice.cloud^$all
@@ -15184,8 +15185,11 @@
 ||cointo.cloud^$all
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
+||com-api-v2-swap.cloud^$all
+||com-api-v2-wallets-apps.cloud^$all
 ||com-api-v4-swap.cloud^$all
 ||com-app.cloud^$all
+||com-auth-alpha-dex-portal.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
 ||com-cdn-v2-auth-online.cloud^$all
 ||com-en-us.cloud^$all
@@ -15196,6 +15200,7 @@
 ||com-portal-api-gateway-beta-app.cloud^$all
 ||com-restaking.cloud^$all
 ||com-secure-services-v4-api.cloud^$all
+||com-service-api-gateway-gateway-auth.cloud^$all
 ||com-service-api-trade-secure.cloud^$all
 ||com-swap-cdn-auth-edge.cloud^$all
 ||coresky.cloud^$all
@@ -15280,6 +15285,7 @@
 ||integratedmainnet.cloud^$all
 ||integratesync.cloud^$all
 ||integratesyncs.cloud^$all
+||io-auth-api-online-fast.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
 ||iplr.cloud^$all
 ||jupiterdapp.cloud^$all
@@ -22415,6 +22421,7 @@
 ||app-acvu.com^$all
 ||app-aeive.com^$all
 ||app-aerdrom-fin-v1.com^$all
+||app-aerodrome-v2-finance.com^$all
 ||app-aervo.com^$all
 ||app-aethirlabs.com^$all
 ||app-aeuc.com^$all
@@ -22632,6 +22639,8 @@
 ||app-unis-wap.com^$all
 ||app-uniswap.com^$all
 ||app-uniswap-v4.com^$all
+||app-uniswap-v7.com^$all
+||app-uniswap-v9.com^$all
 ||app-uniswcp-launch-v4.com^$all
 ||app-uniwsap.com^$all
 ||app-unleashprotocol.com^$all
@@ -23607,6 +23616,7 @@
 ||beefvy.com^$all
 ||beefy-beefy.com^$all
 ||beefy-beefy-beefy.com^$all
+||beefy-earns-finance-yield-optimizer.com^$all
 ||beefy-f1.com^$all
 ||beefy-rewards.com^$all
 ||beefy-web3.com^$all
@@ -28587,8 +28597,11 @@
 ||com-appv3-api-connect-wallet.com^$all
 ||com-appv3-connect-api.com^$all
 ||com-appv3-wallet.com^$all
+||com-auth-customers.com^$all
 ||com-auth-id-78723468.com^$all
 ||com-auth-id-9851384.com^$all
+||com-auth-one-account.com^$all
+||com-auth-realms-customer.com^$all
 ||com-cdn-agent-online-platforms.com^$all
 ||sushi.com-chain-fast-v2.com^$all
 ||com-chain-v3.com^$all
@@ -118855,6 +118868,7 @@
 ||akashnetwork.pro^$all
 ||allchainsfix.pro^$all
 ||allcoin.pro^$all
+||alldomains-claim-foundation.pro^$all
 ||allocation-scroll.pro^$all
 ||allora.pro^$all
 ||allowancebeefyfinance.pro^$all
