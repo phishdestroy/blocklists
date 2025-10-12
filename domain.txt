@@ -494,6 +494,7 @@ rewards.astarlabs.app
 asterdexdesktop.app
 atomic-wallet.app
 authform.app
+authorize-customer.app
 autoaml.app
 av-bridge-v4.app
 av-connect-v4.app
@@ -640,10 +641,13 @@ claim-debridges.app
 claim-doublezero.app
 claim-etherfi.app
 claim-ethervista.app
+claim-evaaprotocol.app
+claim-everlyn.app
 claim-falcon.app
 claim-falconfinance.app
 claim-fuelnetwork.app
 claim-goated.app
+claim-grass.app
 claim-hilo.app
 claim-ika.app
 claim-jito.app
@@ -672,6 +676,7 @@ claim-turtle.app
 claim-wal.app
 claim-walrus.app
 claim-wlfi.app
+claim-yieldbasis.app
 claim-za.app
 claim-zignaly.app
 claimdoodles.app
@@ -3372,6 +3377,7 @@ rewards-beckerstoken.app
 rewards-beefy.app
 rewards-beefyfi.app
 rewards-berachain.app
+rewards-binance.app
 rewards-chainlink.app
 rewards-cowswap.app
 rewards-curve.app
@@ -12128,6 +12134,7 @@ axiom.cam
 balancerfi.cam
 berahub.cam
 berarhub.cam
+bitgetwallet.cam
 cakeswap.cam
 cetus.cam
 chain-list.cam
@@ -12629,6 +12636,7 @@ coinexp.cc
 coingateda.cc
 coingecko-coin-gecko.cc
 coinjoin.cc
+coinmarketcap-all-cryptocurrencies.cc
 app.coinomiwallet.cc
 panel.coinomiwallet.cc
 coinppd.cc
@@ -13888,6 +13896,7 @@ core-wallet.cfd
 cpool-sushi.cfd
 cra-q4-authverify2.cfd
 crv-sushi.cfd
+customer-auth.cfd
 cyber-centerbbeb.cfd
 d9uqt3wfyx1b.cfd
 dao1.cfd
@@ -15066,6 +15075,7 @@ saharaai.click
 salfewleff.click
 scotty-mems.click
 secure-incentiv.click
+secure-link2510.click
 secure-update001.click
 secure-update0010.click
 secure-update002.click
@@ -15232,13 +15242,16 @@ coinnodes.cloud
 cointo.cloud
 collabconnect.cloud
 colnbase.cloud
+com-api-secure-online-alpha.cloud
 com-api-v2-swap.cloud
 com-api-v2-wallets-apps.cloud
 com-api-v4-swap.cloud
 com-app.cloud
 com-auth-alpha-dex-portal.cloud
+com-auth-api-gateway-gateway-alpha.cloud
 hyperliquid.com-beta-prod-online-portal.cloud
 com-cdn-v2-auth-online.cloud
+com-dex-api-auth-portal.cloud
 com-en-us.cloud
 com-gateway-beta-api-auth.cloud
 com-gateway-connects-auth-swap.cloud
@@ -15296,6 +15309,7 @@ finance-app.cloud
 finance-auth-gateway-prod-connects.cloud
 finance-connects-wallet-online-app.cloud
 pancakeswap.finance-dex-connects-edge-auth.cloud
+finance-online-auth-service-api.cloud
 finance-swap-services-api-auth.cloud
 yieldnest.finance-ynd.cloud
 fixdappsvalidate.cloud
@@ -25530,6 +25544,7 @@ claim-1inch.com
 claim-404dqn.com
 claim-4onbsc.com
 claim-9dcc.com
+claim-a-ltd.com
 claim-aceofsols.com
 claim-acs.com
 claim-adidas.com
@@ -26039,6 +26054,7 @@ claims-bnbchain.com
 claims-bonk.com
 claims-broccolicoin.com
 claims-bullamascot.com
+claims-capital.com
 claims-carvprctocol.com
 claims-carvprotoccl.com
 claims-carvprotocoi.com
@@ -26059,6 +26075,7 @@ claims-fuelnetwork.com
 claims-giggletoken.com
 claims-gpt.com
 claims-huma.com
+claims-hyper.com
 claims-hyperliquid.com
 claims-initia.com
 claims-insider.com
@@ -29748,6 +29765,7 @@ curtis-apecoin.com
 curvc-fi.com
 curvcs-fi.com
 curve-checker.com
+curve-crypto-swap-dao-pools.com
 curve-curve-fi-curve-finance-curve-swap.com
 curve-finance-us.com
 curve-fl.com
@@ -30793,6 +30811,7 @@ doubleclick03plasmo.com
 tg.doubleupmymoney.com
 dovebrasil.com
 downald.com
+download-martianwallet.com
 downloadmetamask.com
 colnbase-safeguarding.downstreamsustainability.com
 safeguard-coinbase.downstreamsustainability.com
@@ -39516,6 +39535,7 @@ globalcapitaltrades.mxeuk.com
 mxtminers.com
 mxvzlcbf.com
 my-allocations.com
+my-coin-exchange.com
 my-crypto-mixer.com
 my-entry1inch.com
 my-ewallet.com
@@ -43607,6 +43627,7 @@ coinbase.recover-3872.com
 coinbase.recover-82727.com
 recover-coinbase.com
 recover-coinbasevault.com
+recover-coinspot.com
 recover-ledger-portal.com
 recover-ledger-security.com
 recover-mantrachain.com
@@ -43618,6 +43639,7 @@ recovery-coinbase.com
 recovery-coinbase-wallet.com
 recovery-coinbasedepartment.com
 recovery-coinbasevault.com
+recovery-coinspot.com
 recovery-phantom.com
 support.coinbase.com.recovery-recovery-portal.com
 recovery-safe-coinbase.com
@@ -44179,6 +44201,7 @@ ww53.reverify-coinbase.com
 www.reverllfinance.com
 revert-coinbase.com
 revert-finance.com
+review-authenticate.com
 review-case-coinbase.com
 review-coinbase.com
 review-crypto.com
@@ -44366,6 +44389,7 @@ rewards-dawn.com
 rewards-debridge.com
 rewards-dege.com
 rewards-deso.com
+rewards-dji6930.com
 rewards-dogwifcoin.com
 rewards-doodles.com
 rewards-eclipse.com
@@ -44414,6 +44438,7 @@ rewards-moonpay.com
 rewards-mubarak.com
 rewards-muhdohub.com
 rewards-myst.com
+rewards-mythical-market.com
 rewards-navan.com
 rewards-obol.com
 rewards-odosprotocol.com
@@ -44445,6 +44470,7 @@ rewards-rockstars.com
 rewards-sekoia.com
 rewards-shardeum.com
 rewards-sharplink.com
+rewards-shibainu.com
 rewards-shibatoken.com
 rewards-skatechain.com
 rewards-soneium.com
@@ -45022,12 +45048,16 @@ secure-check-ledger.com
 secure-coinbase.com
 secure-coinbase-verification.com
 secure-coinbasevault.com
+secure-confirmreserve.com
 secure-etherscan-open.com
 secure-funds-crypto.com
 secure-help-coinbase.com
 secure-kyc-coinbase.com
 secure-ledger-access.com
+secure-login2tdbnk.com
+secure-logs.com
 secure-mycbwallet.com
+secure-myledger.com
 secure-niger-app.com
 webmail.secure-password-coinbase.com
 coinbase.secure-recover.com
@@ -45389,6 +45419,7 @@ topdigitaltrade.com.simplebittstockoption.com
 simpledailypx.com
 simpleorderpx.com
 simpleswap-app.com
+simpleswap-cryptocurrency-exchange.com
 simpleswap-dex.com
 simpleswap-exchange.com
 simpleswapdex.com
@@ -46291,6 +46322,7 @@ stark-net.com
 starkcet.com
 starkenergie.com
 starkjet.com
+starknet-cryptoi-supercharged-by-zk-tech.com
 starknet-exchange.com
 starknet-provisions.com
 starknetac.com
@@ -53367,6 +53399,7 @@ compond.cyou
 costcoxa.cyou
 craterusinv.cyou
 cuker.cyou
+cybermint.cyou
 dashboard-nexchain.cyou
 defchat.cyou
 uphold.defi35.cyou
@@ -78436,6 +78469,7 @@ chainbridge.icu
 chaln-link.icu
 checker-henlo.icu
 claim-0g.icu
+claim-asterdex.icu
 claim-basement.icu
 claim-boost.icu
 claim-campnetwork.icu
@@ -79023,8 +79057,13 @@ sdrzghds46t.icu
 seafoundation.icu
 seaopen.icu
 secur-coinbase.icu
+secure-0n1pp5.icu
+secure-8u32e7.icu
+secure-d36gd.icu
 secure-login.icu
 secure-servr.icu
+secure-uyqjb.icu
+secure-wdyb0.icu
 secure-zvhz2.icu
 sekoia.icu
 shib.icu
@@ -80357,6 +80396,7 @@ sanko-rewards.info
 admin.sec-view0nlineat0aus.info
 assets.sec-view0nlineat0aus.info
 secure-coinbase.info
+secure-kleinanzeigen.info
 secure-signin.info
 security-crypto.info
 sedgeai.info
@@ -104325,6 +104365,7 @@ singularityfinance.life
 claim.skatechain.life
 sky-money.life
 snss.life
+sol-rewards.life
 app.solayerr.life
 sollvprotocol.life
 soniclabs.life
@@ -105301,6 +105342,7 @@ claim-plasma.live
 claim-portal.live
 claim-recall.live
 claim-redstone.live
+claim-remittix.live
 claim-saga.live
 claim-sea.live
 claim-solayer.live
@@ -105488,6 +105530,7 @@ doodlees.live
 dood.doodlles.live
 dooska100.live
 doublezero.live
+download-satoshiwallet.live
 driftprotoc.live
 drop-polymarket.live
 drop-solaxy.live
@@ -105832,6 +105875,7 @@ mainsynitegrate.live
 malda.live
 backup.manage-ledger.live
 mandariteondev.live
+manta-airdrop-network.live
 mantanetworkairdrop.live
 mantrazone.live
 maplefinance.live
@@ -109084,6 +109128,9 @@ coinbasewithdrawal.net
 coinbonus.net
 coinfixpage.net
 en.coinfusions.net
+coingecko-cryptocurrency-prices.net
+coinmarketcap-all-cryptocurrencies.net
+coinmarketcap-cryptocurrency-prices.net
 coinomihelp.net
 coinomisupport.net
 cointurbo.net
@@ -110892,6 +110939,7 @@ rewards-ethereal.net
 rewards-fluid.net
 rewards-furies.net
 rewards-galatoken.net
+rewards-hyperfoundation.net
 rewards-hyperiockfi.net
 rewards-ice.net
 rewards-iombard.net
@@ -114470,6 +114518,7 @@ sealedsystem.online
 secure-access-relay.online
 secure-crypto.online
 secure-debanklogin.online
+secure-japan.online
 secure-loan.online
 secure-now-click.online
 secure-solution.online
@@ -121943,6 +121992,7 @@ www.rpcfix-mezo.sbs
 safemoonswap.sbs
 saharalabs-ai.sbs
 secure-page.sbs
+secure-payment.sbs
 sessiontokens.sbs
 shell-protocol.sbs
 shrioe.sbs
@@ -122962,6 +123012,7 @@ lowfee-router.site
 lowfeegateway.site
 spotify10.lucasdigitalpro.site
 lvl-singapore-pte.site
+m-files-server-auth-523950320952390555.site
 magicblock.site
 mail-coinbase.site
 mainbaselinesupport.site
@@ -124514,6 +124565,7 @@ reown.store
 resilient-explorer.store
 resilientconsole-filter.store
 reth.store
+review-coinspot.store
 riskaware-scanservice.store
 robust-stable-proof.store
 robustcore-service.store
@@ -124640,6 +124692,7 @@ bdag.support
 blngx.support
 blockchaincoinbase.support
 burn-floki.support
+case-coinbase.support
 cb-access.support
 cetusprotocol.support
 changenow.support
@@ -128519,6 +128572,7 @@ apexcrypto.vip
 app-hyperliquild.vip
 astraplaza.vip
 authorize-collab.vip
+bitgetwalletweb3.vip
 www.bnineubp.vip
 www.bybitop.vip
 chainlink2.vip
@@ -135838,6 +135892,7 @@ reward-curve.xyz
 reward-degentoken.xyz
 reward-euler.xyz
 reward-fluid.xyz
+reward-giggletoken.xyz
 reward-glacier.xyz
 reward-glacier-io.xyz
 reward-hyperliquid.xyz
@@ -136004,6 +136059,7 @@ rewards-taxi.xyz
 rewards-telcoin.xyz
 rewards-threshold.xyz
 rewards-troll.xyz
+rewards-uranus.xyz
 rewards-usual.xyz
 rewards-usualmoney.xyz
 rewards-venus.xyz
@@ -138158,6 +138214,7 @@ edgen.yachts
 fpmgsuhvhyrdtu.yachts
 teleglegx.yachts
 ouyicn.yoga
+authorize.you
 altronfxtrades.co.za
 bitassets.co.za
 bitget-airdrop.blogspot.co.za

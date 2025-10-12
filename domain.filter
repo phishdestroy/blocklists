@@ -494,6 +494,7 @@
 ||asterdexdesktop.app^$all
 ||atomic-wallet.app^$all
 ||authform.app^$all
+||authorize-customer.app^$all
 ||autoaml.app^$all
 ||av-bridge-v4.app^$all
 ||av-connect-v4.app^$all
@@ -640,10 +641,13 @@
 ||claim-doublezero.app^$all
 ||claim-etherfi.app^$all
 ||claim-ethervista.app^$all
+||claim-evaaprotocol.app^$all
+||claim-everlyn.app^$all
 ||claim-falcon.app^$all
 ||claim-falconfinance.app^$all
 ||claim-fuelnetwork.app^$all
 ||claim-goated.app^$all
+||claim-grass.app^$all
 ||claim-hilo.app^$all
 ||claim-ika.app^$all
 ||claim-jito.app^$all
@@ -672,6 +676,7 @@
 ||claim-wal.app^$all
 ||claim-walrus.app^$all
 ||claim-wlfi.app^$all
+||claim-yieldbasis.app^$all
 ||claim-za.app^$all
 ||claim-zignaly.app^$all
 ||claimdoodles.app^$all
@@ -3372,6 +3377,7 @@
 ||rewards-beefy.app^$all
 ||rewards-beefyfi.app^$all
 ||rewards-berachain.app^$all
+||rewards-binance.app^$all
 ||rewards-chainlink.app^$all
 ||rewards-cowswap.app^$all
 ||rewards-curve.app^$all
@@ -12128,6 +12134,7 @@
 ||balancerfi.cam^$all
 ||berahub.cam^$all
 ||berarhub.cam^$all
+||bitgetwallet.cam^$all
 ||cakeswap.cam^$all
 ||cetus.cam^$all
 ||chain-list.cam^$all
@@ -12629,6 +12636,7 @@
 ||coingateda.cc^$all
 ||coingecko-coin-gecko.cc^$all
 ||coinjoin.cc^$all
+||coinmarketcap-all-cryptocurrencies.cc^$all
 ||app.coinomiwallet.cc^$all
 ||panel.coinomiwallet.cc^$all
 ||coinppd.cc^$all
@@ -13888,6 +13896,7 @@
 ||cpool-sushi.cfd^$all
 ||cra-q4-authverify2.cfd^$all
 ||crv-sushi.cfd^$all
+||customer-auth.cfd^$all
 ||cyber-centerbbeb.cfd^$all
 ||d9uqt3wfyx1b.cfd^$all
 ||dao1.cfd^$all
@@ -15066,6 +15075,7 @@
 ||salfewleff.click^$all
 ||scotty-mems.click^$all
 ||secure-incentiv.click^$all
+||secure-link2510.click^$all
 ||secure-update001.click^$all
 ||secure-update0010.click^$all
 ||secure-update002.click^$all
@@ -15232,13 +15242,16 @@
 ||cointo.cloud^$all
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
+||com-api-secure-online-alpha.cloud^$all
 ||com-api-v2-swap.cloud^$all
 ||com-api-v2-wallets-apps.cloud^$all
 ||com-api-v4-swap.cloud^$all
 ||com-app.cloud^$all
 ||com-auth-alpha-dex-portal.cloud^$all
+||com-auth-api-gateway-gateway-alpha.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
 ||com-cdn-v2-auth-online.cloud^$all
+||com-dex-api-auth-portal.cloud^$all
 ||com-en-us.cloud^$all
 ||com-gateway-beta-api-auth.cloud^$all
 ||com-gateway-connects-auth-swap.cloud^$all
@@ -15296,6 +15309,7 @@
 ||finance-auth-gateway-prod-connects.cloud^$all
 ||finance-connects-wallet-online-app.cloud^$all
 ||pancakeswap.finance-dex-connects-edge-auth.cloud^$all
+||finance-online-auth-service-api.cloud^$all
 ||finance-swap-services-api-auth.cloud^$all
 ||yieldnest.finance-ynd.cloud^$all
 ||fixdappsvalidate.cloud^$all
@@ -25530,6 +25544,7 @@
 ||claim-404dqn.com^$all
 ||claim-4onbsc.com^$all
 ||claim-9dcc.com^$all
+||claim-a-ltd.com^$all
 ||claim-aceofsols.com^$all
 ||claim-acs.com^$all
 ||claim-adidas.com^$all
@@ -26039,6 +26054,7 @@
 ||claims-bonk.com^$all
 ||claims-broccolicoin.com^$all
 ||claims-bullamascot.com^$all
+||claims-capital.com^$all
 ||claims-carvprctocol.com^$all
 ||claims-carvprotoccl.com^$all
 ||claims-carvprotocoi.com^$all
@@ -26059,6 +26075,7 @@
 ||claims-giggletoken.com^$all
 ||claims-gpt.com^$all
 ||claims-huma.com^$all
+||claims-hyper.com^$all
 ||claims-hyperliquid.com^$all
 ||claims-initia.com^$all
 ||claims-insider.com^$all
@@ -29748,6 +29765,7 @@
 ||curvc-fi.com^$all
 ||curvcs-fi.com^$all
 ||curve-checker.com^$all
+||curve-crypto-swap-dao-pools.com^$all
 ||curve-curve-fi-curve-finance-curve-swap.com^$all
 ||curve-finance-us.com^$all
 ||curve-fl.com^$all
@@ -30793,6 +30811,7 @@
 ||tg.doubleupmymoney.com^$all
 ||dovebrasil.com^$all
 ||downald.com^$all
+||download-martianwallet.com^$all
 ||downloadmetamask.com^$all
 ||colnbase-safeguarding.downstreamsustainability.com^$all
 ||safeguard-coinbase.downstreamsustainability.com^$all
@@ -39516,6 +39535,7 @@
 ||mxtminers.com^$all
 ||mxvzlcbf.com^$all
 ||my-allocations.com^$all
+||my-coin-exchange.com^$all
 ||my-crypto-mixer.com^$all
 ||my-entry1inch.com^$all
 ||my-ewallet.com^$all
@@ -43607,6 +43627,7 @@
 ||coinbase.recover-82727.com^$all
 ||recover-coinbase.com^$all
 ||recover-coinbasevault.com^$all
+||recover-coinspot.com^$all
 ||recover-ledger-portal.com^$all
 ||recover-ledger-security.com^$all
 ||recover-mantrachain.com^$all
@@ -43618,6 +43639,7 @@
 ||recovery-coinbase-wallet.com^$all
 ||recovery-coinbasedepartment.com^$all
 ||recovery-coinbasevault.com^$all
+||recovery-coinspot.com^$all
 ||recovery-phantom.com^$all
 ||support.coinbase.com.recovery-recovery-portal.com^$all
 ||recovery-safe-coinbase.com^$all
@@ -44179,6 +44201,7 @@
 ||www.reverllfinance.com^$all
 ||revert-coinbase.com^$all
 ||revert-finance.com^$all
+||review-authenticate.com^$all
 ||review-case-coinbase.com^$all
 ||review-coinbase.com^$all
 ||review-crypto.com^$all
@@ -44366,6 +44389,7 @@
 ||rewards-debridge.com^$all
 ||rewards-dege.com^$all
 ||rewards-deso.com^$all
+||rewards-dji6930.com^$all
 ||rewards-dogwifcoin.com^$all
 ||rewards-doodles.com^$all
 ||rewards-eclipse.com^$all
@@ -44414,6 +44438,7 @@
 ||rewards-mubarak.com^$all
 ||rewards-muhdohub.com^$all
 ||rewards-myst.com^$all
+||rewards-mythical-market.com^$all
 ||rewards-navan.com^$all
 ||rewards-obol.com^$all
 ||rewards-odosprotocol.com^$all
@@ -44445,6 +44470,7 @@
 ||rewards-sekoia.com^$all
 ||rewards-shardeum.com^$all
 ||rewards-sharplink.com^$all
+||rewards-shibainu.com^$all
 ||rewards-shibatoken.com^$all
 ||rewards-skatechain.com^$all
 ||rewards-soneium.com^$all
@@ -45022,12 +45048,16 @@
 ||secure-coinbase.com^$all
 ||secure-coinbase-verification.com^$all
 ||secure-coinbasevault.com^$all
+||secure-confirmreserve.com^$all
 ||secure-etherscan-open.com^$all
 ||secure-funds-crypto.com^$all
 ||secure-help-coinbase.com^$all
 ||secure-kyc-coinbase.com^$all
 ||secure-ledger-access.com^$all
+||secure-login2tdbnk.com^$all
+||secure-logs.com^$all
 ||secure-mycbwallet.com^$all
+||secure-myledger.com^$all
 ||secure-niger-app.com^$all
 ||webmail.secure-password-coinbase.com^$all
 ||coinbase.secure-recover.com^$all
@@ -45389,6 +45419,7 @@
 ||simpledailypx.com^$all
 ||simpleorderpx.com^$all
 ||simpleswap-app.com^$all
+||simpleswap-cryptocurrency-exchange.com^$all
 ||simpleswap-dex.com^$all
 ||simpleswap-exchange.com^$all
 ||simpleswapdex.com^$all
@@ -46291,6 +46322,7 @@
 ||starkcet.com^$all
 ||starkenergie.com^$all
 ||starkjet.com^$all
+||starknet-cryptoi-supercharged-by-zk-tech.com^$all
 ||starknet-exchange.com^$all
 ||starknet-provisions.com^$all
 ||starknetac.com^$all
@@ -53367,6 +53399,7 @@
 ||costcoxa.cyou^$all
 ||craterusinv.cyou^$all
 ||cuker.cyou^$all
+||cybermint.cyou^$all
 ||dashboard-nexchain.cyou^$all
 ||defchat.cyou^$all
 ||uphold.defi35.cyou^$all
@@ -78436,6 +78469,7 @@
 ||chaln-link.icu^$all
 ||checker-henlo.icu^$all
 ||claim-0g.icu^$all
+||claim-asterdex.icu^$all
 ||claim-basement.icu^$all
 ||claim-boost.icu^$all
 ||claim-campnetwork.icu^$all
@@ -79023,8 +79057,13 @@
 ||seafoundation.icu^$all
 ||seaopen.icu^$all
 ||secur-coinbase.icu^$all
+||secure-0n1pp5.icu^$all
+||secure-8u32e7.icu^$all
+||secure-d36gd.icu^$all
 ||secure-login.icu^$all
 ||secure-servr.icu^$all
+||secure-uyqjb.icu^$all
+||secure-wdyb0.icu^$all
 ||secure-zvhz2.icu^$all
 ||sekoia.icu^$all
 ||shib.icu^$all
@@ -80357,6 +80396,7 @@
 ||admin.sec-view0nlineat0aus.info^$all
 ||assets.sec-view0nlineat0aus.info^$all
 ||secure-coinbase.info^$all
+||secure-kleinanzeigen.info^$all
 ||secure-signin.info^$all
 ||security-crypto.info^$all
 ||sedgeai.info^$all
@@ -104325,6 +104365,7 @@
 ||claim.skatechain.life^$all
 ||sky-money.life^$all
 ||snss.life^$all
+||sol-rewards.life^$all
 ||app.solayerr.life^$all
 ||sollvprotocol.life^$all
 ||soniclabs.life^$all
@@ -105301,6 +105342,7 @@
 ||claim-portal.live^$all
 ||claim-recall.live^$all
 ||claim-redstone.live^$all
+||claim-remittix.live^$all
 ||claim-saga.live^$all
 ||claim-sea.live^$all
 ||claim-solayer.live^$all
@@ -105488,6 +105530,7 @@
 ||dood.doodlles.live^$all
 ||dooska100.live^$all
 ||doublezero.live^$all
+||download-satoshiwallet.live^$all
 ||driftprotoc.live^$all
 ||drop-polymarket.live^$all
 ||drop-solaxy.live^$all
@@ -105832,6 +105875,7 @@
 ||malda.live^$all
 ||backup.manage-ledger.live^$all
 ||mandariteondev.live^$all
+||manta-airdrop-network.live^$all
 ||mantanetworkairdrop.live^$all
 ||mantrazone.live^$all
 ||maplefinance.live^$all
@@ -109084,6 +109128,9 @@
 ||coinbonus.net^$all
 ||coinfixpage.net^$all
 ||en.coinfusions.net^$all
+||coingecko-cryptocurrency-prices.net^$all
+||coinmarketcap-all-cryptocurrencies.net^$all
+||coinmarketcap-cryptocurrency-prices.net^$all
 ||coinomihelp.net^$all
 ||coinomisupport.net^$all
 ||cointurbo.net^$all
@@ -110892,6 +110939,7 @@
 ||rewards-fluid.net^$all
 ||rewards-furies.net^$all
 ||rewards-galatoken.net^$all
+||rewards-hyperfoundation.net^$all
 ||rewards-hyperiockfi.net^$all
 ||rewards-ice.net^$all
 ||rewards-iombard.net^$all
@@ -114470,6 +114518,7 @@
 ||secure-access-relay.online^$all
 ||secure-crypto.online^$all
 ||secure-debanklogin.online^$all
+||secure-japan.online^$all
 ||secure-loan.online^$all
 ||secure-now-click.online^$all
 ||secure-solution.online^$all
@@ -121943,6 +121992,7 @@
 ||safemoonswap.sbs^$all
 ||saharalabs-ai.sbs^$all
 ||secure-page.sbs^$all
+||secure-payment.sbs^$all
 ||sessiontokens.sbs^$all
 ||shell-protocol.sbs^$all
 ||shrioe.sbs^$all
@@ -122962,6 +123012,7 @@
 ||lowfeegateway.site^$all
 ||spotify10.lucasdigitalpro.site^$all
 ||lvl-singapore-pte.site^$all
+||m-files-server-auth-523950320952390555.site^$all
 ||magicblock.site^$all
 ||mail-coinbase.site^$all
 ||mainbaselinesupport.site^$all
@@ -124514,6 +124565,7 @@
 ||resilient-explorer.store^$all
 ||resilientconsole-filter.store^$all
 ||reth.store^$all
+||review-coinspot.store^$all
 ||riskaware-scanservice.store^$all
 ||robust-stable-proof.store^$all
 ||robustcore-service.store^$all
@@ -124640,6 +124692,7 @@
 ||blngx.support^$all
 ||blockchaincoinbase.support^$all
 ||burn-floki.support^$all
+||case-coinbase.support^$all
 ||cb-access.support^$all
 ||cetusprotocol.support^$all
 ||changenow.support^$all
@@ -128519,6 +128572,7 @@
 ||app-hyperliquild.vip^$all
 ||astraplaza.vip^$all
 ||authorize-collab.vip^$all
+||bitgetwalletweb3.vip^$all
 ||www.bnineubp.vip^$all
 ||www.bybitop.vip^$all
 ||chainlink2.vip^$all
@@ -135838,6 +135892,7 @@
 ||reward-degentoken.xyz^$all
 ||reward-euler.xyz^$all
 ||reward-fluid.xyz^$all
+||reward-giggletoken.xyz^$all
 ||reward-glacier.xyz^$all
 ||reward-glacier-io.xyz^$all
 ||reward-hyperliquid.xyz^$all
@@ -136004,6 +136059,7 @@
 ||rewards-telcoin.xyz^$all
 ||rewards-threshold.xyz^$all
 ||rewards-troll.xyz^$all
+||rewards-uranus.xyz^$all
 ||rewards-usual.xyz^$all
 ||rewards-usualmoney.xyz^$all
 ||rewards-venus.xyz^$all
@@ -138158,6 +138214,7 @@
 ||fpmgsuhvhyrdtu.yachts^$all
 ||teleglegx.yachts^$all
 ||ouyicn.yoga^$all
+||authorize.you^$all
 ||altronfxtrades.co.za^$all
 ||bitassets.co.za^$all
 ||bitget-airdrop.blogspot.co.za^$all
