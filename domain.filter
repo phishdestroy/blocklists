@@ -1220,6 +1220,7 @@
 ||hederarewards.app^$all
 ||hederastaking.app^$all
 ||hederatxns.app^$all
+||hl-wallet-v4.app^$all
 ||hopexchange.app^$all
 ||horsygames.app^$all
 ||oneinch--inch-f71bd.europe-west4.hosted.app^$all
@@ -9785,6 +9786,7 @@
 ||voting-stargate.app^$all
 ||voting-usual.app^$all
 ||w-chain.app^$all
+||w-wallet-v4.app^$all
 ||w-wormhole.app^$all
 ||w3eth.app^$all
 ||airdropband.w3w.app^$all
@@ -13251,6 +13253,7 @@
 ||pamcokeesweep.cc^$all
 ||pamscaikesvanp.cc^$all
 ||pancakesup.cc^$all
+||pancakeswap-finance-swap-home.cc^$all
 ||pancakeswapflnance.cc^$all
 ||pancakesweep.cc^$all
 ||pancakeswop.cc^$all
@@ -13636,7 +13639,9 @@
 ||v2-fuelnewtork.cc^$all
 ||v2-jumper-exc.cc^$all
 ||v2-lidofi.cc^$all
+||v2-plasma-flnance.cc^$all
 ||v2-skyrnoney.cc^$all
+||v2-symbiosis-flnance.cc^$all
 ||v2-velodrorne.cc^$all
 ||v2-venus-protocol.cc^$all
 ||app.v2-zircuit.cc^$all
@@ -14643,6 +14648,7 @@
 ||amlbot.click^$all
 ||amlrisk.click^$all
 ||amlsecure.click^$all
+||apigateway-dev-revo-ex.click^$all
 ||app-aeve.click^$all
 ||app-debridge.click^$all
 ||app-hyperlend.click^$all
@@ -15284,8 +15290,9 @@
 ||cointo.cloud^$all
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
-||aave.com-api-online-secure-dex.cloud^$all
+||com-api-online-secure-dex.cloud^$all
 ||com-api-secure-online-alpha.cloud^$all
+||com-api-swap-v3.cloud^$all
 ||com-api-v2-swap.cloud^$all
 ||com-api-v2-wallets-apps.cloud^$all
 ||com-api-v4-swap.cloud^$all
@@ -15294,6 +15301,7 @@
 ||com-auth-api-gateway-gateway-alpha.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
 ||com-cdn-v2-auth-online.cloud^$all
+||com-connect-auth-api-online.cloud^$all
 ||com-dex-api-auth-portal.cloud^$all
 ||com-en-us.cloud^$all
 ||com-gateway-beta-api-auth.cloud^$all
@@ -15305,6 +15313,7 @@
 ||com-secure-services-v4-api.cloud^$all
 ||com-service-api-gateway-gateway-auth.cloud^$all
 ||com-service-api-trade-secure.cloud^$all
+||com-service-auth-secure-trading.cloud^$all
 ||com-swap-cdn-auth-edge.cloud^$all
 ||coresky.cloud^$all
 ||coresolver.cloud^$all
@@ -15345,14 +15354,14 @@
 ||eventators-x2024.cloud^$all
 ||ff-exchange.cloud^$all
 ||fi-borrow.cloud^$all
-||pancakeswap.finance-api-beta-app-services.cloud^$all
+||finance-api-beta-app-services.cloud^$all
 ||finance-api-gateway-v3-secure-portal.cloud^$all
 ||finance-api-swap-portal-cdn.cloud^$all
 ||finance-app.cloud^$all
 ||finance-auth-gateway-prod-connects.cloud^$all
 ||finance-connects-dex-gateway-auth.cloud^$all
 ||finance-connects-wallet-online-app.cloud^$all
-||pancakeswap.finance-dex-connects-edge-auth.cloud^$all
+||finance-dex-connects-edge-auth.cloud^$all
 ||finance-online-auth-service-api.cloud^$all
 ||pancakeswap.finance-portal-connects-cdn-app.cloud^$all
 ||finance-swap-services-api-auth.cloud^$all
@@ -15394,6 +15403,7 @@
 ||integratedmainnet.cloud^$all
 ||integratesync.cloud^$all
 ||integratesyncs.cloud^$all
+||io-api-v3-exchange.cloud^$all
 ||io-auth-api-online-fast.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
 ||io-v5-gateway-api-gateway-alpha.cloud^$all
@@ -108760,6 +108770,7 @@
 ||app-urisvvap.net^$all
 ||app-v2-crv-curve-swap.net^$all
 ||app-wormholebridge.net^$all
+||app-xy-finance.net^$all
 ||appconnext.net^$all
 ||appextension.net^$all
 ||apps-eigenlayer.net^$all
@@ -109644,6 +109655,7 @@
 ||debank-debank-debank.net^$all
 ||debankdefi.net^$all
 ||debanks.net^$all
+||debridge-finance-instant-cross-chain-swaps-and-transfers.net^$all
 ||debridge-multiplier.net^$all
 ||debridge-restore.net^$all
 ||debridgefoundation.net^$all
@@ -110419,6 +110431,7 @@
 ||lido-eth.net^$all
 ||lido-fi.net^$all
 ||lido-fi-finance.net^$all
+||lido-finance-app.net^$all
 ||lidogovernance.net^$all
 ||lidov3.net^$all
 ||lightchain-ai.net^$all
@@ -110753,6 +110766,7 @@
 ||pancakefi-hub.net^$all
 ||pancakefinance.net^$all
 ||pancakeshop.net^$all
+||pancakeswap-finance-swap-home.net^$all
 ||pancakeswap-pancake-swap.net^$all
 ||pancakewsap.net^$all
 ||panda-verif.net^$all
@@ -111898,6 +111912,7 @@
 ||v2-opsec-claim.net^$all
 ||v2-orbiter.net^$all
 ||v2-pendle.net^$all
+||v2-plasma-flnance.net^$all
 ||v2-pufferflnance.net^$all
 ||v2-renzo.net^$all
 ||v2-stargate.net^$all
@@ -131059,6 +131074,7 @@
 ||app.alplhamind.xyz^$all
 ||alrdrop-0xsonlciabs.xyz^$all
 ||alrdrop-aevo.xyz^$all
+||alt-domain-authority-ui-io.xyz^$all
 ||magento.altcoinbase.xyz^$all
 ||altcoinst.xyz^$all
 ||airdrop.altiayers.xyz^$all
