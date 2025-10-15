@@ -58657,6 +58657,7 @@
 ||exten--coinbase-faqs-extion.pages.dev^$all
 ||exten-coin-wallet.pages.dev^$all
 ||exten-coinbase-cdn.pages.dev^$all
+||exten-coinbase-ens-us.pages.dev^$all
 ||exten-coinbase-faqs.pages.dev^$all
 ||exten-coinbase-faqs-extion.pages.dev^$all
 ||exten-coinbase-learn.pages.dev^$all
@@ -64213,6 +64214,7 @@
 ||support-coinbase-com-authd.pages.dev^$all
 ||support-coinbase-com-web.pages.dev^$all
 ||support-coinbase-extension.pages.dev^$all
+||support-coinbase-sign.pages.dev^$all
 ||support-coinbase-us.pages.dev^$all
 ||support-coinbase-wallet.pages.dev^$all
 ||support-coinbasepro-get.pages.dev^$all
