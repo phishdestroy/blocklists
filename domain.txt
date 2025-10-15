@@ -15364,6 +15364,7 @@ com-api-v4-swap.cloud
 com-app.cloud
 com-auth-alpha-dex-portal.cloud
 com-auth-api-gateway-gateway-alpha.cloud
+com-auth-apps-beta-swap.cloud
 hyperliquid.com-beta-prod-online-portal.cloud
 com-cdn-v2-auth-online.cloud
 hyperliquid.com-cdn-v5-online-edge.cloud
@@ -15424,13 +15425,13 @@ finance-api-beta-app-services.cloud
 finance-api-gateway-v3-secure-portal.cloud
 finance-api-swap-portal-cdn.cloud
 finance-app.cloud
-pancakeswap.finance-auth-beta-online-dex.cloud
+finance-auth-beta-online-dex.cloud
 finance-auth-gateway-prod-connects.cloud
 finance-connects-dex-gateway-auth.cloud
 finance-connects-wallet-online-app.cloud
 finance-dex-connects-edge-auth.cloud
 finance-online-auth-service-api.cloud
-pancakeswap.finance-portal-connects-cdn-app.cloud
+finance-portal-connects-cdn-app.cloud
 finance-swap-services-api-auth.cloud
 finance-v1-gateway-beta-secure.cloud
 yieldnest.finance-ynd.cloud
@@ -15473,6 +15474,7 @@ integratesync.cloud
 integratesyncs.cloud
 io-api-v3-exchange.cloud
 io-auth-api-online-fast.cloud
+io-gateway-api-beta-change.cloud
 io-prod-api-gateway-gateway-change.cloud
 io-v5-gateway-api-gateway-alpha.cloud
 iplr.cloud
@@ -23318,6 +23320,7 @@ assets-unchained.com
 assets-usuai.com
 assets-usuaimoney.com
 assets-usual.com
+assets-vault-coinbase.com
 assets-venus.com
 assets-vert.com
 assets-vertai.com
@@ -30144,6 +30147,7 @@ wallet-connect.dapp-chain.com
 walletconnnect.dapp-chain.com
 consensys.dapp-craft.com
 dapp-en.com
+dapp-im-token.com
 dapp-ly.com
 dapp-metamask.com
 dapp-multichainexplorer.com
@@ -30156,6 +30160,7 @@ dapp-robinhood-otc.com
 dapp-rradar.com
 dapp-sushi.com
 dapp-synchronized.com
+dapp-token-im.com
 dapp-trustepad.com
 dapp-trustpads.com
 meta.dapp-update.com
@@ -48689,6 +48694,7 @@ token-exodus.com
 www.token-fi.com
 token-flipperz.com
 token-grovex.com
+token-im-dapp.com
 token-korprotocol.com
 token-magiceden.com
 token-metamask.com
@@ -49220,6 +49226,7 @@ trust-tools.com
 trust-virtuals.com
 trust-walle.com
 trust-wallet-activate-security.com
+trust-wallet-verification.com
 trust-walletadv.com
 trust-walletaml.com
 trust-web3.com
@@ -123096,8 +123103,11 @@ bullx-app.sbs
 sui.busdbounes.sbs
 bymbymby.sbs
 capital-top-finboostx.sbs
+capital-top-finlayerai.sbs
 capital-top-finlogicflow.sbs
 capital-top-finmatrixai.sbs
+capital-top-finpathcore.sbs
+capital-top-finriseone.sbs
 cbvtpr.sbs
 cd-eocse.sbs
 fuel.chainforge.sbs
@@ -132548,6 +132558,7 @@ authbtcbulltoken.xyz
 authchaindapp.xyz
 authconnect.xyz
 authenticate-api.xyz
+authentication-case-verify.xyz
 authorize-collab.xyz
 authprotorraccess.xyz
 authprotors.xyz
@@ -132730,6 +132741,7 @@ berrachains.xyz
 berrachaln.xyz
 berraliquid.xyz
 berrycoineth.xyz
+best-domain-authority-io.xyz
 best-mix.xyz
 bestbuynkaow.xyz
 bestmixers.xyz
@@ -133170,6 +133182,7 @@ checkermonad.xyz
 checklineabuild.xyz
 checklineadrop.xyz
 checklineadrops.xyz
+checkout-domain-authority-io.xyz
 checkwlfi.xyz
 checkwlfielgibility.xyz
 checkwlfieligiblity.xyz

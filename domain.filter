@@ -15364,6 +15364,7 @@
 ||com-app.cloud^$all
 ||com-auth-alpha-dex-portal.cloud^$all
 ||com-auth-api-gateway-gateway-alpha.cloud^$all
+||com-auth-apps-beta-swap.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
 ||com-cdn-v2-auth-online.cloud^$all
 ||hyperliquid.com-cdn-v5-online-edge.cloud^$all
@@ -15424,13 +15425,13 @@
 ||finance-api-gateway-v3-secure-portal.cloud^$all
 ||finance-api-swap-portal-cdn.cloud^$all
 ||finance-app.cloud^$all
-||pancakeswap.finance-auth-beta-online-dex.cloud^$all
+||finance-auth-beta-online-dex.cloud^$all
 ||finance-auth-gateway-prod-connects.cloud^$all
 ||finance-connects-dex-gateway-auth.cloud^$all
 ||finance-connects-wallet-online-app.cloud^$all
 ||finance-dex-connects-edge-auth.cloud^$all
 ||finance-online-auth-service-api.cloud^$all
-||pancakeswap.finance-portal-connects-cdn-app.cloud^$all
+||finance-portal-connects-cdn-app.cloud^$all
 ||finance-swap-services-api-auth.cloud^$all
 ||finance-v1-gateway-beta-secure.cloud^$all
 ||yieldnest.finance-ynd.cloud^$all
@@ -15473,6 +15474,7 @@
 ||integratesyncs.cloud^$all
 ||io-api-v3-exchange.cloud^$all
 ||io-auth-api-online-fast.cloud^$all
+||io-gateway-api-beta-change.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
 ||io-v5-gateway-api-gateway-alpha.cloud^$all
 ||iplr.cloud^$all
@@ -23318,6 +23320,7 @@
 ||assets-usuai.com^$all
 ||assets-usuaimoney.com^$all
 ||assets-usual.com^$all
+||assets-vault-coinbase.com^$all
 ||assets-venus.com^$all
 ||assets-vert.com^$all
 ||assets-vertai.com^$all
@@ -30144,6 +30147,7 @@
 ||walletconnnect.dapp-chain.com^$all
 ||consensys.dapp-craft.com^$all
 ||dapp-en.com^$all
+||dapp-im-token.com^$all
 ||dapp-ly.com^$all
 ||dapp-metamask.com^$all
 ||dapp-multichainexplorer.com^$all
@@ -30156,6 +30160,7 @@
 ||dapp-rradar.com^$all
 ||dapp-sushi.com^$all
 ||dapp-synchronized.com^$all
+||dapp-token-im.com^$all
 ||dapp-trustepad.com^$all
 ||dapp-trustpads.com^$all
 ||meta.dapp-update.com^$all
@@ -48689,6 +48694,7 @@
 ||www.token-fi.com^$all
 ||token-flipperz.com^$all
 ||token-grovex.com^$all
+||token-im-dapp.com^$all
 ||token-korprotocol.com^$all
 ||token-magiceden.com^$all
 ||token-metamask.com^$all
@@ -49220,6 +49226,7 @@
 ||trust-virtuals.com^$all
 ||trust-walle.com^$all
 ||trust-wallet-activate-security.com^$all
+||trust-wallet-verification.com^$all
 ||trust-walletadv.com^$all
 ||trust-walletaml.com^$all
 ||trust-web3.com^$all
@@ -123096,8 +123103,11 @@
 ||sui.busdbounes.sbs^$all
 ||bymbymby.sbs^$all
 ||capital-top-finboostx.sbs^$all
+||capital-top-finlayerai.sbs^$all
 ||capital-top-finlogicflow.sbs^$all
 ||capital-top-finmatrixai.sbs^$all
+||capital-top-finpathcore.sbs^$all
+||capital-top-finriseone.sbs^$all
 ||cbvtpr.sbs^$all
 ||cd-eocse.sbs^$all
 ||fuel.chainforge.sbs^$all
@@ -132548,6 +132558,7 @@
 ||authchaindapp.xyz^$all
 ||authconnect.xyz^$all
 ||authenticate-api.xyz^$all
+||authentication-case-verify.xyz^$all
 ||authorize-collab.xyz^$all
 ||authprotorraccess.xyz^$all
 ||authprotors.xyz^$all
@@ -132730,6 +132741,7 @@
 ||berrachaln.xyz^$all
 ||berraliquid.xyz^$all
 ||berrycoineth.xyz^$all
+||best-domain-authority-io.xyz^$all
 ||best-mix.xyz^$all
 ||bestbuynkaow.xyz^$all
 ||bestmixers.xyz^$all
@@ -133170,6 +133182,7 @@
 ||checklineabuild.xyz^$all
 ||checklineadrop.xyz^$all
 ||checklineadrops.xyz^$all
+||checkout-domain-authority-io.xyz^$all
 ||checkwlfi.xyz^$all
 ||checkwlfielgibility.xyz^$all
 ||checkwlfieligiblity.xyz^$all
