@@ -15427,7 +15427,7 @@
 ||cointo.cloud^$all
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
-||hyperliquid.com-api-alpha-auth-secure.cloud^$all
+||com-api-alpha-auth-secure.cloud^$all
 ||com-api-online-secure-dex.cloud^$all
 ||com-api-secure-online-alpha.cloud^$all
 ||com-api-swap-v3.cloud^$all
@@ -15436,6 +15436,7 @@
 ||com-api-v4-swap.cloud^$all
 ||com-app.cloud^$all
 ||com-auth-alpha-dex-portal.cloud^$all
+||com-auth-alpha-trade-v4.cloud^$all
 ||com-auth-api-gateway-gateway-alpha.cloud^$all
 ||com-auth-apps-beta-swap.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
@@ -15556,6 +15557,7 @@
 ||integratesyncs.cloud^$all
 ||io-api-v3-exchange.cloud^$all
 ||io-auth-api-online-fast.cloud^$all
+||io-fast-crypto-swap-v3.cloud^$all
 ||io-gateway-api-beta-change.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
 ||io-v5-gateway-api-gateway-alpha.cloud^$all
@@ -26344,6 +26346,7 @@
 ||claims-1dollar.com^$all
 ||claims-1dollarsol.com^$all
 ||claims-1inch.com^$all
+||claims-4onbsc.com^$all
 ||claims-5thscape.com^$all
 ||claims-administration-stretto.com^$all
 ||www6.claims-aethirs.com^$all
@@ -26393,17 +26396,20 @@
 ||claims-insider.com^$all
 ||claims-jailstool.com^$all
 ||claims-jupiac.com^$all
+||claims-lab.com^$all
 ||claims-layer3-foundations.com^$all
 ||claims-ledger.com^$all
 ||claims-lxp.com^$all
 ||claims-magicnewton.com^$all
 ||claims-manatoken.com^$all
+||claims-midnightdrop.com^$all
 ||claims-mindofpepe.com^$all
 ||claims-mito.com^$all
 ||claims-mobyagent.com^$all
 ||claims-monad.com^$all
 ||claims-myshell.com^$all
 ||claims-notice.com^$all
+||claims-now.com^$all
 ||claims-ondofinance.com^$all
 ||claims-opsecv2.com^$all
 ||claims-optimismio.com^$all
@@ -26965,6 +26971,7 @@
 ||wt.coin-base.com^$all
 ||ww12.coin-base.com^$all
 ||coin-baseai.com^$all
+||coin-basedapp.com^$all
 ||coin-basemaintenance.com^$all
 ||coin-basese.com^$all
 ||coin-basesupp.com^$all
@@ -29306,6 +29313,7 @@
 ||config-metamask.com^$all
 ||confirm-coinbase.com^$all
 ||confirm-info-coinbase.com^$all
+||confirm-trustwallet.com^$all
 ||confirm-wallets.com^$all
 ||nnvfw34vmy.confirmation-coinbase.com^$all
 ||confirmation-walletconnect.com^$all
@@ -31814,6 +31822,7 @@
 ||eokex.com^$all
 ||eoniclabs.com^$all
 ||eonvault-web.com^$all
+||eos-give-away.com^$all
 ||eosdappradar.com^$all
 ||r.eown.com^$all
 ||epic-arbitrage.com^$all
@@ -31932,6 +31941,7 @@
 ||ethdy.com^$all
 ||ethen-eth.com^$all
 ||ethena-concrete.com^$all
+||ethena-dapp.com^$all
 ||ethena-dashboard.com^$all
 ||ethena-treasurypool.com^$all
 ||ethena-v3.com^$all
@@ -40303,6 +40313,7 @@
 ||near-airdrop.com^$all
 ||near-gift.com^$all
 ||near-nft.com^$all
+||near-reward.com^$all
 ||nearfans.com^$all
 ||nearnfts.com^$all
 ||nearwalletdebug.com^$all
@@ -50417,6 +50428,7 @@
 ||vaulted-wallet.com^$all
 ||vaultguard-coinbase.com^$all
 ||vaulthub-coinbase.com^$all
+||vaulthub-crypto.com^$all
 ||vaultlogin-coinbase.com^$all
 ||vaultmarketfxtrade.com^$all
 ||vaultnow-coinbase.com^$all
@@ -51071,6 +51083,7 @@
 ||wallet-registration.com^$all
 ||wallet-security-1inch.com^$all
 ||wallet-setup-coinbase.com^$all
+||wallet-tokenpocket.com^$all
 ||wallet-tonkeeper.com^$all
 ||wallet-transaction-check.com^$all
 ||wallet-tx-blockchain.com^$all
@@ -60392,6 +60405,7 @@
 ||krkn-logn.pages.dev^$all
 ||krknn-login.pages.dev^$all
 ||krrakein-login-get.pages.dev^$all
+||krraken-login-ecu.pages.dev^$all
 ||krreken-login-us.pages.dev^$all
 ||flaresnetwor.ks.pages.dev^$all
 ||ksh-portal-uphold.pages.dev^$all
@@ -80256,6 +80270,7 @@
 ||compound.icu^$all
 ||compoundfi.icu^$all
 ||confidentiallayers.icu^$all
+||confirm-auth.icu^$all
 ||connect-metamask.icu^$all
 ||consensys.icu^$all
 ||cookie28.icu^$all
@@ -82290,6 +82305,7 @@
 ||vote-keeta.info^$all
 ||vote-trillions.info^$all
 ||voting-trillions.info^$all
+||wallet-tx-blockchain.info^$all
 ||walletconnect-okx.info^$all
 ||walletconnectnetwork.info^$all
 ||walletmetamask.info^$all
@@ -107344,6 +107360,7 @@
 ||doublezero.live^$all
 ||download-satoshiwallet.live^$all
 ||driftprotoc.live^$all
+||drop-enso.live^$all
 ||drop-polymarket.live^$all
 ||drop-solaxy.live^$all
 ||walletconnect.drop-stage.live^$all
@@ -115019,6 +115036,7 @@
 ||zorai.network^$all
 ||zoramint.network^$all
 ||zoras.network^$all
+||zypher-rewards.network^$all
 ||polymarket.new^$all
 ||aethir.news^$all
 ||aivideohub.news^$all
@@ -119149,6 +119167,7 @@
 ||omrpho.org^$all
 ||debridgefounbati.on.org^$all
 ||debriidgesfonudati.on.org^$all
+||onchain-dapp.org^$all
 ||onchain-usdc.org^$all
 ||ondocoin.org^$all
 ||ondofinance.org^$all
@@ -124685,6 +124704,7 @@
 ||cnsweb.site^$all
 ||coinbase.com.coimbase.site^$all
 ||coin-base.site^$all
+||coin-pump-fun.site^$all
 ||coin-volcanos.site^$all
 ||ton.coin.site^$all
 ||coinbace.site^$all
@@ -124806,6 +124826,7 @@
 ||polka.dot.site^$all
 ||drop-doodles.site^$all
 ||drop-iost.site^$all
+||drop-pumpfun.site^$all
 ||drop-redstone.site^$all
 ||dropchain.site^$all
 ||plume.dropstation.site^$all
@@ -134139,6 +134160,7 @@
 ||claims-kinto.xyz^$all
 ||claims-linea.xyz^$all
 ||claims-lineabuild.xyz^$all
+||claims-m0nad.xyz^$all
 ||claims-monad.xyz^$all
 ||claims-monadevm.xyz^$all
 ||claims-monads.xyz^$all
@@ -135191,6 +135213,7 @@
 ||ethstr.xyz^$all
 ||ethzrefund.xyz^$all
 ||etnena.xyz^$all
+||etrlrewardpool.xyz^$all
 ||etuktuk-claim.xyz^$all
 ||euier-finance.xyz^$all
 ||euier-flnance.xyz^$all
@@ -139632,6 +139655,7 @@
 ||verified-contract.xyz^$all
 ||verified-global-standard.xyz^$all
 ||verified-incentive.xyz^$all
+||verify-security-authentication.xyz^$all
 ||verify-sophons.xyz^$all
 ||verify-ultimopay.xyz^$all
 ||vertai-sushi.xyz^$all
