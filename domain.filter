@@ -1557,6 +1557,7 @@
 ||my-ether-wallet.app^$all
 ||my-near-wallet.app^$all
 ||my-soniclabs.app^$all
+||myetherwalletdesktop.app^$all
 ||myetherwallets.app^$all
 ||mymonero.app^$all
 ||myphantom.app^$all
@@ -3027,6 +3028,7 @@
 ||nodessync.app^$all
 ||nooxlabs.app^$all
 ||pha.ntom.app^$all
+||o-bridge-v3.app^$all
 ||o-connect-v3.app^$all
 ||o-connect-v4.app^$all
 ||o-dex-v3.app^$all
@@ -3100,6 +3102,7 @@
 ||paaltreasury.app^$all
 ||pacusa.app^$all
 ||padre-rewards.app^$all
+||pan-bridge-v3.app^$all
 ||pan-connect-v3.app^$all
 ||pan-connect-v4.app^$all
 ||pan-dex-v4.app^$all
@@ -13418,6 +13421,7 @@
 ||pamcasesvrap.cc^$all
 ||pamcokeesweep.cc^$all
 ||pamscaikesvanp.cc^$all
+||pancake-about-info.cc^$all
 ||pancakesup.cc^$all
 ||pancakeswap-finance-swap-home.cc^$all
 ||pancakeswapflnance.cc^$all
@@ -15494,6 +15498,7 @@
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
 ||com-api-alpha-auth-secure.cloud^$all
+||com-api-crypto-v4.cloud^$all
 ||com-api-online-secure-dex.cloud^$all
 ||com-api-secure-online-alpha.cloud^$all
 ||com-api-swap-v3.cloud^$all
@@ -15514,18 +15519,20 @@
 ||hyperliquid.com-gateway-api-gateway-dex-app.cloud^$all
 ||com-gateway-beta-api-auth.cloud^$all
 ||com-gateway-connects-auth-swap.cloud^$all
-||aave.com-online-app-swap-wallets.cloud^$all
+||com-online-app-swap-wallets.cloud^$all
 ||com-online-beta-gateway-swap.cloud^$all
 ||com-online-secure-api-gateway-dex.cloud^$all
 ||com-portal-api-gateway-beta-app.cloud^$all
-||hyperliquid.com-portal-online-wallets-edge.cloud^$all
+||com-portal-online-wallets-edge.cloud^$all
+||com-prod-v4-wallet-portal.cloud^$all
 ||com-restaking.cloud^$all
 ||com-secure-services-v4-api.cloud^$all
 ||com-service-api-gateway-gateway-auth.cloud^$all
 ||com-service-api-trade-secure.cloud^$all
 ||com-service-auth-secure-trading.cloud^$all
 ||com-swap-cdn-auth-edge.cloud^$all
-||hyperliquid.com-wallet-dex-v3-service.cloud^$all
+||com-trading-api-gateway-apps-service.cloud^$all
+||com-wallet-dex-v3-service.cloud^$all
 ||coresky.cloud^$all
 ||coresolver.cloud^$all
 ||corkclaim.cloud^$all
@@ -15572,19 +15579,19 @@
 ||finance-app-prod-auth-edge.cloud^$all
 ||finance-auth-beta-online-dex.cloud^$all
 ||finance-auth-gateway-prod-connects.cloud^$all
-||pancakeswap.finance-beta-connects-alpha-cdn.cloud^$all
+||finance-beta-connects-alpha-cdn.cloud^$all
 ||pancakeswap.finance-cdn-wallets-api-gateway-api.cloud^$all
 ||pancakeswap.finance-connect-cdn-api-service.cloud^$all
 ||finance-connect-v3-api-gateway-swap.cloud^$all
 ||finance-connects-dex-gateway-auth.cloud^$all
 ||finance-connects-wallet-online-app.cloud^$all
-||pancakeswap.finance-dex-beta-apps-alpha.cloud^$all
+||finance-dex-beta-apps-alpha.cloud^$all
 ||finance-dex-connects-edge-auth.cloud^$all
 ||finance-online-auth-service-api.cloud^$all
 ||finance-portal-connects-cdn-app.cloud^$all
 ||finance-swap-services-api-auth.cloud^$all
 ||finance-v1-gateway-beta-secure.cloud^$all
-||pancakeswap.finance-v3-gateway-online-app.cloud^$all
+||finance-v3-gateway-online-app.cloud^$all
 ||finance-wallets-alpha-prod-cdn.cloud^$all
 ||yieldnest.finance-ynd.cloud^$all
 ||fixdappsvalidate.cloud^$all
@@ -15627,6 +15634,7 @@
 ||io-alpha-edge-gateway-services.cloud^$all
 ||io-api-v3-exchange.cloud^$all
 ||io-auth-api-online-fast.cloud^$all
+||io-cdn-token-api-gateway-gateway.cloud^$all
 ||io-fast-crypto-swap-v3.cloud^$all
 ||io-gateway-api-beta-change.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
@@ -33702,6 +33710,7 @@
 ||flare-networkxrp.com^$all
 ||flare-pool.com^$all
 ||flare-portal.com^$all
+||flare-portal-claim.com^$all
 ||flare-ripple.com^$all
 ||flare-safe.com^$all
 ||flare-support.com^$all
@@ -41958,6 +41967,7 @@
 ||org-rune.com^$all
 ||org-swap-connect-wallet-apiv2.com^$all
 ||org-swap-v3.com^$all
+||org-trade-crypto-defi.com^$all
 ||org-v-connect-wallet-v3.com^$all
 ||org-v1-app-wallet-connect.com^$all
 ||org-v2-api-wallet-connect.com^$all
@@ -53476,6 +53486,7 @@
 ||xn--onbase-wva8468c.com^$all
 ||xn--oniclabs-mwb.com^$all
 ||xn--pancakswap-wmb.com^$all
+||xn--pncakeswap-3gb.com^$all
 ||xn--polymrket-u1a.com^$all
 ||xn--privnte-p0a.com^$all
 ||xn--py1bn69c.com^$all
@@ -80287,6 +80298,7 @@
 ||app-virtuals.help^$all
 ||assetclaimdashboard.help^$all
 ||astarcoin.help^$all
+||aster-dex-claim.help^$all
 ||auth-arrvest.help^$all
 ||auth-coinbase.help^$all
 ||backpack.help^$all
@@ -122661,6 +122673,7 @@
 ||pancakesw4p.pro^$all
 ||pancakeswap-connect.pro^$all
 ||pancakeswap-finance.pro^$all
+||pancokeswap.pro^$all
 ||pansos4dvisi.pro^$all
 ||papetoken.pro^$all
 ||par-group.pro^$all
@@ -124568,6 +124581,7 @@
 ||eagleaitokenclaim.sbs^$all
 ||ecosperefund.sbs^$all
 ||coinbase.exchange.ecovisionmatrix.sbs^$all
+||eigea4lsd0kfie83.sbs^$all
 ||eigenlayer-claim.sbs^$all
 ||eigenlayerapp.sbs^$all
 ||elixir-xyz.sbs^$all
@@ -127484,6 +127498,7 @@
 ||digitaltax.su^$all
 ||drops.su^$all
 ||1.inch.su^$all
+||intensiv-po-airdrop.su^$all
 ||relay.lmfao.su^$all
 ||metamask.su^$all
 ||nft-aml.su^$all
@@ -132236,6 +132251,7 @@
 ||app.debridge.work^$all
 ||deploys.work^$all
 ||dood.doodles.work^$all
+||finance-analytics-cb.work^$all
 ||flarenet.work^$all
 ||hedera.work^$all
 ||wormhole.hyperspace.work^$all

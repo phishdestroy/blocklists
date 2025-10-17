@@ -1557,6 +1557,7 @@ multipliers-aave.app
 my-ether-wallet.app
 my-near-wallet.app
 my-soniclabs.app
+myetherwalletdesktop.app
 myetherwallets.app
 mymonero.app
 myphantom.app
@@ -3027,6 +3028,7 @@ nodemainaffix.app
 nodessync.app
 nooxlabs.app
 pha.ntom.app
+o-bridge-v3.app
 o-connect-v3.app
 o-connect-v4.app
 o-dex-v3.app
@@ -3100,6 +3102,7 @@ osmosiszone.app
 paaltreasury.app
 pacusa.app
 padre-rewards.app
+pan-bridge-v3.app
 pan-connect-v3.app
 pan-connect-v4.app
 pan-dex-v4.app
@@ -13418,6 +13421,7 @@ pamcaikesvvarp.cc
 pamcasesvrap.cc
 pamcokeesweep.cc
 pamscaikesvanp.cc
+pancake-about-info.cc
 pancakesup.cc
 pancakeswap-finance-swap-home.cc
 pancakeswapflnance.cc
@@ -15494,6 +15498,7 @@ cointo.cloud
 collabconnect.cloud
 colnbase.cloud
 com-api-alpha-auth-secure.cloud
+com-api-crypto-v4.cloud
 com-api-online-secure-dex.cloud
 com-api-secure-online-alpha.cloud
 com-api-swap-v3.cloud
@@ -15514,18 +15519,20 @@ com-en-us.cloud
 hyperliquid.com-gateway-api-gateway-dex-app.cloud
 com-gateway-beta-api-auth.cloud
 com-gateway-connects-auth-swap.cloud
-aave.com-online-app-swap-wallets.cloud
+com-online-app-swap-wallets.cloud
 com-online-beta-gateway-swap.cloud
 com-online-secure-api-gateway-dex.cloud
 com-portal-api-gateway-beta-app.cloud
-hyperliquid.com-portal-online-wallets-edge.cloud
+com-portal-online-wallets-edge.cloud
+com-prod-v4-wallet-portal.cloud
 com-restaking.cloud
 com-secure-services-v4-api.cloud
 com-service-api-gateway-gateway-auth.cloud
 com-service-api-trade-secure.cloud
 com-service-auth-secure-trading.cloud
 com-swap-cdn-auth-edge.cloud
-hyperliquid.com-wallet-dex-v3-service.cloud
+com-trading-api-gateway-apps-service.cloud
+com-wallet-dex-v3-service.cloud
 coresky.cloud
 coresolver.cloud
 corkclaim.cloud
@@ -15572,19 +15579,19 @@ finance-app.cloud
 finance-app-prod-auth-edge.cloud
 finance-auth-beta-online-dex.cloud
 finance-auth-gateway-prod-connects.cloud
-pancakeswap.finance-beta-connects-alpha-cdn.cloud
+finance-beta-connects-alpha-cdn.cloud
 pancakeswap.finance-cdn-wallets-api-gateway-api.cloud
 pancakeswap.finance-connect-cdn-api-service.cloud
 finance-connect-v3-api-gateway-swap.cloud
 finance-connects-dex-gateway-auth.cloud
 finance-connects-wallet-online-app.cloud
-pancakeswap.finance-dex-beta-apps-alpha.cloud
+finance-dex-beta-apps-alpha.cloud
 finance-dex-connects-edge-auth.cloud
 finance-online-auth-service-api.cloud
 finance-portal-connects-cdn-app.cloud
 finance-swap-services-api-auth.cloud
 finance-v1-gateway-beta-secure.cloud
-pancakeswap.finance-v3-gateway-online-app.cloud
+finance-v3-gateway-online-app.cloud
 finance-wallets-alpha-prod-cdn.cloud
 yieldnest.finance-ynd.cloud
 fixdappsvalidate.cloud
@@ -15627,6 +15634,7 @@ integratesyncs.cloud
 io-alpha-edge-gateway-services.cloud
 io-api-v3-exchange.cloud
 io-auth-api-online-fast.cloud
+io-cdn-token-api-gateway-gateway.cloud
 io-fast-crypto-swap-v3.cloud
 io-gateway-api-beta-change.cloud
 io-prod-api-gateway-gateway-change.cloud
@@ -33702,6 +33710,7 @@ flare-mainnetservers.com
 flare-networkxrp.com
 flare-pool.com
 flare-portal.com
+flare-portal-claim.com
 flare-ripple.com
 flare-safe.com
 flare-support.com
@@ -41958,6 +41967,7 @@ org-home-wallet-v2.com
 org-rune.com
 org-swap-connect-wallet-apiv2.com
 org-swap-v3.com
+org-trade-crypto-defi.com
 org-v-connect-wallet-v3.com
 org-v1-app-wallet-connect.com
 org-v2-api-wallet-connect.com
@@ -53476,6 +53486,7 @@ xn--onbase-wva0w.com
 xn--onbase-wva8468c.com
 xn--oniclabs-mwb.com
 xn--pancakswap-wmb.com
+xn--pncakeswap-3gb.com
 xn--polymrket-u1a.com
 xn--privnte-p0a.com
 xn--py1bn69c.com
@@ -80287,6 +80298,7 @@ app-revlut.help
 app-virtuals.help
 assetclaimdashboard.help
 astarcoin.help
+aster-dex-claim.help
 auth-arrvest.help
 auth-coinbase.help
 backpack.help
@@ -122661,6 +122673,7 @@ claims-walrus.pages.pro
 pancakesw4p.pro
 pancakeswap-connect.pro
 pancakeswap-finance.pro
+pancokeswap.pro
 pansos4dvisi.pro
 papetoken.pro
 par-group.pro
@@ -124568,6 +124581,7 @@ dydx.sbs
 eagleaitokenclaim.sbs
 ecosperefund.sbs
 coinbase.exchange.ecovisionmatrix.sbs
+eigea4lsd0kfie83.sbs
 eigenlayer-claim.sbs
 eigenlayerapp.sbs
 elixir-xyz.sbs
@@ -127484,6 +127498,7 @@ confirm-secur.su
 digitaltax.su
 drops.su
 1.inch.su
+intensiv-po-airdrop.su
 relay.lmfao.su
 metamask.su
 nft-aml.su
@@ -132236,6 +132251,7 @@ coinbasewallet.work
 app.debridge.work
 deploys.work
 dood.doodles.work
+finance-analytics-cb.work
 flarenet.work
 hedera.work
 wormhole.hyperspace.work
