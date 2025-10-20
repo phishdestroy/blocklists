@@ -1148,6 +1148,7 @@
 ||finance-edge-portal-api-gateway-api.app^$all
 ||finance-edge-prod-wallets-api-gateway.app^$all
 ||finance-edge-service-api-gateway-connects.app^$all
+||finance-en-main.app^$all
 ||finance-gateway-beta-swap-prod.app^$all
 ||pendle.finance-p.app^$all
 ||finance-prod-swap-edge-gateway.app^$all
@@ -15719,6 +15720,7 @@
 ||com-api-online-secure-dex.cloud^$all
 ||com-api-secure-online-alpha.cloud^$all
 ||com-api-swap-v3.cloud^$all
+||com-api-trading-secure-app.cloud^$all
 ||com-api-v2-swap.cloud^$all
 ||com-api-v2-wallets-apps.cloud^$all
 ||com-api-v3-crypto.cloud^$all
@@ -15728,7 +15730,7 @@
 ||com-auth-alpha-trade-v4.cloud^$all
 ||com-auth-api-gateway-gateway-alpha.cloud^$all
 ||com-auth-apps-beta-swap.cloud^$all
-||hyperliquid.com-auth-online-swap-dex.cloud^$all
+||com-auth-online-swap-dex.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
 ||com-cdn-auth-portal-agent.cloud^$all
 ||com-cdn-v2-auth-online.cloud^$all
@@ -15739,7 +15741,7 @@
 ||hyperliquid.com-gateway-api-gateway-dex-app.cloud^$all
 ||com-gateway-beta-api-auth.cloud^$all
 ||com-gateway-connects-auth-swap.cloud^$all
-||hyperliquid.com-gateway-wallets-api-cdn.cloud^$all
+||com-gateway-wallets-api-cdn.cloud^$all
 ||com-online-app-swap-wallets.cloud^$all
 ||com-online-beta-gateway-swap.cloud^$all
 ||com-online-secure-api-gateway-dex.cloud^$all
@@ -15810,12 +15812,13 @@
 ||finance-cdn-secure-api-alpha.cloud^$all
 ||finance-cdn-wallets-api-gateway-api.cloud^$all
 ||finance-connect-cdn-api-service.cloud^$all
+||finance-connect-services-portal-wallet.cloud^$all
 ||finance-connect-v3-api-gateway-swap.cloud^$all
 ||finance-connects-dex-gateway-auth.cloud^$all
 ||finance-connects-wallet-online-app.cloud^$all
 ||finance-dex-beta-apps-alpha.cloud^$all
 ||finance-dex-connects-edge-auth.cloud^$all
-||pancakeswap.finance-edge-swap-app-auth.cloud^$all
+||finance-edge-swap-app-auth.cloud^$all
 ||finance-online-auth-service-api.cloud^$all
 ||finance-portal-connects-cdn-app.cloud^$all
 ||finance-services-swap-cdn-prod.cloud^$all
@@ -15868,6 +15871,7 @@
 ||io-cdn-token-api-gateway-gateway.cloud^$all
 ||io-fast-crypto-swap-v3.cloud^$all
 ||io-gateway-api-beta-change.cloud^$all
+||io-gateway-api-service-online.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
 ||io-v5-gateway-api-gateway-alpha.cloud^$all
 ||iplr.cloud^$all

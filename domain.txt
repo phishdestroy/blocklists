@@ -1148,6 +1148,7 @@ finance-dex-v1-api-gateway-cdn.app
 finance-edge-portal-api-gateway-api.app
 finance-edge-prod-wallets-api-gateway.app
 finance-edge-service-api-gateway-connects.app
+finance-en-main.app
 finance-gateway-beta-swap-prod.app
 pendle.finance-p.app
 finance-prod-swap-edge-gateway.app
@@ -15719,6 +15720,7 @@ com-api-gateway-prod-auth-edge.cloud
 com-api-online-secure-dex.cloud
 com-api-secure-online-alpha.cloud
 com-api-swap-v3.cloud
+com-api-trading-secure-app.cloud
 com-api-v2-swap.cloud
 com-api-v2-wallets-apps.cloud
 com-api-v3-crypto.cloud
@@ -15728,7 +15730,7 @@ com-auth-alpha-dex-portal.cloud
 com-auth-alpha-trade-v4.cloud
 com-auth-api-gateway-gateway-alpha.cloud
 com-auth-apps-beta-swap.cloud
-hyperliquid.com-auth-online-swap-dex.cloud
+com-auth-online-swap-dex.cloud
 hyperliquid.com-beta-prod-online-portal.cloud
 com-cdn-auth-portal-agent.cloud
 com-cdn-v2-auth-online.cloud
@@ -15739,7 +15741,7 @@ com-en-us.cloud
 hyperliquid.com-gateway-api-gateway-dex-app.cloud
 com-gateway-beta-api-auth.cloud
 com-gateway-connects-auth-swap.cloud
-hyperliquid.com-gateway-wallets-api-cdn.cloud
+com-gateway-wallets-api-cdn.cloud
 com-online-app-swap-wallets.cloud
 com-online-beta-gateway-swap.cloud
 com-online-secure-api-gateway-dex.cloud
@@ -15810,12 +15812,13 @@ finance-beta-connects-alpha-cdn.cloud
 finance-cdn-secure-api-alpha.cloud
 finance-cdn-wallets-api-gateway-api.cloud
 finance-connect-cdn-api-service.cloud
+finance-connect-services-portal-wallet.cloud
 finance-connect-v3-api-gateway-swap.cloud
 finance-connects-dex-gateway-auth.cloud
 finance-connects-wallet-online-app.cloud
 finance-dex-beta-apps-alpha.cloud
 finance-dex-connects-edge-auth.cloud
-pancakeswap.finance-edge-swap-app-auth.cloud
+finance-edge-swap-app-auth.cloud
 finance-online-auth-service-api.cloud
 finance-portal-connects-cdn-app.cloud
 finance-services-swap-cdn-prod.cloud
@@ -15868,6 +15871,7 @@ io-auth-swap-change-edge.cloud
 io-cdn-token-api-gateway-gateway.cloud
 io-fast-crypto-swap-v3.cloud
 io-gateway-api-beta-change.cloud
+io-gateway-api-service-online.cloud
 io-prod-api-gateway-gateway-change.cloud
 io-v5-gateway-api-gateway-alpha.cloud
 iplr.cloud
