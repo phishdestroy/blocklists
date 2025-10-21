@@ -15755,7 +15755,8 @@
 ||cointo.cloud^$all
 ||collabconnect.cloud^$all
 ||colnbase.cloud^$all
-||hyperliquid.com-alpha-app-wallets-dex.cloud^$all
+||com-alpha-app-wallets-dex.cloud^$all
+||com-alpha-trading-api-edge.cloud^$all
 ||com-api-alpha-auth-secure.cloud^$all
 ||com-api-crypto-v4.cloud^$all
 ||com-api-gateway-prod-auth-edge.cloud^$all
@@ -15863,6 +15864,7 @@
 ||finance-edge-swap-app-auth.cloud^$all
 ||finance-online-auth-service-api.cloud^$all
 ||finance-portal-connects-cdn-app.cloud^$all
+||finance-prod-dex-v1-edge.cloud^$all
 ||finance-services-swap-cdn-prod.cloud^$all
 ||finance-swap-services-api-auth.cloud^$all
 ||finance-v1-gateway-beta-secure.cloud^$all
@@ -15915,6 +15917,7 @@
 ||io-gateway-api-beta-change.cloud^$all
 ||io-gateway-api-service-online.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
+||io-swap-cdn-api.cloud^$all
 ||io-v5-gateway-api-gateway-alpha.cloud^$all
 ||iplr.cloud^$all
 ||jupiterdapp.cloud^$all
@@ -33526,6 +33529,7 @@
 ||finance-legendapp-app.com^$all
 ||appcompound.finance-lendingprocess.com^$all
 ||finance-lnfo.com^$all
+||finance-nooz-outleet.com^$all
 ||finance-okx.com^$all
 ||finance-partners-ulm.com^$all
 ||kamino.finance-personal.com^$all
@@ -126031,12 +126035,16 @@
 ||bullx-app.sbs^$all
 ||sui.busdbounes.sbs^$all
 ||bymbymby.sbs^$all
+||capital-top-finaxisup.sbs^$all
 ||capital-top-finboostx.sbs^$all
 ||capital-top-finlayerai.sbs^$all
+||capital-top-finlayeron.sbs^$all
 ||capital-top-finlogicflow.sbs^$all
+||capital-top-finlogicon.sbs^$all
 ||capital-top-finmatrixai.sbs^$all
 ||capital-top-finpathcore.sbs^$all
 ||capital-top-finriseone.sbs^$all
+||capital-top-finshiftly.sbs^$all
 ||cbvtpr.sbs^$all
 ||cd-eocse.sbs^$all
 ||fuel.chainforge.sbs^$all
