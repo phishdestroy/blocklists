@@ -15766,6 +15766,7 @@
 ||claim.swarmnode.click^$all
 ||swiftconnect.click^$all
 ||synfutures.click^$all
+||t-plus-finance.click^$all
 ||t-rustpadfi.click^$all
 ||tangem.click^$all
 ||tapalpapa.click^$all
@@ -15913,13 +15914,18 @@
 ||com-api-v3-crypto.cloud^$all
 ||com-api-v4-swap.cloud^$all
 ||com-app.cloud^$all
+||com-apps-auth-beta-services.cloud^$all
 ||com-auth-alpha-dex-portal.cloud^$all
 ||com-auth-alpha-trade-v4.cloud^$all
 ||com-auth-api-gateway-gateway-alpha.cloud^$all
+||com-auth-api-gateway-services-management.cloud^$all
 ||com-auth-apps-beta-swap.cloud^$all
+||com-auth-beta-portal-online.cloud^$all
 ||com-auth-online-swap-dex.cloud^$all
-||hyperliquid.com-beta-auth-alpha-dex.cloud^$all
+||com-beta-api-secure-services.cloud^$all
+||com-beta-auth-alpha-dex.cloud^$all
 ||hyperliquid.com-beta-prod-online-portal.cloud^$all
+||com-brokers-api-auth-cdn.cloud^$all
 ||com-cdn-api-gateway-service-secure.cloud^$all
 ||com-cdn-auth-portal-agent.cloud^$all
 ||com-cdn-v2-auth-online.cloud^$all
@@ -16013,6 +16019,7 @@
 ||finance-connects-dex-gateway-auth.cloud^$all
 ||finance-connects-wallet-online-app.cloud^$all
 ||finance-dex-beta-apps-alpha.cloud^$all
+||finance-dex-cdn-secure-api-gateway.cloud^$all
 ||finance-dex-connects-edge-auth.cloud^$all
 ||finance-edge-swap-app-auth.cloud^$all
 ||finance-online-auth-service-api.cloud^$all
@@ -16064,9 +16071,11 @@
 ||integratesync.cloud^$all
 ||integratesyncs.cloud^$all
 ||io-alpha-edge-gateway-services.cloud^$all
+||io-api-beta-app-api-gateway.cloud^$all
 ||io-api-v3-exchange.cloud^$all
 ||io-auth-api-online-fast.cloud^$all
 ||io-auth-swap-change-edge.cloud^$all
+||io-beta-api-gateway-cdn-online.cloud^$all
 ||io-cdn-change-beta-api.cloud^$all
 ||io-cdn-token-api-gateway-gateway.cloud^$all
 ||io-fast-crypto-swap-v3.cloud^$all
@@ -30301,6 +30310,7 @@
 ||copytradingfun.com^$all
 ||coralmarkets.com^$all
 ||coralprotocols.com^$all
+||core-finance-app.com^$all
 ||core-networkgov.com^$all
 ||core-strettos.com^$all
 ||coressky.com^$all
@@ -30792,6 +30802,7 @@
 ||crypto-dezireapp.com^$all
 ||crypto-edge-system.com^$all
 ||crypto-faucet-go.com^$all
+||crypto-finance-app-philippines.com^$all
 ||crypto-flipperz.com^$all
 ||crypto-idx.com^$all
 ||crypto-innovate-bot.com^$all
@@ -30802,6 +30813,7 @@
 ||crypto-profit-ch.com^$all
 ||crypto-smartwallet.com^$all
 ||crypto-support-24.com^$all
+||crypto-valley-sydney-au.com^$all
 ||crypto-vestx.com^$all
 ||crypto-walletconnects.com^$all
 ||crypto-winner.com^$all
@@ -33793,6 +33805,7 @@
 ||finance-fast-chain-wallet.com^$all
 ||finance-fast-swap.com^$all
 ||finance-flow-hub.com^$all
+||finance-freedom-success.com^$all
 ||finance-gateway-v1-service-cdn.com^$all
 ||finance-home-v2-connect.com^$all
 ||finance-home-v3-wallet.com^$all
@@ -43043,6 +43056,7 @@
 ||pancake-launch-v8.com^$all
 ||pancake-lottery.com^$all
 ||pancake-spot.com^$all
+||pancake-swp.com^$all
 ||pancake-token.com^$all
 ||pancake-v2.com^$all
 ||pancakebonad.com^$all
@@ -43199,6 +43213,7 @@
 ||paymentcoinbase.com^$all
 ||payout-coinbase.com^$all
 ||blockfi.payout-collects.com^$all
+||paypal-cryptosweepstakes-redemption-claim.com^$all
 ||coinbase-confirmation-account.paypalaccountsettlment.com^$all
 ||coinbaseyield.paypalbitcoin.com^$all
 ||metamask.stage.paypalcreadit.com^$all
@@ -48325,6 +48340,7 @@
 ||sundoggcoin.com^$all
 ||sunfutures.com^$all
 ||sunniacademy.com^$all
+||sunprime-finance-inc.com^$all
 ||sunpump-trx.com^$all
 ||sunpumpfun.com^$all
 ||sunpumpsun.com^$all
@@ -51590,6 +51606,7 @@
 ||v2-cow-swap.com^$all
 ||v2-cunve.com^$all
 ||v2-curve.com^$all
+||v2-debridge-finance.com^$all
 ||v2-depank.com^$all
 ||v2-dex-screener.com^$all
 ||v2-dydx.com^$all
@@ -51624,6 +51641,7 @@
 ||v2-opensea.com^$all
 ||v2-opsec-claim.com^$all
 ||v2-orcafinance.com^$all
+||v2-pahcakesvvap.com^$all
 ||v2-pendle.com^$all
 ||v2-pepeunchained.com^$all
 ||v2-plasma-finance.com^$all
@@ -80480,6 +80498,7 @@
 ||p0ndle.finance^$all
 ||pajcakeswap.finance^$all
 ||pamcckeswap.finance^$all
+||pan-cake-svap.finance^$all
 ||panacakeswap.finance^$all
 ||pancakaewap.finance^$all
 ||pancakaswep.finance^$all
@@ -110041,6 +110060,7 @@
 ||claim-cudis.live^$all
 ||claim-diamante.live^$all
 ||claim-dop.live^$all
+||claim-fatty-io.live^$all
 ||claim-giveaway.live^$all
 ||claim-huma.live^$all
 ||claim-ika.live^$all
@@ -120452,6 +120472,7 @@
 ||astragoldbitx.org^$all
 ||atlasaitech.org^$all
 ||auragalaxy.org^$all
+||auth-ripio-com.org^$all
 ||auth-uniswap.org^$all
 ||compound.authereum.org^$all
 ||auto-dappcloud.org^$all
@@ -121035,6 +121056,7 @@
 ||crptopo.org^$all
 ||crv-curve-swap.org^$all
 ||crypto-finance-au.org^$all
+||crypto-finance-fr.org^$all
 ||crypto-xrp.org^$all
 ||crypto-yield-ch.org^$all
 ||admin.cryptoapponchain.org^$all
@@ -127108,14 +127130,17 @@
 ||capital-top-finatlason.sbs^$all
 ||capital-top-finaxisup.sbs^$all
 ||capital-top-finboostx.sbs^$all
+||capital-top-finfocus.sbs^$all
 ||capital-top-finlayerai.sbs^$all
 ||capital-top-finlayeron.sbs^$all
+||capital-top-finlogic.sbs^$all
 ||capital-top-finlogicflow.sbs^$all
 ||capital-top-finlogicly.sbs^$all
 ||capital-top-finlogicon.sbs^$all
 ||capital-top-finmatrixai.sbs^$all
 ||capital-top-finpathcore.sbs^$all
 ||capital-top-finpathon.sbs^$all
+||capital-top-finpilotup.sbs^$all
 ||capital-top-finriseone.sbs^$all
 ||capital-top-finriseup.sbs^$all
 ||capital-top-finshiftly.sbs^$all
