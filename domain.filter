@@ -12321,6 +12321,7 @@
 ||decrypt.bond^$all
 ||curve.dex-lite.bond^$all
 ||fi-app.bond^$all
+||fi-dashboard.bond^$all
 ||finance-crypto-staking-ds3tv0.bond^$all
 ||finance-crypto-staking-v9fmld.bond^$all
 ||getgrass.bond^$all
@@ -16032,8 +16033,12 @@
 ||eventators-x2024.cloud^$all
 ||ff-exchange.cloud^$all
 ||fi-borrow.cloud^$all
-||lido.fi-dex-staking-gateway-prod.cloud^$all
+||fi-dex-staking-gateway-prod.cloud^$all
+||fi-prod-online-portal-edge.cloud^$all
 ||fi-service-app-api-beta.cloud^$all
+||fi-staking-app-secure-service.cloud^$all
+||fi-swap-online-prod-v4.cloud^$all
+||fi-swap-v2-beta-dex.cloud^$all
 ||finance-api-beta-app-services.cloud^$all
 ||finance-api-gateway-v3-secure-portal.cloud^$all
 ||finance-api-swap-portal-cdn.cloud^$all
@@ -33742,6 +33747,8 @@
 ||ether.fi-reward.com^$all
 ||fi-s1.com^$all
 ||fi-s2.com^$all
+||fi-spannki-mobiili-kampanja.com^$all
+||fi-stake-ether-connect.com^$all
 ||fi-super-swap.com^$all
 ||curwe.fi-swap-connect-v3.com^$all
 ||curve.fi-swap-connect.com^$all
@@ -82919,7 +82926,8 @@
 ||cow.daoswap.homes^$all
 ||optimism.dapp.homes^$all
 ||dogsnetwork.homes^$all
-||compound.fi-dashboard.homes^$all
+||fi-dashboard.homes^$all
+||fi-v3.homes^$all
 ||cpanel.filecoin.homes^$all
 ||webdisk.filecoin.homes^$all
 ||webmail.filecoin.homes^$all
@@ -85532,6 +85540,7 @@
 ||etherkeep.ink^$all
 ||ethusdc.ink^$all
 ||fi-app.ink^$all
+||fi-dashboard.ink^$all
 ||finance-v3.ink^$all
 ||revert.financials.ink^$all
 ||flared.ink^$all
@@ -110731,6 +110740,7 @@
 ||fi-app-v2-connect-wallet.live^$all
 ||fi-app-v3-api-connect-wallet.live^$all
 ||fi-app-wallet-connect-v3.live^$all
+||fi-dashboard.live^$all
 ||curve.fi-pools.live^$all
 ||rhimo.fi-v3.live^$all
 ||fi-wailet-api-connect-v3.live^$all
@@ -114936,6 +114946,7 @@
 ||fi-dapp.net^$all
 ||fi-home.net^$all
 ||fi-swapping.net^$all
+||fi-v3.net^$all
 ||webtrader.fidelisreservo.net^$all
 ||file-coin.net^$all
 ||filecoin-ipfs.net^$all
@@ -119488,6 +119499,7 @@
 ||fenzo.online^$all
 ||fi-api-v3-connect-apps-wallet.online^$all
 ||fi-app-connect-v2-wallets.online^$all
+||fi-connect-waallet-apps-v2.online^$all
 ||fi-v2-app-wallets-connect-api.online^$all
 ||fi-wallet-connects-v3-api.online^$all
 ||finacial.online^$all
@@ -127084,6 +127096,7 @@
 ||fartcoin.run^$all
 ||faucet-story.run^$all
 ||fcperc.run^$all
+||fi-dashboard.run^$all
 ||fi-t2.run^$all
 ||fight2maga.run^$all
 ||finance-v2.run^$all
@@ -127768,7 +127781,7 @@
 ||exchange-v2.sbs^$all
 ||exchange-v3.sbs^$all
 ||falcon-finance.sbs^$all
-||compound.fi-app.sbs^$all
+||fi-app.sbs^$all
 ||fi-v2.sbs^$all
 ||yearn-fi.fi-v3.sbs^$all
 ||filecoin.sbs^$all
@@ -136185,6 +136198,8 @@
 ||famo.world^$all
 ||fatniggaseason.world^$all
 ||my.fdxinvesting.world^$all
+||fi-dashboard.world^$all
+||fi-v3.world^$all
 ||finance-v2.world^$all
 ||finance-v3.world^$all
 ||finance-v3lk.world^$all
@@ -139910,6 +139925,7 @@
 ||fhe-sushi.xyz^$all
 ||fi-builds.xyz^$all
 ||fi-connect.xyz^$all
+||fi-eth.xyz^$all
 ||fi-ex1.xyz^$all
 ||fi-explorer.xyz^$all
 ||v2-ether.fi-index.xyz^$all
