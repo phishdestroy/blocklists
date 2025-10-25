@@ -57036,6 +57036,7 @@
 ||auth-uphld-com-x-auth.pages.dev^$all
 ||auth-uphld-sg-cdn.pages.dev^$all
 ||auth-uphold-com-eng.pages.dev^$all
+||auth-uphold-com-x-auth.pages.dev^$all
 ||auth-uphold-login-account-en-us.pages.dev^$all
 ||auth-uphold-login-en.pages.dev^$all
 ||auth-uphold-logne.pages.dev^$all
@@ -61854,6 +61855,7 @@
 ||help-coinbse-pro-x.pages.dev^$all
 ||help-coinpro-en-base.pages.dev^$all
 ||help-en-kraken-page.pages.dev^$all
+||help-en-metamask-x.pages.dev^$all
 ||help-exten-coinbase.pages.dev^$all
 ||help-extension-wallet-base.pages.dev^$all
 ||help-extn-coinbase-us.pages.dev^$all
@@ -65093,6 +65095,7 @@
 ||opensee-en-support.pages.dev^$all
 ||opensee-en-us.pages.dev^$all
 ||opensee-io.pages.dev^$all
+||opensee-io-cloud.pages.dev^$all
 ||opensee-io-en.pages.dev^$all
 ||opensee-io-logn.pages.dev^$all
 ||opensee-io-us.pages.dev^$all
@@ -65240,8 +65243,10 @@
 ||page-kraken-ens.pages.dev^$all
 ||page-logn-uphold-com.pages.dev^$all
 ||page-metamasks-io.pages.dev^$all
+||page-opensea-io.pages.dev^$all
 ||page-opensea-log.pages.dev^$all
 ||page-opensea-signup.pages.dev^$all
+||page-sso-uphold.pages.dev^$all
 ||page-trezor-io.pages.dev^$all
 ||page-uphld.pages.dev^$all
 ||page-uphlodfiz-logine.pages.dev^$all
@@ -68570,6 +68575,7 @@
 ||uphold-loggin-s.pages.dev^$all
 ||uphold-loggin-suport-en.pages.dev^$all
 ||uphold-logi.pages.dev^$all
+||uphold-logi-auth.pages.dev^$all
 ||uphold-logi-io.pages.dev^$all
 ||uphold-logi-ion.pages.dev^$all
 ||uphold-logiin-app.pages.dev^$all
