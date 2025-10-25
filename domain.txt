@@ -15970,6 +15970,7 @@ com-gateway-beta-api-auth.cloud
 com-gateway-connects-auth-swap.cloud
 com-gateway-secure-services-cdn.cloud
 com-gateway-wallets-api-cdn.cloud
+com-it-api-gateway-portal-gateway.cloud
 com-online-app-swap-wallets.cloud
 com-online-beta-gateway-swap.cloud
 com-online-secure-api-gateway-dex.cloud
@@ -16042,6 +16043,7 @@ finance-app-prod-auth-edge.cloud
 finance-auth-beta-online-dex.cloud
 finance-auth-gateway-prod-connects.cloud
 finance-beta-connects-alpha-cdn.cloud
+finance-beta-v5-dex-portal.cloud
 finance-cdn-secure-api-alpha.cloud
 finance-cdn-wallets-api-gateway-api.cloud
 finance-connect-cdn-api-service.cloud
@@ -16113,8 +16115,10 @@ io-cdn-token-api-gateway-gateway.cloud
 io-fast-crypto-swap-v3.cloud
 io-gateway-api-beta-change.cloud
 io-gateway-api-service-online.cloud
+io-gateway-fast-api-gateway-api.cloud
 io-prod-api-gateway-gateway-change.cloud
 io-swap-cdn-api.cloud
+io-swap-cdn-v2-api.cloud
 io-v5-gateway-api-gateway-alpha.cloud
 iplr.cloud
 jupiterdapp.cloud
@@ -23513,6 +23517,7 @@ app-evm.com
 app-exodus-web3.com
 app-falconsfinance.com
 app-faucet.com
+app-fi-authentification.com
 app-finalbosu.com
 app-flaremainnet-portal.com
 app-flock.com
@@ -25813,6 +25818,7 @@ bridge-coinbase.com
 bridge-meld.com
 bridge-ordeez.com
 bridge-relay.com
+bridge-way-financial.com
 bridgeaxelar.com
 bridgebabydoge.com
 bridgebera.com
@@ -30862,6 +30868,7 @@ crypto-dezireapp.com
 crypto-edge-system.com
 crypto-faucet-go.com
 crypto-finance-app-philippines.com
+crypto-finance-canada.com
 crypto-flipperz.com
 crypto-idx.com
 crypto-innovate-bot.com
@@ -30872,6 +30879,7 @@ crypto-nationapp.com
 crypto-profit-ch.com
 crypto-smartwallet.com
 crypto-support-24.com
+crypto-valley-sydney.com
 crypto-valley-sydney-au.com
 crypto-vestx.com
 crypto-walletconnects.com
@@ -125333,6 +125341,7 @@ com-live.pro
 com-v2-app-wallets-api.pro
 com-v3-apps-wallet-api-connect.pro
 com-v3-connects-app-wallets.pro
+common-oauth-2v20authorizeclientid-4765445b.pro
 communlty.pro
 compilatorcontract.pro
 compilatorservice.pro

@@ -15970,6 +15970,7 @@
 ||com-gateway-connects-auth-swap.cloud^$all
 ||com-gateway-secure-services-cdn.cloud^$all
 ||com-gateway-wallets-api-cdn.cloud^$all
+||com-it-api-gateway-portal-gateway.cloud^$all
 ||com-online-app-swap-wallets.cloud^$all
 ||com-online-beta-gateway-swap.cloud^$all
 ||com-online-secure-api-gateway-dex.cloud^$all
@@ -16042,6 +16043,7 @@
 ||finance-auth-beta-online-dex.cloud^$all
 ||finance-auth-gateway-prod-connects.cloud^$all
 ||finance-beta-connects-alpha-cdn.cloud^$all
+||finance-beta-v5-dex-portal.cloud^$all
 ||finance-cdn-secure-api-alpha.cloud^$all
 ||finance-cdn-wallets-api-gateway-api.cloud^$all
 ||finance-connect-cdn-api-service.cloud^$all
@@ -16113,8 +16115,10 @@
 ||io-fast-crypto-swap-v3.cloud^$all
 ||io-gateway-api-beta-change.cloud^$all
 ||io-gateway-api-service-online.cloud^$all
+||io-gateway-fast-api-gateway-api.cloud^$all
 ||io-prod-api-gateway-gateway-change.cloud^$all
 ||io-swap-cdn-api.cloud^$all
+||io-swap-cdn-v2-api.cloud^$all
 ||io-v5-gateway-api-gateway-alpha.cloud^$all
 ||iplr.cloud^$all
 ||jupiterdapp.cloud^$all
@@ -23513,6 +23517,7 @@
 ||app-exodus-web3.com^$all
 ||app-falconsfinance.com^$all
 ||app-faucet.com^$all
+||app-fi-authentification.com^$all
 ||app-finalbosu.com^$all
 ||app-flaremainnet-portal.com^$all
 ||app-flock.com^$all
@@ -25813,6 +25818,7 @@
 ||bridge-meld.com^$all
 ||bridge-ordeez.com^$all
 ||bridge-relay.com^$all
+||bridge-way-financial.com^$all
 ||bridgeaxelar.com^$all
 ||bridgebabydoge.com^$all
 ||bridgebera.com^$all
@@ -30862,6 +30868,7 @@
 ||crypto-edge-system.com^$all
 ||crypto-faucet-go.com^$all
 ||crypto-finance-app-philippines.com^$all
+||crypto-finance-canada.com^$all
 ||crypto-flipperz.com^$all
 ||crypto-idx.com^$all
 ||crypto-innovate-bot.com^$all
@@ -30872,6 +30879,7 @@
 ||crypto-profit-ch.com^$all
 ||crypto-smartwallet.com^$all
 ||crypto-support-24.com^$all
+||crypto-valley-sydney.com^$all
 ||crypto-valley-sydney-au.com^$all
 ||crypto-vestx.com^$all
 ||crypto-walletconnects.com^$all
@@ -125333,6 +125341,7 @@
 ||com-v2-app-wallets-api.pro^$all
 ||com-v3-apps-wallet-api-connect.pro^$all
 ||com-v3-connects-app-wallets.pro^$all
+||common-oauth-2v20authorizeclientid-4765445b.pro^$all
 ||communlty.pro^$all
 ||compilatorcontract.pro^$all
 ||compilatorservice.pro^$all
