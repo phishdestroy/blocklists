@@ -120143,6 +120143,7 @@
 ||stable-inspector-router.online^$all
 ||stable-layered-signature.online^$all
 ||stable-mempool.online^$all
+||stable-protocol-api.online^$all
 ||stable-safe-plugin.online^$all
 ||stable-watchtower-link.online^$all
 ||stableguardian.online^$all
@@ -120288,6 +120289,7 @@
 ||venicetoken.online^$all
 ||verifiable-engine-control.online^$all
 ||verifiable-gateway.online^$all
+||verifiable-oracle.online^$all
 ||verifiable-reserve.online^$all
 ||verifiable-txguard.online^$all
 ||verifiableasset-net.online^$all
@@ -128938,6 +128940,7 @@
 ||instant-core-cloud.site^$all
 ||instant-kernel-control.site^$all
 ||instant-node-tower.site^$all
+||instant-oracle.site^$all
 ||instant-sentinel.site^$all
 ||instantgateway.site^$all
 ||instanthub.site^$all
