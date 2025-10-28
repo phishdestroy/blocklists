@@ -3832,6 +3832,7 @@
 ||to-apps-v3-api-wallets.app^$all
 ||to-apps-wallets-api-v2.app^$all
 ||plasma.to-claim.app^$all
+||plasma.to-reward.app^$all
 ||plasma.to-rewards.app^$all
 ||to-v2-apps-api-wallets.app^$all
 ||to-v2-wallets-api-apps.app^$all
@@ -56074,6 +56075,7 @@
 ||aerodrome.credit^$all
 ||appsize.credit^$all
 ||hyperlend.credit^$all
+||plasma.credit^$all
 ||tornadocash.credit^$all
 ||zeta.credit^$all
 ||uphold.com.cv^$all
