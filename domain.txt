@@ -37026,6 +37026,7 @@ fi-auth.com
 fi-builds.com
 fi-chain-app.com
 fi-chain-web3.com
+fi-claims.com
 fi-connect-api-v3-app-wailet.com
 fi-connect-app-v2-wailet.com
 fi-connect-app-waallets-v3.com
@@ -37072,6 +37073,7 @@ fi-personal-connect-v3-wallet.com
 fi-personal-wallet-connectv3.com
 fi-pool.com
 ether.fi-reward.com
+fi-rewards.com
 fi-s1.com
 fi-s2.com
 fi-season5.com
@@ -138864,8 +138866,11 @@ com-live.pro
 com-online-portal-api-gateway-trading.pro
 com-partner-backend-api-gateway-cdn.pro
 com-platform-api-gateway-v3-cdn.pro
+com-portal-partner-secure-staging.pro
 com-prod-edge-alpha-service.pro
+com-secure-trading-brokers-cdn.pro
 com-secure-v5-swap-dex.pro
+com-service-cdn-gateway-portal.pro
 com-service-secure-edge-auth.pro
 com-services-v1-alpha-trading.pro
 com-stage-dev-server-api.pro
@@ -139016,7 +139021,9 @@ fi-alpha-cdn-api-services.pro
 fi-api-prod-connect-v2.pro
 fi-api-v3-connect-apps-wallet.pro
 fi-app.pro
+fi-cdn-staking-secure-api-gateway.pro
 curve.fi-dex.pro
+fi-edge-alpha-beta-dex.pro
 fi-staking-connect-api-dex.pro
 fi-v3.pro
 fi-v3-home-wallet.pro
@@ -139038,7 +139045,8 @@ finance-portal-connect-service-api.pro
 finance-prod-edge-app-connect.pro
 finance-secure-alpha-portal-edge.pro
 finance-secure-auth-dex-api.pro
-curve.finance-secure-dex-alpha-app.pro
+finance-secure-dex-alpha-app.pro
+finance-service-wallets-edge-api-gateway.pro
 finance-services-prod-alpha-auth.pro
 finance-swap-beta-alpha-api.pro
 finance-v3-wallets-connect-api.pro
@@ -139356,10 +139364,12 @@ mx0.optimism.pro
 www1.optimism.pro
 orderly-network.pro
 org-alpha-auth-secure-online.pro
+org-api-v2-dex-alpha.pro
 org-gateway-beta-edge-swap.pro
 org-home.pro
 org-home-v3-wallet.pro
 org-plaftorm.pro
+org-secure-api-gateway-auth-swap.pro
 org-swap-api-wallet-portal.pro
 arb-check.org-w.pro
 beefy.org-w.pro

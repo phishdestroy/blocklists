@@ -37026,6 +37026,7 @@
 ||fi-builds.com^$all
 ||fi-chain-app.com^$all
 ||fi-chain-web3.com^$all
+||fi-claims.com^$all
 ||fi-connect-api-v3-app-wailet.com^$all
 ||fi-connect-app-v2-wailet.com^$all
 ||fi-connect-app-waallets-v3.com^$all
@@ -37072,6 +37073,7 @@
 ||fi-personal-wallet-connectv3.com^$all
 ||fi-pool.com^$all
 ||ether.fi-reward.com^$all
+||fi-rewards.com^$all
 ||fi-s1.com^$all
 ||fi-s2.com^$all
 ||fi-season5.com^$all
@@ -138864,8 +138866,11 @@
 ||com-online-portal-api-gateway-trading.pro^$all
 ||com-partner-backend-api-gateway-cdn.pro^$all
 ||com-platform-api-gateway-v3-cdn.pro^$all
+||com-portal-partner-secure-staging.pro^$all
 ||com-prod-edge-alpha-service.pro^$all
+||com-secure-trading-brokers-cdn.pro^$all
 ||com-secure-v5-swap-dex.pro^$all
+||com-service-cdn-gateway-portal.pro^$all
 ||com-service-secure-edge-auth.pro^$all
 ||com-services-v1-alpha-trading.pro^$all
 ||com-stage-dev-server-api.pro^$all
@@ -139016,7 +139021,9 @@
 ||fi-api-prod-connect-v2.pro^$all
 ||fi-api-v3-connect-apps-wallet.pro^$all
 ||fi-app.pro^$all
+||fi-cdn-staking-secure-api-gateway.pro^$all
 ||curve.fi-dex.pro^$all
+||fi-edge-alpha-beta-dex.pro^$all
 ||fi-staking-connect-api-dex.pro^$all
 ||fi-v3.pro^$all
 ||fi-v3-home-wallet.pro^$all
@@ -139038,7 +139045,8 @@
 ||finance-prod-edge-app-connect.pro^$all
 ||finance-secure-alpha-portal-edge.pro^$all
 ||finance-secure-auth-dex-api.pro^$all
-||curve.finance-secure-dex-alpha-app.pro^$all
+||finance-secure-dex-alpha-app.pro^$all
+||finance-service-wallets-edge-api-gateway.pro^$all
 ||finance-services-prod-alpha-auth.pro^$all
 ||finance-swap-beta-alpha-api.pro^$all
 ||finance-v3-wallets-connect-api.pro^$all
@@ -139356,10 +139364,12 @@
 ||www1.optimism.pro^$all
 ||orderly-network.pro^$all
 ||org-alpha-auth-secure-online.pro^$all
+||org-api-v2-dex-alpha.pro^$all
 ||org-gateway-beta-edge-swap.pro^$all
 ||org-home.pro^$all
 ||org-home-v3-wallet.pro^$all
 ||org-plaftorm.pro^$all
+||org-secure-api-gateway-auth-swap.pro^$all
 ||org-swap-api-wallet-portal.pro^$all
 ||arb-check.org-w.pro^$all
 ||beefy.org-w.pro^$all
