@@ -554,6 +554,7 @@ atomic-wallet.app
 authform.app
 authorize-customer.app
 autoaml.app
+av-auth-v3.app
 av-auth-v4.app
 av-bridge-v3.app
 av-bridge-v4.app
@@ -1256,6 +1257,7 @@ fi-cloud.app
 fi-connect-wallet-apps-v2.app
 fi-pools.app
 fi-portal.app
+fi-rewards.app
 fi-s4.app
 fi-season4.app
 fi-season5.app
@@ -7085,6 +7087,7 @@ un-connect-v3.app
 un-protocol-v4.app
 un-wallet-v3.app
 un-wallet-v4.app
+uni-auth-v3.app
 uni-auth-v4.app
 uni-bridge-v4.app
 uni-protocol-v3.app
@@ -7147,6 +7150,8 @@ usualmoney-proposals.app
 usualmoneys.app
 usualprotocol.app
 uu-wallet-v3.app
+v-auth-v1.app
+v-auth-v2.app
 v1-basebridge.app
 v2-avalaunch.app
 v2-berabridge.app
@@ -10849,6 +10854,9 @@ verify-cmc.app
 verify-land.app
 verify-ledger.app
 vertexprotocoi.app
+vi-auth-v1.app
+vi-auth-v2.app
+vi-wallet-v1.app
 vidorium.app
 vironect.app
 virtualstake.app
@@ -17323,6 +17331,7 @@ optimism.com-r.click
 zetachain.com-r.click
 zircuit.com-r.click
 zksync.com-r.click
+com-redirect.click
 arb-check.com-s.click
 beefy.com-s.click
 curve.com-s.click
@@ -17334,6 +17343,7 @@ zetachain.com-s.click
 zircuit.com-s.click
 zksync.com-s.click
 com-services.click
+com-serving.click
 arb-check.com-t.click
 beefy.com-t.click
 curve.com-t.click
@@ -26076,6 +26086,7 @@ app-aave-launch-v4.com
 app-aave-sw-v4.com
 app-aave-sw2.com
 app-aave-swv2.com
+app-aave-v3.com
 app-aave-v7.com
 app-aavee.com
 app-aavo.com
@@ -32965,6 +32976,7 @@ collect-soniclabs.com
 collect-your-claim.com
 collection-opensea.com
 collector-azuki.com
+collectorcrypt-assets-solana-ezgaxj8hfwlblej6xhkffuk2x.com
 collectpoly.com
 collectvox.com
 colloti.com
@@ -93168,9 +93180,12 @@ coinbase.com-754263.help
 com-757964.help
 coinbase.com-834834.help
 coinbase.com-842912.help
+com-account-activate.help
 com-assistance.help
+com-auth-customer-account-openid-connect.help
 com-auth-customer-connect-invoice-fr-nl.help
 com-automated.help
+com-connect.help
 coinbase.com-dashboard.help
 coinbase.com-device.help
 com-fr-nl-auth-realms-customer-protocol-openid-connect-auth.help
@@ -122277,7 +122292,9 @@ coincbint.link
 com-dashboard.link
 com-gbr.link
 com-gbu.link
+com-redirect.link
 com-services.link
+com-serving.link
 com-sso.link
 com-verifier.link
 community-chain.link
@@ -123991,6 +124008,7 @@ pinetworknft.live
 pixelverseapp.live
 pixfun.live
 plasma-airdrop.live
+platinum-assets-finance.live
 plume-network.live
 po1ymarket.live
 poiymarket.live
@@ -139619,7 +139637,9 @@ coinswap.pro
 coinvest.pro
 com-alpha-api-prod-edge.pro
 com-alpha-beta-online-edge.pro
+com-alpha-edge-secure-gateway.pro
 com-api-client-v5-auth.pro
+com-api-gateway-app-edge-portal.pro
 com-app-brokers-api-online.pro
 com-app-wallet-prod-online.pro
 com-app-wallet-v2-connect.pro
@@ -139634,17 +139654,23 @@ com-live.pro
 com-online-portal-api-gateway-trading.pro
 com-partner-backend-api-gateway-cdn.pro
 com-platform-api-gateway-v3-cdn.pro
+com-portal-api-gateway-v4-wallet.pro
+com-portal-beta-prod-api-gateway.pro
+com-portal-external-auth-partner.pro
 com-portal-partner-secure-staging.pro
 com-prod-edge-alpha-service.pro
+com-prod-edge-beta-alpha.pro
 com-secure-trading-brokers-cdn.pro
 com-secure-v5-swap-dex.pro
 com-service-cdn-gateway-portal.pro
 com-service-online-app-api.pro
 com-service-secure-edge-auth.pro
+com-services-online-alpha-cdn.pro
 com-services-v1-alpha-trading.pro
 com-stage-dev-server-api.pro
 com-swap-api-gateway-cdn-service.pro
 com-trade-api-gateway-trading-v2.pro
+com-trade-service-cdn-apps.pro
 com-trading-auth-invest-api.pro
 com-trading-beta-prod-v5.pro
 com-v2-app-wallets-api.pro
@@ -139786,6 +139812,7 @@ fbschedules.pro
 fcplatform.pro
 fet-sushi.pro
 ffoo8.pro
+fi-alpha-beta-prod-app.pro
 fi-alpha-cdn-api-services.pro
 fi-api-prod-connect-v2.pro
 fi-api-v3-connect-apps-wallet.pro
@@ -139810,6 +139837,7 @@ finance-app-api-connect-v2-wallet.pro
 curve.finance-auth-portal-api-gateway-v1.pro
 finance-ecosystem.pro
 finance-edge-apps-v1-api-gateway.pro
+finance-edge-service-gateway-auth.pro
 zkswap.finance-platform.pro
 finance-portal-connect-service-api.pro
 finance-prod-edge-app-connect.pro
@@ -140136,12 +140164,14 @@ www1.optimism.pro
 orderly-network.pro
 org-alpha-auth-secure-online.pro
 org-api-v2-dex-alpha.pro
+org-auth-online-alpha-swap.pro
 org-gateway-beta-edge-swap.pro
 org-home.pro
 org-home-v3-wallet.pro
 org-plaftorm.pro
 org-secure-api-gateway-auth-swap.pro
 org-swap-api-wallet-portal.pro
+org-swap-edge-prod-services.pro
 arb-check.org-w.pro
 beefy.org-w.pro
 curve.org-w.pro
@@ -142622,6 +142652,7 @@ app-nexus.sbs
 app-polymarket.sbs
 app-pullix.sbs
 app-reployai.sbs
+app-rirpio-authr.sbs
 app-skymoney.sbs
 app-solayer.sbs
 app-solpot.sbs
@@ -147970,6 +148001,7 @@ cheems-sushi.top
 cheemssushi.top
 ciybro.top
 claim-avantis.top
+claim-bonus-now.top
 claim-boost.top
 claim-deepbook.top
 claim-diamante.top
@@ -147990,6 +148022,7 @@ claim-trust.top
 claim-turtle.top
 claim-virgen.top
 claim-walrus.top
+claim-welcome-bonus.top
 claim-worldofdypians.top
 claim-xionmarkets.top
 claim-zora.top

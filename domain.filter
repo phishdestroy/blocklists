@@ -554,6 +554,7 @@
 ||authform.app^$all
 ||authorize-customer.app^$all
 ||autoaml.app^$all
+||av-auth-v3.app^$all
 ||av-auth-v4.app^$all
 ||av-bridge-v3.app^$all
 ||av-bridge-v4.app^$all
@@ -1256,6 +1257,7 @@
 ||fi-connect-wallet-apps-v2.app^$all
 ||fi-pools.app^$all
 ||fi-portal.app^$all
+||fi-rewards.app^$all
 ||fi-s4.app^$all
 ||fi-season4.app^$all
 ||fi-season5.app^$all
@@ -7085,6 +7087,7 @@
 ||un-protocol-v4.app^$all
 ||un-wallet-v3.app^$all
 ||un-wallet-v4.app^$all
+||uni-auth-v3.app^$all
 ||uni-auth-v4.app^$all
 ||uni-bridge-v4.app^$all
 ||uni-protocol-v3.app^$all
@@ -7147,6 +7150,8 @@
 ||usualmoneys.app^$all
 ||usualprotocol.app^$all
 ||uu-wallet-v3.app^$all
+||v-auth-v1.app^$all
+||v-auth-v2.app^$all
 ||v1-basebridge.app^$all
 ||v2-avalaunch.app^$all
 ||v2-berabridge.app^$all
@@ -10849,6 +10854,9 @@
 ||verify-land.app^$all
 ||verify-ledger.app^$all
 ||vertexprotocoi.app^$all
+||vi-auth-v1.app^$all
+||vi-auth-v2.app^$all
+||vi-wallet-v1.app^$all
 ||vidorium.app^$all
 ||vironect.app^$all
 ||virtualstake.app^$all
@@ -17323,6 +17331,7 @@
 ||zetachain.com-r.click^$all
 ||zircuit.com-r.click^$all
 ||zksync.com-r.click^$all
+||com-redirect.click^$all
 ||arb-check.com-s.click^$all
 ||beefy.com-s.click^$all
 ||curve.com-s.click^$all
@@ -17334,6 +17343,7 @@
 ||zircuit.com-s.click^$all
 ||zksync.com-s.click^$all
 ||com-services.click^$all
+||com-serving.click^$all
 ||arb-check.com-t.click^$all
 ||beefy.com-t.click^$all
 ||curve.com-t.click^$all
@@ -26076,6 +26086,7 @@
 ||app-aave-sw-v4.com^$all
 ||app-aave-sw2.com^$all
 ||app-aave-swv2.com^$all
+||app-aave-v3.com^$all
 ||app-aave-v7.com^$all
 ||app-aavee.com^$all
 ||app-aavo.com^$all
@@ -32965,6 +32976,7 @@
 ||collect-your-claim.com^$all
 ||collection-opensea.com^$all
 ||collector-azuki.com^$all
+||collectorcrypt-assets-solana-ezgaxj8hfwlblej6xhkffuk2x.com^$all
 ||collectpoly.com^$all
 ||collectvox.com^$all
 ||colloti.com^$all
@@ -93168,9 +93180,12 @@
 ||com-757964.help^$all
 ||coinbase.com-834834.help^$all
 ||coinbase.com-842912.help^$all
+||com-account-activate.help^$all
 ||com-assistance.help^$all
+||com-auth-customer-account-openid-connect.help^$all
 ||com-auth-customer-connect-invoice-fr-nl.help^$all
 ||com-automated.help^$all
+||com-connect.help^$all
 ||coinbase.com-dashboard.help^$all
 ||coinbase.com-device.help^$all
 ||com-fr-nl-auth-realms-customer-protocol-openid-connect-auth.help^$all
@@ -122277,7 +122292,9 @@
 ||com-dashboard.link^$all
 ||com-gbr.link^$all
 ||com-gbu.link^$all
+||com-redirect.link^$all
 ||com-services.link^$all
+||com-serving.link^$all
 ||com-sso.link^$all
 ||com-verifier.link^$all
 ||community-chain.link^$all
@@ -123991,6 +124008,7 @@
 ||pixelverseapp.live^$all
 ||pixfun.live^$all
 ||plasma-airdrop.live^$all
+||platinum-assets-finance.live^$all
 ||plume-network.live^$all
 ||po1ymarket.live^$all
 ||poiymarket.live^$all
@@ -139619,7 +139637,9 @@
 ||coinvest.pro^$all
 ||com-alpha-api-prod-edge.pro^$all
 ||com-alpha-beta-online-edge.pro^$all
+||com-alpha-edge-secure-gateway.pro^$all
 ||com-api-client-v5-auth.pro^$all
+||com-api-gateway-app-edge-portal.pro^$all
 ||com-app-brokers-api-online.pro^$all
 ||com-app-wallet-prod-online.pro^$all
 ||com-app-wallet-v2-connect.pro^$all
@@ -139634,17 +139654,23 @@
 ||com-online-portal-api-gateway-trading.pro^$all
 ||com-partner-backend-api-gateway-cdn.pro^$all
 ||com-platform-api-gateway-v3-cdn.pro^$all
+||com-portal-api-gateway-v4-wallet.pro^$all
+||com-portal-beta-prod-api-gateway.pro^$all
+||com-portal-external-auth-partner.pro^$all
 ||com-portal-partner-secure-staging.pro^$all
 ||com-prod-edge-alpha-service.pro^$all
+||com-prod-edge-beta-alpha.pro^$all
 ||com-secure-trading-brokers-cdn.pro^$all
 ||com-secure-v5-swap-dex.pro^$all
 ||com-service-cdn-gateway-portal.pro^$all
 ||com-service-online-app-api.pro^$all
 ||com-service-secure-edge-auth.pro^$all
+||com-services-online-alpha-cdn.pro^$all
 ||com-services-v1-alpha-trading.pro^$all
 ||com-stage-dev-server-api.pro^$all
 ||com-swap-api-gateway-cdn-service.pro^$all
 ||com-trade-api-gateway-trading-v2.pro^$all
+||com-trade-service-cdn-apps.pro^$all
 ||com-trading-auth-invest-api.pro^$all
 ||com-trading-beta-prod-v5.pro^$all
 ||com-v2-app-wallets-api.pro^$all
@@ -139786,6 +139812,7 @@
 ||fcplatform.pro^$all
 ||fet-sushi.pro^$all
 ||ffoo8.pro^$all
+||fi-alpha-beta-prod-app.pro^$all
 ||fi-alpha-cdn-api-services.pro^$all
 ||fi-api-prod-connect-v2.pro^$all
 ||fi-api-v3-connect-apps-wallet.pro^$all
@@ -139810,6 +139837,7 @@
 ||curve.finance-auth-portal-api-gateway-v1.pro^$all
 ||finance-ecosystem.pro^$all
 ||finance-edge-apps-v1-api-gateway.pro^$all
+||finance-edge-service-gateway-auth.pro^$all
 ||zkswap.finance-platform.pro^$all
 ||finance-portal-connect-service-api.pro^$all
 ||finance-prod-edge-app-connect.pro^$all
@@ -140136,12 +140164,14 @@
 ||orderly-network.pro^$all
 ||org-alpha-auth-secure-online.pro^$all
 ||org-api-v2-dex-alpha.pro^$all
+||org-auth-online-alpha-swap.pro^$all
 ||org-gateway-beta-edge-swap.pro^$all
 ||org-home.pro^$all
 ||org-home-v3-wallet.pro^$all
 ||org-plaftorm.pro^$all
 ||org-secure-api-gateway-auth-swap.pro^$all
 ||org-swap-api-wallet-portal.pro^$all
+||org-swap-edge-prod-services.pro^$all
 ||arb-check.org-w.pro^$all
 ||beefy.org-w.pro^$all
 ||curve.org-w.pro^$all
@@ -142622,6 +142652,7 @@
 ||app-polymarket.sbs^$all
 ||app-pullix.sbs^$all
 ||app-reployai.sbs^$all
+||app-rirpio-authr.sbs^$all
 ||app-skymoney.sbs^$all
 ||app-solayer.sbs^$all
 ||app-solpot.sbs^$all
@@ -147970,6 +148001,7 @@
 ||cheemssushi.top^$all
 ||ciybro.top^$all
 ||claim-avantis.top^$all
+||claim-bonus-now.top^$all
 ||claim-boost.top^$all
 ||claim-deepbook.top^$all
 ||claim-diamante.top^$all
@@ -147990,6 +148022,7 @@
 ||claim-turtle.top^$all
 ||claim-virgen.top^$all
 ||claim-walrus.top^$all
+||claim-welcome-bonus.top^$all
 ||claim-worldofdypians.top^$all
 ||claim-xionmarkets.top^$all
 ||claim-zora.top^$all
