@@ -61593,6 +61593,7 @@ asfiragdigitol.cyou
 asfiragdigltal.cyou
 backpack-exchange.cyou
 backup-metaportfolio.cyou
+bitcoin-ai-v2.cyou
 bitcoinhyper.cyou
 bobhash.cyou
 cdn-telegram.cyou
@@ -140578,6 +140579,7 @@ ag-swap-connects-wallet-dex.pro
 ag-swap-service-secure-wallets.pro
 ag-us.pro
 ag-v3-edge-api-swap.pro
+ag-wallets-v3-api-gateway-swap.pro
 jupiter.ag-x.pro
 ai-centazdecentralized.pro
 ai-centridecentralized.pro
@@ -140867,7 +140869,9 @@ com-api-auth-alpha-apps.pro
 com-api-cdn-portal-gateway.pro
 com-api-client-v5-auth.pro
 com-api-gateway-app-edge-portal.pro
+com-api-gateway-edge-prod-portal.pro
 com-api-gateway-management-portal-ci.pro
+com-api-gateway-v5-gateway-beta.pro
 com-app-brokers-api-online.pro
 com-app-wallet-prod-online.pro
 com-app-wallet-v2-connect.pro
@@ -140881,6 +140885,7 @@ com-beta-secure-app-dex.pro
 com-cdn-corp-prod-gateway.pro
 com-ci-platform-online-api-gateway.pro
 com-cluster-beta-dev-secure.pro
+com-connects-api-gateway-beta-app.pro
 com-connects-secure-api-gateway.pro
 com-dex-prod-wallets-alpha.pro
 com-edge-api-gateway-service-gateway.pro
@@ -140907,7 +140912,7 @@ com-secure-api-cdn-beta.pro
 com-secure-api-v2-swap.pro
 com-secure-trading-brokers-cdn.pro
 com-secure-v5-swap-dex.pro
-aave.com-service-api-gateway-dex-online.pro
+com-service-api-gateway-dex-online.pro
 com-service-cdn-gateway-portal.pro
 com-service-online-app-api.pro
 com-service-secure-edge-auth.pro
@@ -141075,14 +141080,17 @@ fi-api-gateway-staking-app-v1.pro
 fi-api-prod-connect-v2.pro
 fi-api-v3-connect-apps-wallet.pro
 fi-app.pro
+fi-auth-alpha-portal-swap.pro
 fi-auth-secure-wallets-staking.pro
 fi-beta-dex-wallet-service.pro
 fi-cdn-staking-secure-api-gateway.pro
 curve.fi-dex.pro
 fi-edge-alpha-beta-dex.pro
+fi-online-cdn-api-v2.pro
 fi-online-dex-swap-connect.pro
 fi-prod-wallet-gateway-portal.pro
 fi-staking-connect-api-dex.pro
+fi-swap-auth-staking-connects.pro
 fi-v3.pro
 fi-v3-home-wallet.pro
 fi-wallet-v1-connect-edge.pro
@@ -141098,7 +141106,9 @@ finance-api-api-gateway-prod-gateway.pro
 finance-app.pro
 finance-app-api-connect-v2-wallet.pro
 finance-auth-api-gateway-services-secure.pro
+finance-auth-edge-swap-apps.pro
 finance-auth-portal-api-gateway-v1.pro
+finance-beta-v3-api-gateway-prod.pro
 finance-beta-wallets-swap-dex.pro
 finance-cdn-prod-api-portal.pro
 finance-connect-api-gateway-cdn-dex.pro
@@ -141112,8 +141122,9 @@ zkswap.finance-platform.pro
 finance-portal-connect-service-api.pro
 finance-portal-gateway-prod-auth.pro
 finance-prod-edge-app-connect.pro
+finance-secure-alpha-edge-wallets.pro
 finance-secure-alpha-portal-edge.pro
-curve.finance-secure-api-edge-dex.pro
+finance-secure-api-edge-dex.pro
 finance-secure-auth-dex-api.pro
 finance-secure-connect-alpha-auth.pro
 finance-secure-connects-cdn-staking.pro
@@ -141121,7 +141132,7 @@ finance-secure-dex-alpha-app.pro
 finance-secure-service-alpha-dex.pro
 finance-service-wallets-edge-api-gateway.pro
 finance-services-prod-alpha-auth.pro
-curve.finance-staking-cdn-edge-v3.pro
+finance-staking-cdn-edge-v3.pro
 finance-swap-beta-alpha-api.pro
 finance-swap-portal-gateway-edge.pro
 finance-swap-secure-connects-api-gateway.pro
@@ -144412,8 +144423,10 @@ conibase.sbs
 wallet.connect-hash.sbs
 connect-token.sbs
 connectmonad.sbs
+crypto-to-fiat-onramp-services-zzz.sbs
 cryptobots.sbs
 cryptopunks.sbs
+cryptoto-fiat-onramp-services-xyz.sbs
 curvedaotoken667.sbs
 curvefl.sbs
 cyberkongz.sbs
