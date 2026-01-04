@@ -2896,8 +2896,10 @@
 ||lbase.app^$all
 ||leaderboarduniswaportfolio.app^$all
 ||ledger-verify.app^$all
+||ledger-wallet-update.app^$all
 ||ledgerlivewindows.app^$all
 ||ledgerpro.app^$all
+||ledgerwallet.app^$all
 ||legendary-drops.app^$all
 ||legendarydrops.app^$all
 ||leotec.app^$all
@@ -27550,6 +27552,7 @@
 ||9472338-coinbase.com^$all
 ||947239-coinbase.com^$all
 ||947283-coinbase.com^$all
+||94738help-secure-crypto.com^$all
 ||947723-coinbase.com^$all
 ||94773-coinbase.com^$all
 ||948121-coinbase.com^$all
@@ -29971,6 +29974,7 @@
 ||app-deflsaver.com^$all
 ||fleek.app-devnet.com^$all
 ||app-dex-screener-v1.com^$all
+||app-drop.com^$all
 ||app-earn.com^$all
 ||app-eigenlaeyer.com^$all
 ||app-eigenlayer-v1.com^$all
@@ -33355,6 +33359,7 @@
 ||carvtoken.com^$all
 ||casacion.com^$all
 ||casanovadril.com^$all
+||cascade-allocation.com^$all
 ||cascade-nexus.com^$all
 ||case-293094-coinbase.com^$all
 ||case-528493-coinbase.com^$all
@@ -34613,6 +34618,7 @@
 ||claims-patriotoneth.com^$all
 ||claims-paws.com^$all
 ||claims-paxos.com^$all
+||claims-pebglobal.com^$all
 ||claims-pendie.com^$all
 ||claims-pengucoin.com^$all
 ||claims-penguins.com^$all
@@ -39631,6 +39637,7 @@
 ||dapp-protocol.com^$all
 ||dapp-radarr.com^$all
 ||dapp-raydium-club.com^$all
+||dapp-restore-panel.com^$all
 ||dapp-robinhood-otc.com^$all
 ||dapp-rradar.com^$all
 ||dapp-stbl.com^$all
@@ -43579,6 +43586,7 @@
 ||flare-portal.com^$all
 ||flare-portal-claim.com^$all
 ||flare-rewardclaim.com^$all
+||flare-rewardportal.com^$all
 ||flare-ripple.com^$all
 ||flare-safe.com^$all
 ||flare-support.com^$all
@@ -50025,15 +50033,21 @@
 ||ledgeir.com^$all
 ||ledger-activate-clear-sign.com^$all
 ||ledger-authenticator.com^$all
+||ledger-bitcoin-wallet.com^$all
 ||ledger-clear-sign-activation.com^$all
+||ledger-cold-wallet.com^$all
+||ledger-crypto-wallet.com^$all
+||ledger-cryptocurrency-wallet.com^$all
 ||ledger-customer-verify.com^$all
 ||ledger-dapps.com^$all
 ||ledger-device-us.com^$all
 ||ledger-fr-okta.com^$all
+||ledger-hardware-wallet.com^$all
 ||ledger-incident-update.com^$all
 ||ledger-live-desktop.com^$all
 ||ledger-live-tools.com^$all
 ||ledger-live-web3.com^$all
+||ledger-nano-wallet.com^$all
 ||ledger-notice-portal.com^$all
 ||ledger-notice-support.com^$all
 ||ledger-official.com^$all
@@ -50059,6 +50073,27 @@
 ||ledger-transaction-check.com^$all
 ||ledger-uphold.com^$all
 ||ledger-verification-check.com^$all
+||ledger-wallet-bitcoin.com^$all
+||ledger-wallet-btc.com^$all
+||ledger-wallet-connection.com^$all
+||ledger-wallet-crypto.com^$all
+||ledger-wallet-cryptocurrency.com^$all
+||ledger-wallet-guide.com^$all
+||ledger-wallet-management.com^$all
+||ledger-wallet-nano.com^$all
+||ledger-wallet-nano-x.com^$all
+||ledger-wallet-overview.com^$all
+||ledger-wallet-protect.com^$all
+||ledger-wallet-protection.com^$all
+||ledger-wallet-review.com^$all
+||ledger-wallet-reviews.com^$all
+||ledger-wallet-security.com^$all
+||ledger-wallet-software.com^$all
+||ledger-wallet-solutions.com^$all
+||ledger-wallet-staking.com^$all
+||ledger-wallet-storage.com^$all
+||ledger-wallet-tech.com^$all
+||ledger-wallets-guide.com^$all
 ||ledgerassist-transaction-check.com^$all
 ||ledgercorruptioncheck.com^$all
 ||ledgercreate.com^$all
@@ -68870,6 +68905,7 @@
 ||xa44d-cointelegraph.com^$all
 ||xa46z-cointelegraph.com^$all
 ||xa500k-coinbase.com^$all
+||xa500k-cointelegraph.com^$all
 ||xa68p-cointelegraph.com^$all
 ||xa88p-cointelegraph.com^$all
 ||xabeto.com^$all
@@ -70194,6 +70230,7 @@
 ||coinbaseo.cyou^$all
 ||collablandconnect.cyou^$all
 ||com-funds-received.cyou^$all
+||com-identityverification.cyou^$all
 ||com-receivemoney.cyou^$all
 ||com-receives-funds.cyou^$all
 ||com-receivingmoney.cyou^$all
@@ -101413,6 +101450,7 @@
 ||coinbaseinfo.email^$all
 ||coinbasexp.email^$all
 ||com-inbox.email^$all
+||com-route.email^$all
 ||debridge.email^$all
 ||decrypt.email^$all
 ||metamask.email^$all
@@ -104525,6 +104563,7 @@
 ||airdrop-virgen.fun^$all
 ||airdropverifyb3.fun^$all
 ||allocate-pump.fun^$all
+||allocation-bonk.fun^$all
 ||allocation-nftstrategy.fun^$all
 ||allocation-slerf.fun^$all
 ||allocation-store.fun^$all
@@ -105451,6 +105490,7 @@
 ||crypto2.gift^$all
 ||dapsradar.gift^$all
 ||ethermail.gift^$all
+||event-ripple.gift^$all
 ||fetch.gift^$all
 ||fetchai.gift^$all
 ||megaeth.gift^$all
@@ -106418,6 +106458,7 @@
 ||v2-acve.com-app.icu^$all
 ||com-bank.icu^$all
 ||com-co.icu^$all
+||com-com.icu^$all
 ||com-en-us.icu^$all
 ||com-funds-received.icu^$all
 ||app.kybcrswap.com-g2.icu^$all
@@ -138347,6 +138388,7 @@
 ||changellyexchange.live^$all
 ||changenow.live^$all
 ||changenowexchange.live^$all
+||check-eligibility-allocation.live^$all
 ||pengu.check-eligibility.live^$all
 ||check-om.live^$all
 ||check-solayer.live^$all
@@ -157266,6 +157308,7 @@
 ||babycate-claim.pro^$all
 ||backpackaa.pro^$all
 ||baiduweb.pro^$all
+||balancer-recovery.pro^$all
 ||banana-sushi.pro^$all
 ||m.banklessfund.pro^$all
 ||basednft.pro^$all
@@ -166552,6 +166595,7 @@
 ||amlsecurity.space^$all
 ||animalsouk.space^$all
 ||wanwan.chatgpt.antinomy.space^$all
+||app-authentication.space^$all
 ||app-daomaker.space^$all
 ||app-optimism.space^$all
 ||app-solaxy.space^$all
