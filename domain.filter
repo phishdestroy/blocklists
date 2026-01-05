@@ -19965,6 +19965,7 @@
 ||0glabsfoundation.claims^$all
 ||0x0exchange.claims^$all
 ||1fuel.claims^$all
+||app.aave.claims^$all
 ||abstract.claims^$all
 ||abstracts.claims^$all
 ||pengu.account.claims^$all
@@ -148166,6 +148167,7 @@
 ||con-wallet.network^$all
 ||confidentialtoken.network^$all
 ||confidentialtokens.network^$all
+||connect-brevis.network^$all
 ||connect-reya.network^$all
 ||connectwailet.network^$all
 ||coreski.network^$all
