@@ -15944,6 +15944,7 @@
 ||coinbase.code.blog^$all
 ||coin-base.blog^$all
 ||coinbasesupport.blog^$all
+||com-info.blog^$all
 ||ray.dium.blog^$all
 ||etherscan.blog^$all
 ||fengdong.blog^$all
@@ -20516,6 +20517,8 @@
 ||coinomiairdropalert.click^$all
 ||colis-info-suivis.click^$all
 ||collab-land-verification.click^$all
+||com-account.click^$all
+||com-adjusted.click^$all
 ||com-aml.click^$all
 ||arb-check.com-f.click^$all
 ||beefy.com-f.click^$all
@@ -20570,6 +20573,7 @@
 ||zetachain.com-s.click^$all
 ||zircuit.com-s.click^$all
 ||zksync.com-s.click^$all
+||com-schedule.click^$all
 ||com-services.click^$all
 ||com-serving.click^$all
 ||com-support.click^$all
@@ -42925,6 +42929,7 @@
 ||curve.fi-online-web.com^$all
 ||fi-personal-connect-v3-wallet.com^$all
 ||fi-personal-wallet-connectv3.com^$all
+||fi-platform.com^$all
 ||fi-playace.com^$all
 ||fi-pool.com^$all
 ||ether.fi-reward.com^$all
@@ -101422,6 +101427,7 @@
 ||coinsbmarket-payment.digital^$all
 ||coinstrump.digital^$all
 ||tangen.com-b2.digital^$all
+||com-encoax.digital^$all
 ||sollfare.com-g2.digital^$all
 ||ovvlto.com-g3.digital^$all
 ||velodrone.com-i1.digital^$all
@@ -106477,8 +106483,10 @@
 ||com-fr-nl-auth-realms-customer-protocol-openid-connect-auth.help^$all
 ||com-guide.help^$all
 ||com-my.help^$all
+||com-online.help^$all
 ||com-portal.help^$all
 ||com-recovery.help^$all
+||com-request.help^$all
 ||coinbase.com-reviews.help^$all
 ||coinbase.com-security.help^$all
 ||coinbase.com-support.help^$all
@@ -168458,11 +168466,13 @@
 ||localhost.coinnbase.support^$all
 ||ww16.coinnbase.support^$all
 ||coinsbase.support^$all
-||coinbase.com-access.support^$all
+||com-access.support^$all
 ||coinbase.com-accounts.support^$all
 ||com-agent.support^$all
 ||coinbase.com-audit.support^$all
 ||com-cases.support^$all
+||com-en-us.support^$all
+||com-helpcenter.support^$all
 ||com-recover.support^$all
 ||com-recovery.support^$all
 ||com-secure.support^$all
@@ -175503,7 +175513,10 @@
 ||coinbases.work^$all
 ||coinbasewallet.work^$all
 ||coinlist.work^$all
+||com-download.work^$all
 ||com-id.work^$all
+||com-ssl.work^$all
+||com-sslnet.work^$all
 ||app.debridge.work^$all
 ||deploys.work^$all
 ||dood.doodles.work^$all
@@ -175520,6 +175533,8 @@
 ||metamasks.work^$all
 ||metarnask.work^$all
 ||taiko.x.test.mfw.work^$all
+||org-view.work^$all
+||org-vip.work^$all
 ||ww1.polkadot1.work^$all
 ||project-echo.work^$all
 ||pudgy-penguins.work^$all
