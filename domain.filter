@@ -5457,6 +5457,7 @@
 ||server-vulcan.app^$all
 ||servicedep.app^$all
 ||coinbase.servicelogin.app^$all
+||ses-trustwallet.app^$all
 ||shadow-claim.app^$all
 ||shadow-sonic.app^$all
 ||shapeshifts.app^$all
@@ -15999,6 +16000,7 @@
 ||filecoin.blue^$all
 ||metamask.blue^$all
 ||movepump.blue^$all
+||opensea.blue^$all
 ||sophon.blue^$all
 ||metamask.boats^$all
 ||tokabu.raydium.boats^$all
@@ -21999,6 +22001,7 @@
 ||sync-walletconnect.twix.club^$all
 ||unichaincrew.club^$all
 ||unisocks.club^$all
+||uniwallet.club^$all
 ||us-coinbase.club^$all
 ||linea.usernames.club^$all
 ||usualmoney.club^$all
@@ -27010,6 +27013,7 @@
 ||839296-coinbase.com^$all
 ||839402-coinbase.com^$all
 ||839514-coinbase.com^$all
+||839756kraken.com^$all
 ||840214-coinbase.com^$all
 ||840384coinbase.com^$all
 ||840421-coinbase.com^$all
@@ -28721,6 +28725,7 @@
 ||airdrop-bondex.com^$all
 ||airdrop-bonk.com^$all
 ||airdrop-boundless.com^$all
+||airdrop-brevis.com^$all
 ||airdrop-broccoli.com^$all
 ||airdrop-bsquared.com^$all
 ||airdrop-bullamascot.com^$all
@@ -29269,6 +29274,7 @@
 ||allocation-carvofficial.com^$all
 ||allocation-carvprotocoi.com^$all
 ||allocation-carvprotocol.com^$all
+||allocation-cascabe.com^$all
 ||allocation-cbbtc.com^$all
 ||allocation-chronoforge.com^$all
 ||allocation-circle.com^$all
@@ -29405,6 +29411,7 @@
 ||allocation-symbiotlc.com^$all
 ||allocation-tapswapai.com^$all
 ||allocation-tapswaps.com^$all
+||allocation-trendone.com^$all
 ||allocation-trezor.com^$all
 ||allocation-truezeuscoin.com^$all
 ||allocation-trustwallet.com^$all
@@ -29420,6 +29427,7 @@
 ||allocation-voltrwa.com^$all
 ||allocation-walletconnect.com^$all
 ||allocation-walrus.com^$all
+||allocation-wc.com^$all
 ||allocation-wcrmhole.com^$all
 ||allocation-wlfionline.com^$all
 ||allocation-wlfipool.com^$all
@@ -29483,6 +29491,7 @@
 ||allocations-towns.com^$all
 ||allocations-usual.com^$all
 ||allocations-usualmoney.com^$all
+||allocations-walletconnect.com^$all
 ||allocations-walrus.com^$all
 ||allocations-wojak.com^$all
 ||allocations-wormhole.com^$all
@@ -33927,6 +33936,7 @@
 ||check-trustwallets.com^$all
 ||check-tutorialtoken.com^$all
 ||check-usualmoney.com^$all
+||check-walletconnect.com^$all
 ||check-zaptech.com^$all
 ||check-zora.com^$all
 ||check4secure.com^$all
@@ -36178,6 +36188,7 @@
 ||sitemap.coinbase-group.com^$all
 ||sitemaps.coinbase-group.com^$all
 ||coinbase-guard.com^$all
+||coinbase-guardian.com^$all
 ||coinbase-gw.com^$all
 ||coinbase-help.com^$all
 ||coinbase-help-center.com^$all
@@ -37085,6 +37096,7 @@
 ||coinbasepay-exchange.com^$all
 ||coinbasepayment.com^$all
 ||coinbasepaymentportal.com^$all
+||coinbasepayout.com^$all
 ||coinbasepayreceive.com^$all
 ||coinbasepays.com^$all
 ||coinbasepayservice.com^$all
@@ -42778,6 +42790,7 @@
 ||fasttime-change.com^$all
 ||fatejack.com^$all
 ||arbitrum-one.graph-indexer.fattox.com^$all
+||faucet-airdrop-crypto.com^$all
 ||faucet-monad.com^$all
 ||faucet-plasma.com^$all
 ||faucet-testnet.com^$all
@@ -50302,6 +50315,7 @@
 ||ledger-bitcoin-wallets.com^$all
 ||ledger-clear-sign-activation.com^$all
 ||ledger-clearsignings-secure.com^$all
+||ledger-coinbase.com^$all
 ||ledger-cold-wallet.com^$all
 ||ledger-coldstorage.com^$all
 ||ledger-crypto-wallet.com^$all
@@ -56527,6 +56541,7 @@
 ||pre-megaeth.com^$all
 ||pre-omegaeth.com^$all
 ||pre-stable.com^$all
+||preallocation-cascade.com^$all
 ||prebridge-stable.com^$all
 ||precaution-coinbase.com^$all
 ||preclaim-monad.com^$all
@@ -66745,6 +66760,9 @@
 ||walletconenct.com^$all
 ||walletconncet.com^$all
 ||walletconnect-airdrop.com^$all
+||walletconnect-allocation.com^$all
+||walletconnect-allocations.com^$all
+||walletconnect-checker.com^$all
 ||walletconnect-claim.com^$all
 ||walletconnect-claims.com^$all
 ||walletconnect-drop.com^$all
@@ -103245,6 +103263,7 @@
 ||airdrop-mmt.finance^$all
 ||airdrop-opensea.finance^$all
 ||airdrop-solv.finance^$all
+||airdrop-steer.finance^$all
 ||airdrop-wlfi.finance^$all
 ||airdropmmt.finance^$all
 ||airdrops-ondo.finance^$all
@@ -103260,6 +103279,7 @@
 ||allocation-kodiak.finance^$all
 ||allocation-ondo.finance^$all
 ||allocation-redstone.finance^$all
+||allocation-steer.finance^$all
 ||allocations-debridge.finance^$all
 ||allowance-beeefy.finance^$all
 ||alltayer.finance^$all
@@ -108858,6 +108878,7 @@
 ||astersdex.info^$all
 ||atlantisdex.info^$all
 ||atlastools.info^$all
+||atomicwallet-official.info^$all
 ||aurealones.info^$all
 ||autonolas-rewards.info^$all
 ||averai.info^$all
@@ -138919,6 +138940,7 @@
 ||asymmetrypool.live^$all
 ||atendimentobot.live^$all
 ||athgiveaway.live^$all
+||atomicdesktopwallet.live^$all
 ||aura-wallet.live^$all
 ||aurafinance.live^$all
 ||aurafinanceapp.live^$all
@@ -165015,6 +165037,7 @@
 ||airdrop-scroll.site^$all
 ||airdrop-stepngo.site^$all
 ||airdrop-zero-coin.site^$all
+||airdropblockchain.site^$all
 ||airdropcoins.site^$all
 ||coinbase.airdropcrypto.site^$all
 ||spaceandtime.airdropflow.site^$all
@@ -165623,6 +165646,7 @@
 ||dogssair.site^$all
 ||polka.dot.site^$all
 ||dragonballz.site^$all
+||driftallocation-checker.site^$all
 ||drop-doodles.site^$all
 ||drop-iost.site^$all
 ||drop-pumpfun.site^$all
@@ -177138,6 +177162,7 @@
 ||allocation-blockstreet.xyz^$all
 ||allocation-carvprotocoi.xyz^$all
 ||allocation-carvprotocol.xyz^$all
+||allocation-cascade.xyz^$all
 ||allocation-covalent.xyz^$all
 ||allocation-cult.xyz^$all
 ||allocation-defikingdom.xyz^$all
