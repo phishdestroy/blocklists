@@ -129655,6 +129655,7 @@
 ||apps--phantom--wallet--auth.webflow.io^$all
 ||apps--phantom-com-auths.webflow.io^$all
 ||apps--phantom-wallet---auth.webflow.io^$all
+||apps-auth-coinbase.webflow.io^$all
 ||apps-coinbase-pro.webflow.io^$all
 ||apps-com-phantum-help.webflow.io^$all
 ||apps-lido-finance.webflow.io^$all
@@ -132392,9 +132393,11 @@
 ||en--sso--p-coinbasepro---auth-cdn.webflow.io^$all
 ||en--sso-cdn--coinbasepro--h--cdn.webflow.io^$all
 ||en--sso-coinbasepro--auth--m--cdn.webflow.io^$all
+||en--sso-coinbasepro--auth--r--cdn.webflow.io^$all
 ||en--sso-coinbasepro--auth--y--cdn.webflow.io^$all
 ||en--sso-coinbasepro--w-auth.webflow.io^$all
 ||en--sso-coinbasepro-auth-x--cdn.webflow.io^$all
+||en--sso-coinbasepro-cdn---x--auth.webflow.io^$all
 ||en--sso-coinbasepro-cdn--cdn-outh.webflow.io^$all
 ||en--us----exodusweb--cdn.webflow.io^$all
 ||en--walletsphantom-app.webflow.io^$all
@@ -133541,6 +133544,7 @@
 ||helporg-coinbase-wallet.webflow.io^$all
 ||helporg-conabasee.webflow.io^$all
 ||helporg-ex--coinbase.webflow.io^$all
+||helpp--coinbasepro-io---oauth.webflow.io^$all
 ||helpp--coinbsewalet-extsion.webflow.io^$all
 ||helpp-about-coinbasee.webflow.io^$all
 ||helpp-coinbss-extension.webflow.io^$all
@@ -139284,6 +139288,7 @@
 ||ne--sso---coinbasepro---auth--h--cdn.webflow.io^$all
 ||need-zerolend-us.webflow.io^$all
 ||nemo-relate.webflow.io^$all
+||net--en--coinbasepro-cdn---r---auth.webflow.io^$all
 ||net--en--coinbasepro-sso----cdn----auth.webflow.io^$all
 ||net--en--coinbasepro-sso----cdn--r--aut.webflow.io^$all
 ||net--sso---coinbasepro-com-----cdn.webflow.io^$all
@@ -141267,6 +141272,7 @@
 ||sso---coinbasepro---cdn--d---a.webflow.io^$all
 ||sso---coinbasepro---cdn--k-oauth.webflow.io^$all
 ||sso---coinbasepro---cdn--m-auth.webflow.io^$all
+||sso---coinbasepro---cdn--r--auth.webflow.io^$all
 ||sso---coinbasepro---cdn--x--azure.webflow.io^$all
 ||sso---coinbasepro---cdn--x--uuth.webflow.io^$all
 ||sso---coinbasepro---cdn-h--auth.webflow.io^$all
