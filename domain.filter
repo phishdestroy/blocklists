@@ -5479,6 +5479,7 @@
 ||raretrx.app^$all
 ||register.ratpythia.app^$all
 ||ray-sol.app^$all
+||rayclaim.app^$all
 ||raydiummultichain.app^$all
 ||raydiums.app^$all
 ||raydiumweb.app^$all
@@ -14758,13 +14759,16 @@
 ||raydium-ai-official.web.app^$all
 ||raydium-bit.web.app^$all
 ||raydium-bot-official.web.app^$all
+||raydium-buy.web.app^$all
 ||raydium-claim.web.app^$all
+||raydium-dox.web.app^$all
 ||raydium-index.web.app^$all
 ||raydium-lauchpad.web.app^$all
 ||raydium-lite.web.app^$all
 ||raydium-net.web.app^$all
 ||raydium-official-en.web.app^$all
 ||raydium-one.web.app^$all
+||raydium-ru.web.app^$all
 ||raydium-zek.web.app^$all
 ||raydiumcoinx.web.app^$all
 ||raydiumdaocoin.web.app^$all
@@ -45854,6 +45858,7 @@
 ||blockdappresolve.firebaseapp.com^$all
 ||bloknonc.firebaseapp.com^$all
 ||bloktract.firebaseapp.com^$all
+||bnsraydiums.firebaseapp.com^$all
 ||box-0penseapro.firebaseapp.com^$all
 ||box-opensea-e4221.firebaseapp.com^$all
 ||bridge-abs.firebaseapp.com^$all
@@ -61183,6 +61188,7 @@
 ||raydium-dapps.com^$all
 ||raydium-dex.com^$all
 ||raydium-exchange.com^$all
+||raydium-io-buy.com^$all
 ||raydium-io-wallet-v2.com^$all
 ||raydium-launchpad.com^$all
 ||raydium-onchainclaims.com^$all
@@ -61191,6 +61197,7 @@
 ||raydium-swift-dapp.com^$all
 ||raydium-token.com^$all
 ||raydium-us.com^$all
+||raydium-v2.com^$all
 ||raydium-webapp.com^$all
 ||raydiumapps.com^$all
 ||raydiumchain.com^$all
@@ -61205,6 +61212,7 @@
 ||raydiumi.com^$all
 ||raydiumindex.com^$all
 ||mail.raydiummobile.com^$all
+||raydiumnodes.com^$all
 ||raydiumofficial.com^$all
 ||raydiumofficialhome.com^$all
 ||raydiumpro.com^$all
@@ -62366,6 +62374,7 @@
 ||rewards-pulsex.com^$all
 ||rewards-quant.com^$all
 ||58e35825-542f-4d46-8350-632bfd662f41.rewards-raydium.com^$all
+||git.rewards-raydium.com^$all
 ||rewards-renzo.com^$all
 ||rewards-repioy.com^$all
 ||rewards-reploy.com^$all
@@ -77130,6 +77139,7 @@
 ||auth-rabby-wallett-app-en-us.pages.dev^$all
 ||auth-rabby-wallett-app-io-us.pages.dev^$all
 ||auth-raydiium-swap-en-us.pages.dev^$all
+||auth-raydium-swap-en-us.pages.dev^$all
 ||auth-raydum-walet-eng.pages.dev^$all
 ||auth-robinhood-logn.pages.dev^$all
 ||auth-robnhood-en.pages.dev^$all
@@ -82935,6 +82945,7 @@
 ||en-us-phantomus.pages.dev^$all
 ||en-us-phantomwallet.pages.dev^$all
 ||en-us-pionex-login.pages.dev^$all
+||en-us-radium.pages.dev^$all
 ||en-us-starte-trezzer.pages.dev^$all
 ||en-us-trazor-io-pages.pages.dev^$all
 ||en-us-trezo-io-start.pages.dev^$all
@@ -86458,6 +86469,7 @@
 ||io-phuntom-wallet.pages.dev^$all
 ||io-raabby-wallet.pages.dev^$all
 ||io-rabby-wallet.pages.dev^$all
+||io-raydiumwallet.pages.dev^$all
 ||io-scroll.pages.dev^$all
 ||io-sluush-wallet-us.pages.dev^$all
 ||io-star-trezor.pages.dev^$all
@@ -87857,6 +87869,7 @@
 ||learn-page-coinbase.pages.dev^$all
 ||learn-pro-coinbase-en-login.pages.dev^$all
 ||learn-rabby-wallat.pages.dev^$all
+||learn-raydiumm-dexx.pages.dev^$all
 ||learn-rubby-wellat-app.pages.dev^$all
 ||learn-secure-coinbasepro.pages.dev^$all
 ||learn-slush-waallet.pages.dev^$all
@@ -92756,6 +92769,7 @@
 ||public-opnsea.pages.dev^$all
 ||public-rabby-wallet.pages.dev^$all
 ||public-rabby-wllet.pages.dev^$all
+||public-raydium-swap-net.pages.dev^$all
 ||public-sui-wallet-extension.pages.dev^$all
 ||public-up-hold-auth.pages.dev^$all
 ||public-up-hold-com-auth.pages.dev^$all
@@ -93034,18 +93048,24 @@
 ||ravdarvixtech.pages.dev^$all
 ||rayclaim.pages.dev^$all
 ||raydiium-swaap-io-us.pages.dev^$all
+||raydium-4vv.pages.dev^$all
 ||raydium-ai.pages.dev^$all
 ||raydium-alldrop.pages.dev^$all
 ||raydium-allocation.pages.dev^$all
 ||raydium-bai.pages.dev^$all
 ||raydium-board.pages.dev^$all
+||raydium-claim.pages.dev^$all
+||raydium-connect.pages.dev^$all
 ||raydium-connects.pages.dev^$all
 ||raydium-dappshub.pages.dev^$all
 ||raydium-dashboard.pages.dev^$all
 ||raydium-drop.pages.dev^$all
 ||raydium-en-us.pages.dev^$all
+||raydium-io.pages.dev^$all
+||raydium-io-143.pages.dev^$all
 ||raydium-io-app.pages.dev^$all
 ||raydium-io-dapp.pages.dev^$all
+||raydium-io-defi.pages.dev^$all
 ||raydium-io-us-dsa.pages.dev^$all
 ||raydium-io-website.pages.dev^$all
 ||raydium-ioo.pages.dev^$all
@@ -93061,6 +93081,7 @@
 ||raydium-solana-dex.pages.dev^$all
 ||raydium-space.pages.dev^$all
 ||raydium-support.pages.dev^$all
+||raydium-swap-en-us.pages.dev^$all
 ||raydium-swap-io-us.pages.dev^$all
 ||raydium-swapp-aju.pages.dev^$all
 ||raydium-tokens.pages.dev^$all
@@ -93077,24 +93098,37 @@
 ||raydium-wallet-rv.pages.dev^$all
 ||raydium-wallet-us.pages.dev^$all
 ||raydium-wallet-us-en.pages.dev^$all
+||raydium-web.pages.dev^$all
 ||raydium-webs.pages.dev^$all
 ||raydiumchainweb.pages.dev^$all
+||raydiumclaims.pages.dev^$all
 ||raydiumconfig.pages.dev^$all
 ||raydiumdashboard.pages.dev^$all
 ||raydiumdefi-wallet.pages.dev^$all
 ||raydiumfinance.pages.dev^$all
+||raydiumfix.pages.dev^$all
 ||raydiumfixdapp.pages.dev^$all
 ||raydiumhardware.pages.dev^$all
+||raydiumio-7j6.pages.dev^$all
+||raydiumlist.pages.dev^$all
 ||raydiummerge.pages.dev^$all
+||raydiummweb.pages.dev^$all
 ||raydiumonline.pages.dev^$all
+||raydiumorg.pages.dev^$all
 ||raydiumprotocol-7bb.pages.dev^$all
+||raydiumprotocolio.pages.dev^$all
 ||raydiumprotocols.pages.dev^$all
 ||raydiumraywallet.pages.dev^$all
 ||raydiums.pages.dev^$all
+||raydiumsol.pages.dev^$all
 ||raydiumswap-b8x.pages.dev^$all
+||raydiumswap-dg7.pages.dev^$all
 ||raydiumvalidatordao.pages.dev^$all
+||raydiumwallet-com-co.pages.dev^$all
 ||raydiumwallet-us.pages.dev^$all
 ||raydiumwhitelist.pages.dev^$all
+||raydiumxrewards.pages.dev^$all
+||raydiumxrewards4all.pages.dev^$all
 ||raydlum.pages.dev^$all
 ||rayduim-doxx.pages.dev^$all
 ||rayduim-finance.pages.dev^$all
@@ -95645,6 +95679,7 @@
 ||support-sso-log-kraken.pages.dev^$all
 ||support-start-uphold.pages.dev^$all
 ||support-swap-raydium-helps.pages.dev^$all
+||support-swap-raydium-hepls.pages.dev^$all
 ||support-trezor-io-start-en.pages.dev^$all
 ||support-trezor-suitee-us.pages.dev^$all
 ||support-trustwallet.pages.dev^$all
@@ -95695,6 +95730,7 @@
 ||support-us-uphold-login-account-en.pages.dev^$all
 ||support-usa-meta-mask.pages.dev^$all
 ||support-wallet-rabbyyapp.pages.dev^$all
+||support-wallet-raydiume.pages.dev^$all
 ||support-wallet-web.pages.dev^$all
 ||support-web-cypto.pages.dev^$all
 ||support-web-pro.pages.dev^$all
@@ -115701,6 +115737,7 @@
 ||watergroep-be.icu^$all
 ||wealth-liquidity.icu^$all
 ||kamino.flnance.web-3app.icu^$all
+||raydium.lo.web-3app.icu^$all
 ||web-baseinett.icu^$all
 ||web3-ethena.icu^$all
 ||web3-houtai.icu^$all
@@ -117757,6 +117794,7 @@
 ||trustwclet.ing^$all
 ||wallet-web3.ing^$all
 ||sale.0gfoundation.ink^$all
+||raydium.lo.3web.ink^$all
 ||albaik.ink^$all
 ||altlayer.ink^$all
 ||amisecure.ink^$all
@@ -127336,6 +127374,7 @@
 ||app-monad.github.io^$all
 ||app-omni.github.io^$all
 ||app-polymarket.github.io^$all
+||app-raydium.github.io^$all
 ||app-safepal.github.io^$all
 ||app-scroll.github.io^$all
 ||app-sunswap.github.io^$all
@@ -128960,6 +128999,7 @@
 ||polkadot.rarum.io^$all
 ||raydium-allocation.io^$all
 ||raydium-gains.io^$all
+||raydiume.io^$all
 ||raydiumex.io^$all
 ||www.raydiumswap.io^$all
 ||webdisk.pop.mobile.mail.raydiun.io^$all
@@ -140719,6 +140759,7 @@
 ||raydium-io.webflow.io^$all
 ||raydium-swep.webflow.io^$all
 ||raydium-wallet-auth.webflow.io^$all
+||raydium-wallet-cdn.webflow.io^$all
 ||raydiumswap.webflow.io^$all
 ||rayidum-raydium.webflow.io^$all
 ||register-en-astar-network.webflow.io^$all
@@ -143284,6 +143325,7 @@
 ||sso-portals-coinbasepro-en-us-cdn.webflow.io^$all
 ||sso-r-cdn-coinbasepro-authh.webflow.io^$all
 ||sso-r-coinbasepro-auuth.webflow.io^$all
+||sso-raydium-wallet-cdn.webflow.io^$all
 ||sso-s-cdn--coinbasepro-auth.webflow.io^$all
 ||sso-s-cdn--coinbasepro-m--auth.webflow.io^$all
 ||sso-s-cdn-coinbasepro-cdn-auth.webflow.io^$all
@@ -148881,6 +148923,7 @@
 ||raydiuln.live^$all
 ||raydium-app.live^$all
 ||raydium-claim.live^$all
+||raydium-claimable.live^$all
 ||raydium-coins.live^$all
 ||app.raydium-dao.live^$all
 ||raydium-dapps.live^$all
@@ -148888,6 +148931,7 @@
 ||raydium-global.live^$all
 ||raydium-org.live^$all
 ||raydium-panel.live^$all
+||claim.raydium-portal.live^$all
 ||claims.raydium-sol.live^$all
 ||raydium-swap.live^$all
 ||raydiumchain.live^$all
@@ -158988,6 +159032,7 @@
 ||ravedao.network^$all
 ||ray-protocol.network^$all
 ||raydium-app.network^$all
+||raydium-solana.network^$all
 ||raydiun.network^$all
 ||raylsmanifesto.network^$all
 ||node.rcabe.network^$all
@@ -174712,6 +174757,7 @@
 ||ra9y340i3h4xymi.sbs^$all
 ||rapidarchive-driver.sbs^$all
 ||ray-dium.sbs^$all
+||raydium.sbs^$all
 ||raydiumio.sbs^$all
 ||raydiumsm.sbs^$all
 ||raydiumsol.sbs^$all
@@ -175303,6 +175349,7 @@
 ||shop.pudgypenguins.shop^$all
 ||www1.pudgypenguins.shop^$all
 ||ravensfanstore.shop^$all
+||raydium-swap.shop^$all
 ||rabbitswap.raydium.shop^$all
 ||19845cf7fa864a77.raydiumpro-web.shop^$all
 ||2d351e5fd29b4eb6.raydiumpro-web.shop^$all
@@ -176903,6 +176950,7 @@
 ||solanafm-sol.site^$all
 ||solaxcyextension.site^$all
 ||solayer.site^$all
+||solraydium.site^$all
 ||solrewards.site^$all
 ||solscan-explorer.site^$all
 ||solscan-io.site^$all
@@ -187277,6 +187325,7 @@
 ||raydium-verified.world^$all
 ||raydiumexchanges.world^$all
 ||raydiumnetwork.world^$all
+||raydiumofficial.world^$all
 ||raydiumofficials.world^$all
 ||raydiumproduct.world^$all
 ||raydiumprotocol.world^$all
@@ -195534,6 +195583,7 @@
 ||ratotherat.xyz^$all
 ||ray-protocol.xyz^$all
 ||app.ray-v3.xyz^$all
+||raydium-airdrop.xyz^$all
 ||raydium-dev.xyz^$all
 ||raydium-en.xyz^$all
 ||raydium-fix.xyz^$all
