@@ -151062,7 +151062,7 @@
 ||polymarket.reserve.market^$all
 ||reserved.market^$all
 ||restricted.market^$all
-||polymarket.states.market^$all
+||states.market^$all
 ||taiko.market^$all
 ||trades.market^$all
 ||us-com.market^$all
@@ -151083,6 +151083,7 @@
 ||hidden.markets^$all
 ||holoworld.markets^$all
 ||holoworldai.markets^$all
+||polymarket.initialize.markets^$all
 ||internal.markets^$all
 ||kyc.markets^$all
 ||league.markets^$all
