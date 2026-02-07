@@ -134061,6 +134061,7 @@
 ||eng--sso--coinbasepro--auth-w--auth.webflow.io^$all
 ||eng--sso--coinbasepro--cdn.webflow.io^$all
 ||eng--sso--coinbasepro--cdn--auth.webflow.io^$all
+||eng--sso--coinbasepro--cdn--n---auth.webflow.io^$all
 ||eng--sso--coinbasepro--cdn--x--auth.webflow.io^$all
 ||eng--sso--coinbasepro--cdn--x--eng.webflow.io^$all
 ||eng--sso--coinbasepro--cdn-c--oauth.webflow.io^$all
@@ -142276,6 +142277,7 @@
 ||secure--app-coinbasepro---cdn--n--cdn.webflow.io^$all
 ||secure--app-coinbasepro--cdn-eng-cdn.webflow.io^$all
 ||secure--app-coinbasepro--cdn-n-cdn.webflow.io^$all
+||secure--app-coinbasepro--view--auth.webflow.io^$all
 ||secure--app-coinbasepro-f--auth--cdn.webflow.io^$all
 ||secure--app-coinbasepro-r-cdn.webflow.io^$all
 ||secure--app-coinbasepro-us-cdn.webflow.io^$all
