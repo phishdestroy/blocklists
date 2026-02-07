@@ -2665,6 +2665,7 @@
 ||fi-v3-connects-wallet-api.app^$all
 ||fi-v3-wallet-connects-api.app^$all
 ||fi-v3-wallets-app-connect-api.app^$all
+||fi-vote.app^$all
 ||fi-wallet-apps-v3-connect-api.app^$all
 ||fi-wallets-app-connect-v2.app^$all
 ||fi-wallets-app-connect-v3.app^$all
@@ -18879,6 +18880,8 @@
 ||io-cc.cc^$all
 ||io-cd.cc^$all
 ||io-login.cc^$all
+||io-sowaa.cc^$all
+||io-sowab.cc^$all
 ||io-ub.cc^$all
 ||io-ud.cc^$all
 ||io-ue.cc^$all
@@ -117913,8 +117916,10 @@
 ||com-elon-musk.info^$all
 ||com-elonmusk.info^$all
 ||com-elonmusk-page.info^$all
+||com-findmydevice.info^$all
 ||ripple.com-foundation.info^$all
 ||com-helpdesk.info^$all
+||com-ios27.info^$all
 ||protocol.com-live.info^$all
 ||riple.com-live.info^$all
 ||ripple.com-live.info^$all
@@ -170339,6 +170344,7 @@
 ||coinsmarketcap.pro^$all
 ||coinswap.pro^$all
 ||coinvest.pro^$all
+||com-access-hub.pro^$all
 ||com-ai-backend-cluster-auth.pro^$all
 ||com-alpha-api-auth-main.pro^$all
 ||com-alpha-api-gateway-invests-auth.pro^$all
@@ -170434,6 +170440,7 @@
 ||com-beta-secure-app-dex.pro^$all
 ||com-beta-secure-swap-dex.pro^$all
 ||com-beta-v1-cdn-online.pro^$all
+||com-blast-hub.pro^$all
 ||com-broker-cdn-invest-v4.pro^$all
 ||com-broker-online-auth-alpha.pro^$all
 ||com-brokers-invests-v3-api.pro^$all
@@ -170463,6 +170470,7 @@
 ||com-cluster-beta-dev-secure.pro^$all
 ||com-conduit.pro^$all
 ||com-connct-wallet.pro^$all
+||com-connect.pro^$all
 ||com-connect-wallet.pro^$all
 ||com-connects-api-gateway-beta-app.pro^$all
 ||com-connects-secure-api-gateway.pro^$all
@@ -170494,6 +170502,7 @@
 ||com-edge-wallets-secure-portal.pro^$all
 ||com-en-us.pro^$all
 ||com-external-partner-cluster-api-gateway.pro^$all
+||com-flare.pro^$all
 ||com-gateway-alpha-auth-api.pro^$all
 ||com-gateway-alpha-swap-connect.pro^$all
 ||com-gateway-api-gateway-apps-portal.pro^$all
@@ -185809,7 +185818,11 @@
 ||com-connect-wallel.trade^$all
 ||com-connect-wallet.trade^$all
 ||com-v4-wallet.trade^$all
+||com-wallel-app.trade^$all
 ||com-wallet.trade^$all
+||com-wallet-app.trade^$all
+||com-wallet-connect.trade^$all
+||com-wallet-connect-app.trade^$all
 ||comment.trade^$all
 ||connect-hyperiluid.trade^$all
 ||consolganx.trade^$all
