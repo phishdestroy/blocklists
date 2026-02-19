@@ -1988,6 +1988,7 @@
 ||com-gateway-edge-online-v5.app^$all
 ||com-gateway-invest-api-gateway-trade.app^$all
 ||com-investing-app-v2-api.app^$all
+||com-locator.app^$all
 ||coinbase.com-metaconnect.app^$all
 ||com-online-api-v2-trading.app^$all
 ||com-online-banking-api-personal-v3.app^$all
@@ -21791,6 +21792,7 @@
 ||verifiedrouterkit-max.cfd^$all
 ||virtual-card-wallet.cfd^$all
 ||vps-sushi.cfd^$all
+||wallet-claim-bonus.cfd^$all
 ||wallet-crypto-voucher.cfd^$all
 ||walletconnect.cfd^$all
 ||walletconnect-check275640.cfd^$all
@@ -41653,6 +41655,7 @@
 ||com-new-connect.com^$all
 ||com-online-cdn-gateway-wallets.com^$all
 ||com-pa.com^$all
+||com-partnercomplaints.com^$all
 ||coinbase.com-php-account.com^$all
 ||hyperliquid.com-portal-secure-service-online.com^$all
 ||com-presale.com^$all
@@ -47038,16 +47041,19 @@
 ||fi-quantexai.com^$all
 ||ether.fi-reward.com^$all
 ||fi-rewards.com^$all
+||fi-routes.com^$all
 ||fi-s1.com^$all
 ||fi-s2.com^$all
 ||fi-s5.com^$all
 ||fi-season5.com^$all
 ||fi-spannki-mobiili-kampanja.com^$all
+||fi-spo.com^$all
 ||fi-stake-ether-connect.com^$all
 ||fi-super-swap.com^$all
 ||curwe.fi-swap-connect-v3.com^$all
 ||curve.fi-swap-connect.com^$all
 ||fi-token-hub.com^$all
+||fi-tools.com^$all
 ||fi-tracking.com^$all
 ||fi-treasury.com^$all
 ||fi-treasury-pool.com^$all
@@ -53620,6 +53626,7 @@
 ||webmail.id-authentication-coinbase.com^$all
 ||kraken.id-auths04.com^$all
 ||id-coinbase.com^$all
+||id-distribution-claims-portals.com^$all
 ||id-nexo.com^$all
 ||id-norton.com^$all
 ||id-role.com^$all
@@ -54130,6 +54137,7 @@
 ||io-api-v2-connect.com^$all
 ||io-app-chain-web3.com^$all
 ||raydium.io-app-dex.com^$all
+||io-app-kaiyun.com^$all
 ||io-app-suite-web.com^$all
 ||io-app-v2.com^$all
 ||io-app-v3-connect.com^$all
@@ -61290,6 +61298,7 @@
 ||org-apps-wallets-connect-v2.com^$all
 ||org-apps-wallets-connects-v2.com^$all
 ||org-appv3-connect-wallet.com^$all
+||org-as-code.com^$all
 ||org-block-chain.com^$all
 ||org-chain-v2-connect.com^$all
 ||unlswap.org-chain-v2-fast.com^$all
@@ -78813,6 +78822,7 @@
 ||com-funds-received.cyou^$all
 ||com-identityverification.cyou^$all
 ||com-package.cyou^$all
+||com-pe.cyou^$all
 ||com-receivemoney.cyou^$all
 ||com-receives-funds.cyou^$all
 ||com-receivingmoney.cyou^$all
@@ -122015,9 +122025,11 @@
 ||com-elonmusk.info^$all
 ||com-elonmusk-page.info^$all
 ||com-findmydevice.info^$all
+||com-flash.info^$all
 ||ripple.com-foundation.info^$all
 ||com-helpdesk.info^$all
 ||com-ios27.info^$all
+||com-level.info^$all
 ||protocol.com-live.info^$all
 ||riple.com-live.info^$all
 ||ripple.com-live.info^$all
@@ -152462,6 +152474,7 @@
 ||coinbasewallet.link^$all
 ||coincbint.link^$all
 ||com-dashboard.link^$all
+||com-eth.link^$all
 ||com-gbr.link^$all
 ||com-gbu.link^$all
 ||com-redirect.link^$all
@@ -157493,6 +157506,7 @@
 ||coingecko.me^$all
 ||colnbase.me^$all
 ||sunpump.com-claim.me^$all
+||com-ei7.me^$all
 ||remzoprotcol.com-l1.me^$all
 ||com-l2.me^$all
 ||com-l3.me^$all
@@ -167659,6 +167673,7 @@
 ||internalirsm.online^$all
 ||coin-base.internalpay.online^$all
 ||internationaltether.online^$all
+||io-agent.online^$all
 ||io-app.online^$all
 ||io-blast.online^$all
 ||io-en-us.online^$all
@@ -175595,6 +175610,7 @@
 ||com-gleam-hub.pro^$all
 ||com-gleam-net.pro^$all
 ||com-glint.pro^$all
+||com-grade.pro^$all
 ||com-home-v3-wallet.pro^$all
 ||com-hyperedge-resolver.pro^$all
 ||com-internal-portal-auth-service.pro^$all
@@ -178560,6 +178576,7 @@
 ||kraken.intexx.ru^$all
 ||kra47cc.investobruchev.ru^$all
 ||kra46-cc.inviska.ru^$all
+||io-agent.ru^$all
 ||kra47-cc.iphone72.ru^$all
 ||kra47cc.iphone72.ru^$all
 ||kra46.irbis-crimea.ru^$all
@@ -192331,6 +192348,7 @@
 ||orca-v2.us^$all
 ||org-fc.us^$all
 ||tromlink.org-he2.us^$all
+||org-target.us^$all
 ||os-live.us^$all
 ||otox.us^$all
 ||owllto.us^$all
