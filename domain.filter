@@ -1776,8 +1776,10 @@
 ||checker-eigeniayer.app^$all
 ||checker-eigenlayer.app^$all
 ||checker-fuel.app^$all
+||checker-jester.app^$all
 ||checker-jup.app^$all
 ||checker-jupiter.app^$all
+||checker-kimchi.app^$all
 ||checker-linea.app^$all
 ||checker-lineabuiid.app^$all
 ||checker-morpho.app^$all
@@ -25339,6 +25341,7 @@
 ||check-iineabuild.co^$all
 ||check-lineabuiid.co^$all
 ||check-wefi.co^$all
+||checker-ledgerai.co^$all
 ||checker-zeroiend.co^$all
 ||chilic.co^$all
 ||chintainexus.co^$all
@@ -38231,6 +38234,7 @@
 ||checker-amlbot.com^$all
 ||checker-analog.com^$all
 ||checker-anime.com^$all
+||checker-auki.com^$all
 ||checker-avalonfinance.com^$all
 ||checker-bckr.com^$all
 ||checker-bckrcoin.com^$all
@@ -38262,12 +38266,15 @@
 ||checker-flaunch.com^$all
 ||checker-galxe.com^$all
 ||checker-gettrumpmemes.com^$all
+||checker-giggletoken.com^$all
 ||checker-groupmantle.com^$all
 ||checker-hamsterkombat.com^$all
 ||checker-henlo.com^$all
+||checker-houdiniswap.com^$all
 ||checker-initia.com^$all
 ||checker-jup.com^$all
 ||checker-jupiterexchange.com^$all
+||checker-justfomo.com^$all
 ||checker-layeredge.com^$all
 ||checker-lens.com^$all
 ||checker-lineabuiid.com^$all
@@ -38279,6 +38286,7 @@
 ||monad.checker-live.com^$all
 ||overlay-protocol.checker-live.com^$all
 ||world3.checker-live.com^$all
+||checker-maicrotrader.com^$all
 ||checker-mask.com^$all
 ||checker-mefoundation.com^$all
 ||checker-megaeth.com^$all
@@ -38297,6 +38305,7 @@
 ||checker-polymarket.com^$all
 ||checker-privasea.com^$all
 ||checker-publicai.com^$all
+||checker-quilibrium.com^$all
 ||checker-rayls.com^$all
 ||checker-skatechain.com^$all
 ||checker-solv.com^$all
@@ -41701,6 +41710,7 @@
 ||coinbaseserviceaiddesk.com^$all
 ||coinbaseservices.com^$all
 ||coinbaseservicesdesk.com^$all
+||coinbaseserviceteam.com^$all
 ||coinbasesf.com^$all
 ||coinbasesft.com^$all
 ||coinbasesg.com^$all
@@ -42180,6 +42190,7 @@
 ||coinhave.com^$all
 ||coinhea.com^$all
 ||coinhederas.com^$all
+||coinhelpcenter.com^$all
 ||coinholmes.com^$all
 ||coinifypx.com^$all
 ||coininfobase.com^$all
@@ -60289,6 +60300,7 @@
 ||globalregionalstrategy.com^$all
 ||globals-essentials.com^$all
 ||globalsecuredmarkets.com^$all
+||globalsmartvault.com^$all
 ||globalstalk.com^$all
 ||globaltechmine.com^$all
 ||globaltraceasset.com^$all
@@ -76729,6 +76741,7 @@
 ||roxverin.com^$all
 ||royal-ex.com^$all
 ||royalanchorbank.com^$all
+||royalpalmint.com^$all
 ||royalspiredexora.com^$all
 ||royalstarx.com^$all
 ||cfd.royalwealthltd.com^$all
@@ -84944,6 +84957,7 @@
 ||vote-heyanon.com^$all
 ||vote-hybrafinance.com^$all
 ||vote-hypester.com^$all
+||vote-inkonchain.com^$all
 ||vote-iombard.com^$all
 ||vote-kalshi.com^$all
 ||vote-kamino.com^$all
@@ -125284,6 +125298,7 @@
 ||serum-technologies.digital^$all
 ||shaape.digital^$all
 ||shardeum.digital^$all
+||shimmer-kernel.digital^$all
 ||simpleswap.digital^$all
 ||singphoto.digital^$all
 ||siteb.digital^$all
@@ -125843,6 +125858,7 @@
 ||shibs.eu^$all
 ||shiby.eu^$all
 ||site-manager.eu^$all
+||solcasino-hu.eu^$all
 ||soniclabs.eu^$all
 ||stacking-now.eu^$all
 ||stakeairdrop.eu^$all
@@ -128687,6 +128703,7 @@
 ||esspreso.foundation^$all
 ||ethenalabs.foundation^$all
 ||ethrescue.foundation^$all
+||fabrlc.foundation^$all
 ||fandom.foundation^$all
 ||fantomswap.foundation^$all
 ||fantum.foundation^$all
@@ -135603,6 +135620,7 @@
 ||cheapfood.io^$all
 ||check-metamask.io^$all
 ||check-scroll.io^$all
+||checker-kondux.io^$all
 ||checker-optimism.io^$all
 ||checker-scroll.io^$all
 ||checker-virtuals.io^$all
@@ -165740,6 +165758,7 @@
 ||dextrendings.live^$all
 ||dexvotex.live^$all
 ||dexvoting.live^$all
+||dexvotings.live^$all
 ||diamanteclaim.live^$all
 ||digital-ledger.live^$all
 ||digitalaffiliatemarketing.live^$all
@@ -178945,6 +178964,7 @@
 ||logxnetwork.one^$all
 ||lombardfinance.one^$all
 ||memepad.one^$all
+||merkl.one^$all
 ||metaeth.one^$all
 ||metam-eth.one^$all
 ||metamask.one^$all
@@ -194585,6 +194605,7 @@
 ||org-v2.sbs^$all
 ||org-v3.sbs^$all
 ||os-markets.sbs^$all
+||ostium.sbs^$all
 ||osystems.sbs^$all
 ||ouzone2.sbs^$all
 ||ozoombs.sbs^$all
@@ -209291,6 +209312,7 @@
 ||aliocation-virtuals.xyz^$all
 ||aliocations-arbitrum.xyz^$all
 ||alisonguide.xyz^$all
+||all-drops.xyz^$all
 ||allclaim.xyz^$all
 ||alliancelabs.xyz^$all
 ||allo-app.xyz^$all
@@ -215114,7 +215136,7 @@
 ||memescult.xyz^$all
 ||memesmartwallet.xyz^$all
 ||mendicious.xyz^$all
-||app.menkl.xyz^$all
+||menkl.xyz^$all
 ||mentoken-claim.xyz^$all
 ||meonsol.xyz^$all
 ||meowprotocol.xyz^$all
@@ -216077,6 +216099,7 @@
 ||osmosisrevoke.xyz^$all
 ||osmosui.xyz^$all
 ||osphon.xyz^$all
+||ostium-app.xyz^$all
 ||ostiumlab.xyz^$all
 ||ostiun.xyz^$all
 ||othersswap.xyz^$all
@@ -216963,6 +216986,7 @@
 ||railguns.xyz^$all
 ||rain-bnb.xyz^$all
 ||rainbow-bridge.xyz^$all
+||rainbow-rewards.xyz^$all
 ||rainbow-walletconnect.xyz^$all
 ||rainbowfishai.xyz^$all
 ||rainbowflsh.xyz^$all
@@ -219206,6 +219230,7 @@
 ||trolololsol.xyz^$all
 ||tron-claim.xyz^$all
 ||tron-scan.xyz^$all
+||tronamlchecker.xyz^$all
 ||trsecuresu.xyz^$all
 ||truezeus-claim.xyz^$all
 ||truezeuscoin.xyz^$all
