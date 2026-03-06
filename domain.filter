@@ -67755,6 +67755,13 @@
 ||ledger-cold-wallet-use.com^$all
 ||ledger-coldstorage.com^$all
 ||ledger-crypto-wallet.com^$all
+||ledger-crypto-wallet-bitcoin.com^$all
+||ledger-crypto-wallet-compare.com^$all
+||ledger-crypto-wallet-guide.com^$all
+||ledger-crypto-wallet-install.com^$all
+||ledger-crypto-wallet-protect.com^$all
+||ledger-crypto-wallet-security.com^$all
+||ledger-crypto-wallet-send.com^$all
 ||ledger-cryptocurrency-guide.com^$all
 ||ledger-cryptocurrency-wallet.com^$all
 ||ledger-customer-verify.com^$all
@@ -67762,6 +67769,7 @@
 ||ledger-device-recovery.com^$all
 ||ledger-device-us.com^$all
 ||ledger-devicesecurity.com^$all
+||ledger-firmware-update.com^$all
 ||ledger-fr-okta.com^$all
 ||ledger-guide.com^$all
 ||ledger-hardware-connection.com^$all
@@ -67774,6 +67782,7 @@
 ||ledger-haus.com^$all
 ||ledger-helpnotify.com^$all
 ||ledger-incident-update.com^$all
+||ledger-live-backup.com^$all
 ||ledger-live-connects.com^$all
 ||ledger-live-desktop.com^$all
 ||ledger-live-installation.com^$all
@@ -67790,6 +67799,7 @@
 ||ledger-portal-official.com^$all
 ||ledger-portfolio.com^$all
 ||ledger-protection.com^$all
+||ledger-protection-system.com^$all
 ||ledger-recover-signe.com^$all
 ||ledger-recoverlive.com^$all
 ||ledger-recovery-app.com^$all
@@ -67814,11 +67824,16 @@
 ||ledger-staking2025.com^$all
 ||ledger-storage.com^$all
 ||ledger-support-center.com^$all
+||ledger-support-desk.com^$all
 ||ledger-transaction-check.com^$all
 ||ledger-updatecheck.com^$all
 ||ledger-upgrade.com^$all
 ||ledger-uphold.com^$all
 ||ledger-verification-check.com^$all
+||ledger-verification-help.com^$all
+||ledger-verification-support.com^$all
+||ledger-vs-alternative.com^$all
+||ledger-vs-hotwallet.com^$all
 ||ledger-wallet-apps.com^$all
 ||ledger-wallet-bitcoin.com^$all
 ||ledger-wallet-btc.com^$all
@@ -137108,7 +137123,9 @@
 ||layeraitoken.info^$all
 ||layeraitokens.info^$all
 ||layeredge.info^$all
+||ledger-app.info^$all
 ||ledger-recovery.info^$all
+||ledger-support.info^$all
 ||ledgerlive.info^$all
 ||legalreport-x.info^$all
 ||legorex.info^$all
@@ -198554,6 +198571,7 @@
 ||leanrelaynode-vault.sbs^$all
 ||leapwalletextension.sbs^$all
 ||learn2earn.sbs^$all
+||ledger-gate.sbs^$all
 ||lekir.sbs^$all
 ||eu.ler-2v.sbs^$all
 ||libertai.sbs^$all
@@ -198615,6 +198633,7 @@
 ||momentunfinancerewards.sbs^$all
 ||claim.monadhubrewards.sbs^$all
 ||monadrops.sbs^$all
+||moneyhub-ledgerlink.sbs^$all
 ||2b3e9662-09ab-4a87-9891-f4eafb7b6334.moneyhub-wealthflowx.sbs^$all
 ||moodeng.sbs^$all
 ||moodminermm.sbs^$all
