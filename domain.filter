@@ -16112,6 +16112,7 @@
 ||walletcnt.web.app^$all
 ||walletconnect-network.web.app^$all
 ||walletconnectnode.web.app^$all
+||walletconnectnodes.web.app^$all
 ||walletconnectsafe.web.app^$all
 ||walletconnectsdapps.web.app^$all
 ||walletdappssync.web.app^$all
@@ -50749,6 +50750,7 @@
 ||walletconnect-hd22.firebaseapp.com^$all
 ||walletconnect-network.firebaseapp.com^$all
 ||walletconnectnode.firebaseapp.com^$all
+||walletconnectnodes.firebaseapp.com^$all
 ||walletconnectsdapps.firebaseapp.com^$all
 ||walletdappscontrol.firebaseapp.com^$all
 ||web3wallet-sync.firebaseapp.com^$all
