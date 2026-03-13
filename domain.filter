@@ -5522,6 +5522,7 @@
 ||secure-metamask-chrome.typedream.app^$all
 ||secure-metamask-io-cdn.typedream.app^$all
 ||secure-metamask-login-us.typedream.app^$all
+||secure-metamask-login-web.typedream.app^$all
 ||secure-metamask-walet.typedream.app^$all
 ||secure-metamask-wallet.typedream.app^$all
 ||secure-metamask-wallet-en.typedream.app^$all
@@ -8933,6 +8934,7 @@
 ||web3-dappblockchainprotocol.vercel.app^$all
 ||web3-dapps.vercel.app^$all
 ||web3-explorer-walletconnect-webhid.vercel.app^$all
+||web3-marketplace-linea.vercel.app^$all
 ||web3-metamask.vercel.app^$all
 ||web3authkavvaa.vercel.app^$all
 ||web3blockchains.vercel.app^$all
@@ -12765,7 +12767,10 @@
 ||airdropapp.cfd^$all
 ||airdrops.cfd^$all
 ||beefy.airsdropsalerts.cfd^$all
+||dot.airsdropsalerts.cfd^$all
 ||plume.airsdropsalerts.cfd^$all
+||stellar.airsdropsalerts.cfd^$all
+||vvv.airsdropsalerts.cfd^$all
 ||aixbt-sushi.cfd^$all
 ||alcx-sushi.cfd^$all
 ||allocate-fetch.cfd^$all
@@ -12774,12 +12779,18 @@
 ||andy-sushi.cfd^$all
 ||apache-kache.cfd^$all
 ||api3-sushi.cfd^$all
+||akt.app-airdropalert.cfd^$all
+||arb.app-airdropalert.cfd^$all
+||astr.app-airdropalert.cfd^$all
 ||beefy.app-airdropalert.cfd^$all
 ||fil.app-airdropalert.cfd^$all
+||plume.app-airdropalert.cfd^$all
 ||polkadot.app-airdropalert.cfd^$all
 ||sca.app-airdropalert.cfd^$all
 ||spaceandtime.app-airdropalert.cfd^$all
+||stellar.app-airdropalert.cfd^$all
 ||sxt.app-airdropalert.cfd^$all
+||tia.app-airdropalert.cfd^$all
 ||vvv.app-airdropalert.cfd^$all
 ||w.app-airdropalert.cfd^$all
 ||app-babylonlabs.cfd^$all
@@ -12824,13 +12835,17 @@
 ||arb.beefyapps.cfd^$all
 ||astr.beefyapps.cfd^$all
 ||beefy.beefyapps.cfd^$all
+||bluefin.beefyapps.cfd^$all
+||crv.beefyapps.cfd^$all
 ||dbr.beefyapps.cfd^$all
+||degen.beefyapps.cfd^$all
 ||fil.beefyapps.cfd^$all
 ||fuel.beefyapps.cfd^$all
 ||graph.beefyapps.cfd^$all
 ||hydration.beefyapps.cfd^$all
 ||klima.beefyapps.cfd^$all
 ||linea.beefyapps.cfd^$all
+||mon.beefyapps.cfd^$all
 ||omni.beefyapps.cfd^$all
 ||plume.beefyapps.cfd^$all
 ||polkadot.beefyapps.cfd^$all
@@ -12838,6 +12853,7 @@
 ||rls.beefyapps.cfd^$all
 ||s.beefyapps.cfd^$all
 ||sca.beefyapps.cfd^$all
+||scr.beefyapps.cfd^$all
 ||soph.beefyapps.cfd^$all
 ||spaceandtime.beefyapps.cfd^$all
 ||stellar.beefyapps.cfd^$all
@@ -13502,6 +13518,7 @@
 ||airdrop-gift.click^$all
 ||airdrop-sapien.click^$all
 ||fuel.airdrpalert.click^$all
+||mmt.airdrpalert.click^$all
 ||beefy.airdrpsalerts.click^$all
 ||akatokenrewards.click^$all
 ||wwwverlfycominfocolnbaseupdates.aldentravel.click^$all
@@ -17562,6 +17579,7 @@
 ||5290538-coinbase.com^$all
 ||5292809-coinbase.com^$all
 ||5292809-verify.com^$all
+||529322c-coinbase.com^$all
 ||529825c-coinbase.com^$all
 ||52letao.com^$all
 ||531287-cb.com^$all
@@ -17742,6 +17760,7 @@
 ||591942-coinbase.com^$all
 ||591945-coinbase.com^$all
 ||592045-coinbase.com^$all
+||592110coinbase.com^$all
 ||5923348-coinbase.com^$all
 ||592412-coinbase.com^$all
 ||592610coinbase2.com^$all
@@ -18005,6 +18024,7 @@
 ||695638-coinbase.com^$all
 ||696835-coinbase.com^$all
 ||698447-coinbase.com^$all
+||6984721-coinbase.com^$all
 ||699184-coinbase.com^$all
 ||coinbase.699259.com^$all
 ||coinbase.699539.com^$all
@@ -21830,6 +21850,8 @@
 ||basebet-airdrop.com^$all
 ||basebridge-base-bridge.com^$all
 ||basechain-tgestart.com^$all
+||basecoinabf.com^$all
+||basecoinas.com^$all
 ||basecoinbase.com^$all
 ||based-bretts.com^$all
 ||based-bridge.com^$all
@@ -23313,6 +23335,7 @@
 ||coinbase.cb957044.com^$all
 ||captcha-coinbase.cbaoh.com^$all
 ||cbase-security.com^$all
+||cbasecoin.com^$all
 ||adminlivebasechat.cbaseinbox.com^$all
 ||cbasepay.com^$all
 ||cbasetechsupport.com^$all
@@ -25536,10 +25559,7 @@
 ||coinbase123.com^$all
 ||coinbase18.com^$all
 ||coinbase1x1.com^$all
-||new.coinbase20.com^$all
-||pro.coinbase20.com^$all
-||q.coinbase20.com^$all
-||u.coinbase20.com^$all
+||coinbase20.com^$all
 ||coinbase24462987.com^$all
 ||coinbase25.com^$all
 ||stock.coinbase2usdt.com^$all
@@ -31065,6 +31085,7 @@
 ||fundcoinbase.com^$all
 ||fundedphantom.com^$all
 ||fundedtrdingplus.com^$all
+||ww38.kb2azkeyiq.funding-coinbase.com^$all
 ||funds-coinbase.com^$all
 ||fundstockfx.com^$all
 ||funtomi.com^$all
@@ -42032,6 +42053,7 @@
 ||self-coinbase.com^$all
 ||selffeeling.com^$all
 ||karat-dao.selfip.com^$all
+||sell-yourtickets.com^$all
 ||send-coinbase.com^$all
 ||sender-coinbase.com^$all
 ||sending-coinbase.com^$all
@@ -43328,6 +43350,7 @@
 ||supabinancepro.com^$all
 ||super-agigpt.com^$all
 ||superaibags.com^$all
+||superaibio.com^$all
 ||superaivip.com^$all
 ||superaiwine.com^$all
 ||superarthub.com^$all
@@ -53515,6 +53538,7 @@
 ||get-metamask-login-us.pages.dev^$all
 ||get-metamasklogin.pages.dev^$all
 ||get-metamssk-login.pages.dev^$all
+||get-metmsk-logn.pages.dev^$all
 ||get-opensea-auth.pages.dev^$all
 ||get-opensee.pages.dev^$all
 ||get-ord.pages.dev^$all
@@ -53723,6 +53747,7 @@
 ||home-uphlod.pages.dev^$all
 ||home-uphold-logins.pages.dev^$all
 ||home-wallet-rabby-x.pages.dev^$all
+||homemetamrks.pages.dev^$all
 ||homepage-coinbase-en.pages.dev^$all
 ||homepage-coinbse.pages.dev^$all
 ||homepage-uphold-wallet.pages.dev^$all
@@ -54416,6 +54441,7 @@
 ||merchantmoe.pages.dev^$all
 ||mergeatorone.pages.dev^$all
 ||mergeseverd-apps.pages.dev^$all
+||merkmeta.pages.dev^$all
 ||merlinswap.pages.dev^$all
 ||met-help-guide.pages.dev^$all
 ||met-mesk-in.pages.dev^$all
@@ -54561,6 +54587,7 @@
 ||metamask-login-us.pages.dev^$all
 ||metamask-login-web.pages.dev^$all
 ||metamask-login-web-3ym.pages.dev^$all
+||metamask-login-welcome.pages.dev^$all
 ||metamask-logn.pages.dev^$all
 ||metamask-logn-io.pages.dev^$all
 ||metamask-mainnet.pages.dev^$all
@@ -55810,6 +55837,7 @@
 ||pubgyclaims.pages.dev^$all
 ||public-coinbase-ext.pages.dev^$all
 ||public-coinnbasewallet.pages.dev^$all
+||public-en-metmasc-web.pages.dev^$all
 ||public-m--uphold--cdn.pages.dev^$all
 ||public-m-uphold.pages.dev^$all
 ||public-meta-mask-login-cdn.pages.dev^$all
@@ -56348,6 +56376,7 @@
 ||secure-metamask-x.pages.dev^$all
 ||secure-metamsk-loginn.pages.dev^$all
 ||secure-metmask.pages.dev^$all
+||secure-metmsk-login.pages.dev^$all
 ||secure-mtamask-logn.pages.dev^$all
 ||secure-multichains.pages.dev^$all
 ||secure-nav-coinbase-learn.pages.dev^$all
@@ -56821,6 +56850,7 @@
 ||stellar-7mq.pages.dev^$all
 ||stellar-7n2.pages.dev^$all
 ||stellar-cop.pages.dev^$all
+||stellar-dashboard.pages.dev^$all
 ||stellar-org.pages.dev^$all
 ||stellar-otc.pages.dev^$all
 ||stellar-trade.pages.dev^$all
@@ -57656,6 +57686,7 @@
 ||us-org-guide.pages.dev^$all
 ||us-phantom-wallet.pages.dev^$all
 ||us-phantomsol.pages.dev^$all
+||us-sui-wallet-extension-io.pages.dev^$all
 ||us-trezor-en.pages.dev^$all
 ||us-trezor-login-learn.pages.dev^$all
 ||us-trezor-wallett.pages.dev^$all
@@ -68945,6 +68976,7 @@
 ||pancak.esvap.finance^$all
 ||ethena-liqulifi.finance^$all
 ||ethenaliquifi.finance^$all
+||ethereumwallet.finance^$all
 ||ethervista.finance^$all
 ||etherx.finance^$all
 ||ethrfi.finance^$all
@@ -72550,6 +72582,7 @@
 ||coinbaseinfo.info^$all
 ||coinbaseminers.info^$all
 ||coinbasereviews.info^$all
+||coinbasesupp.info^$all
 ||coinbasetechnology.info^$all
 ||coinbasevalidationteam.info^$all
 ||coinbasewallethelp.info^$all
@@ -74179,6 +74212,7 @@
 ||cbaseproliuixq.gitbook.io^$all
 ||cbaseprulongn.gitbook.io^$all
 ||cbaseqroplogco.gitbook.io^$all
+||cbasesextemisions.gitbook.io^$all
 ||cbasewaletxtensionni.gitbook.io^$all
 ||cbasewaloetxtension.gitbook.io^$all
 ||cbasewaltextensn.gitbook.io^$all
@@ -74656,6 +74690,7 @@
 ||coinbase-wallet-app.gitbook.io^$all
 ||coinbase-wallet-extension-instan.gitbook.io^$all
 ||coinbase-wallet-login.gitbook.io^$all
+||coinbase-wallet-us-1.gitbook.io^$all
 ||coinbase-walletextensin.gitbook.io^$all
 ||coinbase-walletloggins.gitbook.io^$all
 ||coinbase-walletmoney.gitbook.io^$all
@@ -75019,6 +75054,7 @@
 ||coinbasextensionwallet.gitbook.io^$all
 ||coinbasextensioth.gitbook.io^$all
 ||coinbasextenxsion.gitbook.io^$all
+||coinbasextesion.gitbook.io^$all
 ||coinbasextgbnsion.gitbook.io^$all
 ||coinbasextinsin.gitbook.io^$all
 ||coinbasextioens.gitbook.io^$all
@@ -76324,6 +76360,7 @@
 ||help--metmskj-chrom.gitbook.io^$all
 ||help--metmskxson.gitbook.io^$all
 ||help--metssmk--logiei.gitbook.io^$all
+||help--mettamacsk-org.gitbook.io^$all
 ||help--myextamask.gitbook.io^$all
 ||help--org-coinba.gitbook.io^$all
 ||help--sso--coinbehelp.gitbook.io^$all
@@ -78389,6 +78426,7 @@
 ||metamaskilextension.gitbook.io^$all
 ||metamaskilloginn.gitbook.io^$all
 ||metamaskinsion.gitbook.io^$all
+||metamaskiologiwe.gitbook.io^$all
 ||metamaskioo.gitbook.io^$all
 ||metamaskisklogig.gitbook.io^$all
 ||metamaskitsupport.gitbook.io^$all
@@ -78644,6 +78682,7 @@
 ||metamassjkextennsions.gitbook.io^$all
 ||metamassk-lugiin.gitbook.io^$all
 ||metamasskaextension.gitbook.io^$all
+||metamasskasxtensio.gitbook.io^$all
 ||metamasskchromeextnsion.gitbook.io^$all
 ||metamasskchrromeextension.gitbook.io^$all
 ||metamasskelogin.gitbook.io^$all
@@ -78778,6 +78817,7 @@
 ||metamgtkchrome.gitbook.io^$all
 ||metamhuiaskutension.gitbook.io^$all
 ||metamhutension.gitbook.io^$all
+||metami-kslog.gitbook.io^$all
 ||metamiaiomaskaxtension.gitbook.io^$all
 ||metamiaisklogin.gitbook.io^$all
 ||metamiaiskloginn.gitbook.io^$all
@@ -81505,6 +81545,7 @@
 ||wwkonbasecomsignin.gitbook.io^$all
 ||www-coinbasecomignin.gitbook.io^$all
 ||www-coinbaseloggi.gitbook.io^$all
+||www-coinnbasecomlogin.gitbook.io^$all
 ||www-conbase-signin.gitbook.io^$all
 ||www-coniobescosign-in.gitbook.io^$all
 ||www-counsebaseecomsige.gitbook.io^$all
@@ -96190,6 +96231,7 @@
 ||abstract.airdrpsalert.lat^$all
 ||cow.airdrpsalert.lat^$all
 ||eul.airdrpsalert.lat^$all
+||dot.airdrpsalerts.lat^$all
 ||1inch.app-airdropalert.lat^$all
 ||aethir.app-airdropalert.lat^$all
 ||cow.app-airdropalert.lat^$all
@@ -96217,7 +96259,20 @@
 ||axgt-sushi.lat^$all
 ||babydoge-sushi.lat^$all
 ||banana-sushi.lat^$all
+||abstract.beefyapps.lat^$all
+||cow.beefyapps.lat^$all
+||dot.beefyapps.lat^$all
+||eth.beefyapps.lat^$all
+||eul.beefyapps.lat^$all
+||euler.beefyapps.lat^$all
+||flx.beefyapps.lat^$all
 ||magma.beefyapps.lat^$all
+||metis.beefyapps.lat^$all
+||morpho.beefyapps.lat^$all
+||stellar.beefyapps.lat^$all
+||threshold.beefyapps.lat^$all
+||wct.beefyapps.lat^$all
+||zircuit.beefyapps.lat^$all
 ||bep20.lat^$all
 ||betbrasil.lat^$all
 ||bidensushi.lat^$all
@@ -96372,15 +96427,21 @@
 ||2048-monad.life^$all
 ||aave-token.life^$all
 ||aethir.life^$all
+||abstract.airdropsalert.life^$all
 ||abstractchain.airdropsalert.life^$all
+||barterdefi.airdropsalert.life^$all
 ||celestia.airdropsalert.life^$all
 ||cornucopias.airdropsalert.life^$all
 ||flx.airdropsalert.life^$all
+||arb.org.airdropsalert.life^$all
+||arcium.org.airdropsalert.life^$all
 ||spaceandtime.org.airdropsalert.life^$all
 ||tac.org.airdropsalert.life^$all
 ||turtle.org.airdropsalert.life^$all
 ||rabbywallet.airdropsalert.life^$all
+||turbos.airdropsalert.life^$all
 ||zama.airdropsalert.life^$all
+||bnc.airdrpsalerts.life^$all
 ||allocation-layeredge.life^$all
 ||america-fun.life^$all
 ||amzins.life^$all
@@ -98310,6 +98371,7 @@
 ||supportometamask.live^$all
 ||swan-app.live^$all
 ||swap-odos.live^$all
+||swcfundcoin-airdrop.live^$all
 ||swgtclaims.live^$all
 ||swgtokenclaim.live^$all
 ||swiftwallet-conttractt.live^$all
@@ -98661,12 +98723,15 @@
 ||arb.beefyapps.lol^$all
 ||astr.beefyapps.lol^$all
 ||beefy.beefyapps.lol^$all
+||bluefin.beefyapps.lol^$all
+||crv.beefyapps.lol^$all
 ||dbr.beefyapps.lol^$all
 ||degen.beefyapps.lol^$all
 ||fil.beefyapps.lol^$all
 ||graph.beefyapps.lol^$all
 ||hydration.beefyapps.lol^$all
 ||klima.beefyapps.lol^$all
+||mon.beefyapps.lol^$all
 ||omni.beefyapps.lol^$all
 ||plume.beefyapps.lol^$all
 ||polkadot.beefyapps.lol^$all
@@ -98675,6 +98740,8 @@
 ||rls.beefyapps.lol^$all
 ||s.beefyapps.lol^$all
 ||sca.beefyapps.lol^$all
+||scr.beefyapps.lol^$all
+||send.beefyapps.lol^$all
 ||soph.beefyapps.lol^$all
 ||spaceandtime.beefyapps.lol^$all
 ||stellar.beefyapps.lol^$all
@@ -100762,6 +100829,7 @@
 ||claim-trump.net^$all
 ||claim-turbotoken.net^$all
 ||claim-typeai.net^$all
+||claim-uniswap.net^$all
 ||claim-walletconnect.net^$all
 ||claim-wlfi.net^$all
 ||claim-worldlibertyfinancial.net^$all
@@ -101724,6 +101792,7 @@
 ||jupiter-exchange.net^$all
 ||jupiter-official.net^$all
 ||jupitercoin.net^$all
+||claim.jupiterdex.net^$all
 ||jupstations.net^$all
 ||juptierswap.net^$all
 ||jupuary-jup.net^$all
@@ -104737,6 +104806,7 @@
 ||aethir.one^$all
 ||airdogsdrop.one^$all
 ||airdropanalog.one^$all
+||airdropsalerts.one^$all
 ||amlalert.one^$all
 ||andrewfreeman.one^$all
 ||anyswap.one^$all
@@ -112708,8 +112778,12 @@
 ||arb.beefyapps.sbs^$all
 ||astr.beefyapps.sbs^$all
 ||beefy.beefyapps.sbs^$all
+||bluefin.beefyapps.sbs^$all
+||crv.beefyapps.sbs^$all
+||degen.beefyapps.sbs^$all
 ||fil.beefyapps.sbs^$all
 ||klima.beefyapps.sbs^$all
+||mon.beefyapps.sbs^$all
 ||plume.beefyapps.sbs^$all
 ||polkadot.beefyapps.sbs^$all
 ||rls.beefyapps.sbs^$all
@@ -112720,6 +112794,7 @@
 ||tia.beefyapps.sbs^$all
 ||vvv.beefyapps.sbs^$all
 ||w.beefyapps.sbs^$all
+||dot.beefyhub.sbs^$all
 ||bera-claim.sbs^$all
 ||berachain-claim.sbs^$all
 ||berachains.sbs^$all
@@ -117375,6 +117450,7 @@
 ||kavacommunity.top^$all
 ||kavaguard.top^$all
 ||kavaspot.top^$all
+||kbchatgpt-base421.top^$all
 ||kcs-sushi.top^$all
 ||kekius-sushi.top^$all
 ||kekiusfi.top^$all
@@ -127007,6 +127083,7 @@
 ||tradingarbitrum.xyz^$all
 ||train-flock.xyz^$all
 ||train-flockio.xyz^$all
+||transbase.xyz^$all
 ||0glabsrewa.trds.xyz^$all
 ||treasure-0x0exchange.xyz^$all
 ||treasure-aerodrome.xyz^$all
