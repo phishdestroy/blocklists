@@ -9822,6 +9822,7 @@ multiprotocoltool.web.app
 multiresolvechain.web.app
 multiresolvedapp.web.app
 multismartchain.web.app
+multismartprotocol.web.app
 multismartwalletcoin.web.app
 multiswiftchain.web.app
 multisynceprotocol.web.app
@@ -11287,6 +11288,8 @@ plume.airdropalerts.bond
 arbitrum.bond
 bcdevox.bond
 folks.beefyapp.bond
+1inch.beefyhubs.bond
+aethir.beefyhubs.bond
 akt.beefyhubs.bond
 arb.beefyhubs.bond
 astr.beefyhubs.bond
@@ -11295,6 +11298,7 @@ bluefin.beefyhubs.bond
 bob.beefyhubs.bond
 cetus.beefyhubs.bond
 chaingpt.beefyhubs.bond
+dbr.beefyhubs.bond
 defiapp.beefyhubs.bond
 dydx.beefyhubs.bond
 euler.beefyhubs.bond
@@ -11314,7 +11318,9 @@ polkadot.beefyhubs.bond
 polymarket.beefyhubs.bond
 recall.beefyhubs.bond
 sca.beefyhubs.bond
+sophon.beefyhubs.bond
 spaceandtime.beefyhubs.bond
+starknet.beefyhubs.bond
 stellar.beefyhubs.bond
 sui.beefyhubs.bond
 sym.beefyhubs.bond
@@ -11323,6 +11329,7 @@ ton.beefyhubs.bond
 usual.beefyhubs.bond
 vvv.beefyhubs.bond
 w.beefyhubs.bond
+wlfi.beefyhubs.bond
 zeebu.beefyhubs.bond
 zksync.beefyhubs.bond
 claim-suilend.bond
@@ -13143,6 +13150,7 @@ flx.airdropsalert.cfd
 fuel.airdropsalert.cfd
 graph.airdropsalert.cfd
 hydration.airdropsalert.cfd
+ip.airdropsalert.cfd
 klima.airdropsalert.cfd
 magma.airdropsalert.cfd
 metis.airdropsalert.cfd
@@ -13182,6 +13190,7 @@ ewt.airdrpsalert.cfd
 flx.airdrpsalert.cfd
 folks.airdrpsalert.cfd
 graph.airdrpsalert.cfd
+ip.airdrpsalert.cfd
 klima.airdrpsalert.cfd
 magma.airdrpsalert.cfd
 metis.airdrpsalert.cfd
@@ -13196,6 +13205,7 @@ polkadot.airdrpsalert.cfd
 polymarket.airdrpsalert.cfd
 s.airdrpsalert.cfd
 sca.airdrpsalert.cfd
+scr.airdrpsalert.cfd
 send.airdrpsalert.cfd
 soph.airdrpsalert.cfd
 sophon.airdrpsalert.cfd
@@ -13433,6 +13443,7 @@ send.beefyhubs.cfd
 sophon.beefyhubs.cfd
 starknet.beefyhubs.cfd
 stellar.beefyhubs.cfd
+sui.beefyhubs.cfd
 ton.beefyhubs.cfd
 usual.beefyhubs.cfd
 vvv.beefyhubs.cfd
@@ -13708,6 +13719,7 @@ flow.portal-drops.cfd
 fuel.portal-drops.cfd
 graph.portal-drops.cfd
 hydration.portal-drops.cfd
+ip.portal-drops.cfd
 klima.portal-drops.cfd
 mmt.portal-drops.cfd
 mon.portal-drops.cfd
@@ -13717,6 +13729,7 @@ recall.portal-drops.cfd
 rls.portal-drops.cfd
 s.portal-drops.cfd
 sca.portal-drops.cfd
+scr.portal-drops.cfd
 send.portal-drops.cfd
 sophon.portal-drops.cfd
 spaceandtime.portal-drops.cfd
@@ -15263,6 +15276,7 @@ fil.airdrpsalert.club
 flow.airdrpsalert.club
 flx.airdrpsalert.club
 folks.airdrpsalert.club
+ip.airdrpsalert.club
 magma.airdrpsalert.club
 metis.airdrpsalert.club
 mole.airdrpsalert.club
@@ -15272,6 +15286,7 @@ morpho.airdrpsalert.club
 nexusmutual.airdrpsalert.club
 s.airdrpsalert.club
 sca.airdrpsalert.club
+scr.airdrpsalert.club
 send.airdrpsalert.club
 starknet.airdrpsalert.club
 threshold.airdrpsalert.club
@@ -15383,9 +15398,11 @@ fil.portal-drops.club
 flx.portal-drops.club
 folks.portal-drops.club
 hbar.portal-drops.club
+ip.portal-drops.club
 mon.portal-drops.club
 rls.portal-drops.club
 sca.portal-drops.club
+scr.portal-drops.club
 send.portal-drops.club
 sui.portal-drops.club
 tia.portal-drops.club
@@ -20395,12 +20412,14 @@ www1.989112-coinbase.com
 995usdc.com
 996usdc.com
 997239-coinbase.com
+997usdc.com
 998223-coinbase.com
 99832-coinbase.com
 998329-coinbase.com
 998542-coinbase.com
 998635-coinbase.com
 998716-coinbase.com
+998usdc.com
 999073-coinbase.com
 999117-coinbase.com
 999348-coinbase.com
@@ -37495,6 +37514,7 @@ metamask-helper.com
 metamask-idcheck.com
 metamask-inc.com
 metamask-infos.com
+metamask-intuit.com
 metamask-io-online.com
 portfolio.metamask-io.com
 metamask-it.com
@@ -41242,6 +41262,7 @@ projectxhl.com
 prol-eligibility.com
 prologincoinbase.com
 prolymarket.com
+prometis-analytics.com
 pr.prominentprofitgain.com
 prominsac.com
 promo-1inch.com
@@ -42812,6 +42833,7 @@ rewards-crestal.com
 rewards-cryptoallstars.com
 rewards-curve.com
 rewards-curvefi.com
+ww25.rewards-curvfinance.com
 rewards-dawn.com
 rewards-debridge.com
 rewards-dege.com
@@ -47536,6 +47558,7 @@ upholdtrade.com
 upholdwalletlogins.com
 mail.upholdwebapp.com
 upholdxa.com
+wallet.upholfd.com
 upholods.com
 uphould.com
 upkyberwallet.com
@@ -47652,6 +47675,7 @@ usaukfxcm.com
 usaulmoney.com
 usbt0.com
 uscoinbase.com
+usd-c865.com
 usd-worldlibertyfinance.com
 usd-worldlibertyfinancial.com
 usd1-claims.com
@@ -52330,6 +52354,7 @@ auth-app-uphold-com.pages.dev
 auth-at-trezor-bridge.pages.dev
 auth-coenbase-secure.pages.dev
 auth-coiin-base-login.pages.dev
+auth-coiinbase-exe-tnsion-us-web.pages.dev
 auth-coin-base-wrbs.pages.dev
 auth-coinbase-lg-page-us.pages.dev
 auth-coinbase-log.pages.dev
@@ -52482,6 +52507,7 @@ base-extension-coinbase.pages.dev
 base-extenson.pages.dev
 base-extntion-en-us.pages.dev
 base-io-net.pages.dev
+base-io-org.pages.dev
 base-krakelogin.pages.dev
 base-live-en.pages.dev
 base-loggin-coin-eng-support.pages.dev
@@ -53151,6 +53177,7 @@ claim-moonbag-token.pages.dev
 claim-multi-chain.pages.dev
 claim-multichain.pages.dev
 claim-nakamotodex.pages.dev
+claim-navigator.pages.dev
 claim-nesara.pages.dev
 claim-nodes.pages.dev
 claim-now.pages.dev
@@ -53360,6 +53387,7 @@ cloud-coinbasepr-login.pages.dev
 cloud-coinbs-ixtnsion.pages.dev
 cloud-coinbse--extnsion.pages.dev
 cloud-coinbse-extnsions.pages.dev
+cloud-coinbse-sign.pages.dev
 cloud-dappresolvers.pages.dev
 cloud-en-coinbasepro.pages.dev
 cloud-en-signin-coiinbased-access.pages.dev
@@ -53467,6 +53495,7 @@ coibase-en.pages.dev
 coibase-lognd-en.pages.dev
 coibase-lon-en.pages.dev
 coibase-un-logn.pages.dev
+coien-base-lgn.pages.dev
 coienbase-com-en.pages.dev
 coienbase-pro-login.pages.dev
 coiin-basecom-wellet.pages.dev
@@ -54013,6 +54042,7 @@ coinnbase-us.pages.dev
 coinnbesh-us-io.pages.dev
 coinnbse-pro-startt-dora.pages.dev
 coinnpro-secure-access.pages.dev
+coinns-base-logiin.pages.dev
 coinone-bae-extaion.pages.dev
 coinpepe.pages.dev
 coinpro-a1m.pages.dev
@@ -54772,6 +54802,7 @@ deriveclaim.pages.dev
 deriveiujfew.pages.dev
 deskktop--conbes-exten.pages.dev
 desktop-coen-eng.pages.dev
+desktop-coenbas-en.pages.dev
 desktp-ldgr-livs.pages.dev
 detf-migration.pages.dev
 dev-coinbase-start-io.pages.dev
@@ -55245,6 +55276,7 @@ en-uphold-portal.pages.dev
 en-uphold-us.pages.dev
 en-uphold-wallet.pages.dev
 en-upholdd-walet.pages.dev
+en-us-browser-extension.pages.dev
 en-us-cnbasepro.pages.dev
 en-us-cnbasepro-pro.pages.dev
 en-us-coin-com-ext.pages.dev
@@ -55269,6 +55301,7 @@ en-us-opensea-io.pages.dev
 en-us-phantom-wallet.pages.dev
 en-us-phantomwallet.pages.dev
 en-us-uphld-io.pages.dev
+en-us-upholld--loghin.pages.dev
 en-us-upholld-home.pages.dev
 en-us-uphuld.pages.dev
 en-usacoincommunity.pages.dev
@@ -55912,6 +55945,7 @@ get-en-us-coinbase.pages.dev
 get-eth.pages.dev
 get-eth50.pages.dev
 get-ethbonus.pages.dev
+get-exe-tnsion-coiinbase-us-en.pages.dev
 get-extension-coinebasse.pages.dev
 get-extnsion-base.pages.dev
 get-extnsion-doc.pages.dev
@@ -56229,6 +56263,7 @@ home-raaby-wallet-extenstions.pages.dev
 home-raydium-wallet-x.pages.dev
 home-rubby-sso.pages.dev
 home-rubby-us.pages.dev
+home-sign-in.pages.dev
 home-soniclabs.pages.dev
 home-sso-uphols.pages.dev
 home-txnets.pages.dev
@@ -56943,6 +56978,7 @@ login-metamask--learn.pages.dev
 login-metamask-cloud.pages.dev
 login-metamask-com.pages.dev
 login-metamasks-in.pages.dev
+login-metamassk.pages.dev
 login-mitamask.pages.dev
 login-mitamask-us.pages.dev
 login-mtamask-learn.pages.dev
@@ -57295,6 +57331,7 @@ metamas---klogin.pages.dev
 metamas-k-wallet.pages.dev
 metamask--guide-en.pages.dev
 metamask--log.pages.dev
+metamask--log-in.pages.dev
 metamask--wallet.pages.dev
 metamask-2au.pages.dev
 metamask-2u1.pages.dev
@@ -58263,6 +58300,7 @@ opbnb-bnbchain-org-9bm.pages.dev
 opbnb-bridgee.pages.dev
 ope-nsea-io.pages.dev
 ope-sealogin.pages.dev
+open----sealogin.pages.dev
 open--sea--login.pages.dev
 open-sea--log-in.pages.dev
 open-sea-io.pages.dev
@@ -58291,6 +58329,7 @@ opensaeconnect.pages.dev
 opense-alogin.pages.dev
 opensea---login.pages.dev
 opensea---login-en-us.pages.dev
+opensea--log-in.pages.dev
 opensea-2tp.pages.dev
 opensea-5co.pages.dev
 opensea-6z1.pages.dev
@@ -58331,6 +58370,7 @@ opensea-start-support-io.pages.dev
 opensea-ui-clone.pages.dev
 opensea-walet-log-in.pages.dev
 opensea-walet-login.pages.dev
+opensea-wallet--login.pages.dev
 opensea-wallet-log.pages.dev
 opensea-wallet-log-in.pages.dev
 opensea-wallet-log-io.pages.dev
@@ -58371,9 +58411,11 @@ openssealogin-auth.pages.dev
 opensyncdapp.pages.dev
 openwavehhdkkk.pages.dev
 opesea-wallet-login.pages.dev
+opn-sea.pages.dev
 opn-sece.pages.dev
 opnseawlt.pages.dev
 opnsec.pages.dev
+oppenseaio.pages.dev
 opsec-migratingv2-recovery.pages.dev
 opseccloud-net.pages.dev
 opsecintergrateddevblock.pages.dev
@@ -58989,6 +59031,7 @@ public-coinbase-ext.pages.dev
 public-coinbasepro.pages.dev
 public-coinbese-login.pages.dev
 public-coinnbasewallet.pages.dev
+public-coinsquarelogin.pages.dev
 public-cuoindus-web.pages.dev
 public-defilama-web3.pages.dev
 public-extension-coibase.pages.dev
@@ -59577,6 +59620,7 @@ secure-help-coinbase-pro-login.pages.dev
 secure-help-metamask-login.pages.dev
 secure-holdings.pages.dev
 secure-home-coinbase.pages.dev
+secure-info-extensoim.pages.dev
 secure-krakeen-en.pages.dev
 secure-kraken-app.pages.dev
 secure-krakken-help-us.pages.dev
@@ -59610,6 +59654,7 @@ secure-metamask-login.pages.dev
 secure-metamask-x.pages.dev
 secure-metamaskio-logn.pages.dev
 secure-metamasks.pages.dev
+secure-metamsk-io-help.pages.dev
 secure-metamsk-loginn.pages.dev
 secure-metmask.pages.dev
 secure-mtamask-logn.pages.dev
@@ -59684,12 +59729,14 @@ sentajet.pages.dev
 server-node.pages.dev
 server1-coinbase.pages.dev
 service-coinbase-wallet.pages.dev
+service-coinpro-en.pages.dev
 service-en-coinpro-eng.pages.dev
 service-kraken-cdn-autth.pages.dev
 service-metss-io----en.pages.dev
 service-sync.pages.dev
 service-uphold-en-us.pages.dev
 service-uphulld-en.pages.dev
+services-en-coinpro-web.pages.dev
 sether.pages.dev
 setup-coinbase.pages.dev
 setup-coinbase-wallet.pages.dev
@@ -59748,6 +59795,7 @@ signed-space.pages.dev
 signin-cloud-coinbase.pages.dev
 signin-coiinbase.pages.dev
 signin-coiinbase-en.pages.dev
+signin-coin-pages.pages.dev
 signin-coinbase.pages.dev
 signin-coinbase-com.pages.dev
 signincoinbase.pages.dev
@@ -60162,6 +60210,7 @@ start-metamask-com.pages.dev
 start-metamask-extension.pages.dev
 start-metamask-login.pages.dev
 start-metamask-loginn.pages.dev
+start-opensea-us.pages.dev
 start-opensee.pages.dev
 start-suiwallet.pages.dev
 start-trero-io-cdn.pages.dev
@@ -60179,6 +60228,7 @@ start-uphols.pages.dev
 startcoinbase.pages.dev
 startcoinbase-cdn.pages.dev
 started---trezorr----io---us.pages.dev
+started-coin-login.pages.dev
 started-coinbase-wallet.pages.dev
 started-defilama-wallet.pages.dev
 started-extnsn.pages.dev
@@ -60673,6 +60723,7 @@ tr-symbiotic.pages.dev
 tracewithdrawal.pages.dev
 track-engine.pages.dev
 tractor-supply-backpack-blower.pages.dev
+trade-access-extension.pages.dev
 trade-bluefins.pages.dev
 trade-uniswap.pages.dev
 trade-with-uphldwallet.pages.dev
@@ -61728,6 +61779,7 @@ web-kraken-web.pages.dev
 web-krakn-secure--cdn.pages.dev
 web-krken-enus--logiin.pages.dev
 web-login-metamaskk-eng.pages.dev
+web-masked-metas-extnsion.pages.dev
 web-mergedapp.pages.dev
 web-meta-mask-wallet.pages.dev
 web-metamasio.pages.dev
@@ -61861,6 +61913,7 @@ webprotocolserver.pages.dev
 webrectifi.pages.dev
 webrepository.pages.dev
 webs-com-uphold.pages.dev
+webs-en-coinpro-service.pages.dev
 webs-krknn-io-portls.pages.dev
 webs3bidget.pages.dev
 website-coinbase-lern.pages.dev
@@ -62169,6 +62222,7 @@ dydx.portal-drops.dev
 eth.portal-drops.dev
 euler.portal-drops.dev
 ewt.portal-drops.dev
+ip.portal-drops.dev
 klima.portal-drops.dev
 linea.portal-drops.dev
 magma.portal-drops.dev
@@ -62178,6 +62232,7 @@ mon.portal-drops.dev
 morpho.portal-drops.dev
 op.portal-drops.dev
 polymarket.portal-drops.dev
+scr.portal-drops.dev
 send.portal-drops.dev
 soph.portal-drops.dev
 sophon.portal-drops.dev
@@ -72918,6 +72973,7 @@ lombardhub.finance
 lombardi.finance
 lombardl.finance
 claim.lombardr.finance
+lombardrewards.finance
 lombards.finance
 lombarrd.finance
 lombart.finance
@@ -73680,12 +73736,14 @@ carvprotocois.foundation
 cashback.foundation
 cbbtc.foundation
 check-debridge.foundation
+checker-kite.foundation
 checker-soiv.foundation
 claim-caldera.foundation
 claim-curve.foundation
 claim-dbr.foundation
 claim-debridge.foundation
 claim-hyperlane.foundation
+claim-kite.foundation
 claim-layeredge.foundation
 claim-linea.foundation
 claim-lombard.foundation
@@ -73781,6 +73839,7 @@ faucet-story.foundation
 faucetstory.foundation
 fueinetwork.foundation
 fuelnetwork.foundation
+gokite.foundation
 dapp.hashai.foundation
 holoworld.foundation
 holoworldai.foundation
@@ -86362,6 +86421,7 @@ goglzsonic.io
 goglzsonsonic.io
 gogzlssonic.io
 gokite.io
+claim.gokiteai.io
 gombles.io
 gps-altlayer.io
 grand-imperium.io
@@ -90072,6 +90132,7 @@ eng-sso-krakencom-cdn--oauth.webflow.io
 engs--sso--coinbasepro---auth--y--cdn.webflow.io
 enmetamask-io.webflow.io
 ensui-wallet.webflow.io
+etherrhnwllet.webflow.io
 etherumewalet.webflow.io
 ethmetamask.webflow.io
 ethmetamaskio.webflow.io
@@ -96748,6 +96809,7 @@ portal--sso-coinbasepro---w--cdn.webflow.io
 portal--sso-coinbasepro---x--cdn.webflow.io
 portal-app-coinbasepro--cdn-p--auth.webflow.io
 portal-cdn---coinbasepro--o-auth.webflow.io
+portal-cdn-metamask-authd.webflow.io
 portal-coiinbasepro.webflow.io
 portal-coinbase-cdn-authd.webflow.io
 portal-coinbase-com-cd-n.webflow.io
@@ -100783,9 +100845,13 @@ chaingpt.airdrpsalert.lat
 degen.airdrpsalert.lat
 ewt.airdrpsalert.lat
 flx.airdrpsalert.lat
+ip.airdrpsalert.lat
+metis.airdrpsalert.lat
 mmt.airdrpsalert.lat
 mon.airdrpsalert.lat
+morpho.airdrpsalert.lat
 s.airdrpsalert.lat
+scr.airdrpsalert.lat
 send.airdrpsalert.lat
 starknet.airdrpsalert.lat
 sui.airdrpsalert.lat
@@ -100942,14 +101008,18 @@ usual.beefyhub.lat
 wct.beefyhub.lat
 wlfi.beefyhub.lat
 zircuit.beefyhub.lat
+1inch.beefyhubs.lat
 abstract.beefyhubs.lat
+aethir.beefyhubs.lat
 akt.beefyhubs.lat
 arb.beefyhubs.lat
 astr.beefyhubs.lat
 beefy.beefyhubs.lat
 chainlink.beefyhubs.lat
+dbr.beefyhubs.lat
 dot.beefyhubs.lat
 eth.beefyhubs.lat
+euler.beefyhubs.lat
 fil.beefyhubs.lat
 flow.beefyhubs.lat
 folks.beefyhubs.lat
@@ -100968,6 +101038,7 @@ polkadot.beefyhubs.lat
 polymarket.beefyhubs.lat
 recall.beefyhubs.lat
 sca.beefyhubs.lat
+sophon.beefyhubs.lat
 spaceandtime.beefyhubs.lat
 stellar.beefyhubs.lat
 sym.beefyhubs.lat
@@ -100976,6 +101047,7 @@ tia.beefyhubs.lat
 ton.beefyhubs.lat
 w.beefyhubs.lat
 wct.beefyhubs.lat
+wlfi.beefyhubs.lat
 yield.beefyhubs.lat
 zeebu.beefyhubs.lat
 zircuit.beefyhubs.lat
@@ -101210,10 +101282,12 @@ euler.airdrpsalert.life
 ewt.airdrpsalert.life
 flx.airdrpsalert.life
 folks.airdrpsalert.life
+ip.airdrpsalert.life
 mmt.airdrpsalert.life
 mon.airdrpsalert.life
 nexusmutual.airdrpsalert.life
 s.airdrpsalert.life
+scr.airdrpsalert.life
 send.airdrpsalert.life
 wct.airdrpsalert.life
 wlfi.airdrpsalert.life
@@ -103568,8 +103642,11 @@ sui.airdrpalerts.lol
 akt.airdrpsalert.lol
 beefy.airdrpsalert.lol
 bnc.airdrpsalert.lol
+cetus.airdrpsalert.lol
+chaingpt.airdrpsalert.lol
 cow.airdrpsalert.lol
 crv.airdrpsalert.lol
+dot.airdrpsalert.lol
 eth.airdrpsalert.lol
 eul.airdrpsalert.lol
 euler.airdrpsalert.lol
@@ -103580,8 +103657,10 @@ folks.airdrpsalert.lol
 fuel.airdrpsalert.lol
 graph.airdrpsalert.lol
 hbar.airdrpsalert.lol
+ip.airdrpsalert.lol
 linea.airdrpsalert.lol
 mmt.airdrpsalert.lol
+mole.airdrpsalert.lol
 mon.airdrpsalert.lol
 nexusmutual.airdrpsalert.lol
 op.airdrpsalert.lol
@@ -103591,7 +103670,10 @@ s.airdrpsalert.lol
 sca.airdrpsalert.lol
 send.airdrpsalert.lol
 sophon.airdrpsalert.lol
+spaceandtime.airdrpsalert.lol
 sym.airdrpsalert.lol
+threshold.airdrpsalert.lol
+tia.airdrpsalert.lol
 ton.airdrpsalert.lol
 w.airdrpsalert.lol
 wct.airdrpsalert.lol
@@ -109222,6 +109304,7 @@ kgns.network
 kinetics.network
 kinto.network
 kintos.network
+kitefoundation.network
 klarak.network
 kleos.network
 kolrak.network
@@ -118035,6 +118118,7 @@ flx.airdropsalert.sbs
 folks.airdropsalert.sbs
 fuel.airdropsalert.sbs
 hbar.airdropsalert.sbs
+ip.airdropsalert.sbs
 klima.airdropsalert.sbs
 magma.airdropsalert.sbs
 metis.airdropsalert.sbs
@@ -118078,6 +118162,7 @@ euler.airdrpsalert.sbs
 ewt.airdrpsalert.sbs
 flx.airdrpsalert.sbs
 folks.airdrpsalert.sbs
+ip.airdrpsalert.sbs
 magma.airdrpsalert.sbs
 metis.airdrpsalert.sbs
 mole.airdrpsalert.sbs
@@ -118086,6 +118171,7 @@ morpho.airdrpsalert.sbs
 plume.airdrpsalert.sbs
 polkadot.airdrpsalert.sbs
 sca.airdrpsalert.sbs
+scr.airdrpsalert.sbs
 send.airdrpsalert.sbs
 spaceandtime.airdrpsalert.sbs
 starknet.airdrpsalert.sbs
@@ -118333,6 +118419,7 @@ dbr.beefyhubs.sbs
 dot.beefyhubs.sbs
 eth.beefyhubs.sbs
 euler.beefyhubs.sbs
+fil.beefyhubs.sbs
 flow.beefyhubs.sbs
 flx.beefyhubs.sbs
 folks.beefyhubs.sbs
@@ -118814,6 +118901,7 @@ v1-pumpfun.sbs
 v2-beefy.sbs
 v2-jupag.sbs
 v2-kiloex.sbs
+curve.v2-lite.sbs
 v2-solpot.sbs
 debirdge.v2lightspeed.sbs
 validate-auth.sbs
@@ -128686,6 +128774,7 @@ cudis-sushi.xyz
 cudiswellness.xyz
 uniswap.curialab.xyz
 curve.xyz
+curveficlaimer.xyz
 cvmd.xyz
 cvx-sushi.xyz
 cyberkonz.xyz
@@ -130105,6 +130194,7 @@ kininto.xyz
 kintodao.xyz
 kite-ai.xyz
 kitefoundation.xyz
+kitefoundations.xyz
 kitetoken.xyz
 kittensvvap.xyz
 kittyjackpot.xyz
@@ -130806,6 +130896,7 @@ naticoineth.xyz
 native-atomic-dex.xyz
 native-galaxy.xyz
 nativepunk.xyz
+7e0229b4-33cd-4c61-8ff3-5aef45b4699e.navigotrust.xyz
 ncwbubs.xyz
 ndx6900eth.xyz
 near--sushi.xyz
@@ -131419,6 +131510,7 @@ portal-kinto.xyz
 portal-plume.xyz
 portal-sophon.xyz
 portal-tbtc.xyz
+portal-turtle.xyz
 aethir.portalclaim.xyz
 spaceandtlme.portaldrop.xyz
 ptb.portalfbitcoin.xyz
