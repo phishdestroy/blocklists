@@ -13848,7 +13848,7 @@ zoominfo.au
 arteq.auction
 coinbase.auction
 org-register.auction
-polymarket.restricted.auction
+restricted.auction
 zama.auction
 zcma.auction
 airdrop.autos
@@ -78769,6 +78769,7 @@ extension-coinbase--safe.pages.dev
 extension-coinbase-auth.pages.dev
 extension-coinbase-com.pages.dev
 extension-coinbase-eng-home.pages.dev
+extension-coinbase-help.pages.dev
 extension-coinbase-learn.pages.dev
 extension-coinbase-visit-en.pages.dev
 extension-coinbase-wallet.pages.dev

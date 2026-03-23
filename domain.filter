@@ -13848,7 +13848,7 @@
 ||arteq.auction^$all
 ||coinbase.auction^$all
 ||org-register.auction^$all
-||polymarket.restricted.auction^$all
+||restricted.auction^$all
 ||zama.auction^$all
 ||zcma.auction^$all
 ||airdrop.autos^$all
@@ -78769,6 +78769,7 @@
 ||extension-coinbase-auth.pages.dev^$all
 ||extension-coinbase-com.pages.dev^$all
 ||extension-coinbase-eng-home.pages.dev^$all
+||extension-coinbase-help.pages.dev^$all
 ||extension-coinbase-learn.pages.dev^$all
 ||extension-coinbase-visit-en.pages.dev^$all
 ||extension-coinbase-wallet.pages.dev^$all
