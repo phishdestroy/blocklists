@@ -1763,7 +1763,6 @@
 ||finance-app-connects-beta-swap.app^$all
 ||finance-apps-v2-wallets.app^$all
 ||finance-claims.app^$all
-||finance-connects-gateway-portal-api.app^$all
 ||finance-connects-prod-secure-online.app^$all
 ||finance-edge-portal-api-gateway-api.app^$all
 ||finance-edge-prod-wallets-api-gateway.app^$all
@@ -1771,9 +1770,6 @@
 ||finance-en-main.app^$all
 ||finance-gateway-beta-swap-prod.app^$all
 ||pendle.finance-p.app^$all
-||finance-prod-swap-edge-gateway.app^$all
-||finance-swap-dex-v5-wallet.app^$all
-||finance-swap-portal-api-services.app^$all
 ||finance-v2-wallets-apps.app^$all
 ||finance-v3.app^$all
 ||finance-v3-wallet-connect-apps.app^$all
@@ -2060,7 +2056,6 @@
 ||io-v2-connects-api-wallet.app^$all
 ||1inch.io-v3-api-connects-wallet.app^$all
 ||io-v3-connects-api-wallet.app^$all
-||io-verify.app^$all
 ||io-wallets-api-connects-v2.app^$all
 ||io-wallets-beta-cdn-edge.app^$all
 ||io-wallets-connect-v3-api-app.app^$all
@@ -17177,28 +17172,7 @@
 ||io-sowsy.cc^$all
 ||io-sowsz.cc^$all
 ||io-trezorsuite-cloud.cc^$all
-||io-ub.cc^$all
-||io-ud.cc^$all
-||io-ue.cc^$all
-||io-uh.cc^$all
-||io-ui.cc^$all
-||io-ul.cc^$all
-||io-um.cc^$all
-||io-un.cc^$all
-||io-ur.cc^$all
-||io-ut.cc^$all
-||io-uv.cc^$all
-||io-ux.cc^$all
 ||app-1inch.io-v3.cc^$all
-||io-xi.cc^$all
-||io-xo.cc^$all
-||io-xp.cc^$all
-||io-xq.cc^$all
-||io-xr.cc^$all
-||io-xt.cc^$all
-||io-xu.cc^$all
-||io-xw.cc^$all
-||io-xy.cc^$all
 ||ira57.cc^$all
 ||ira60.cc^$all
 ||izroztllmagldg.cc^$all
@@ -44106,7 +44080,6 @@
 ||fhefaucet.com^$all
 ||fi-9you-home.com^$all
 ||fi-ae.com^$all
-||fi-allocation.com^$all
 ||fi-api-connect-appv3-wallet.com^$all
 ||fi-api-connect-v2-app-wailet.com^$all
 ||fi-api-connect-v3-app-wailets.com^$all
@@ -44206,7 +44179,6 @@
 ||fi-token-hub.com^$all
 ||fi-tools.com^$all
 ||fi-tracking.com^$all
-||fi-treasury.com^$all
 ||fi-treasury-pool.com^$all
 ||fi-treasurypool.com^$all
 ||fi-treasurypools.com^$all
@@ -44372,7 +44344,6 @@
 ||appcompound.finance-lendingprocess.com^$all
 ||finance-lnfo.com^$all
 ||finance-nooz-outleet.com^$all
-||finance-okx.com^$all
 ||finance-online-team.com^$all
 ||finance-partners-ulm.com^$all
 ||kamino.finance-personal.com^$all
@@ -109486,7 +109457,6 @@
 ||finance-crypto-staking-37ml66.fyi^$all
 ||finance-crypto-staking-ml7ayj.fyi^$all
 ||finance-crypto-staking-wlnw7x.fyi^$all
-||finance-fundraising-events-qlnp6h.fyi^$all
 ||finance-grants-cupfz0.fyi^$all
 ||www.fredshop.fyi^$all
 ||fronix.fyi^$all
@@ -141580,7 +141550,6 @@
 ||com-sso.link^$all
 ||com-us.link^$all
 ||com-usdt.link^$all
-||com-verifier.link^$all
 ||crecifymedial.link^$all
 ||cryptoall-stars.link^$all
 ||dashboard-payment.link^$all
@@ -143024,8 +142993,6 @@
 ||finance-boiler-ehkq0v.live^$all
 ||finance-boiler-v1ohrw.live^$all
 ||finance-crypto-staking-fznv72.live^$all
-||finance-crypto-staking-zelrig.live^$all
-||finance-crypto-staking-zosims.live^$all
 ||finance-etf-zjni6m.live^$all
 ||finance-hub-online.live^$all
 ||finance-startup-pgiz4i.live^$all
@@ -163697,7 +163664,6 @@
 ||forma-x.pl^$all
 ||blockdag.info.pl^$all
 ||coinbase.info.pl^$all
-||io-strzyzow.pl^$all
 ||kppe.pl^$all
 ||krakenbank.pl^$all
 ||metamask.pl^$all
@@ -166210,11 +166176,6 @@
 ||humidifi.pw^$all
 ||hyperliquid.pw^$all
 ||iceduck.pw^$all
-||io-vn49w.pw^$all
-||io-yd4ed.pw^$all
-||io-yg8ll.pw^$all
-||io-ytf45.pw^$all
-||io-zihvc.pw^$all
 ||iscans.pw^$all
 ||ixfi.pw^$all
 ||jup-ag.pw^$all
@@ -187773,7 +187734,6 @@
 ||ww25.fgobob.xyz^$all
 ||fhe-sushi.xyz^$all
 ||fi-builds.xyz^$all
-||fi-connect.xyz^$all
 ||fi-eth.xyz^$all
 ||fi-ex1.xyz^$all
 ||fi-explorer.xyz^$all
@@ -188886,7 +188846,6 @@
 ||eigenlayer.io-restake.xyz^$all
 ||io-solana.xyz^$all
 ||altlayer.io-stake.xyz^$all
-||io-suite-web.xyz^$all
 ||rnetamask.io-swap.xyz^$all
 ||io-v3.xyz^$all
 ||io-velora.xyz^$all
