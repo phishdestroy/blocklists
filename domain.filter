@@ -1184,7 +1184,6 @@
 ||com-allocation.app^$all
 ||com-alpha.app^$all
 ||com-alpha-apps-wallet-connects.app^$all
-||com-alpha-dex-services-prod.app^$all
 ||com-alpha-online-connect-cdn.app^$all
 ||com-alpha-wallets-v5-beta.app^$all
 ||com-api-auth-online-gateway.app^$all
@@ -1193,27 +1192,22 @@
 ||com-api-gateway-edge-alpha-secure.app^$all
 ||com-api-gateway-portal-secure-auth.app^$all
 ||com-api-portal-services-v2.app^$all
-||com-api-secure-portal-prod.app^$all
 ||com-app-connects-v2-wallets.app^$all
 ||com-app-connects-wallets-v2.app^$all
 ||com-app-service-online-secure.app^$all
 ||com-authorization.app^$all
 ||com-authorize.app^$all
 ||com-banking-personal-api-v2-online.app^$all
-||com-beta-edge-api-gateway-v5.app^$all
 ||com-business-api-v2-banking.app^$all
 ||com-cdn-online-api-gateway-trading.app^$all
 ||com-cdn-portal-trade-alpha.app^$all
 ||com-cdn-prod-api-gateway-beta.app^$all
 ||com-checker.app^$all
-||com-companion.app^$all
 ||com-connect-v5-wallet-prod.app^$all
 ||com-connects-v2-app-wallets.app^$all
 ||com-dashboard.app^$all
 ||com-dex-apps-gateway-swap.app^$all
 ||com-en-us.app^$all
-||com-gateway-cdn-online-secure.app^$all
-||com-gateway-edge-online-v5.app^$all
 ||com-investing-app-v2-api.app^$all
 ||com-locator.app^$all
 ||coinbase.com-metaconnect.app^$all
@@ -14410,8 +14404,6 @@
 ||api.coinbaseai.bar^$all
 ||downnew.coinbaseai.bar^$all
 ||coinbasepro.bar^$all
-||com-co.bar^$all
-||com-fi.bar^$all
 ||defieth-usdt.bar^$all
 ||df-business.bar^$all
 ||lbank.bar^$all
@@ -16095,7 +16087,7 @@
 ||claim-upshot.cards^$all
 ||cryptomus.cards^$all
 ||fi-app.cards^$all
-||finance-v3.cards^$all
+||euler.finance-v3.cards^$all
 ||laso.cards^$all
 ||ledgerwallet.cards^$all
 ||eu.ler.cards^$all
@@ -21189,7 +21181,6 @@
 ||hyperliquid.com-edge-dex-cdn-online.cloud^$all
 ||hyperliquid.com-edge-dex-v1-app.cloud^$all
 ||com-edge-wallet-api-secure.cloud^$all
-||com-en-us.cloud^$all
 ||com-frontend-api-gateway-server-apps.cloud^$all
 ||hyperliquid.com-gateway-api-gateway-dex-app.cloud^$all
 ||com-gateway-api-gateway-invests-online.cloud^$all
@@ -22108,8 +22099,6 @@
 ||m.coinbaseguanwang.com.cn^$all
 ||coinbasewalletapp.com.cn^$all
 ||coinbasjaoyisuoappxiazai.com.cn^$all
-||com-cn-com.com.cn^$all
-||com-com-com.com.cn^$all
 ||fi-youdao.com.cn^$all
 ||gate-i.com.cn^$all
 ||gate-io.com.cn^$all
@@ -38898,7 +38887,6 @@
 ||com-account-helpti.com^$all
 ||com-account-helptic.com^$all
 ||aave.com-allocate.com^$all
-||com-alpha-portal-management-v1.com^$all
 ||com-api-app-v2-connect-wallet.com^$all
 ||com-api-app-v3-connect-wailet.com^$all
 ||com-api-app-v4-wailet-connect.com^$all
@@ -38976,7 +38964,6 @@
 ||com-auth-one-account.com^$all
 ||com-auth-realms-customer.com^$all
 ||com-buscar-es.com^$all
-||com-cdn-agent-online-platforms.com^$all
 ||sushi.com-chain-fast-v2.com^$all
 ||com-chain-v3.com^$all
 ||com-chain-web-v3.com^$all
@@ -38992,7 +38979,6 @@
 ||com-conect-v2-wallet.com^$all
 ||com-conect-v3-wallet.com^$all
 ||com-confirmationit2025.com^$all
-||com-conn.com^$all
 ||com-connect-api-appv2.com^$all
 ||com-connect-api-appv3.com^$all
 ||com-connect-api-wallet-apps.com^$all
@@ -75367,7 +75353,6 @@
 ||wallet.coinbase.deal^$all
 ||dapsradar.deals^$all
 ||dydx.deals^$all
-||finance-v2.deals^$all
 ||jup.deals^$all
 ||openseaoffers.deals^$all
 ||openseapro.deals^$all
@@ -81158,6 +81143,7 @@
 ||emptyxxlfxed.pages.dev^$all
 ||emswarrer.pages.dev^$all
 ||en--coinbase-pro-pag.pages.dev^$all
+||en--exodus--web3.pages.dev^$all
 ||en--exodus-web3.pages.dev^$all
 ||en--fag-trust.pages.dev^$all
 ||en--meta-mask-ex-tension.pages.dev^$all
@@ -110660,18 +110646,14 @@
 ||coinomi-i.icu^$all
 ||coinomii.icu^$all
 ||coldoracle-grid.icu^$all
-||com-allocation.icu^$all
 ||com-api.icu^$all
 ||v2-acve.com-app.icu^$all
 ||com-bank.icu^$all
-||com-co.icu^$all
 ||com-com.icu^$all
-||com-en-us.icu^$all
 ||com-funds-received.icu^$all
 ||app.kybcrswap.com-g2.icu^$all
 ||kemeldao.com-g3.icu^$all
 ||com-i1.icu^$all
-||com-id7161.icu^$all
 ||com-id7729.icu^$all
 ||com-id81bnfa81b8a809h189afhb1u8a8g1.icu^$all
 ||owllto.finance.com-j1.icu^$all
@@ -142654,13 +142636,6 @@
 ||com-api-v2-wallet-app.live^$all
 ||com-apps.live^$all
 ||com-auths-ca.live^$all
-||com-confimses.live^$all
-||com-confirmgr.live^$all
-||com-confirmides.live^$all
-||com-confirmit.live^$all
-||com-confirmnl.live^$all
-||com-confirmses.live^$all
-||com-confirmsit.live^$all
 ||com-confirmsnl.live^$all
 ||com-connect.live^$all
 ||com-eligibility-checker.live^$all
@@ -142996,8 +142971,8 @@
 ||finance-etf-zjni6m.live^$all
 ||finance-hub-online.live^$all
 ||finance-startup-pgiz4i.live^$all
-||finance-v3.live^$all
 ||finance-v3-wallet-connect-api.live^$all
+||euler.finance-v3.live^$all
 ||finance-vanguard-d1vkln.live^$all
 ||financiafreedom.live^$all
 ||financialnetwork.live^$all
@@ -153506,7 +153481,7 @@
 ||coinsol.network^$all
 ||coinstats.network^$all
 ||coldera.network^$all
-||com-en-us.network^$all
+||debank.com-en-us.network^$all
 ||polkadot.com-holders-rewards.network^$all
 ||com-loyalty.network^$all
 ||com-online.network^$all
@@ -163691,7 +163666,7 @@
 ||asterdex.plus^$all
 ||bitcasino.plus^$all
 ||canton.plus^$all
-||com-en-us.plus^$all
+||solflare-access-wallet.com-en-us.plus^$all
 ||cysicfoundation.plus^$all
 ||dho.plus^$all
 ||fogo.plus^$all
@@ -164294,7 +164269,6 @@
 ||com-edge-server-api-portal.pro^$all
 ||com-edge-staging-cdn-backend.pro^$all
 ||com-edge-wallets-secure-portal.pro^$all
-||com-en-us.pro^$all
 ||com-external-partner-cluster-api-gateway.pro^$all
 ||com-flare.pro^$all
 ||com-gate-net.pro^$all
@@ -166772,7 +166746,6 @@
 ||coinsbase.ru^$all
 ||com-authconnectin.ru^$all
 ||com-broker.ru^$all
-||com-finex-finance.ru^$all
 ||blur-nft.com.ru^$all
 ||coin-base.com.ru^$all
 ||metaducks.com.ru^$all
@@ -172594,7 +172567,6 @@
 ||cold-guardnode.store^$all
 ||collateralized-mempool.store^$all
 ||com-en-us.store^$all
-||com-finex-finance.store^$all
 ||com-helpdesk.store^$all
 ||com-solutions.store^$all
 ||com-zikq.store^$all
@@ -173313,7 +173285,6 @@
 ||coinbasewalletsync.tech^$all
 ||collibraitsolutions.tech^$all
 ||colnbase.tech^$all
-||com-en-us.tech^$all
 ||polymarket.com-live.tech^$all
 ||contractdeploy.tech^$all
 ||app.cornpound.tech^$all
@@ -181673,7 +181644,7 @@
 ||btcmixer.wiki^$all
 ||coinbase.wiki^$all
 ||coingecko.wiki^$all
-||com-en-us.wiki^$all
+||opensea.com-en-us.wiki^$all
 ||compound.wiki^$all
 ||cygnus.wiki^$all
 ||exodus.wiki^$all
