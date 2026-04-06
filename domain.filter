@@ -15607,7 +15607,6 @@
 ||uninon.build^$all
 ||linea.builders^$all
 ||myapp.builders^$all
-||pendle.builders^$all
 ||adm-coin-base.business^$all
 ||croowioloo.business^$all
 ||cropuroo.business^$all
@@ -110161,6 +110160,7 @@
 ||coin-base.help^$all
 ||coin-base-fin.help^$all
 ||coinbase-account.help^$all
+||coinbase-app.help^$all
 ||coinbase-crypto.help^$all
 ||lusd.coinbase-dashboard.help^$all
 ||coinbase-deposit.help^$all
