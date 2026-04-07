@@ -1759,9 +1759,6 @@
 ||finance-apps-v2-wallets.app^$all
 ||finance-claims.app^$all
 ||finance-connects-prod-secure-online.app^$all
-||finance-edge-portal-api-gateway-api.app^$all
-||finance-edge-prod-wallets-api-gateway.app^$all
-||finance-edge-service-api-gateway-connects.app^$all
 ||finance-en-main.app^$all
 ||finance-gateway-beta-swap-prod.app^$all
 ||pendle.finance-p.app^$all
@@ -110639,6 +110636,7 @@
 ||spotify-team.help^$all
 ||subshield.help^$all
 ||support-coinbase.help^$all
+||kraken.support-office.help^$all
 ||synfutures.help^$all
 ||www.synthetix.help^$all
 ||tangem.help^$all
