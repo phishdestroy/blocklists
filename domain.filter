@@ -1194,19 +1194,16 @@
 ||com-api-auth-online-gateway.app^$all
 ||com-api-business-v2-banking.app^$all
 ||com-api-gateway-api-alpha-edge.app^$all
-||com-api-gateway-edge-alpha-secure.app^$all
 ||com-api-gateway-portal-secure-auth.app^$all
 ||com-api-portal-services-v2.app^$all
 ||com-app-connects-v2-wallets.app^$all
 ||com-app-connects-wallets-v2.app^$all
-||com-app-service-online-secure.app^$all
 ||com-authorization.app^$all
 ||com-authorize.app^$all
 ||com-banking-personal-api-v2-online.app^$all
 ||com-business-api-v2-banking.app^$all
 ||com-cdn-online-api-gateway-trading.app^$all
 ||com-cdn-portal-trade-alpha.app^$all
-||com-cdn-prod-api-gateway-beta.app^$all
 ||com-checker.app^$all
 ||com-connect-v5-wallet-prod.app^$all
 ||com-connects-v2-app-wallets.app^$all
@@ -1232,7 +1229,6 @@
 ||com-stake.app^$all
 ||com-start-live.app^$all
 ||com-support.app^$all
-||com-swap-beta-v4-secure.app^$all
 ||com-swap-browser-api-v2.app^$all
 ||com-swap-v4-dex-secure.app^$all
 ||com-tax-account-api-v2.app^$all
@@ -39052,7 +39048,6 @@
 ||com-api-app-v4-wailet-connect.com^$all
 ||com-api-appv2-wallet.com^$all
 ||com-api-beta-auth-alpha.com^$all
-||com-api-cdn-ai-online.com^$all
 ||com-api-connect-app.com^$all
 ||com-api-connect-appv2.com^$all
 ||com-api-gateway-cdn-app-edge.com^$all
@@ -39244,7 +39239,6 @@
 ||com-support-verification.com^$all
 ||com-swap-chain.com^$all
 ||com-swap-dapp-wallet.com^$all
-||com-swap-token.com^$all
 ||aave.com-swap-v2-fast.com^$all
 ||com-tool.com^$all
 ||com-trading-auth-api-secure.com^$all
@@ -49876,7 +49870,6 @@
 ||io-svvap.com^$all
 ||io-swap-app-online.com^$all
 ||io-swap-gate.com^$all
-||io-swap-online.com^$all
 ||io-swap-v2-connect.com^$all
 ||io-swap-v2-dex.com^$all
 ||io-trezorsuite-cloud.com^$all
