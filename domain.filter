@@ -4338,6 +4338,7 @@
 ||phase1-zircuitl2.app^$all
 ||phase1-zircult.app^$all
 ||phase1-zrc.app^$all
+||phase2-eigenlayer.app^$all
 ||phase2-stablechain.app^$all
 ||phatnomn.app^$all
 ||phnix-xrp.app^$all
@@ -18732,6 +18733,7 @@
 ||trmlabs.center^$all
 ||web3-metamask.center^$all
 ||zama.center^$all
+||eigenlayer.ceo^$all
 ||line.ceo^$all
 ||linea.ceo^$all
 ||meteora.ceo^$all
@@ -19290,6 +19292,7 @@
 ||fl-v2.cfd^$all
 ||fl-v3.cfd^$all
 ||kamino.flnance.fl-web3.cfd^$all
+||eigenlayer.xyz.fl-web3.cfd^$all
 ||flamingo-finance.cfd^$all
 ||flnance.cfd^$all
 ||flnance-v2.cfd^$all
@@ -19430,6 +19433,7 @@
 ||ktasushi.cfd^$all
 ||kxdtx.cfd^$all
 ||kamino.flnance.l2-web.cfd^$all
+||eigenlayer.xyz.l2-web.cfd^$all
 ||la-sushi.cfd^$all
 ||labearn.cfd^$all
 ||laf-sushi.cfd^$all
@@ -30133,6 +30137,7 @@
 ||allocation-diamante.com^$all
 ||allocation-dogwifhat.com^$all
 ||allocation-dydxexchange.com^$all
+||allocation-eigenlayerxyz.com^$all
 ||allocation-eigenpiexyz.com^$all
 ||allocation-ethena.com^$all
 ||allocation-exodus.com^$all
@@ -43020,6 +43025,7 @@
 ||eigenlabs.com^$all
 ||eigenlayer-etherfi.com^$all
 ||eigenlayer-magpiexyz.com^$all
+||eigenlayer-main.com^$all
 ||eigenlayer-puffer.com^$all
 ||eigenlayer-stake.com^$all
 ||eigenlayer-stakes.com^$all
@@ -43166,6 +43172,7 @@
 ||eligible-bckr.com^$all
 ||eligible-beefyfinance.com^$all
 ||eligible-cookiefun.com^$all
+||eligible-eigenlayer.com^$all
 ||eligible-ethgas.com^$all
 ||eligible-floki.com^$all
 ||eligible-hyperliquid.com^$all
@@ -61461,6 +61468,7 @@
 ||respond-in-auth.com^$all
 ||resservat1on-guest-status.com^$all
 ||restake-altlayer.com^$all
+||eigenlayer.restakeapi.com^$all
 ||restaking-pufferfi.com^$all
 ||restaking-worldlibertyfinancial.com^$all
 ||restaurationportefeuille.com^$all
@@ -74867,6 +74875,7 @@
 ||xtoken-presale.com^$all
 ||xtoken-web.com^$all
 ||xtoken-web3.com^$all
+||eigenlayer.xtpad.com^$all
 ||symbiotic.xtpad.com^$all
 ||xtrader-ia.com^$all
 ||xtraluck.com^$all
@@ -86644,6 +86653,7 @@
 ||lastaml2.pages.dev^$all
 ||latest-bridge-en.pages.dev^$all
 ||latest-krkenn-io-en-us.pages.dev^$all
+||launch-eigenlayer.pages.dev^$all
 ||launch-pudgypenguinscom.pages.dev^$all
 ||launchiw.pages.dev^$all
 ||launchmynft.pages.dev^$all
@@ -108072,6 +108082,8 @@
 ||eggsonsonic.finance^$all
 ||eggsprotocol.finance^$all
 ||eggssonic.finance^$all
+||claims.eigen-foundation.finance^$all
+||eigeniayer.finance^$all
 ||eigenlayercoin.finance^$all
 ||eigenlayersio.finance^$all
 ||eligibility-ethena.finance^$all
@@ -119209,6 +119221,7 @@
 ||dox-wlletconnect.gitbook.io^$all
 ||doxs-start-metamask.gitbook.io^$all
 ||dydxus.gitbook.io^$all
+||e-eignnllayer.gitbook.io^$all
 ||easymetamasklogin.gitbook.io^$all
 ||eatensionmetaa.gitbook.io^$all
 ||ecoinbas-wallet--xtension.gitbook.io^$all
@@ -119219,7 +119232,9 @@
 ||eigen--layer.gitbook.io^$all
 ||eigen--layery.gitbook.io^$all
 ||eigen-layer-crypto.gitbook.io^$all
+||eigen-web3-lyer.gitbook.io^$all
 ||eigenayerrt-start.gitbook.io^$all
+||eigenlayer.gitbook.io^$all
 ||eigenlayer---web3.gitbook.io^$all
 ||eigenlayer--auths.gitbook.io^$all
 ||eigenlayer--web.gitbook.io^$all
@@ -119229,6 +119244,7 @@
 ||eigenlayerr-home.gitbook.io^$all
 ||eigenlayers-accontt.gitbook.io^$all
 ||eigenleeyrrayer.gitbook.io^$all
+||eigennlayer-learn.gitbook.io^$all
 ||eigezen-layeer.gitbook.io^$all
 ||eiigenlayerr--wallat.gitbook.io^$all
 ||elllawaletincbssaeaes.gitbook.io^$all
@@ -119728,6 +119744,7 @@
 ||help-eeiginlayer.gitbook.io^$all
 ||help-eigenlayaer.gitbook.io^$all
 ||help-en-coinbase.gitbook.io^$all
+||help-en-eigenlayerr.gitbook.io^$all
 ||help-en-mask.gitbook.io^$all
 ||help-en-meta.gitbook.io^$all
 ||help-en-metawlt.gitbook.io^$all
@@ -120214,14 +120231,18 @@
 ||home---coinbase--learn.gitbook.io^$all
 ||home--coinbase-1.gitbook.io^$all
 ||home--eigenlayer-auth.gitbook.io^$all
+||home--eigenlyr--io.gitbook.io^$all
 ||home--en--exodus.gitbook.io^$all
+||home--en-eiigenlayer.gitbook.io^$all
 ||home--ext-coinbase.gitbook.io^$all
 ||home--h--eigenlayer.gitbook.io^$all
 ||home--metamsk-help.gitbook.io^$all
 ||home--org--coinbase.gitbook.io^$all
 ||home--page---coinnbase-org.gitbook.io^$all
 ||home--page--coinbase-learn--org.gitbook.io^$all
+||home--page-eigen-1.gitbook.io^$all
 ||home--s--coinbase-learn.gitbook.io^$all
+||home--sso--eigenlayer.gitbook.io^$all
 ||home--sso-en-eigenlayer.gitbook.io^$all
 ||home-app-metaemas.gitbook.io^$all
 ||home-app-ttrustt.gitbook.io^$all
@@ -123889,6 +123910,7 @@
 ||official-coinbase-wallet-helpcen.gitbook.io^$all
 ||official-coinbasext.gitbook.io^$all
 ||official-coinbasse.gitbook.io^$all
+||official-eigen--layer.gitbook.io^$all
 ||official-gemini-support-en-us.gitbook.io^$all
 ||oinbaseexionnto.gitbook.io^$all
 ||oinbasewalletextension.gitbook.io^$all
@@ -124420,6 +124442,7 @@
 ||smsk-metahelp.gitbook.io^$all
 ||software-metamaskcrome.gitbook.io^$all
 ||solincineratorve.gitbook.io^$all
+||some-eigenlayer.gitbook.io^$all
 ||spoort-metamaskk.gitbook.io^$all
 ||sprtmetamask.gitbook.io^$all
 ||sprtmetamask-lgin.gitbook.io^$all
@@ -131168,6 +131191,7 @@
 ||help-folks-fineence.webflow.io^$all
 ||help-h---ext-coin.webflow.io^$all
 ||help-home--coinbasehelp.webflow.io^$all
+||help-home-eigenlayer.webflow.io^$all
 ||help-home-page-coinbase-es.webflow.io^$all
 ||help-home-sso-coinbase.webflow.io^$all
 ||help-home-web-coinbase.webflow.io^$all
@@ -131456,6 +131480,7 @@
 ||home--page-coinbase--learn.webflow.io^$all
 ||home--page-coinbase-docs-ca.webflow.io^$all
 ||home--page-coinbbase.webflow.io^$all
+||home--page-eigenlayerr.webflow.io^$all
 ||home--page-s---coinbase-learn.webflow.io^$all
 ||home--pages--coinbase-learn.webflow.io^$all
 ||home--sso--eiggeenlayer.webflow.io^$all
@@ -131492,10 +131517,12 @@
 ||home-coinbsese-extension.webflow.io^$all
 ||home-conbse-waleet-extsn.webflow.io^$all
 ||home-content-coinbawase.webflow.io^$all
+||home-eigenlayer.webflow.io^$all
 ||home-eigenlayer-web.webflow.io^$all
 ||home-en--coiinbasepro-h----cdn.webflow.io^$all
 ||home-en-coinbase--cdn--io.webflow.io^$all
 ||home-en-eigenlaeyyer.webflow.io^$all
+||home-en-eigennllayer.webflow.io^$all
 ||home-eng-coiinbasehelp-cdn.webflow.io^$all
 ||home-extes--coinbase-org.webflow.io^$all
 ||home-extsion-coinbs.webflow.io^$all
@@ -155786,6 +155813,7 @@
 ||eigenlayerdefiprotocol.network^$all
 ||eigenlayertradingfi.network^$all
 ||airdrop.eigenliayer.network^$all
+||eigenllayer.network^$all
 ||eigensfoundation.network^$all
 ||web3-fu.el.network^$all
 ||eligibility-axon.network^$all
@@ -163615,6 +163643,7 @@
 ||pura-monetivo.org^$all
 ||puslechain.org^$all
 ||q-event.org^$all
+||q3-eigenlayer.org^$all
 ||m.qe-pe.org^$all
 ||qevent.org^$all
 ||qfs-bank.org^$all
@@ -166016,6 +166045,7 @@
 ||coinbase.press^$all
 ||app.coingecko.press^$all
 ||connext.press^$all
+||elgenlayer.press^$all
 ||etherfi.press^$all
 ||airdrop.layerzero.press^$all
 ||metamask.press^$all
@@ -178830,6 +178860,7 @@
 ||l2nft.top^$all
 ||l2rew.top^$all
 ||l2web.top^$all
+||eigenlayer.xyz.l3-web3.top^$all
 ||l6-11web.top^$all
 ||kamino.flnance.l6-13web.top^$all
 ||kamino.flnance.l6-3web.top^$all
@@ -189620,6 +189651,7 @@
 ||eethnafi.xyz^$all
 ||efficient-payout-switch.xyz^$all
 ||efwieerer.xyz^$all
+||egeinlayer.xyz^$all
 ||egenlayer-protocol.xyz^$all
 ||appmeteora.egibilitychecker.xyz^$all
 ||egnn.xyz^$all
@@ -189646,6 +189678,7 @@
 ||eigenlaver.xyz^$all
 ||app.eigenlaycr.xyz^$all
 ||eigenlayear.xyz^$all
+||eigenlayen.xyz^$all
 ||eigenlayer-app.xyz^$all
 ||eigenlayer-avs.xyz^$all
 ||eigenlayer-claims.xyz^$all
