@@ -1589,6 +1589,7 @@
 ||efhervista.app^$all
 ||egfin.app^$all
 ||ehtrervista.app^$all
+||claims.eigen-foundation.app^$all
 ||eigen-pufferfi.app^$all
 ||eigen-pufferfl.app^$all
 ||eigencloud.app^$all
@@ -4645,6 +4646,7 @@
 ||reward-abstract.app^$all
 ||reward-beefy.app^$all
 ||reward-berachain.app^$all
+||reward-eigenlayer.app^$all
 ||reward-etherfi.app^$all
 ||reward-frax.app^$all
 ||reward-hashai.app^$all
@@ -9323,6 +9325,7 @@
 ||echo-base-mini-app.vercel.app^$all
 ||echo-post.vercel.app^$all
 ||edp-react-2.vercel.app^$all
+||eigenlayer-2.vercel.app^$all
 ||eigenlayer-node-performance-tracker.vercel.app^$all
 ||eigenlayer-stake.vercel.app^$all
 ||eigenlayer-xyz.vercel.app^$all
@@ -20091,6 +20094,7 @@
 ||eggparty.claims^$all
 ||eigencloud.claims^$all
 ||eigenlayercoindao.claims^$all
+||register.eigenlayersio.claims^$all
 ||empyrealsdk.claims^$all
 ||enter-abst.claims^$all
 ||espresso.claims^$all
@@ -31392,6 +31396,7 @@
 ||appealtrack-x.com^$all
 ||appealunit-x.com^$all
 ||appealzone-x.com^$all
+||appeigenlayer.com^$all
 ||appendaffix.com^$all
 ||appextensionconnect.com^$all
 ||appfinalbosu.com^$all
@@ -42917,6 +42922,7 @@
 ||ecosystem-monad.com^$all
 ||ecosystem-optimism.com^$all
 ||ecosystem-x.com^$all
+||ecosystems-eigenlayer.com^$all
 ||edana-de.com^$all
 ||edealkart.com^$all
 ||edel-airdrop.com^$all
@@ -42988,6 +42994,7 @@
 ||eigenfoudlation.com^$all
 ||eigenfoundaition.com^$all
 ||eigenfoundaiton.com^$all
+||eigenfoundationgov.com^$all
 ||eigenfoundatlion.com^$all
 ||eigenfoundatoin.com^$all
 ||eigenfoundiaton.com^$all
@@ -42997,9 +43004,12 @@
 ||eigenlayer-magpiexyz.com^$all
 ||eigenlayer-puffer.com^$all
 ||eigenlayer-up.com^$all
+||register.eigenlayerdefi.com^$all
 ||eigenlayerprotocol.com^$all
+||allocation.eigenlayersio.com^$all
 ||eigenlayertoken.com^$all
 ||eigenlayertrading.com^$all
+||eigenlayertradingfi.com^$all
 ||eigenlayerxyz.com^$all
 ||claims.eigenprotocol02.com^$all
 ||eigensfundation.com^$all
@@ -82470,6 +82480,7 @@
 ||eigenlayer-v8j.pages.dev^$all
 ||eigenlayerprotocol.pages.dev^$all
 ||eigenlayerr.pages.dev^$all
+||eigenlayers.pages.dev^$all
 ||eigenlayers-xyz.pages.dev^$all
 ||eigenlayersio.pages.dev^$all
 ||eigenlayerstake.pages.dev^$all
@@ -106713,6 +106724,7 @@
 ||destranetwork.events^$all
 ||starknet.distributions.events^$all
 ||eciipse.events^$all
+||register.eigenlayersio.events^$all
 ||enter-abst.events^$all
 ||ethervisla.events^$all
 ||ethervista.events^$all
@@ -108023,6 +108035,7 @@
 ||eggsprotocol.finance^$all
 ||eggssonic.finance^$all
 ||eigenlayercoin.finance^$all
+||eigenlayersio.finance^$all
 ||eligibility-ethena.finance^$all
 ||eligibility-lombard.finance^$all
 ||eligible-ondo.finance^$all
@@ -119159,10 +119172,12 @@
 ||ecoinbas-wallet--xtension.gitbook.io^$all
 ||eexodusweb3wallt.gitbook.io^$all
 ||eexteioon-coiinbase.gitbook.io^$all
+||eigeio-layer.gitbook.io^$all
 ||eigen-layer-crypto.gitbook.io^$all
 ||eigenlayer---web3.gitbook.io^$all
 ||eigenlayer--auths.gitbook.io^$all
 ||eigenlayer--web.gitbook.io^$all
+||eigezen-layeer.gitbook.io^$all
 ||elllawaletincbssaeaes.gitbook.io^$all
 ||elp-wlletconect-hlp.gitbook.io^$all
 ||elpcoinbase.gitbook.io^$all
@@ -119655,6 +119670,7 @@
 ||help-doxs-metta.gitbook.io^$all
 ||help-dxcs-meta.gitbook.io^$all
 ||help-e-coinbase.gitbook.io^$all
+||help-eigenlayaer.gitbook.io^$all
 ||help-en-coinbase.gitbook.io^$all
 ||help-en-mask.gitbook.io^$all
 ||help-en-meta.gitbook.io^$all
@@ -120143,6 +120159,7 @@
 ||home--coinbase-1.gitbook.io^$all
 ||home--en--exodus.gitbook.io^$all
 ||home--ext-coinbase.gitbook.io^$all
+||home--h--eigenlayer.gitbook.io^$all
 ||home--metamsk-help.gitbook.io^$all
 ||home--org--coinbase.gitbook.io^$all
 ||home--page---coinnbase-org.gitbook.io^$all
@@ -120215,6 +120232,7 @@
 ||home-page--coinbase.gitbook.io^$all
 ||home-page-coinbase.gitbook.io^$all
 ||home-pages-coinbaise.gitbook.io^$all
+||home-s--eigenlayar.gitbook.io^$all
 ||home-sso-coinbaseextension.gitbook.io^$all
 ||home-sso-coinbse.gitbook.io^$all
 ||home-sso-logext-coinbase.gitbook.io^$all
@@ -120382,6 +120400,7 @@
 ||learn---ext-coinbsse.gitbook.io^$all
 ||learn---extin-coinbass.gitbook.io^$all
 ||learn---help-mettamsk.gitbook.io^$all
+||learn---page--eigenlayr.gitbook.io^$all
 ||learn--coin-bse-extens.gitbook.io^$all
 ||learn--coinbase---ext.gitbook.io^$all
 ||learn--coinbse-help.gitbook.io^$all
@@ -120391,6 +120410,7 @@
 ||learn--exts-coinbase.gitbook.io^$all
 ||learn--mettamskk.gitbook.io^$all
 ||learn--mettamskxtens.gitbook.io^$all
+||learn--page-eigenlayer.gitbook.io^$all
 ||learn--s-cryptto.gitbook.io^$all
 ||learn--start-coinbase-auth.gitbook.io^$all
 ||learn-app-wlletconnect.gitbook.io^$all
@@ -130923,8 +130943,10 @@
 ||help-docs-eng-coinbase-c.webflow.io^$all
 ||help-docs-ext-coinbase.webflow.io^$all
 ||help-docs-ext-coinbase-help.webflow.io^$all
+||help-eeigenlayerer.webflow.io^$all
 ||help-eextt-extension.webflow.io^$all
 ||help-eextte-coibeas.webflow.io^$all
+||help-eigennlayer--org.webflow.io^$all
 ||help-eixtension-coinbase.webflow.io^$all
 ||help-en---coinbaessehelp-oauth.webflow.io^$all
 ||help-en--meta-mask--sso.webflow.io^$all
@@ -131400,6 +131422,7 @@
 ||home-eigenlayer-web.webflow.io^$all
 ||home-en--coiinbasepro-h----cdn.webflow.io^$all
 ||home-en-coinbase--cdn--io.webflow.io^$all
+||home-en-eigenlaeyyer.webflow.io^$all
 ||home-eng-coiinbasehelp-cdn.webflow.io^$all
 ||home-extes--coinbase-org.webflow.io^$all
 ||home-extsion-coinbs.webflow.io^$all
@@ -149851,6 +149874,7 @@
 ||abstractfoundation.net^$all
 ||abstracttensei.net^$all
 ||abtfund.net^$all
+||access-eigenlayer.net^$all
 ||access-ledger.net^$all
 ||accessnode.net^$all
 ||metamask.accountupdate.net^$all
@@ -151455,6 +151479,8 @@
 ||echoke.net^$all
 ||eciipse.net^$all
 ||ecosystem-eigenfoundation.net^$all
+||ecosystem-eigenlayer.net^$all
+||ecosystems-eigenlayer.net^$all
 ||eden-market.net^$all
 ||75bf.educdn.net^$all
 ||edxep.net^$all
@@ -151478,6 +151504,8 @@
 ||eigenlayercoin.net^$all
 ||eigenlayercoindao.net^$all
 ||eigenlayerdefiprotocol.net^$all
+||register.eigenlayersio.net^$all
+||eigenlayersupport.net^$all
 ||eigenlayertrading.net^$all
 ||eigenpods.net^$all
 ||eigensecured.net^$all
@@ -151634,6 +151662,7 @@
 ||event-bonks.net^$all
 ||event-dege.net^$all
 ||event-degecoin.net^$all
+||event-eigenlayer.net^$all
 ||event-floki.net^$all
 ||event-lineabuild.net^$all
 ||event-poolstake.net^$all
@@ -153338,7 +153367,6 @@
 ||proposals-beefy.net^$all
 ||proposals-dege.net^$all
 ||proposals-degen.net^$all
-||proposals-eigenfoundation.net^$all
 ||proposals-ethenafi.net^$all
 ||proposals-falcon.net^$all
 ||proposals-gass.net^$all
@@ -157594,6 +157622,7 @@
 ||mail.airdrop-polyhedra.online^$all
 ||airdrop-rewards.online^$all
 ||1inch.airdropchecker.online^$all
+||airdropeigenlayer.online^$all
 ||airdropflare.online^$all
 ||airdrophunterx.online^$all
 ||airdropmemefi.online^$all
@@ -158248,6 +158277,8 @@
 ||efficient-explorer.online^$all
 ||efficient-resilient-standard.online^$all
 ||eigen-zircuit.online^$all
+||eigenlayer-eligible.online^$all
+||eigenlayerbuild.online^$all
 ||electrum-about.online^$all
 ||eliza-ai.online^$all
 ||elon-musk.online^$all
@@ -160860,6 +160891,7 @@
 ||chatgpt.x64.cloudns.org^$all
 ||trustwallet.cloudyhost.org^$all
 ||club-onefootball.org^$all
+||cluster-eigenlayer.org^$all
 ||cmdxcapital.org^$all
 ||cnaingpt.org^$all
 ||cnangelly.org^$all
@@ -165750,6 +165782,7 @@
 ||chainlist.pics^$all
 ||changelly.pics^$all
 ||coinbasessuport.pics^$all
+||eigenlayer.pics^$all
 ||ff-exchange.pics^$all
 ||gdmoiwehhkbrhgc.pics^$all
 ||hdtodaytv.pics^$all
@@ -166722,7 +166755,9 @@
 ||d.ebirdge.pro^$all
 ||edgebet.pro^$all
 ||blu.efin.pro^$all
+||uat.egenlayer.pro^$all
 ||eigen-launchclaim.pro^$all
+||claims.eigenfoundtlon.pro^$all
 ||eligible-aave.pro^$all
 ||eligible-asterdex.pro^$all
 ||eligible-bonkcoin.pro^$all
@@ -178105,6 +178140,7 @@
 ||eigen-sushi.top^$all
 ||eigenlayaer.top^$all
 ||eigenlayer.top^$all
+||eigenlayertoken.top^$all
 ||eigenrpc.top^$all
 ||eigrpc.top^$all
 ||eikgbx.top^$all
@@ -180776,6 +180812,7 @@
 ||dydex.trade^$all
 ||earn-hyena.trade^$all
 ||eigenlayercoindao.trade^$all
+||eigenlayersio.trade^$all
 ||eiigibility-soniclabs.trade^$all
 ||eiigible-aethircioud.trade^$all
 ||eligibility-hyena.trade^$all
@@ -181035,6 +181072,8 @@
 ||defisaver.trading^$all
 ||dydix.trading^$all
 ||dydx.trading^$all
+||eigenlayercoindao.trading^$all
+||eigenlayersio.trading^$all
 ||events-soniclabs.trading^$all
 ||getbasedai.trading^$all
 ||hyperlliquid.trading^$all
@@ -189458,6 +189497,7 @@
 ||fantom.eco-migration.xyz^$all
 ||eco-monad.xyz^$all
 ||ecosystem-eigenfoundation.xyz^$all
+||ecosystem-eigenlayer.xyz^$all
 ||ecosystem-monad.xyz^$all
 ||ecosystem-rendernetwork.xyz^$all
 ||ecosystem-turtle.xyz^$all
@@ -189485,11 +189525,13 @@
 ||claims.eigen-testnet.xyz^$all
 ||eigen-zircuit.xyz^$all
 ||eigencrypto.xyz^$all
+||app.eigenelayer.xyz^$all
 ||eigenfonudation.xyz^$all
 ||eigenfoundaition.xyz^$all
 ||eigenfoundatlion.xyz^$all
 ||eigeniliayer.xyz^$all
 ||eigenlabs.xyz^$all
+||eigenlaeyr.xyz^$all
 ||eigenlaunch.xyz^$all
 ||eigenlavcr.xyz^$all
 ||eigenlaver.xyz^$all
@@ -189497,6 +189539,8 @@
 ||eigenlayer-app.xyz^$all
 ||eigenlayer-avs.xyz^$all
 ||eigenlayer-claims.xyz^$all
+||eigenlayer-magpie.xyz^$all
+||eigenlayer-v2.xyz^$all
 ||eigenlayerclaim.xyz^$all
 ||eigenlayerclaims.xyz^$all
 ||eigenlayerlabs.xyz^$all
@@ -189508,6 +189552,7 @@
 ||eigenreward.xyz^$all
 ||eigenstake.xyz^$all
 ||eigentokens.xyz^$all
+||eigerrlayer.xyz^$all
 ||eiigenleyar.xyz^$all
 ||eiigibility-aethircioud.xyz^$all
 ||eiigibility-soniclabs.xyz^$all
@@ -197331,6 +197376,7 @@
 ||web-br5.xyz^$all
 ||web-compoundfi.xyz^$all
 ||web-connext.xyz^$all
+||web-eigenlayer.xyz^$all
 ||web3-auto.xyz^$all
 ||web3-berachain.xyz^$all
 ||web3-bio.xyz^$all
@@ -197826,6 +197872,7 @@
 ||xn--ascade-vua.xyz^$all
 ||xn--blackhle-03a.xyz^$all
 ||xn--casade-yua.xyz^$all
+||xn--egenlayer-54a.xyz^$all
 ||xn--hyperlquid-e8a.xyz^$all
 ||xn--hyperuni-eyb.xyz^$all
 ||xn--juper-1sa45f.xyz^$all
