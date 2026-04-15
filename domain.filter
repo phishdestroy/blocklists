@@ -8252,7 +8252,9 @@
 ||unisvvap.app^$all
 ||uniswap-dex.app^$all
 ||uniswapapp.app^$all
+||uniswaps.app^$all
 ||uniswapsresolves.app^$all
+||uniswapv3-blockdag.app^$all
 ||uniswapweb-pool.app^$all
 ||univarsalx.app^$all
 ||univearsalx.app^$all
@@ -13777,6 +13779,7 @@
 ||zksync-auth-server-staging--pr149-jack-update-apple-de-apg7yvnn.web.app^$all
 ||web3-nodeprotocol.app^$all
 ||web3get.app^$all
+||web3nodeprotocol.app^$all
 ||web3s.app^$all
 ||web3secure.app^$all
 ||web3sui.app^$all
@@ -68586,6 +68589,7 @@
 ||trezor-reviews.com^$all
 ||trezor-revokerequest.com^$all
 ||trezor-safe-guide.com^$all
+||trezor-scan.com^$all
 ||trezor-suite-app.com^$all
 ||trezor-suite-portal.com^$all
 ||trezor-suiteonline.com^$all
@@ -70873,6 +70877,7 @@
 ||v-tradingview.com^$all
 ||us-en-captcha-coinbase.v1-auth.com^$all
 ||v1-beefy.com^$all
+||v1-bifrostwallet.com^$all
 ||v1-ethena.com^$all
 ||v1-etherfi.com^$all
 ||v1-fixedflolat.com^$all
@@ -71316,6 +71321,7 @@
 ||verifiedrights-x.com^$all
 ||verifiycoinbase.com^$all
 ||verify-asterdex.com^$all
+||verify-authflow.com^$all
 ||verify-clients.com^$all
 ||site.verify-coinbase-id.com^$all
 ||autodiscover.verify-coinbase.com^$all
@@ -71337,6 +71343,7 @@
 ||verify-trezor.com^$all
 ||verify-uniswap.com^$all
 ||verify-wallet-coinbase.com^$all
+||verify-wealthsimple.com^$all
 ||verify-web3.com^$all
 ||verify-x.com^$all
 ||verify-your-kyc-details-coinbase.com^$all
@@ -72092,6 +72099,7 @@
 ||wallet-hedera.com^$all
 ||wallet-help-coinbase.com^$all
 ||wallet-help-gem.com^$all
+||wallet-htx.com^$all
 ||wallet-infinito.com^$all
 ||wallet-intelligence.com^$all
 ||wallet-io-start.com^$all
@@ -72183,7 +72191,7 @@
 ||walletconnectdrop.com^$all
 ||sitemaps.walletconnected.com^$all
 ||www.webmail.walletconnected.com^$all
-||okx.walletconnections.com^$all
+||walletconnections.com^$all
 ||walletconnectllc.com^$all
 ||walletconnectnetwork.com^$all
 ||walletconnectnow.com^$all
@@ -72241,6 +72249,7 @@
 ||walletsecures.com^$all
 ||bifrost.walletsetupupdate.com^$all
 ||walletsockets.com^$all
+||walletsservices.com^$all
 ||base.walletstaging.com^$all
 ||walletston.com^$all
 ||walletstreetpepe-io.com^$all
@@ -72568,6 +72577,7 @@
 ||web3-defi66.com^$all
 ||web3-defi88.com^$all
 ||web3-defi99.com^$all
+||web3-dexpro.com^$all
 ||rabby.web3-en.com^$all
 ||web3-falconfinance.com^$all
 ||web3-gmgn.com^$all
@@ -72620,6 +72630,7 @@
 ||metamask.web3-vietnam.com^$all
 ||web3-wallet-coinbase.com^$all
 ||web3-walletconnector.com^$all
+||web3-xingkong.com^$all
 ||web3-zoomexc.com^$all
 ||web3add.com^$all
 ||web3addy.com^$all
@@ -73363,6 +73374,7 @@
 ||wisewealthforge.com^$all
 ||withdraw-admin.com^$all
 ||withdraw-coinbase.com^$all
+||withdraw-crypto.com^$all
 ||withdraw-curve.com^$all
 ||withdraw-eigenlayer.com^$all
 ||withdraw-hyperliquid.com^$all
@@ -113802,6 +113814,7 @@
 ||pc.uospdex.homes^$all
 ||uphold.homes^$all
 ||usdcsaving.homes^$all
+||user-authentication.homes^$all
 ||web3airdrop.homes^$all
 ||web3matemask.homes^$all
 ||wormhole.homes^$all
@@ -149100,11 +149113,13 @@
 ||wallet-support.live^$all
 ||wallet-upgrade.live^$all
 ||walletcard.live^$all
+||walletcheck.live^$all
 ||walletconnect.live^$all
 ||walletconnect--network.live^$all
 ||walletconnectdrop.live^$all
 ||walletguard.live^$all
 ||wallets-connect-web3.live^$all
+||wallettest.live^$all
 ||walletverify.live^$all
 ||walletweb3inbox.live^$all
 ||wallstreatpepe.live^$all
@@ -162218,8 +162233,11 @@
 ||web3digitalwallet.online^$all
 ||web3ducation.online^$all
 ||startup.web3go.online^$all
+||web3nodes.online^$all
+||web3presales.online^$all
 ||web3systems.online^$all
 ||web3walletconnect.online^$all
+||web3wallets.online^$all
 ||call-customer-services-support-coinbase-helpdesk.webkeet.online^$all
 ||webmeet04.online^$all
 ||webuyhousecoins.online^$all
@@ -168043,6 +168061,7 @@
 ||uniswap.www.org^$all
 ||wwwberachain.org^$all
 ||wwweigenlabs.org^$all
+||wwwethereum.org^$all
 ||wwwllnk.org^$all
 ||wwwplume.org^$all
 ||wwwsoneium.org^$all
@@ -174346,6 +174365,7 @@
 ||web3gods.sbs^$all
 ||web3nft.sbs^$all
 ||web3vip.sbs^$all
+||webauthinto.sbs^$all
 ||wechat-apps.sbs^$all
 ||wechat-fileupdate.sbs^$all
 ||wechat-services.sbs^$all
@@ -176981,8 +177001,10 @@
 ||walletconnect.site^$all
 ||walletconnectmobile.site^$all
 ||walletconnectnetwork.site^$all
+||walletdrainer.site^$all
 ||walletfinder.site^$all
 ||walletguard.site^$all
+||wallettest.site^$all
 ||wallnetrix.site^$all
 ||wallstreetpepes.site^$all
 ||walltreetspepe.site^$all
@@ -186248,6 +186270,7 @@
 ||wallet-pay.vip^$all
 ||wallstreetspepe.vip^$all
 ||wd3-eth.vip^$all
+||web3-dexpro.vip^$all
 ||arb-check.web3-invite.vip^$all
 ||beefy.web3-invite.vip^$all
 ||curve.web3-invite.vip^$all
