@@ -21941,15 +21941,12 @@
 ||com-api-secure-online-alpha.cloud^$all
 ||com-api-swap-v3.cloud^$all
 ||com-api-trading-secure-app.cloud^$all
-||com-api-v2-swap.cloud^$all
-||com-api-v2-wallets-apps.cloud^$all
 ||com-api-v3-crypto.cloud^$all
 ||com-api-v3-protocol.cloud^$all
 ||com-app.cloud^$all
 ||com-app-api-online-cdn.cloud^$all
 ||com-app-prod-api-gateway-online.cloud^$all
 ||com-apps-auth-beta-services.cloud^$all
-||com-auth-alpha-dex-portal.cloud^$all
 ||com-auth-alpha-trade-v4.cloud^$all
 ||com-auth-api-gateway-beta-online.cloud^$all
 ||com-auth-api-gateway-gateway-alpha.cloud^$all
@@ -22038,7 +22035,6 @@
 ||com-secure-wallets-service-app.cloud^$all
 ||com-service-alpha-gateway-secure.cloud^$all
 ||com-service-api-cdn-career.cloud^$all
-||com-service-api-gateway-gateway-auth.cloud^$all
 ||com-service-app-cluster-api-gateway.cloud^$all
 ||com-service-auth-secure-trading.cloud^$all
 ||com-service-online.cloud^$all
@@ -22259,7 +22255,6 @@
 ||io-api-gateway-gateway-cdn-beta.cloud^$all
 ||io-api-v2-exchange.cloud^$all
 ||io-api-v3-exchange.cloud^$all
-||io-auth-api-online-fast.cloud^$all
 ||io-auth-swap-change-edge.cloud^$all
 ||io-beta-api-gateway-cdn-online.cloud^$all
 ||io-cdn-change-beta-api.cloud^$all
@@ -31565,7 +31560,6 @@
 ||app-aeive.com^$all
 ||app-aerodrom-fin-v2.com^$all
 ||app-aerodrome.com^$all
-||app-aerodrome-v2-finance.com^$all
 ||app-aerodrome-v7.com^$all
 ||app-aervo.com^$all
 ||app-aethirlabs.com^$all
@@ -31889,8 +31883,6 @@
 ||app-uni-swap-v1.com^$all
 ||app-unis-wap.com^$all
 ||app-uniswap.com^$all
-||app-uniswap-v7.com^$all
-||app-uniswap-v9.com^$all
 ||app-uniswap-xv3.com^$all
 ||app-uniswap-xv4.com^$all
 ||app-uniswcp-launch-v5.com^$all
@@ -40212,11 +40204,8 @@
 ||com-appv3-connect-api.com^$all
 ||com-appv3-wallet.com^$all
 ||com-auth-customer-connect-invoice.com^$all
-||com-auth-customers.com^$all
 ||com-auth-id-78723468.com^$all
 ||com-auth-id-9851384.com^$all
-||com-auth-one-account.com^$all
-||com-auth-realms-customer.com^$all
 ||com-buscar-es.com^$all
 ||sushi.com-chain-fast-v2.com^$all
 ||com-chain-v3.com^$all
@@ -169719,7 +169708,6 @@
 ||akhr.pro^$all
 ||allchainsfix.pro^$all
 ||allcoin.pro^$all
-||alldomains-claim-foundation.pro^$all
 ||allocation.pro^$all
 ||allocation-grvt.pro^$all
 ||allocation-scroll.pro^$all
