@@ -745,6 +745,7 @@
 ||3dns-claim.app-id-gb.app^$all
 ||app-monad.app^$all
 ||app-morpho.app^$all
+||app-phantom.app^$all
 ||app-solv.app^$all
 ||app-uphold.app^$all
 ||app-verify-v-u4.app^$all
@@ -85850,6 +85851,7 @@
 ||faq-uphold-walleet-en-us.pages.dev^$all
 ||faq-uphold-wallet-eng-us.pages.dev^$all
 ||faq-user-metmsk.pages.dev^$all
+||faq-wallet-exodus.pages.dev^$all
 ||faq-wallet-trezr.pages.dev^$all
 ||faq-wallet-trezr-en-us.pages.dev^$all
 ||faq-wallet-uphold-en-us.pages.dev^$all
@@ -91373,7 +91375,6 @@
 ||opensea-claims.pages.dev^$all
 ||opensea-deals.pages.dev^$all
 ||opensea-dez.pages.dev^$all
-||opensea-en.pages.dev^$all
 ||opensea-eng.pages.dev^$all
 ||opensea-foundation.pages.dev^$all
 ||opensea-goblinario.pages.dev^$all
@@ -109129,6 +109130,7 @@
 ||backrack.exchange^$all
 ||baguette.exchange^$all
 ||ovh-arbitrum-03.nodes.batch.exchange^$all
+||bbackpack.exchange^$all
 ||beetly.exchange^$all
 ||belka.exchange^$all
 ||bera-borrow.exchange^$all
