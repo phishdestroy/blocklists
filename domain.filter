@@ -17908,6 +17908,8 @@
 ||kra-27at.cc^$all
 ||kra-28-cc.cc^$all
 ||bot.kra-32--at.cc^$all
+||agent.kra-34--cc.cc^$all
+||stage.kra-34at.cc^$all
 ||bot.kra-37-cc.cc^$all
 ||kra-41-cc.cc^$all
 ||bot.kra-43-at.cc^$all
@@ -17915,6 +17917,7 @@
 ||api.kra-44-at.cc^$all
 ||staging.kra-44-at.cc^$all
 ||kra-45-cc.cc^$all
+||bot.kra-45cc.cc^$all
 ||dev.kra-46-cc.cc^$all
 ||dev.kra-46cc.cc^$all
 ||bot.kra-48at.cc^$all
@@ -17929,6 +17932,7 @@
 ||kra21--at.cc^$all
 ||kra21--cc.cc^$all
 ||kra21a.cc^$all
+||bot.kra22-cc.cc^$all
 ||kra23--at.cc^$all
 ||agent.kra23-cc.cc^$all
 ||kra25-c.cc^$all
@@ -17937,6 +17941,7 @@
 ||kra26-cc.cc^$all
 ||kra27--at.cc^$all
 ||kra27at.cc^$all
+||agent.kra28---at.cc^$all
 ||stage.kra28--at.cc^$all
 ||kra28-cc.cc^$all
 ||kra2b0.cc^$all
@@ -17963,6 +17968,7 @@
 ||krab-3.cc^$all
 ||krab-4cc.cc^$all
 ||dev.krab-8at.cc^$all
+||bot.krab-8cc.cc^$all
 ||dev.krab-9at.cc^$all
 ||api.krab-9cc.cc^$all
 ||dev.krab1-at.cc^$all
@@ -17974,8 +17980,10 @@
 ||api.krab13-cc.cc^$all
 ||admin.krab16-at.cc^$all
 ||dev.krab16-at.cc^$all
+||stage.krab16-cc.cc^$all
 ||krab17-cc.cc^$all
 ||admin.krab18-at.cc^$all
+||agent.krab18-cc.cc^$all
 ||stage.krab19-at.cc^$all
 ||krab2market.cc^$all
 ||bot.krab3-market.cc^$all
@@ -71283,6 +71291,7 @@
 ||usasecure01-robinhood.com^$all
 ||usasellerit.com^$all
 ||usasmmct.com^$all
+||usasmmhive.com^$all
 ||usasmmit.com^$all
 ||usasmmking.com^$all
 ||usasocialshop.com^$all
