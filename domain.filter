@@ -19130,6 +19130,7 @@
 ||v1-ssv.cc^$all
 ||v1-swap.cc^$all
 ||v1-syneslsone.cc^$all
+||v15563.cc^$all
 ||v2-all-bridge-allbrldge.cc^$all
 ||v2-app-raydium.cc^$all
 ||v2-app-yei.cc^$all
@@ -19180,6 +19181,7 @@
 ||v4-onchain-userpermit.cc^$all
 ||v4-swapnetwork.cc^$all
 ||v4-yearn.cc^$all
+||v42095.cc^$all
 ||v5-raydiurn.cc^$all
 ||validate-sol-finder.cc^$all
 ||vanguardrwa.cc^$all
@@ -175816,6 +175818,7 @@
 ||coinbase.ptda5.sbs^$all
 ||pudgyclaim.sbs^$all
 ||pump-funz.sbs^$all
+||pumpswap-v2.sbs^$all
 ||pydgupenguins.sbs^$all
 ||pydgypenguins.sbs^$all
 ||pythstaking.sbs^$all
@@ -176098,7 +176101,11 @@
 ||v2-solpot.sbs^$all
 ||v2-sushiswap.sbs^$all
 ||debirdge.v2lightspeed.sbs^$all
+||v3-cow.sbs^$all
+||v3-curve.sbs^$all
 ||v3-home.sbs^$all
+||v3-hyperliquid.sbs^$all
+||v3-meteora.sbs^$all
 ||v3-pnc.sbs^$all
 ||v3-sushi.sbs^$all
 ||vaer-cdn-3.sbs^$all

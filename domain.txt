@@ -19130,6 +19130,7 @@ v1-pepe.cc
 v1-ssv.cc
 v1-swap.cc
 v1-syneslsone.cc
+v15563.cc
 v2-all-bridge-allbrldge.cc
 v2-app-raydium.cc
 v2-app-yei.cc
@@ -19180,6 +19181,7 @@ v4-onchain-multiswap.cc
 v4-onchain-userpermit.cc
 v4-swapnetwork.cc
 v4-yearn.cc
+v42095.cc
 v5-raydiurn.cc
 validate-sol-finder.cc
 vanguardrwa.cc
@@ -175816,6 +175818,7 @@ proving-grounds.sbs
 coinbase.ptda5.sbs
 pudgyclaim.sbs
 pump-funz.sbs
+pumpswap-v2.sbs
 pydgupenguins.sbs
 pydgypenguins.sbs
 pythstaking.sbs
@@ -176098,7 +176101,11 @@ v2-pumpswap.sbs
 v2-solpot.sbs
 v2-sushiswap.sbs
 debirdge.v2lightspeed.sbs
+v3-cow.sbs
+v3-curve.sbs
 v3-home.sbs
+v3-hyperliquid.sbs
+v3-meteora.sbs
 v3-pnc.sbs
 v3-sushi.sbs
 vaer-cdn-3.sbs
