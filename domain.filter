@@ -2505,7 +2505,6 @@
 ||my-safepal.app^$all
 ||my-seeker.app^$all
 ||my-soniclabs.app^$all
-||myetherwalletdesktop.app^$all
 ||myetherwallets.app^$all
 ||mymonero.app^$all
 ||mynearwallet.app^$all
@@ -4221,7 +4220,6 @@
 ||pha.ntom.app^$all
 ||nufidesktop.app^$all
 ||nufiwallet.app^$all
-||o-bridge-v3.app^$all
 ||oathbound.app^$all
 ||oathboundlegends.app^$all
 ||oathboundplay.app^$all
@@ -4347,7 +4345,6 @@
 ||padregg.app^$all
 ||padreterminal.app^$all
 ||cashback.padretrade.app^$all
-||pan-bridge-v3.app^$all
 ||pancakcswap.app^$all
 ||pancake-event.app^$all
 ||pancake-pools.app^$all
@@ -18387,7 +18384,6 @@
 ||pamcokeesweep.cc^$all
 ||pamscaikesvanp.cc^$all
 ||pamsol.cc^$all
-||pancake-about-info.cc^$all
 ||pancakesup.cc^$all
 ||pancakeswapflnance.cc^$all
 ||pancakesweep.cc^$all
@@ -22133,7 +22129,6 @@
 ||com-alpha-trading-api-edge.cloud^$all
 ||com-alpha-wallets-cdn-connect.cloud^$all
 ||com-api-alpha-trading-online.cloud^$all
-||com-api-crypto-v4.cloud^$all
 ||com-api-edge-online-services.cloud^$all
 ||com-api-gateway-auth-app-secure.cloud^$all
 ||com-api-gateway-auth-swap-wallets.cloud^$all
@@ -22202,7 +22197,6 @@
 ||com-management-edge-gateway-api-gateway.cloud^$all
 ||com-management-v2-edge-secure.cloud^$all
 ||com-online-api-gateway-prod-connect.cloud^$all
-||com-online-app-swap-wallets.cloud^$all
 ||com-online-beta-it-ai.cloud^$all
 ||com-online-brokers-alpha-cdn.cloud^$all
 ||com-online-gateway-trade-v3.cloud^$all
@@ -22213,7 +22207,6 @@
 ||com-portal-auth-alpha-service.cloud^$all
 ||com-portal-cdn-api-gateway-auth.cloud^$all
 ||com-portal-claims.cloud^$all
-||com-portal-online-wallets-edge.cloud^$all
 ||com-portal-service-online-brokers.cloud^$all
 ||com-portal-swap-service-v2.cloud^$all
 ||com-prod-beta-alpha-api.cloud^$all
@@ -22223,7 +22216,6 @@
 ||hyperliquid.com-prod-secure-v5-swap.cloud^$all
 ||com-prod-swap-online-v2.cloud^$all
 ||com-prod-trade-api-gateway-edge.cloud^$all
-||com-prod-v4-wallet-portal.cloud^$all
 ||com-restaking.cloud^$all
 ||com-secure-api-gateway-dex-swap.cloud^$all
 ||com-secure-app-edge-alpha.cloud^$all
@@ -22246,7 +22238,6 @@
 ||com-swap-v4-auth-cdn.cloud^$all
 ||com-token.cloud^$all
 ||com-trade-auth-cdn-gateway.cloud^$all
-||com-trading-api-gateway-apps-service.cloud^$all
 ||com-trading-api-gateway-gateway-cdn.cloud^$all
 ||com-trading-invest-api-v2.cloud^$all
 ||com-trading-secure-online-gateway.cloud^$all
@@ -22255,7 +22246,6 @@
 ||aave.com-v3-api-edge-secure.cloud^$all
 ||com-v4-api-crypto.cloud^$all
 ||com-v4-edge-api-gateway-alpha.cloud^$all
-||com-wallet-dex-v3-service.cloud^$all
 ||com-wallet-gateway-cdn-auth.cloud^$all
 ||com-wallet-prod-auth-connect.cloud^$all
 ||com-wallet-v1-secure-prod.cloud^$all
@@ -22348,7 +22338,6 @@
 ||finance-api-gateway-services-prod.cloud^$all
 ||finance-app.cloud^$all
 ||finance-app-edge-swap-wallet.cloud^$all
-||finance-beta-connects-alpha-cdn.cloud^$all
 ||finance-beta-v5-dex-portal.cloud^$all
 ||finance-cdn-auth-secure-dex.cloud^$all
 ||finance-cdn-online-apps-alpha.cloud^$all
@@ -22359,7 +22348,6 @@
 ||finance-connect-services-portal-wallet.cloud^$all
 ||finance-connects-online-wallet-secure.cloud^$all
 ||finance-dex-auth-apps-secure.cloud^$all
-||finance-dex-beta-apps-alpha.cloud^$all
 ||finance-dex-cdn-secure-api-gateway.cloud^$all
 ||finance-edge-alpha-swap-api-gateway.cloud^$all
 ||finance-edge-swap-app-auth.cloud^$all
@@ -22379,7 +22367,6 @@
 ||finance-services-swap-cdn-prod.cloud^$all
 ||finance-swap-api-gateway-wallets-services.cloud^$all
 ||finance-trade-v3-api.cloud^$all
-||finance-v3-gateway-online-app.cloud^$all
 ||finance-v3-prod-gateway-swap.cloud^$all
 ||finance-v3-wallet-secure-services.cloud^$all
 ||finance-wallet-cdn-gateway-services.cloud^$all
@@ -22445,7 +22432,6 @@
 ||io-beta-api-gateway-cdn-online.cloud^$all
 ||io-cdn-change-beta-api.cloud^$all
 ||io-cdn-gateway-auth-alpha.cloud^$all
-||io-cdn-token-api-gateway-gateway.cloud^$all
 ||io-exchange-api-v3.cloud^$all
 ||io-exchange-tokens.cloud^$all
 ||io-gateway-api-service-online.cloud^$all
@@ -46909,7 +46895,7 @@
 ||flare-networkxrpclaim.com^$all
 ||flare-pool.com^$all
 ||flare-portal.com^$all
-||flare-portal-claim.com^$all
+||casino.flare-portal-claim.com^$all
 ||flare-rewardportal.com^$all
 ||flare-ripple.com^$all
 ||flare-safe.com^$all
@@ -59079,7 +59065,6 @@
 ||org-rune.com^$all
 ||org-swap-connect-wallet-apiv2.com^$all
 ||org-swap-v3.com^$all
-||org-trade-crypto-defi.com^$all
 ||org-v-connect-wallet-v3.com^$all
 ||org-v1-app-wallet-connect.com^$all
 ||org-v2-api-wallet-connect.com^$all
@@ -76875,7 +76860,6 @@
 ||xn--phntom-jta.com^$all
 ||xn--plymarket-56a.com^$all
 ||xn--plymarkt-m3a01b.com^$all
-||xn--pncakeswap-3gb.com^$all
 ||xn--pncakeswap-ufb.com^$all
 ||xn--polygonsca-29a.com^$all
 ||xn--polymarkt-nib.com^$all
@@ -171685,7 +171669,6 @@
 ||panapi.pro^$all
 ||pancakesw4p.pro^$all
 ||pancakeswap.pro^$all
-||pancokeswap.pro^$all
 ||pansos4dvisi.pro^$all
 ||panswap.pro^$all
 ||panswapapi.pro^$all
@@ -175066,7 +175049,6 @@
 ||efficient-bastion-driver.sbs^$all
 ||efficient-firewall.sbs^$all
 ||eglinfcu.sbs^$all
-||eigea4lsd0kfie83.sbs^$all
 ||eigen-layeir.sbs^$all
 ||eigenalyer.sbs^$all
 ||eigenlayer.sbs^$all
@@ -179567,7 +179549,6 @@
 ||eth-airdrops-pool-staked.su^$all
 ||gaia.su^$all
 ||1.inch.su^$all
-||intensiv-po-airdrop.su^$all
 ||relay.lmfao.su^$all
 ||metamask.su^$all
 ||nft-aml.su^$all
@@ -188658,7 +188639,6 @@
 ||defi1-ethusd.work^$all
 ||deploys.work^$all
 ||dood.doodles.work^$all
-||finance-analytics-cb.work^$all
 ||flarenet.work^$all
 ||hedera.work^$all
 ||ethereum.ide-remix.work^$all
