@@ -8251,7 +8251,6 @@
 ||u-bridge-v3.app^$all
 ||u-explorerv4.app^$all
 ||u-labs-v4.app^$all
-||u-wallet-v4.app^$all
 ||uaddress.app^$all
 ||uappbridge4v.app^$all
 ||ubridge-v4.app^$all
@@ -22133,14 +22132,12 @@
 ||com-api-gateway-connect-alpha.cloud^$all
 ||com-api-gateway-online-swap-gateway.cloud^$all
 ||com-api-gateway-platform-v2-portal.cloud^$all
-||com-api-gateway-prod-auth-edge.cloud^$all
 ||com-api-gateway-prod-platform-apps.cloud^$all
 ||com-api-gateway-secure-online-portal.cloud^$all
 ||com-api-gateway-swap-connect-cdn.cloud^$all
 ||com-api-gateway-v1-dex-online.cloud^$all
 ||com-api-gateway-wallets-v1-edge.cloud^$all
 ||com-api-trading-secure-app.cloud^$all
-||com-api-v3-crypto.cloud^$all
 ||com-api-v3-protocol.cloud^$all
 ||com-app.cloud^$all
 ||com-app-api-online-cdn.cloud^$all
@@ -22163,7 +22160,6 @@
 ||com-cd-internal-frontend-auth.cloud^$all
 ||com-cdn-api-gateway-service-secure.cloud^$all
 ||com-cdn-auth-alpha-portal.cloud^$all
-||com-cdn-auth-portal-agent.cloud^$all
 ||com-cdn-edge-alpha-auth.cloud^$all
 ||com-cdn-edge-prod-beta.cloud^$all
 ||com-cluster-saas-platform-main.cloud^$all
@@ -22220,7 +22216,6 @@
 ||com-secure-dex-app-auth.cloud^$all
 ||com-secure-prod-trading-beta.cloud^$all
 ||com-secure-services-beta-career.cloud^$all
-||com-secure-wallets-service-app.cloud^$all
 ||com-service-alpha-gateway-secure.cloud^$all
 ||com-service-api-cdn-career.cloud^$all
 ||com-service-app-cluster-api-gateway.cloud^$all
@@ -22234,7 +22229,6 @@
 ||com-swap-v4-auth-cdn.cloud^$all
 ||com-token.cloud^$all
 ||com-trade-auth-cdn-gateway.cloud^$all
-||com-trading-api-gateway-gateway-cdn.cloud^$all
 ||com-trading-invest-api-v2.cloud^$all
 ||com-trading-secure-online-gateway.cloud^$all
 ||com-trading-services-beta-auth.cloud^$all
@@ -22318,7 +22312,6 @@
 ||fi-portal-api-connect-alpha.cloud^$all
 ||fi-portal-apps-cdn-beta.cloud^$all
 ||fi-prod-online-portal-edge.cloud^$all
-||fi-service-app-api-beta.cloud^$all
 ||fi-staking-app-secure-service.cloud^$all
 ||fi-staking-cdn-gateway-beta.cloud^$all
 ||fi-swap-beta-gateway-service.cloud^$all
@@ -22334,14 +22327,10 @@
 ||finance-api-gateway-portal-cdn-connect.cloud^$all
 ||finance-api-gateway-services-prod.cloud^$all
 ||finance-app.cloud^$all
-||finance-app-edge-swap-wallet.cloud^$all
 ||finance-beta-v5-dex-portal.cloud^$all
 ||finance-cdn-auth-secure-dex.cloud^$all
 ||finance-cdn-online-apps-alpha.cloud^$all
-||finance-cdn-secure-api-alpha.cloud^$all
-||finance-cdn-wallets-api-gateway-api.cloud^$all
 ||finance-connect-beta-api-v4.cloud^$all
-||finance-connect-cdn-api-service.cloud^$all
 ||finance-connect-services-portal-wallet.cloud^$all
 ||finance-connects-online-wallet-secure.cloud^$all
 ||finance-dex-auth-apps-secure.cloud^$all
@@ -22361,7 +22350,6 @@
 ||finance-secure-prod-edge-api.cloud^$all
 ||finance-secure-prod-gateway-beta.cloud^$all
 ||finance-services-api-gateway-cdn.cloud^$all
-||finance-services-swap-cdn-prod.cloud^$all
 ||finance-swap-api-gateway-wallets-services.cloud^$all
 ||finance-trade-v3-api.cloud^$all
 ||finance-v3-prod-gateway-swap.cloud^$all
@@ -22425,7 +22413,6 @@
 ||io-api-beta-app-api-gateway.cloud^$all
 ||io-api-gateway-gateway-cdn-beta.cloud^$all
 ||io-api-v2-exchange.cloud^$all
-||io-auth-swap-change-edge.cloud^$all
 ||io-beta-api-gateway-cdn-online.cloud^$all
 ||io-cdn-change-beta-api.cloud^$all
 ||io-cdn-gateway-auth-alpha.cloud^$all
@@ -114234,7 +114221,6 @@
 ||claim-gemini.help^$all
 ||claim-lab-erc.help^$all
 ||claim-plus-erc.help^$all
-||claim-recall-network.help^$all
 ||claim-refund.help^$all
 ||coinbase.client-opinion.help^$all
 ||coin-base.help^$all
