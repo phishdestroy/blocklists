@@ -1806,7 +1806,6 @@
 ||finance-apps-v2-wallets.app^$all
 ||finance-claims.app^$all
 ||finance-connects-prod-secure-online.app^$all
-||finance-en-main.app^$all
 ||pendle.finance-p.app^$all
 ||finance-v2-wallets-apps.app^$all
 ||finance-v3.app^$all
@@ -22300,7 +22299,6 @@
 ||finance-dex-auth-apps-secure.cloud^$all
 ||finance-dex-cdn-secure-api-gateway.cloud^$all
 ||finance-edge-alpha-swap-api-gateway.cloud^$all
-||finance-edge-swap-app-auth.cloud^$all
 ||finance-gateway-alpha-swap-prod.cloud^$all
 ||finance-gateway-dex-auth-swap.cloud^$all
 ||finance-online-cdn-v1-service.cloud^$all
@@ -22382,7 +22380,6 @@
 ||io-cdn-gateway-auth-alpha.cloud^$all
 ||io-exchange-api-v3.cloud^$all
 ||io-exchange-tokens.cloud^$all
-||io-gateway-api-service-online.cloud^$all
 ||io-gateway-change-v5-token.cloud^$all
 ||io-gateway-fast-api-gateway-api.cloud^$all
 ||io-prod-token-cdn-change.cloud^$all
