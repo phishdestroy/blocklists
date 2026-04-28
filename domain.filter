@@ -4618,11 +4618,13 @@
 ||proposal-clawdbotatg.app^$all
 ||proposal-curve.app^$all
 ||proposal-eigenfoundation.app^$all
+||proposal-firelight.app^$all
 ||proposal-hyena.app^$all
 ||proposal-hyperlend.app^$all
 ||proposal-iombard.app^$all
 ||proposal-kelpdao.app^$all
 ||proposal-layerzero.app^$all
+||proposal-lido.app^$all
 ||proposal-megaeth.app^$all
 ||proposal-solfare.app^$all
 ||proposal-stargate.app^$all
@@ -40091,6 +40093,7 @@
 ||coinbasesafe.com^$all
 ||coinbasesafetyhub.com^$all
 ||coinbasesapp.com^$all
+||m.coinbasesc.com^$all
 ||coinbasescan.com^$all
 ||coinbasescn.com^$all
 ||msiraven-ui.test.coinbasesd.com^$all
@@ -50157,6 +50160,7 @@
 ||governance-iombard.com^$all
 ||governance-keeta.com^$all
 ||governance-kujira.com^$all
+||governance-layer.com^$all
 ||governance-liquid.com^$all
 ||governance-lombard.com^$all
 ||governance-megaeth.com^$all
@@ -61726,6 +61730,7 @@
 ||proposal-beets.com^$all
 ||proposal-bera.com^$all
 ||proposal-berachain.com^$all
+||proposal-bifrostwallet.com^$all
 ||proposal-blockdag.com^$all
 ||proposal-bonk.com^$all
 ||proposal-bonks.com^$all
@@ -61771,6 +61776,7 @@
 ||proposal-mew.com^$all
 ||proposal-mind.com^$all
 ||proposal-mori.com^$all
+||proposal-nado.com^$all
 ||proposal-neurobro.com^$all
 ||proposal-newton.com^$all
 ||proposal-nura.com^$all
@@ -120467,7 +120473,6 @@
 ||geometrydashapk.io^$all
 ||get-luck.io^$all
 ||get-msu.io^$all
-||get-remittix.io^$all
 ||get-virtuals.io^$all
 ||getbased.io^$all
 ||getcard-metamask.io^$all
@@ -156477,6 +156482,7 @@
 ||gov-aave.net^$all
 ||zerolend.gov.net^$all
 ||govern-virtuals.net^$all
+||governance-aave.net^$all
 ||governance-aerodrome.net^$all
 ||governance-clawdbotatg.net^$all
 ||governance-ethena.net^$all
@@ -160983,6 +160989,7 @@
 ||proposal-ethena.network^$all
 ||proposal-kamino.network^$all
 ||proposal-katana.network^$all
+||proposal-layerzero.network^$all
 ||proposal-opengdp.network^$all
 ||proposal-pyth.network^$all
 ||proposals-curves.network^$all
@@ -166854,6 +166861,7 @@
 ||governance-renzo.org^$all
 ||governance-soneium.org^$all
 ||governance-univap.org^$all
+||governance-upshift.org^$all
 ||governance-usual.org^$all
 ||governance-virtual.org^$all
 ||governance-virtuals.org^$all
@@ -168307,6 +168315,7 @@
 ||proposals-reploy.org^$all
 ||proposals-sekoia.org^$all
 ||proposals-stone.org^$all
+||proposals-trondoa.org^$all
 ||proposals-tutorialtoken.org^$all
 ||proposals-unstable.org^$all
 ||proposals-usdai.org^$all
@@ -196299,7 +196308,9 @@
 ||governance-etherfi.xyz^$all
 ||governance-folks.xyz^$all
 ||governance-gmonad.xyz^$all
+||governance-grovefinance.xyz^$all
 ||governance-hastra.xyz^$all
+||governance-hyperlend.xyz^$all
 ||governance-hyperliquid.xyz^$all
 ||governance-kerneldao.xyz^$all
 ||governance-lombard.xyz^$all
@@ -196314,6 +196325,7 @@
 ||governance-pendle.xyz^$all
 ||governance-pendlefi.xyz^$all
 ||governance-pendlefinance.xyz^$all
+||governance-pharos.xyz^$all
 ||governance-proposals.xyz^$all
 ||governance-puffer.xyz^$all
 ||governance-raac.xyz^$all
@@ -199518,14 +199530,17 @@
 ||proposal-degen.xyz^$all
 ||proposal-degentoken.xyz^$all
 ||proposal-doublezerc.xyz^$all
+||proposal-dreamcash.xyz^$all
 ||proposal-dualfinance.xyz^$all
 ||proposal-eigeniayer.xyz^$all
 ||proposal-eigenlayer.xyz^$all
 ||proposal-ether.xyz^$all
 ||proposal-euler.xyz^$all
 ||proposal-eulerfinance.xyz^$all
+||proposal-flare.xyz^$all
 ||proposal-frax.xyz^$all
 ||proposal-grvt.xyz^$all
+||proposal-hachiko.xyz^$all
 ||proposal-hastra.xyz^$all
 ||proposal-hyperliquid.xyz^$all
 ||proposal-hyperunit.xyz^$all
@@ -199596,6 +199611,7 @@
 ||proposals-babyionlabs.xyz^$all
 ||proposals-babylon.xyz^$all
 ||proposals-beefy.xyz^$all
+||proposals-cascade.xyz^$all
 ||proposals-covalent.xyz^$all
 ||proposals-degentoken.xyz^$all
 ||proposals-eigeniayer.xyz^$all
@@ -199605,6 +199621,7 @@
 ||proposals-hyperliquid.xyz^$all
 ||proposals-l3.xyz^$all
 ||proposals-mellow.xyz^$all
+||proposals-methprotocol.xyz^$all
 ||proposals-ondo.xyz^$all
 ||proposals-ondofi.xyz^$all
 ||proposals-ondofinance.xyz^$all
@@ -199616,6 +199633,7 @@
 ||proposals-pinlink.xyz^$all
 ||proposals-soinclabs.xyz^$all
 ||proposals-solv.xyz^$all
+||proposals-upshift.xyz^$all
 ||proposals-usdai.xyz^$all
 ||proposals-usuai.xyz^$all
 ||proposals-usual.xyz^$all
