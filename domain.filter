@@ -22290,7 +22290,6 @@
 ||ag-api-gateway-cdn-v3-connect.cloud^$all
 ||ag-app-secure-cdn-connect.cloud^$all
 ||ag-apps-wallet-api-swap.cloud^$all
-||ag-auth-api-gateway-secure-api.cloud^$all
 ||ag-auth-secure-service-dex.cloud^$all
 ||ag-beta-app-edge-cdn.cloud^$all
 ||ag-beta-apps-auth-swap.cloud^$all
@@ -22405,7 +22404,6 @@
 ||com-brokers-secure-api-gateway-online.cloud^$all
 ||com-captcha.cloud^$all
 ||com-cd-internal-frontend-auth.cloud^$all
-||com-cdn-api-gateway-service-secure.cloud^$all
 ||com-cdn-auth-alpha-portal.cloud^$all
 ||com-cdn-edge-alpha-auth.cloud^$all
 ||com-cdn-edge-prod-beta.cloud^$all
@@ -22454,7 +22452,6 @@
 ||com-prod-swap-online-v2.cloud^$all
 ||com-prod-trade-api-gateway-edge.cloud^$all
 ||com-restaking.cloud^$all
-||com-secure-api-gateway-dex-swap.cloud^$all
 ||com-secure-app-edge-alpha.cloud^$all
 ||com-secure-beta-edge-alpha.cloud^$all
 ||com-secure-dex-app-auth.cloud^$all
@@ -22478,7 +22475,6 @@
 ||com-trading-services-beta-auth.cloud^$all
 ||com-us.cloud^$all
 ||aave.com-v3-api-edge-secure.cloud^$all
-||com-v4-api-crypto.cloud^$all
 ||com-v4-edge-api-gateway-alpha.cloud^$all
 ||com-wallet-gateway-cdn-auth.cloud^$all
 ||com-wallet-prod-auth-connect.cloud^$all
@@ -22595,7 +22591,6 @@
 ||finance-trade-v3-api.cloud^$all
 ||finance-v3-prod-gateway-swap.cloud^$all
 ||finance-v3-wallet-secure-services.cloud^$all
-||finance-wallet-cdn-gateway-services.cloud^$all
 ||finance-wallet-dex-api-gateway-app.cloud^$all
 ||finance-wallet-dex-prod-secure.cloud^$all
 ||finance-wallets-beta-prod-service.cloud^$all
@@ -22727,7 +22722,6 @@
 ||org-cdn-secure-gateway-beta.cloud^$all
 ||org-dex-alpha-edge-gateway.cloud^$all
 ||org-dex-api-beta-alpha.cloud^$all
-||org-gateway-alpha-services-api-gateway.cloud^$all
 ||org-gateway-beta-edge-v4.cloud^$all
 ||org-interface-api-v2.cloud^$all
 ||org-online-api-gateway-swap-api.cloud^$all
@@ -47970,6 +47964,7 @@
 ||mlkjilkfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||update.mlkjmlkfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||vuupdate.mlkjmlkfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
+||wvuupdate.mlkjmlkfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||mlkjmlkjidsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||mlkjmlkjihsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||mlknmhgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
@@ -184814,7 +184809,6 @@
 ||soneium.minato2.top^$all
 ||mindguide.top^$all
 ||miners101.top^$all
-||mining-prdt-claim.top^$all
 ||mining-usdc.top^$all
 ||miningcity.top^$all
 ||mintchaine.top^$all
