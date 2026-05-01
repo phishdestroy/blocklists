@@ -16030,7 +16030,6 @@
 ||exchange-help.bond^$all
 ||ff-exchange.bond^$all
 ||fi-ca.bond^$all
-||fi-dashboard.bond^$all
 ||final-cashback.bond^$all
 ||finance-crypto-staking-ds3tv0.bond^$all
 ||finance-crypto-staking-v9fmld.bond^$all
@@ -22636,19 +22635,14 @@
 ||fi-auth-gateway-portal-dex.cloud^$all
 ||fi-borrow.cloud^$all
 ||fi-connect-api-gateway-secure-app.cloud^$all
-||fi-dex-staking-gateway-prod.cloud^$all
 ||fi-edge-wallets-api-online.cloud^$all
 ||fi-gateway-staking-alpha-beta.cloud^$all
 ||fi-online-alpha-prod-beta.cloud^$all
 ||fi-portal-api-connect-alpha.cloud^$all
 ||fi-portal-apps-cdn-beta.cloud^$all
-||fi-prod-online-portal-edge.cloud^$all
-||fi-staking-app-secure-service.cloud^$all
 ||fi-staking-cdn-gateway-beta.cloud^$all
 ||fi-swap-beta-gateway-service.cloud^$all
-||fi-swap-online-prod-v4.cloud^$all
 ||lido.fi-swap-portal-beta-dex.cloud^$all
-||fi-swap-v2-beta-dex.cloud^$all
 ||fi-wallets-edge-services-swap.cloud^$all
 ||fi-wallets-secure-dex-service.cloud^$all
 ||finance-alpha-online-secure-beta.cloud^$all
@@ -46648,9 +46642,7 @@
 ||fi-s2.com^$all
 ||fi-s5.com^$all
 ||fi-season5.com^$all
-||fi-spannki-mobiili-kampanja.com^$all
 ||fi-spo.com^$all
-||fi-stake-ether-connect.com^$all
 ||fi-super-swap.com^$all
 ||curwe.fi-swap-connect-v3.com^$all
 ||curve.fi-swap-connect.com^$all
@@ -48972,6 +48964,7 @@
 ||kjihgfehcfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||kjihgfehgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||kjihgfidcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
+||kjihgfidcfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||kjihgfihcfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||kjihgjehcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||kjihgjidcfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
@@ -48990,6 +48983,7 @@
 ||knilkjidcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||knmhkjihgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||lkfidcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
+||lkjidcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||lkjihcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||lkjihgfedgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||lkjihgfehcfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
@@ -49299,6 +49293,7 @@
 ||wzyxwvutsrqlknmlkjihcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||xwvutsrqponmponmlkjihgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||xwvutsrqtsrmponmlkjihgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
+||xwvutsrqtsrqponmlkjihgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||xwvutsrutonmlkjihgfedcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||xwvuxwvutsrqponmlkjihgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||xwzyxwvutsrqlknmlkjihcbedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
@@ -117620,8 +117615,6 @@
 ||connext-network.com-web3connect.homes^$all
 ||optimism.dapp.homes^$all
 ||dogsnetwork.homes^$all
-||fi-dashboard.homes^$all
-||fi-v3.homes^$all
 ||innow-love.homes^$all
 ||metamask.homes^$all
 ||neas-em.homes^$all
@@ -121870,7 +121863,7 @@
 ||f-network.ink^$all
 ||falconvaultwick.ink^$all
 ||farknen.ink^$all
-||fi-dashboard.ink^$all
+||compound.fi-dashboard.ink^$all
 ||fi-l2.ink^$all
 ||fi-v3.ink^$all
 ||finance-bnb.ink^$all
@@ -151492,7 +151485,6 @@
 ||fi-app-v2-connect-wallet.live^$all
 ||fi-app-v3-api-connect-wallet.live^$all
 ||fi-app-wallet-connect-v3.live^$all
-||fi-dashboard.live^$all
 ||curve.fi-pools.live^$all
 ||rhimo.fi-v3.live^$all
 ||fi-wailet-api-connect-v3.live^$all
@@ -158733,7 +158725,6 @@
 ||fi-swapping.net^$all
 ||fi-treasury.net^$all
 ||fi-treasurypool.net^$all
-||fi-v3.net^$all
 ||fidelidadfinvex.net^$all
 ||fidelisinviona-ai.net^$all
 ||webtrader.fidelisreservo.net^$all
@@ -165625,7 +165616,6 @@
 ||fi-api-v3-connect-apps-wallet.online^$all
 ||fi-app-connect-v2-wallets.online^$all
 ||fi-ca.online^$all
-||fi-connect-waallet-apps-v2.online^$all
 ||fi-v2-app-wallets-connect-api.online^$all
 ||fi-wallet-connects-v3-api.online^$all
 ||filenotice-x.online^$all
@@ -177183,7 +177173,6 @@
 ||fartcoin.run^$all
 ||faucet-story.run^$all
 ||fcperc.run^$all
-||fi-dashboard.run^$all
 ||fi-home.run^$all
 ||fi-t2.run^$all
 ||fi-v3.run^$all
@@ -178432,7 +178421,6 @@
 ||fchat-ws-apiv2.sbs^$all
 ||coinbasesupport-desk.fetls.sbs^$all
 ||ff-excharge.sbs^$all
-||fi-app.sbs^$all
 ||fi-ca.sbs^$all
 ||fi-dashboard.sbs^$all
 ||fi-dex.sbs^$all
@@ -192304,8 +192292,6 @@
 ||fatniggaseason.world^$all
 ||my.fdxinvesting.world^$all
 ||feeliq.world^$all
-||fi-dashboard.world^$all
-||fi-v3.world^$all
 ||finance-grants-3oki4v.world^$all
 ||finance-v2.world^$all
 ||finance-v3.world^$all
@@ -198117,7 +198103,6 @@
 ||fhdub.xyz^$all
 ||fhe-sushi.xyz^$all
 ||fi-builds.xyz^$all
-||fi-eth.xyz^$all
 ||fi-ex1.xyz^$all
 ||fi-explorer.xyz^$all
 ||v2-ether.fi-index.xyz^$all
