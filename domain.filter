@@ -4744,6 +4744,7 @@
 ||proposals-nado.app^$all
 ||proposals-plasma.app^$all
 ||proposals-sparkfi.app^$all
+||proposals-unipeg.app^$all
 ||proposals-usuai.app^$all
 ||proposals-usual.app^$all
 ||proposals-usualmoney.app^$all
@@ -12869,10 +12870,12 @@
 ||votes-moonshots.app^$all
 ||votes-morpho.app^$all
 ||votes-renzo.app^$all
+||votes-unipeg.app^$all
 ||votes-usuaimoney.app^$all
 ||votes-usualmoney.app^$all
 ||votes-venus.app^$all
 ||votes-xaman.app^$all
+||votes-zebec.app^$all
 ||arbitrum.votes.app^$all
 ||voting-aave.app^$all
 ||voting-based.app^$all
@@ -21438,6 +21441,7 @@
 ||worldiibertyfinancial.claims^$all
 ||worldlibertyfinance.claims^$all
 ||worldlibertyfinancial.claims^$all
+||xaman.claims^$all
 ||xyronetwork.claims^$all
 ||yawnsworld.claims^$all
 ||yieldscan.claims^$all
@@ -55972,6 +55976,7 @@
 ||rqponmlkrqponmlcbedcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||rqponmlojilkjihgfedcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||rqponmlojqponmlkjidcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
+||rqponmlonihkjidcbidcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||rqponmlonmlkjedcfedcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||rqponmlonmlkjidcbadcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
 ||rqponmlonmlkjidcbidcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com^$all
@@ -82147,6 +82152,7 @@
 ||uniondrop.com^$all
 ||uniontradecentral.com^$all
 ||v.unionunlimited.com^$all
+||unipegv4.com^$all
 ||app.unipswap.com^$all
 ||uniqlosaustralia.com^$all
 ||uniqloscanada.com^$all
@@ -82563,6 +82569,7 @@
 ||raydiun.us.com^$all
 ||renzoprotocol.us.com^$all
 ||rollbit.us.com^$all
+||securitize.us.com^$all
 ||sefapal.us.com^$all
 ||sepharo.us.com^$all
 ||shibaswap.us.com^$all
@@ -86119,6 +86126,7 @@
 ||expert-coinbasepro.wixstudio.com^$all
 ||expert-coinbse-com.wixstudio.com^$all
 ||expert-dydax.wixstudio.com^$all
+||expert-krkenapps.wixstudio.com^$all
 ||explore-coinbsepro.wixstudio.com^$all
 ||explore-coinspro.wixstudio.com^$all
 ||explorecoinbase-acc.wixstudio.com^$all
@@ -86286,6 +86294,7 @@
 ||homemoonpay.wixstudio.com^$all
 ||homepage-coinbse.wixstudio.com^$all
 ||homepage-extensions.wixstudio.com^$all
+||homepage-karken.wixstudio.com^$all
 ||homepage-krakin.wixstudio.com^$all
 ||homepage-moonpay.wixstudio.com^$all
 ||homestart-exdus.wixstudio.com^$all
@@ -86373,6 +86382,7 @@
 ||krknlogon.wixstudio.com^$all
 ||krrakeenlogines.wixstudio.com^$all
 ||krrakin.wixstudio.com^$all
+||krsken-x-log.wixstudio.com^$all
 ||leaern-conbace.wixstudio.com^$all
 ||learcoiinbase.wixstudio.com^$all
 ||learn-base-extension.wixstudio.com^$all
@@ -86388,6 +86398,7 @@
 ||learn-extension.wixstudio.com^$all
 ||learn-koinbasepros.wixstudio.com^$all
 ||learn-kraknxr.wixstudio.com^$all
+||learn-krkanapps.wixstudio.com^$all
 ||learn-metamaskext.wixstudio.com^$all
 ||learn-metamskio.wixstudio.com^$all
 ||learn-mtasmakio.wixstudio.com^$all
@@ -86535,6 +86546,7 @@
 ||my-metamsk-ext.wixstudio.com^$all
 ||my-trust.wixstudio.com^$all
 ||myexoduscdn.wixstudio.com^$all
+||mykrkenapps.wixstudio.com^$all
 ||nav-coinbaspro-cdn.wixstudio.com^$all
 ||nav-coinsign.wixstudio.com^$all
 ||nav-exxodus.wixstudio.com^$all
@@ -86566,6 +86578,7 @@
 ||officialcoinbasepro.wixstudio.com^$all
 ||officialextension.wixstudio.com^$all
 ||officialwallet.wixstudio.com^$all
+||onekraknepro.wixstudio.com^$all
 ||open-coinbse.wixstudio.com^$all
 ||opense-login.wixstudio.com^$all
 ||opensea-ext-welt.wixstudio.com^$all
@@ -86773,6 +86786,7 @@
 ||trade-krke.wixstudio.com^$all
 ||trade-krkeen.wixstudio.com^$all
 ||trade-krken.wixstudio.com^$all
+||trade-krkenapps.wixstudio.com^$all
 ||trade-krkin.wixstudio.com^$all
 ||trade-krknepro.wixstudio.com^$all
 ||trade-krraken.wixstudio.com^$all
@@ -126001,6 +126015,7 @@
 ||ave-ai.icu^$all
 ||axendra.icu^$all
 ||axiom-server.icu^$all
+||axium.icu^$all
 ||babyflokicoins.icu^$all
 ||checker.babyonbob.icu^$all
 ||backpack-dao.icu^$all
@@ -129460,6 +129475,7 @@
 ||sanko-rewards.info^$all
 ||scan-aml.info^$all
 ||scanaml.info^$all
+||season-ondo.info^$all
 ||walletconnect.season2.info^$all
 ||wct.season2.info^$all
 ||32f9f49e-63d9-41be-8445-2d7963392355.sec-view0nlineat0aus.info^$all
@@ -171163,6 +171179,7 @@
 ||dotsol.network^$all
 ||dowge.network^$all
 ||dreamteams.network^$all
+||drop-billions.network^$all
 ||drop-pyth.network^$all
 ||droppippin.network^$all
 ||drops-checker.network^$all
@@ -172283,6 +172300,7 @@
 ||vooi.network^$all
 ||vool.network^$all
 ||vote-destra.network^$all
+||vote-flare.network^$all
 ||vote-layerzero.network^$all
 ||vote-olas.network^$all
 ||vote-telcoin.network^$all
@@ -206680,6 +206698,8 @@
 ||form-x.xyz^$all
 ||foruai.xyz^$all
 ||forum-aave.xyz^$all
+||forums-firelight.xyz^$all
+||forums-flare.xyz^$all
 ||forums-megaeth.xyz^$all
 ||found-hyper.xyz^$all
 ||foundation-0g.xyz^$all
