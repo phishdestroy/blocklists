@@ -4635,6 +4635,7 @@
 ||coinbaseextension.vercel.app^$all
 ||coinbasepro-pi.vercel.app^$all
 ||coinbasewallet-setup-fgy4ch0hw-davids-projects-1426eb9a.vercel.app^$all
+||coinbasextension.vercel.app^$all
 ||coinbseextension.vercel.app^$all
 ||coinlist-iota.vercel.app^$all
 ||coinlist-lake.vercel.app^$all
@@ -11802,12 +11803,10 @@
 ||com-api-gateway-platform-v2-portal.cloud^$all
 ||com-api-gateway-prod-platform-apps.cloud^$all
 ||com-api-gateway-secure-online-portal.cloud^$all
-||com-api-gateway-swap-connect-cdn.cloud^$all
 ||com-api-gateway-v1-dex-online.cloud^$all
 ||com-api-gateway-wallets-v1-edge.cloud^$all
 ||com-api-v3-protocol.cloud^$all
 ||com-app-api-online-cdn.cloud^$all
-||com-app-prod-api-gateway-online.cloud^$all
 ||com-approve-reservation.cloud^$all
 ||com-backend-api-v5-gateway.cloud^$all
 ||com-bank-api-v3.cloud^$all
@@ -11853,8 +11852,6 @@
 ||com-portal-swap-service-v2.cloud^$all
 ||com-prod-gateway-auth-secure.cloud^$all
 ||com-prod-online-api-gateway-portal.cloud^$all
-||com-prod-swap-online-v2.cloud^$all
-||com-prod-trade-api-gateway-edge.cloud^$all
 ||com-secure-app-edge-alpha.cloud^$all
 ||com-secure-dex-app-auth.cloud^$all
 ||com-secure-prod-trading-beta.cloud^$all
@@ -11874,7 +11871,6 @@
 ||com-us.cloud^$all
 ||com-v4-edge-api-gateway-alpha.cloud^$all
 ||com-wallet-prod-auth-connect.cloud^$all
-||com-wallet-v1-secure-prod.cloud^$all
 ||com-wallets-gateway-app-beta.cloud^$all
 ||connect-wallet.cloud^$all
 ||n8n.consensys-digital.cloud^$all
@@ -11898,7 +11894,6 @@
 ||node.rising-phantom-iatcfvpi.expresshost.cloud^$all
 ||ff-exchange.cloud^$all
 ||fi-alpha-api-dex-swap.cloud^$all
-||fi-alpha-app-service-auth.cloud^$all
 ||fi-api-gateway-alpha-wallet-app.cloud^$all
 ||fi-api-gateway-secure-dex-service.cloud^$all
 ||fi-api-portal-online-edge.cloud^$all
@@ -11934,10 +11929,8 @@
 ||finance-secure-prod-edge-api.cloud^$all
 ||finance-secure-prod-gateway-beta.cloud^$all
 ||finance-services-api-gateway-cdn.cloud^$all
-||finance-swap-api-gateway-wallets-services.cloud^$all
 ||finance-trade-v3-api.cloud^$all
 ||finance-v3-prod-gateway-swap.cloud^$all
-||finance-v3-wallet-secure-services.cloud^$all
 ||finance-wallet-dex-api-gateway-app.cloud^$all
 ||finance-wallets-swap-beta-edge.cloud^$all
 ||flashusdt.cloud^$all
@@ -15547,7 +15540,6 @@
 ||app-kineticmarket.com^$all
 ||app-kinzafinance-v2.com^$all
 ||app-kraken.com^$all
-||app-ledger-security.com^$all
 ||app-legion.com^$all
 ||app-lido-fv2.com^$all
 ||app-lido-v1.com^$all
