@@ -1160,6 +1160,7 @@
 ||aav-bridge-v4.app^$all
 ||aave-check.app^$all
 ||aave-compensate.app^$all
+||aave-compensation.app^$all
 ||aave-petition.app^$all
 ||aave-voting.app^$all
 ||join.abse.app^$all
@@ -3241,6 +3242,7 @@
 ||proposals-nado.app^$all
 ||proposals-plasma.app^$all
 ||proposals-unipeg.app^$all
+||proposals-usdai.app^$all
 ||remotecontrol.props.app^$all
 ||psyopanime.app^$all
 ||pudgy-claim.app^$all
@@ -40028,8 +40030,10 @@
 ||proposal-flare.com^$all
 ||proposal-flyingtulip.com^$all
 ||proposal-hachiko.com^$all
+||proposal-hive.com^$all
 ||proposal-hyperfoundation.com^$all
 ||proposal-kelpdao.com^$all
+||proposal-kledai.com^$all
 ||proposal-maplefinance.com^$all
 ||proposal-megaeth.com^$all
 ||proposal-nado.com^$all
@@ -40037,6 +40041,7 @@
 ||proposal-offer.com^$all
 ||opensea.io.proposal-offers.com^$all
 ||proposal-opengdp.com^$all
+||proposal-pepe.com^$all
 ||proposal-stbl.com^$all
 ||proposal-tydro.com^$all
 ||proposal-umbraprivacy.com^$all
@@ -42104,6 +42109,7 @@
 ||spinningsolana.com^$all
 ||spintorn.com^$all
 ||spinup1.com^$all
+||spinwheel-proposals.com^$all
 ||spirush.com^$all
 ||splarkdex.com^$all
 ||splashsgame.com^$all
@@ -42117,7 +42123,6 @@
 ||spot-skrseason.com^$all
 ||spot-sontrix.com^$all
 ||spot6zvirexa-es.com^$all
-||spot900-renova.com^$all
 ||spotcoinnect.com^$all
 ||spotfyapks.com^$all
 ||spotfymodapk.com^$all
@@ -43361,6 +43366,7 @@
 ||mtpctp.trodbn.com^$all
 ||trojandrops.com^$all
 ||trojansolanabot.com^$all
+||troll-allocation.com^$all
 ||troll-claim.com^$all
 ||trollscan-aml.com^$all
 ||tron-bandwidth.com^$all
@@ -44149,10 +44155,12 @@
 ||tubemateofficial.com^$all
 ||tubematte.com^$all
 ||tufejix.com^$all
+||tul-proposal.com^$all
 ||turnasayinlar.com^$all
 ||turnereng.com^$all
 ||turtlefranklin.com^$all
 ||claims.turtlles.com^$all
+||tus-proposal.com^$all
 ||tustwin.com^$all
 ||tuzoom011.com^$all
 ||tv-garden2.com^$all
@@ -44250,6 +44258,7 @@
 ||metamasksecure.unaux.com^$all
 ||unbridgedapp-v-4.com^$all
 ||unbridgedapp-v4.com^$all
+||unc-allocation.com^$all
 ||unc-sol.com^$all
 ||unclaimed-lido.com^$all
 ||undaed.com^$all
@@ -44280,6 +44289,7 @@
 ||unilabs-x.com^$all
 ||uniocking.com^$all
 ||v.unionunlimited.com^$all
+||unipeg-votes.com^$all
 ||unipegart.com^$all
 ||unipegv4.com^$all
 ||uniqlosaustralia.com^$all
@@ -50166,7 +50176,6 @@
 ||authd-log-krakon-cdn.pages.dev^$all
 ||authd-sso-krakeen-cdn.pages.dev^$all
 ||authd-sso-uphold.pages.dev^$all
-||authd-uphld-learn.pages.dev^$all
 ||authenticate-metamask.pages.dev^$all
 ||authentication-krek-us.pages.dev^$all
 ||authifierdapp.pages.dev^$all
@@ -61163,7 +61172,6 @@
 ||uphold-logo.pages.dev^$all
 ||uphold-portal-cloud.pages.dev^$all
 ||uphold-prod-h5.pages.dev^$all
-||uphold-services.pages.dev^$all
 ||uphold-signin.pages.dev^$all
 ||uphold-site-auth.pages.dev^$all
 ||uphold-us-aht.pages.dev^$all
@@ -77842,6 +77850,8 @@
 ||moonshot-poll.live^$all
 ||www.moonshot-polling.live^$all
 ||moonshot-top.live^$all
+||moonshot-voters.live^$all
+||moonshot-votes.live^$all
 ||moonshotvote.live^$all
 ||moonshotvotes.live^$all
 ||moonshotvoting.live^$all
@@ -79945,6 +79955,7 @@
 ||probabie.markets^$all
 ||probalble.markets^$all
 ||proposal-strata.markets^$all
+||proposals-strata.markets^$all
 ||prorbable.markets^$all
 ||register-strata.markets^$all
 ||rewards-strata.markets^$all
@@ -84019,6 +84030,7 @@
 ||propexs.network^$all
 ||prophex.network^$all
 ||proposal-ethena.network^$all
+||proposal-flare.network^$all
 ||proposal-kamino.network^$all
 ||proposal-katana.network^$all
 ||proposal-layerzero.network^$all
@@ -101750,6 +101762,8 @@
 ||allocations-eigenlayer.xyz^$all
 ||allocations-grassnetwork.xyz^$all
 ||allocations-kinetiq.xyz^$all
+||allocations-merkl.xyz^$all
+||allocations-merkle.xyz^$all
 ||allocations-usdai.xyz^$all
 ||allocations-usefelix.xyz^$all
 ||allocatlon-suilend.xyz^$all
@@ -104108,6 +104122,7 @@
 ||gobigsol.xyz^$all
 ||gobingwucoin.xyz^$all
 ||goblackbull.xyz^$all
+||goblin-allocation.xyz^$all
 ||goblin-coin.xyz^$all
 ||goblintrump.xyz^$all
 ||goblockai.xyz^$all
@@ -104993,6 +105008,7 @@
 ||makrets.xyz^$all
 ||malnnet-megaeth.xyz^$all
 ||mansoryofficial.xyz^$all
+||mantle-proposal.xyz^$all
 ||mantle-vote.xyz^$all
 ||mantra-zone-migrate.xyz^$all
 ||mantratoken.xyz^$all
