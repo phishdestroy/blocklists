@@ -2259,7 +2259,6 @@
 ||instad.app^$all
 ||invite-pendle.app^$all
 ||io-airdrops.app^$all
-||io-claim.app^$all
 ||io-dao.app^$all
 ||io-dashboard.app^$all
 ||io-en-us.app^$all
@@ -8249,7 +8248,6 @@
 ||dinari.casa^$all
 ||driftprotocoi.casa^$all
 ||ezcash.casa^$all
-||fi-node-070.casa^$all
 ||dashboard.goiem.casa^$all
 ||katana.casa^$all
 ||livepeer.casa^$all
@@ -11822,12 +11820,10 @@
 ||com-api-gateway-secure-online-portal.cloud^$all
 ||com-api-gateway-v1-dex-online.cloud^$all
 ||com-api-gateway-wallets-v1-edge.cloud^$all
-||com-api-v3-protocol.cloud^$all
 ||com-app-api-online-cdn.cloud^$all
 ||com-approve-reservation.cloud^$all
 ||com-backend-api-v5-gateway.cloud^$all
 ||com-bank-api-v3.cloud^$all
-||com-brokers-secure-api-gateway-online.cloud^$all
 ||com-captcha.cloud^$all
 ||com-cd-internal-frontend-auth.cloud^$all
 ||com-cdn-auth-alpha-portal.cloud^$all
@@ -11835,7 +11831,6 @@
 ||com-cdn-edge-prod-beta.cloud^$all
 ||com-cluster-saas-platform-main.cloud^$all
 ||com-connect-alpha-edge-prod.cloud^$all
-||com-connect-edge-api-gateway-secure.cloud^$all
 ||com-connects-cdn-api-gateway-online.cloud^$all
 ||com-dex-swap-connect-api-gateway.cloud^$all
 ||com-dex-swap-wallets-connect.cloud^$all
@@ -11852,12 +11847,9 @@
 ||com-gateway-beta-wallets-edge.cloud^$all
 ||com-invest-api-portal-auth.cloud^$all
 ||com-invest-services-broker-alpha.cloud^$all
-||com-invests-auth-api-trading.cloud^$all
 ||com-management-edge-gateway-api-gateway.cloud^$all
-||com-management-v2-edge-secure.cloud^$all
 ||com-online-api-gateway-prod-connect.cloud^$all
 ||com-online-beta-it-ai.cloud^$all
-||com-online-brokers-alpha-cdn.cloud^$all
 ||com-online-gateway-trade-v3.cloud^$all
 ||com-online-secure-gateway-management.cloud^$all
 ||com-platform-edge-v1-cd.cloud^$all
@@ -11865,19 +11857,15 @@
 ||com-portal-auth-alpha-service.cloud^$all
 ||com-portal-cdn-api-gateway-auth.cloud^$all
 ||com-portal-claims.cloud^$all
-||com-portal-service-online-brokers.cloud^$all
-||com-portal-swap-service-v2.cloud^$all
 ||com-prod-gateway-auth-secure.cloud^$all
 ||com-prod-online-api-gateway-portal.cloud^$all
 ||com-secure-app-edge-alpha.cloud^$all
 ||com-secure-dex-app-auth.cloud^$all
 ||com-secure-prod-trading-beta.cloud^$all
-||com-secure-services-beta-career.cloud^$all
 ||com-service-alpha-gateway-secure.cloud^$all
 ||com-service-api-cdn-career.cloud^$all
 ||com-service-app-cluster-api-gateway.cloud^$all
 ||com-service-online.cloud^$all
-||com-service-portal-gateway-api.cloud^$all
 ||com-swap-auth-alpha-secure.cloud^$all
 ||hyperliquid.com-swap-gateway-services-prod.cloud^$all
 ||com-swap-v4-auth-cdn.cloud^$all
@@ -11914,7 +11902,6 @@
 ||fi-api-gateway-secure-dex-service.cloud^$all
 ||fi-api-portal-online-edge.cloud^$all
 ||fi-api-prod-dex-connect.cloud^$all
-||fi-api-v3-stake.cloud^$all
 ||fi-auth-gateway-portal-dex.cloud^$all
 ||fi-connect-api-gateway-secure-app.cloud^$all
 ||fi-gateway-staking-alpha-beta.cloud^$all
@@ -11932,7 +11919,6 @@
 ||finance-api-gateway-portal-cdn-connect.cloud^$all
 ||finance-api-gateway-services-prod.cloud^$all
 ||finance-cdn-online-apps-alpha.cloud^$all
-||finance-connect-beta-api-v4.cloud^$all
 ||finance-connects-online-wallet-secure.cloud^$all
 ||finance-edge-alpha-swap-api-gateway.cloud^$all
 ||finance-gateway-alpha-swap-prod.cloud^$all
@@ -11945,7 +11931,6 @@
 ||finance-secure-prod-edge-api.cloud^$all
 ||finance-secure-prod-gateway-beta.cloud^$all
 ||finance-services-api-gateway-cdn.cloud^$all
-||finance-trade-v3-api.cloud^$all
 ||finance-v3-prod-gateway-swap.cloud^$all
 ||finance-wallet-dex-api-gateway-app.cloud^$all
 ||finance-wallets-swap-beta-edge.cloud^$all
@@ -11963,10 +11948,7 @@
 ||hyperliquid-app-v2.cloud^$all
 ||hypperswap.cloud^$all
 ||io-alpha-fast-online-v5.cloud^$all
-||io-api-v2-exchange.cloud^$all
 ||io-cdn-gateway-auth-alpha.cloud^$all
-||io-exchange-api-v3.cloud^$all
-||io-exchange-tokens.cloud^$all
 ||io-gateway-change-v5-token.cloud^$all
 ||io-prod-token-cdn-change.cloud^$all
 ||io-v3-services-alpha-change.cloud^$all
@@ -11994,8 +11976,6 @@
 ||obmmzoom.cloud^$all
 ||ops-live.cloud^$all
 ||org-api-alpha-services-prod.cloud^$all
-||org-api-auth-connect-beta.cloud^$all
-||org-auth-swap-service-prod.cloud^$all
 ||org-cdn-apps-api-gateway-wallet.cloud^$all
 ||org-dex-alpha-edge-gateway.cloud^$all
 ||org-dex-api-beta-alpha.cloud^$all
@@ -19392,7 +19372,6 @@
 ||com-helpdesk.com^$all
 ||com-id181471hbcg18bvaiu1vart17ca71c7a.com^$all
 ||com-id1915hjshr8uo9sahg814bg8ad91d.com^$all
-||com-id5938420.com^$all
 ||com-id891nfcvhb1b8ab1zib98i2hj17ab17an1kgu.com^$all
 ||com-id91hc81qbfc81bivc798i1qbcu1b8cg1v8a1b.com^$all
 ||com-id91n981nfubtks91bf81ij1n9ab1v3qa.com^$all
@@ -19409,7 +19388,6 @@
 ||com-new-connect.com^$all
 ||com-pa.com^$all
 ||com-partnercomplaints.com^$all
-||com-presale.com^$all
 ||com-promo.com^$all
 ||com-property-id88029.com^$all
 ||com-protocol-appv4-connect.com^$all
@@ -22241,7 +22219,6 @@
 ||finance-etherscan.com^$all
 ||finance-ewallet.com^$all
 ||finance-giveaways.com^$all
-||finance-guide-germany.com^$all
 ||lido.finance-home-us.com^$all
 ||finance-in-rnotion.com^$all
 ||finance-kamino.com^$all
@@ -38584,7 +38561,6 @@
 ||pudgypenguins.nftmint-eth.com^$all
 ||pudgypenguins.nftminter-eth.com^$all
 ||nftnovamarket.com^$all
-||nfts-claim-opensea.com^$all
 ||nfts-offer.com^$all
 ||nfts-weth.com^$all
 ||opensea.io.nftsglow.com^$all
@@ -66053,7 +66029,6 @@
 ||coinsolution.help^$all
 ||coinza.help^$all
 ||com-181626.help^$all
-||com-306421.help^$all
 ||com-321382.help^$all
 ||com-522161.help^$all
 ||com-6845627.help^$all
@@ -84936,7 +84911,6 @@
 ||com-iost.online^$all
 ||com-msoft.online^$all
 ||com-n9.online^$all
-||com-online.online^$all
 ||com-payment.online^$all
 ||com-perdido.online^$all
 ||com-portal-claims.online^$all
@@ -90032,9 +90006,7 @@
 ||app.astar.qpon^$all
 ||axendra.qpon^$all
 ||base.qpon^$all
-||com-q.qpon^$all
 ||com-us.qpon^$all
-||com-y.qpon^$all
 ||conscious-capital.qpon^$all
 ||exchange-center.qpon^$all
 ||exchange-help.qpon^$all
@@ -92909,14 +92881,11 @@
 ||cake-v4-2938.sbs^$all
 ||cannine.sbs^$all
 ||capital-top-finatlasx.sbs^$all
-||capital-top-finboost.sbs^$all
 ||capital-top-finixo.sbs^$all
-||capital-top-finlayer.sbs^$all
 ||capital-top-finlogicup.sbs^$all
 ||capital-top-finmurqox.sbs^$all
 ||capital-top-finpathai.sbs^$all
 ||capital-top-finpathhub.sbs^$all
-||capital-top-finpathnet.sbs^$all
 ||capital-top-finqerivo.sbs^$all
 ||capital-top-finrisez.sbs^$all
 ||capital-top-finshiftx.sbs^$all
@@ -94290,7 +94259,6 @@
 ||help.colnbase.site^$all
 ||com-0916368.site^$all
 ||com-collab.site^$all
-||com-security.site^$all
 ||com-us.site^$all
 ||com-user.site^$all
 ||com-v3.site^$all
@@ -101724,7 +101692,6 @@
 ||airdrop-rcadia.xyz^$all
 ||airdrop-sentient.xyz^$all
 ||airdrop-sentlent.xyz^$all
-||airdrop-sign-global.xyz^$all
 ||airdrop-superfortune.xyz^$all
 ||airdrop-trustwallet.xyz^$all
 ||airdrop-wardenprotocol.xyz^$all
