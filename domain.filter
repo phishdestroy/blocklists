@@ -11658,10 +11658,6 @@
 ||0gfoundation.cloud^$all
 ||kraken.a-dex.cloud^$all
 ||account-secure-portal.cloud^$all
-||ag-api-edge-prod-cdn.cloud^$all
-||ag-gateway-auth-dex-portal.cloud^$all
-||ag-gateway-auth-portal-v4.cloud^$all
-||ag-secure-apps-auth-edge.cloud^$all
 ||ag-wallets-v4-apps-edge.cloud^$all
 ||agentlisa.cloud^$all
 ||cgpt.airdropalert.cloud^$all
@@ -11686,19 +11682,13 @@
 ||coinbase-support.cloud^$all
 ||coinbasepayment.cloud^$all
 ||coinlist.cloud^$all
-||com-alpha-secure-api-gateway-dex.cloud^$all
 ||com-alpha-wallets-cdn-connect.cloud^$all
 ||com-approve-reservation.cloud^$all
 ||com-cdn-edge-prod-beta.cloud^$all
-||com-connects-cdn-api-gateway-online.cloud^$all
-||com-dex-swap-connect-api-gateway.cloud^$all
 ||com-edge-wallet-api-secure.cloud^$all
 ||com-file.cloud^$all
-||com-portal-cdn-api-gateway-auth.cloud^$all
 ||com-portal-claims.cloud^$all
 ||com-us.cloud^$all
-||com-v4-edge-api-gateway-alpha.cloud^$all
-||com-wallet-prod-auth-connect.cloud^$all
 ||connect-wallet.cloud^$all
 ||n8n.consensys-digital.cloud^$all
 ||dankze.cloud^$all
@@ -11719,11 +11709,9 @@
 ||exodus-wallet.cloud^$all
 ||node.rising-phantom-iatcfvpi.expresshost.cloud^$all
 ||ff-exchange.cloud^$all
-||fi-api-gateway-alpha-wallet-app.cloud^$all
 ||fi-api-gateway-secure-dex-service.cloud^$all
 ||fi-auth-gateway-portal-dex.cloud^$all
 ||lido.fi-connect-api-gateway-secure-app.cloud^$all
-||fi-wallets-edge-services-swap.cloud^$all
 ||finance-api-gateway-portal-cdn-connect.cloud^$all
 ||finance-api-gateway-services-prod.cloud^$all
 ||finance-cdn-online-apps-alpha.cloud^$all
@@ -82519,7 +82507,6 @@
 ||bscscan.nl^$all
 ||buytrx.nl^$all
 ||chaingpt.nl^$all
-||claims-terra-money.nl^$all
 ||acfffcoinbase-mobilex.coinbasecard.nl^$all
 ||lwgtxstaging.api.coinbasecard.nl^$all
 ||coinbasekaart.nl^$all
@@ -83844,7 +83831,6 @@
 ||access-chainlink.org^$all
 ||access-hyper.org^$all
 ||access-pippin.org^$all
-||access-uniswap-v4.org^$all
 ||accountviewers.org^$all
 ||across-bridge.org^$all
 ||across-bridges.org^$all
@@ -84248,7 +84234,6 @@
 ||claim-meteora.org^$all
 ||claim-near.org^$all
 ||claim-polymarket.org^$all
-||claim-portal-cryptopia.org^$all
 ||claim-pushprotocol.org^$all
 ||claim-ratex.org^$all
 ||claim-ravedao.org^$all
