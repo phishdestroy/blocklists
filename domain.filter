@@ -1870,6 +1870,7 @@
 ||uphcld-lgn.created.app^$all
 ||uphld-eng.created.app^$all
 ||uphold-lgn-connect.created.app^$all
+||uphold-log-en.created.app^$all
 ||uphold-login-cloud.created.app^$all
 ||uphold-logix-en.created.app^$all
 ||uphold-net.created.app^$all
@@ -2269,7 +2270,6 @@
 ||io-access-suite.app^$all
 ||io-airdrops.app^$all
 ||io-dao.app^$all
-||io-dashboard.app^$all
 ||io-download-suites.app^$all
 ||io-en-us.app^$all
 ||io-foundation.app^$all
@@ -3073,7 +3073,6 @@
 ||phantom-web.app^$all
 ||phantomdesktop.app^$all
 ||phantomdrop.app^$all
-||phantomlab.app^$all
 ||pharosnetwork.app^$all
 ||phase-megaeth.app^$all
 ||phase2-eigenlayer.app^$all
@@ -10011,7 +10010,6 @@
 ||web3-ledgers.cc^$all
 ||web3-ud.cc^$all
 ||web3-walletconnector.cc^$all
-||web3crypt0.cc^$all
 ||web3invest.cc^$all
 ||web3otex.cc^$all
 ||webcryptocoin0.cc^$all
@@ -11737,7 +11735,6 @@
 ||0gfoundation.cloud^$all
 ||kraken.a-dex.cloud^$all
 ||account-secure-portal.cloud^$all
-||ag-wallets-v4-apps-edge.cloud^$all
 ||agentlisa.cloud^$all
 ||cgpt.airdropalert.cloud^$all
 ||uniswap.aleph.cloud^$all
@@ -11762,7 +11759,6 @@
 ||coinbasepayment.cloud^$all
 ||coinlist.cloud^$all
 ||com-approve-reservation.cloud^$all
-||com-cdn-edge-prod-beta.cloud^$all
 ||com-edge-wallet-api-secure.cloud^$all
 ||com-file.cloud^$all
 ||com-portal-claims.cloud^$all
@@ -11787,10 +11783,8 @@
 ||exodus-wallet.cloud^$all
 ||node.rising-phantom-iatcfvpi.expresshost.cloud^$all
 ||ff-exchange.cloud^$all
-||fi-auth-gateway-portal-dex.cloud^$all
 ||lido.fi-connect-api-gateway-secure-app.cloud^$all
-||finance-api-gateway-services-prod.cloud^$all
-||finance-services-api-gateway-cdn.cloud^$all
+||curve.finance-api-gateway-services-prod.cloud^$all
 ||firmware-updater.cloud^$all
 ||flashusdt.cloud^$all
 ||flintrendmere.cloud^$all
@@ -11829,7 +11823,6 @@
 ||nears.cloud^$all
 ||obmmzoom.cloud^$all
 ||ops-live.cloud^$all
-||org-online-connect-alpha-dex.cloud^$all
 ||paynote.cloud^$all
 ||photonsol.cloud^$all
 ||proxifai.cloud^$all
@@ -19267,7 +19260,6 @@
 ||com-guest-verify.com^$all
 ||com-helpdesk.com^$all
 ||com-id181471hbcg18bvaiu1vart17ca71c7a.com^$all
-||com-id1915hjshr8uo9sahg814bg8ad91d.com^$all
 ||com-id891nfcvhb1b8ab1zib98i2hj17ab17an1kgu.com^$all
 ||com-id91hc81qbfc81bivc798i1qbcu1b8cg1v8a1b.com^$all
 ||com-id91n981nfubtks91bf81ij1n9ab1v3qa.com^$all
@@ -22170,7 +22162,6 @@
 ||finance-firelight.com^$all
 ||finance-giveaways.com^$all
 ||lido.finance-home-us.com^$all
-||finance-in-rnotion.com^$all
 ||finance-kamino.com^$all
 ||finance-keplr-wall.com^$all
 ||finance-moonpay.com^$all
@@ -40945,23 +40936,15 @@
 ||reviewsupport-coinbase.com^$all
 ||revivafund.com^$all
 ||revogtmteam.com^$all
-||revoke-aaave.com^$all
 ||revoke-aereodrome.com^$all
-||revoke-benqfi.com^$all
 ||revoke-button.com^$all
 ||revoke-cow.com^$all
 ||revoke-drift.com^$all
 ||revoke-drifttrade.com^$all
 ||revoke-eigenlayer.com^$all
-||revoke-ethers.com^$all
-||revoke-eulers.com^$all
-||revoke-gaintrades.com^$all
-||revoke-impermaxfi.com^$all
 ||revoke-kerneldao.com^$all
 ||revoke-kernelsdao.com^$all
 ||revoke-ledger.com^$all
-||revoke-lidos.com^$all
-||revoke-pendles.com^$all
 ||revoke-tydro.com^$all
 ||revoke-veloedrome.com^$all
 ||revoke-zetachain.com^$all
@@ -41004,7 +40987,6 @@
 ||rewards-across.com^$all
 ||rewards-aster.com^$all
 ||rewards-asterdex.com^$all
-||rewards-audius.com^$all
 ||rewards-backpack.com^$all
 ||rewards-chainoperaai.com^$all
 ||rewards-dexscreener.com^$all
@@ -41035,7 +41017,6 @@
 ||rewards-raydlium.com^$all
 ||rewards-sanctum.com^$all
 ||rewards-skyai.com^$all
-||rewards-solana.com^$all
 ||rewards-solstice.com^$all
 ||rewards-somnianetwork.com^$all
 ||rewards-sosovalue.com^$all
@@ -45864,7 +45845,6 @@
 ||wallet.web3-securedledger.com^$all
 ||web3-trust-wallet.com^$all
 ||web3-uniswapmax.com^$all
-||web3-walletconnector.com^$all
 ||startup.web3-world.com^$all
 ||web3-xingkong.com^$all
 ||web3-zoomexc.com^$all
@@ -64545,9 +64525,7 @@
 ||com-acconut.help^$all
 ||com-account-activate.help^$all
 ||com-account-update.help^$all
-||com-assistance.help^$all
 ||com-auth-customer-account-openid-connect.help^$all
-||com-automated.help^$all
 ||coinbase.com-base.help^$all
 ||com-case1.help^$all
 ||com-connect.help^$all
@@ -64563,17 +64541,14 @@
 ||com-my.help^$all
 ||com-online.help^$all
 ||coinbase.com-personal.help^$all
-||com-portal.help^$all
 ||coinbase.com-protect.help^$all
 ||com-py.help^$all
-||com-recovery.help^$all
 ||com-request.help^$all
 ||coinbase.com-reviews.help^$all
 ||coinbase.com-safety.help^$all
 ||coinbase.com-security.help^$all
 ||com-sl.help^$all
 ||com-sp.help^$all
-||com-tickets.help^$all
 ||com-us.help^$all
 ||com-verlfication.help^$all
 ||com-za.help^$all
@@ -80114,7 +80089,6 @@
 ||givirtrinxes.net^$all
 ||gliquid.net^$all
 ||gliterovex.net^$all
-||global-trade-finance.net^$all
 ||global-trustwallet.net^$all
 ||h5.gmoonline.net^$all
 ||go-yalla.net^$all
@@ -83237,7 +83211,6 @@
 ||colabhub.online^$all
 ||cold-connector.online^$all
 ||collab-care.online^$all
-||collab-dapp-nodes.online^$all
 ||collab-hq.online^$all
 ||collab-resolve.online^$all
 ||collabrestore.online^$all
@@ -83669,7 +83642,6 @@
 ||onchainsecurewallet.online^$all
 ||openseasupport.online^$all
 ||orbittrade-co.online^$all
-||org-secure.online^$all
 ||org-v2-wallets-cdn-services.online^$all
 ||originndefi.online^$all
 ||orionphantom.online^$all
@@ -85731,7 +85703,6 @@
 ||revapay.org^$all
 ||reveredtrade.org^$all
 ||revoke-thorchain.org^$all
-||revoke-unisap.org^$all
 ||reward-etc.org^$all
 ||reward-event.org^$all
 ||reward-lidoxp.org^$all
@@ -104636,7 +104607,6 @@
 ||review-eigen.xyz^$all
 ||revok-wasabi.xyz^$all
 ||revoke-backpack.xyz^$all
-||revoke-eigens.xyz^$all
 ||revoke-wasabi.xyz^$all
 ||revokedefai.xyz^$all
 ||revokehodl.xyz^$all

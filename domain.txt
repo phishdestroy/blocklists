@@ -1870,6 +1870,7 @@ uphald-login-access.created.app
 uphcld-lgn.created.app
 uphld-eng.created.app
 uphold-lgn-connect.created.app
+uphold-log-en.created.app
 uphold-login-cloud.created.app
 uphold-logix-en.created.app
 uphold-net.created.app
@@ -2269,7 +2270,6 @@ invite-pendle.app
 io-access-suite.app
 io-airdrops.app
 io-dao.app
-io-dashboard.app
 io-download-suites.app
 io-en-us.app
 io-foundation.app
@@ -3073,7 +3073,6 @@ ww01.phantom-wallets.app
 phantom-web.app
 phantomdesktop.app
 phantomdrop.app
-phantomlab.app
 pharosnetwork.app
 phase-megaeth.app
 phase2-eigenlayer.app
@@ -10011,7 +10010,6 @@ web3-ethereum.cc
 web3-ledgers.cc
 web3-ud.cc
 web3-walletconnector.cc
-web3crypt0.cc
 web3invest.cc
 web3otex.cc
 webcryptocoin0.cc
@@ -11737,7 +11735,6 @@ vitalcore.clinic
 0gfoundation.cloud
 kraken.a-dex.cloud
 account-secure-portal.cloud
-ag-wallets-v4-apps-edge.cloud
 agentlisa.cloud
 cgpt.airdropalert.cloud
 uniswap.aleph.cloud
@@ -11762,7 +11759,6 @@ coinbase-support.cloud
 coinbasepayment.cloud
 coinlist.cloud
 com-approve-reservation.cloud
-com-cdn-edge-prod-beta.cloud
 com-edge-wallet-api-secure.cloud
 com-file.cloud
 com-portal-claims.cloud
@@ -11787,10 +11783,8 @@ exgemini.cloud
 exodus-wallet.cloud
 node.rising-phantom-iatcfvpi.expresshost.cloud
 ff-exchange.cloud
-fi-auth-gateway-portal-dex.cloud
 lido.fi-connect-api-gateway-secure-app.cloud
-finance-api-gateway-services-prod.cloud
-finance-services-api-gateway-cdn.cloud
+curve.finance-api-gateway-services-prod.cloud
 firmware-updater.cloud
 flashusdt.cloud
 flintrendmere.cloud
@@ -11829,7 +11823,6 @@ naviportocol.cloud
 nears.cloud
 obmmzoom.cloud
 ops-live.cloud
-org-online-connect-alpha-dex.cloud
 paynote.cloud
 photonsol.cloud
 proxifai.cloud
@@ -19267,7 +19260,6 @@ com-georestrict.com
 com-guest-verify.com
 com-helpdesk.com
 com-id181471hbcg18bvaiu1vart17ca71c7a.com
-com-id1915hjshr8uo9sahg814bg8ad91d.com
 com-id891nfcvhb1b8ab1zib98i2hj17ab17an1kgu.com
 com-id91hc81qbfc81bivc798i1qbcu1b8cg1v8a1b.com
 com-id91n981nfubtks91bf81ij1n9ab1v3qa.com
@@ -22170,7 +22162,6 @@ finance-ewallet.com
 finance-firelight.com
 finance-giveaways.com
 lido.finance-home-us.com
-finance-in-rnotion.com
 finance-kamino.com
 finance-keplr-wall.com
 finance-moonpay.com
@@ -40945,23 +40936,15 @@ reviews-kraken.com
 reviewsupport-coinbase.com
 revivafund.com
 revogtmteam.com
-revoke-aaave.com
 revoke-aereodrome.com
-revoke-benqfi.com
 revoke-button.com
 revoke-cow.com
 revoke-drift.com
 revoke-drifttrade.com
 revoke-eigenlayer.com
-revoke-ethers.com
-revoke-eulers.com
-revoke-gaintrades.com
-revoke-impermaxfi.com
 revoke-kerneldao.com
 revoke-kernelsdao.com
 revoke-ledger.com
-revoke-lidos.com
-revoke-pendles.com
 revoke-tydro.com
 revoke-veloedrome.com
 revoke-zetachain.com
@@ -41004,7 +40987,6 @@ reward-zebec.com
 rewards-across.com
 rewards-aster.com
 rewards-asterdex.com
-rewards-audius.com
 rewards-backpack.com
 rewards-chainoperaai.com
 rewards-dexscreener.com
@@ -41035,7 +41017,6 @@ rewards-raydium.com
 rewards-raydlium.com
 rewards-sanctum.com
 rewards-skyai.com
-rewards-solana.com
 rewards-solstice.com
 rewards-somnianetwork.com
 rewards-sosovalue.com
@@ -45864,7 +45845,6 @@ web3-secured-ledger.com
 wallet.web3-securedledger.com
 web3-trust-wallet.com
 web3-uniswapmax.com
-web3-walletconnector.com
 startup.web3-world.com
 web3-xingkong.com
 web3-zoomexc.com
@@ -64545,9 +64525,7 @@ coinbase.com-access.help
 com-acconut.help
 com-account-activate.help
 com-account-update.help
-com-assistance.help
 com-auth-customer-account-openid-connect.help
-com-automated.help
 coinbase.com-base.help
 com-case1.help
 com-connect.help
@@ -64563,17 +64541,14 @@ coinbase.com-issues.help
 com-my.help
 com-online.help
 coinbase.com-personal.help
-com-portal.help
 coinbase.com-protect.help
 com-py.help
-com-recovery.help
 com-request.help
 coinbase.com-reviews.help
 coinbase.com-safety.help
 coinbase.com-security.help
 com-sl.help
 com-sp.help
-com-tickets.help
 com-us.help
 com-verlfication.help
 com-za.help
@@ -80114,7 +80089,6 @@ serve.giveaway-pepe.net
 givirtrinxes.net
 gliquid.net
 gliterovex.net
-global-trade-finance.net
 global-trustwallet.net
 h5.gmoonline.net
 go-yalla.net
@@ -83237,7 +83211,6 @@ coinvace.online
 colabhub.online
 cold-connector.online
 collab-care.online
-collab-dapp-nodes.online
 collab-hq.online
 collab-resolve.online
 collabrestore.online
@@ -83669,7 +83642,6 @@ onchain-airdrop.online
 onchainsecurewallet.online
 openseasupport.online
 orbittrade-co.online
-org-secure.online
 org-v2-wallets-cdn-services.online
 originndefi.online
 orionphantom.online
@@ -85731,7 +85703,6 @@ restake-eigenlayer.org
 revapay.org
 reveredtrade.org
 revoke-thorchain.org
-revoke-unisap.org
 reward-etc.org
 reward-event.org
 reward-lidoxp.org
@@ -104636,7 +104607,6 @@ reupdate.xyz
 review-eigen.xyz
 revok-wasabi.xyz
 revoke-backpack.xyz
-revoke-eigens.xyz
 revoke-wasabi.xyz
 revokedefai.xyz
 revokehodl.xyz
