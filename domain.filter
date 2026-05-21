@@ -1514,6 +1514,7 @@
 ||auth-phantom-en.created.app^$all
 ||auth-upheld-logn.created.app^$all
 ||auth-upheld-sso-en.created.app^$all
+||auth-upheld-us.created.app^$all
 ||auth-uphold-en.created.app^$all
 ||auth-uphold-sso.created.app^$all
 ||auth-upload.created.app^$all
@@ -1695,6 +1696,7 @@
 ||en-upheld-io.created.app^$all
 ||en-uphold-auth.created.app^$all
 ||en-uphold-login.created.app^$all
+||en-upholdapp.created.app^$all
 ||en-uphuld-ai.created.app^$all
 ||en-us-kraken-auth.created.app^$all
 ||en-us-kraken-portal.created.app^$all
@@ -1866,6 +1868,7 @@
 ||sso-krakken-logn-docs.created.app^$all
 ||sso-upheld-en.created.app^$all
 ||sso-upheldlogin.created.app^$all
+||sso-uphld-com-auth.created.app^$all
 ||sso-uphlld-help.created.app^$all
 ||sso-uphuld.created.app^$all
 ||sso-uphuld-cdn.created.app^$all
@@ -1882,6 +1885,7 @@
 ||support-kraken-cdn.created.app^$all
 ||support-trezr-io-started.created.app^$all
 ||support-uphoeld.created.app^$all
+||support-uphold.created.app^$all
 ||support-uphold-cdn.created.app^$all
 ||support-uphuld-io.created.app^$all
 ||sute-trezr.created.app^$all
@@ -1909,6 +1913,7 @@
 ||up-hald-login.created.app^$all
 ||up-held-en.created.app^$all
 ||up-hold-io.created.app^$all
+||up-hold-log-en.created.app^$all
 ||up-hold-log-in.created.app^$all
 ||up-holdd-io.created.app^$all
 ||uphald-app.created.app^$all
@@ -1937,14 +1942,17 @@
 ||uphold-login-cloud.created.app^$all
 ||uphold-login-docs.created.app^$all
 ||uphold-login-nav.created.app^$all
+||uphold-login-org.created.app^$all
 ||uphold-login-portales.created.app^$all
 ||uphold-login-website.created.app^$all
 ||uphold-loginn.created.app^$all
 ||uphold-logix-en.created.app^$all
+||uphold-logn-en.created.app^$all
 ||uphold-logn-land.created.app^$all
 ||uphold-nav.created.app^$all
 ||uphold-net.created.app^$all
 ||uphold-review.created.app^$all
+||uphold-wallet-oauth.created.app^$all
 ||uphold-wallet-world.created.app^$all
 ||uphold-wallts.created.app^$all
 ||upholdauthlogn.created.app^$all
@@ -56862,7 +56870,6 @@
 ||metis-ep3.pages.dev^$all
 ||metmask-en-ex-tensions-web.pages.dev^$all
 ||metmask-help-guides.pages.dev^$all
-||metmask-login.pages.dev^$all
 ||metmsk-logii.pages.dev^$all
 ||metorgus-help.pages.dev^$all
 ||metta-maskk-logn-in.pages.dev^$all
@@ -57441,7 +57448,6 @@
 ||overview-exedos-io.pages.dev^$all
 ||overview-extension-browser.pages.dev^$all
 ||overview-live-coinbse-public.pages.dev^$all
-||overview-metmaskio-en-help.pages.dev^$all
 ||overview-trust--io.pages.dev^$all
 ||overviewl-coin-extension-x.pages.dev^$all
 ||page--exodus--e.pages.dev^$all
@@ -59877,7 +59883,6 @@
 ||us-krakn-en-pro.pages.dev^$all
 ||us-krakn-login.pages.dev^$all
 ||us-kurkre-login.pages.dev^$all
-||us-meta-log.pages.dev^$all
 ||us-metamask-doc.pages.dev^$all
 ||us-metamask-login.pages.dev^$all
 ||us-msklgn-web-meta-en.pages.dev^$all
@@ -73817,7 +73822,6 @@
 ||klima.beefyapps.lat^$all
 ||lido.beefyapps.lat^$all
 ||linea.beefyapps.lat^$all
-||magma.beefyapps.lat^$all
 ||momentum.beefyapps.lat^$all
 ||omni.beefyapps.lat^$all
 ||op.beefyapps.lat^$all

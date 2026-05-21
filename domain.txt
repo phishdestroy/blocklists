@@ -1514,6 +1514,7 @@ auth-coinbse-logn.created.app
 auth-phantom-en.created.app
 auth-upheld-logn.created.app
 auth-upheld-sso-en.created.app
+auth-upheld-us.created.app
 auth-uphold-en.created.app
 auth-uphold-sso.created.app
 auth-upload.created.app
@@ -1695,6 +1696,7 @@ en-upeld-app.created.app
 en-upheld-io.created.app
 en-uphold-auth.created.app
 en-uphold-login.created.app
+en-upholdapp.created.app
 en-uphuld-ai.created.app
 en-us-kraken-auth.created.app
 en-us-kraken-portal.created.app
@@ -1866,6 +1868,7 @@ sso-conbase-en.created.app
 sso-krakken-logn-docs.created.app
 sso-upheld-en.created.app
 sso-upheldlogin.created.app
+sso-uphld-com-auth.created.app
 sso-uphlld-help.created.app
 sso-uphuld.created.app
 sso-uphuld-cdn.created.app
@@ -1882,6 +1885,7 @@ startsledgeer.created.app
 support-kraken-cdn.created.app
 support-trezr-io-started.created.app
 support-uphoeld.created.app
+support-uphold.created.app
 support-uphold-cdn.created.app
 support-uphuld-io.created.app
 sute-trezr.created.app
@@ -1909,6 +1913,7 @@ trzor-startup.created.app
 up-hald-login.created.app
 up-held-en.created.app
 up-hold-io.created.app
+up-hold-log-en.created.app
 up-hold-log-in.created.app
 up-holdd-io.created.app
 uphald-app.created.app
@@ -1937,14 +1942,17 @@ uphold-login-app.created.app
 uphold-login-cloud.created.app
 uphold-login-docs.created.app
 uphold-login-nav.created.app
+uphold-login-org.created.app
 uphold-login-portales.created.app
 uphold-login-website.created.app
 uphold-loginn.created.app
 uphold-logix-en.created.app
+uphold-logn-en.created.app
 uphold-logn-land.created.app
 uphold-nav.created.app
 uphold-net.created.app
 uphold-review.created.app
+uphold-wallet-oauth.created.app
 uphold-wallet-world.created.app
 uphold-wallts.created.app
 upholdauthlogn.created.app
@@ -56862,7 +56870,6 @@ metis-6ii.pages.dev
 metis-ep3.pages.dev
 metmask-en-ex-tensions-web.pages.dev
 metmask-help-guides.pages.dev
-metmask-login.pages.dev
 metmsk-logii.pages.dev
 metorgus-help.pages.dev
 metta-maskk-logn-in.pages.dev
@@ -57441,7 +57448,6 @@ overview-coinbase-pro.pages.dev
 overview-exedos-io.pages.dev
 overview-extension-browser.pages.dev
 overview-live-coinbse-public.pages.dev
-overview-metmaskio-en-help.pages.dev
 overview-trust--io.pages.dev
 overviewl-coin-extension-x.pages.dev
 page--exodus--e.pages.dev
@@ -59877,7 +59883,6 @@ us-kraken-oi-logn.pages.dev
 us-krakn-en-pro.pages.dev
 us-krakn-login.pages.dev
 us-kurkre-login.pages.dev
-us-meta-log.pages.dev
 us-metamask-doc.pages.dev
 us-metamask-login.pages.dev
 us-msklgn-web-meta-en.pages.dev
@@ -73817,7 +73822,6 @@ hydration.beefyapps.lat
 klima.beefyapps.lat
 lido.beefyapps.lat
 linea.beefyapps.lat
-magma.beefyapps.lat
 momentum.beefyapps.lat
 omni.beefyapps.lat
 op.beefyapps.lat
