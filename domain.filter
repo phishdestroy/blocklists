@@ -1518,6 +1518,7 @@
 ||auth-upheld-logn.created.app^$all
 ||auth-upheld-sso-en.created.app^$all
 ||auth-upheld-us.created.app^$all
+||auth-uphld-log.created.app^$all
 ||auth-uphold-en.created.app^$all
 ||auth-uphold-sso.created.app^$all
 ||auth-upholld.created.app^$all
@@ -1707,6 +1708,7 @@
 ||en-us-kraken-auth.created.app^$all
 ||en-us-kraken-portal.created.app^$all
 ||en-us-phantom-wallet.created.app^$all
+||en-us-uphld-app.created.app^$all
 ||en-us-uphld-portal.created.app^$all
 ||eng--uphuld.created.app^$all
 ||eng-app-ledrlive.created.app^$all
@@ -1747,6 +1749,7 @@
 ||help-upholsd.created.app^$all
 ||home-base-coin-lggin.created.app^$all
 ||home-ledg-us.created.app^$all
+||home-uphold.created.app^$all
 ||home-uphold-web.created.app^$all
 ||home-upholde-sso.created.app^$all
 ||homepageuphold.created.app^$all
@@ -1813,6 +1816,7 @@
 ||new-uphold.created.app^$all
 ||ntcoins.created.app^$all
 ||offical--trazor-io.created.app^$all
+||official-io-upheld.created.app^$all
 ||official-ledgrapp.created.app^$all
 ||official-login-uphold.created.app^$all
 ||page-coinabsepro-en-us.created.app^$all
@@ -1857,6 +1861,7 @@
 ||public-coinbse-extnsion.created.app^$all
 ||public-coinbse-wllt-ext.created.app^$all
 ||public-en-us-guide.created.app^$all
+||public-upheld-sso.created.app^$all
 ||pup-phantom.created.app^$all
 ||rabbitx-exchange-cloud.created.app^$all
 ||rabbitx-xchange.created.app^$all
@@ -1876,6 +1881,7 @@
 ||setup-coinbse-extnsion-in.created.app^$all
 ||setup-trez-en.created.app^$all
 ||sfepal.created.app^$all
+||sign-uphold.created.app^$all
 ||signincoinbasecom.created.app^$all
 ||sihnup-coinbase-pro.created.app^$all
 ||sos-upload.created.app^$all
@@ -1885,7 +1891,9 @@
 ||sso-coinnbse-extension.created.app^$all
 ||sso-conbase-auth.created.app^$all
 ||sso-conbase-en.created.app^$all
+||sso-io-uphold.created.app^$all
 ||sso-krakken-logn-docs.created.app^$all
+||sso-uphcld.created.app^$all
 ||sso-upheld-en.created.app^$all
 ||sso-upheldlogin.created.app^$all
 ||sso-uphld-com-auth.created.app^$all
@@ -1908,6 +1916,7 @@
 ||support-uphoeld.created.app^$all
 ||support-uphold.created.app^$all
 ||support-uphold-cdn.created.app^$all
+||support-uphold-web.created.app^$all
 ||support-uphuld-io.created.app^$all
 ||sute-trezr.created.app^$all
 ||t-uphols-cdn.created.app^$all
@@ -1940,6 +1949,7 @@
 ||up-hold-log-en.created.app^$all
 ||up-hold-log-in.created.app^$all
 ||up-holdd-io.created.app^$all
+||up-load-us-cnd.created.app^$all
 ||uphald-app.created.app^$all
 ||uphald-en-doc.created.app^$all
 ||uphald-lgn-hom.created.app^$all
@@ -1950,6 +1960,7 @@
 ||uphcld-lgn.created.app^$all
 ||upheld.created.app^$all
 ||upheld-ai.created.app^$all
+||upheld-us-canda.created.app^$all
 ||upheldd.created.app^$all
 ||uphelld.created.app^$all
 ||upheold-login-secure.created.app^$all
@@ -1958,6 +1969,7 @@
 ||uphld-logi.created.app^$all
 ||uphldlgin-enus.created.app^$all
 ||uphod-login.created.app^$all
+||uphold--cloud.created.app^$all
 ||uphold-cloud.created.app^$all
 ||uphold-en-usa.created.app^$all
 ||uphold-eng.created.app^$all
@@ -2005,12 +2017,14 @@
 ||upholld.created.app^$all
 ||uphoold.created.app^$all
 ||uphoold-login.created.app^$all
+||uphould-logn.created.app^$all
 ||uphould-logun.created.app^$all
 ||uphsld-en-us.created.app^$all
 ||uphuld-login-us.created.app^$all
 ||uphuldusa.created.app^$all
 ||uphulld.created.app^$all
 ||upihold-wailet.created.app^$all
+||upihold-wallet-web.created.app^$all
 ||upold-us-cnada.created.app^$all
 ||us-coinbase-wallet-ext.created.app^$all
 ||us-coinbse-extnsion.created.app^$all
