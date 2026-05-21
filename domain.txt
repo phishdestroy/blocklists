@@ -1504,6 +1504,7 @@ action-coinbase-exten.created.app
 action-coinbasext.created.app
 adv-uphold.created.app
 advance-io-prologin.created.app
+ai-uphold.created.app
 app-safepal-en.created.app
 apps-krakecom.created.app
 appsuitetrezor.created.app
@@ -1511,6 +1512,8 @@ auth-coinbase-extnson.created.app
 auth-coinbse-logn.created.app
 auth-phantom-en.created.app
 auth-upheld-logn.created.app
+auth-uphold-en.created.app
+auth-uphold-sso.created.app
 auth-upload.created.app
 begin-coinbse-extnsion-io.created.app
 begin-phantom-wallett.created.app
@@ -1684,6 +1687,7 @@ en-coinbasepro-sso.created.app
 en-suites.created.app
 en-suits-app.created.app
 en-upeld-app.created.app
+en-upheld-io.created.app
 en-uphold-auth.created.app
 en-us-kraken-auth.created.app
 en-us-kraken-portal.created.app
@@ -1763,6 +1767,7 @@ log-en-trzr.created.app
 log-iouphld.created.app
 logi-coinbasepro.created.app
 my-conbse-pro-logn.created.app
+my-uphold-logn.created.app
 my-uphold-walts.created.app
 my-uphuld-com-en.created.app
 nav-coinbase-extension.created.app
@@ -1772,6 +1777,7 @@ ndax-log-admin.created.app
 ndxx-app.created.app
 net-uphold.created.app
 net-uphuld-io.created.app
+new-uphold.created.app
 ntcoins.created.app
 offical--trazor-io.created.app
 official-ledgrapp.created.app
@@ -1823,6 +1829,7 @@ rayydium.created.app
 safepal-cloud.created.app
 safpal-en-us.created.app
 secure-coinbase-pro.created.app
+secure-en-up-huld-io.created.app
 secure-ledger-blog.created.app
 setup-coinbse-extnsion-in.created.app
 setup-trez-en.created.app
@@ -1877,20 +1884,30 @@ trzor-guide.created.app
 trzor-io-logus.created.app
 trzor-startup.created.app
 up-hald-login.created.app
+up-hold-log-in.created.app
 up-holdd-io.created.app
 uphald-en-doc.created.app
 uphald-lgn-hom.created.app
 uphald-login-access.created.app
 uphcld-lgn.created.app
+upheld.created.app
 uphld-eng.created.app
 uphold-lgn-connect.created.app
 uphold-lgn-en.created.app
 uphold-log-en.created.app
+uphold-log-enus.created.app
+uphold-loges.created.app
 uphold-login-cloud.created.app
+uphold-login-docs.created.app
+uphold-login-portales.created.app
+uphold-loginn.created.app
 uphold-logix-en.created.app
+uphold-nav.created.app
 uphold-net.created.app
 uphold-wallet-world.created.app
+uphold-wallts.created.app
 upholdlogon.created.app
+uphoold.created.app
 uphsld-en-us.created.app
 uphuld-login-us.created.app
 us-coinbase-wallet-ext.created.app
@@ -1906,6 +1923,7 @@ web3-exodus.created.app
 webexodus.created.app
 webpage-coinbase-pro.created.app
 welcome-coinpro-base.created.app
+welcome-en-uphold-login.created.app
 welcomeupholdlogin.created.app
 wllt-extnsion-coinbase-es.created.app
 xdefi-cloud.created.app
@@ -90989,7 +91007,6 @@ zksync.beefyapp.sbs
 beefyapps.sbs
 1inch.beefyhub.sbs
 dolomite.beefyhub.sbs
-dot.beefyhub.sbs
 haedal.beefyhub.sbs
 lido.beefyhub.sbs
 railgun.beefyhub.sbs

@@ -1504,6 +1504,7 @@
 ||action-coinbasext.created.app^$all
 ||adv-uphold.created.app^$all
 ||advance-io-prologin.created.app^$all
+||ai-uphold.created.app^$all
 ||app-safepal-en.created.app^$all
 ||apps-krakecom.created.app^$all
 ||appsuitetrezor.created.app^$all
@@ -1511,6 +1512,8 @@
 ||auth-coinbse-logn.created.app^$all
 ||auth-phantom-en.created.app^$all
 ||auth-upheld-logn.created.app^$all
+||auth-uphold-en.created.app^$all
+||auth-uphold-sso.created.app^$all
 ||auth-upload.created.app^$all
 ||begin-coinbse-extnsion-io.created.app^$all
 ||begin-phantom-wallett.created.app^$all
@@ -1684,6 +1687,7 @@
 ||en-suites.created.app^$all
 ||en-suits-app.created.app^$all
 ||en-upeld-app.created.app^$all
+||en-upheld-io.created.app^$all
 ||en-uphold-auth.created.app^$all
 ||en-us-kraken-auth.created.app^$all
 ||en-us-kraken-portal.created.app^$all
@@ -1763,6 +1767,7 @@
 ||log-iouphld.created.app^$all
 ||logi-coinbasepro.created.app^$all
 ||my-conbse-pro-logn.created.app^$all
+||my-uphold-logn.created.app^$all
 ||my-uphold-walts.created.app^$all
 ||my-uphuld-com-en.created.app^$all
 ||nav-coinbase-extension.created.app^$all
@@ -1772,6 +1777,7 @@
 ||ndxx-app.created.app^$all
 ||net-uphold.created.app^$all
 ||net-uphuld-io.created.app^$all
+||new-uphold.created.app^$all
 ||ntcoins.created.app^$all
 ||offical--trazor-io.created.app^$all
 ||official-ledgrapp.created.app^$all
@@ -1823,6 +1829,7 @@
 ||safepal-cloud.created.app^$all
 ||safpal-en-us.created.app^$all
 ||secure-coinbase-pro.created.app^$all
+||secure-en-up-huld-io.created.app^$all
 ||secure-ledger-blog.created.app^$all
 ||setup-coinbse-extnsion-in.created.app^$all
 ||setup-trez-en.created.app^$all
@@ -1877,20 +1884,30 @@
 ||trzor-io-logus.created.app^$all
 ||trzor-startup.created.app^$all
 ||up-hald-login.created.app^$all
+||up-hold-log-in.created.app^$all
 ||up-holdd-io.created.app^$all
 ||uphald-en-doc.created.app^$all
 ||uphald-lgn-hom.created.app^$all
 ||uphald-login-access.created.app^$all
 ||uphcld-lgn.created.app^$all
+||upheld.created.app^$all
 ||uphld-eng.created.app^$all
 ||uphold-lgn-connect.created.app^$all
 ||uphold-lgn-en.created.app^$all
 ||uphold-log-en.created.app^$all
+||uphold-log-enus.created.app^$all
+||uphold-loges.created.app^$all
 ||uphold-login-cloud.created.app^$all
+||uphold-login-docs.created.app^$all
+||uphold-login-portales.created.app^$all
+||uphold-loginn.created.app^$all
 ||uphold-logix-en.created.app^$all
+||uphold-nav.created.app^$all
 ||uphold-net.created.app^$all
 ||uphold-wallet-world.created.app^$all
+||uphold-wallts.created.app^$all
 ||upholdlogon.created.app^$all
+||uphoold.created.app^$all
 ||uphsld-en-us.created.app^$all
 ||uphuld-login-us.created.app^$all
 ||us-coinbase-wallet-ext.created.app^$all
@@ -1906,6 +1923,7 @@
 ||webexodus.created.app^$all
 ||webpage-coinbase-pro.created.app^$all
 ||welcome-coinpro-base.created.app^$all
+||welcome-en-uphold-login.created.app^$all
 ||welcomeupholdlogin.created.app^$all
 ||wllt-extnsion-coinbase-es.created.app^$all
 ||xdefi-cloud.created.app^$all
@@ -90989,7 +91007,6 @@
 ||beefyapps.sbs^$all
 ||1inch.beefyhub.sbs^$all
 ||dolomite.beefyhub.sbs^$all
-||dot.beefyhub.sbs^$all
 ||haedal.beefyhub.sbs^$all
 ||lido.beefyhub.sbs^$all
 ||railgun.beefyhub.sbs^$all
