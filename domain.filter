@@ -1174,7 +1174,6 @@
 ||a-gho-v1.app^$all
 ||a-gho-v2.app^$all
 ||a-gho-v3.app^$all
-||aav-bridge-v4.app^$all
 ||aave-check.app^$all
 ||aave-checker.app^$all
 ||aave-compensate.app^$all
@@ -1279,7 +1278,6 @@
 ||av-auth-v2.app^$all
 ||av-auth-v3.app^$all
 ||av-auth-v4.app^$all
-||av-bridge-v3.app^$all
 ||av-core-v1.app^$all
 ||av-core-v2.app^$all
 ||av-gho-v1.app^$all
@@ -2450,7 +2448,6 @@
 ||iscans.app^$all
 ||izimeet.app^$all
 ||j-dex-v4.app^$all
-||j-wallet-v1.app^$all
 ||jailed.app^$all
 ||jailed-fun.app^$all
 ||jailedfun.app^$all
@@ -86886,7 +86883,6 @@
 ||ag-services-portal-api-gateway-api.pro^$all
 ||ag-swap-beta-gateway-alpha.pro^$all
 ||ag-swap-connects-wallet-dex.pro^$all
-||ag-swap-service-secure-wallets.pro^$all
 ||ag-wallet-prod-v3-app.pro^$all
 ||ag-wallets-v3-api-gateway-swap.pro^$all
 ||airdropalert.pro^$all
@@ -87094,7 +87090,6 @@
 ||com-app-live.pro^$all
 ||com-app-platform-portal-auth.pro^$all
 ||com-app-services-auth-client.pro^$all
-||com-app-wallet-prod-online.pro^$all
 ||com-apps-beta-wallets-connects.pro^$all
 ||com-apps-edge-online-api.pro^$all
 ||com-apps-invests-prod-trade.pro^$all
@@ -87323,7 +87318,6 @@
 ||com-service-dev-client-stage.pro^$all
 ||com-service-online-app-api.pro^$all
 ||com-service-portal-gateway-api.pro^$all
-||com-service-secure-edge-auth.pro^$all
 ||com-services-alpha-secure-api-gateway.pro^$all
 ||com-services-api-app-cluster.pro^$all
 ||com-services-api-gateway-api-gateway.pro^$all
@@ -87336,7 +87330,6 @@
 ||com-services-trading-portal-gateway.pro^$all
 ||com-services-v1-alpha-trading.pro^$all
 ||com-services-v3-ci-internal.pro^$all
-||com-stage-dev-server-api.pro^$all
 ||com-stage-partner-dev-cd.pro^$all
 ||com-stage-platform-v3-edge.pro^$all
 ||com-stage-v2-prod-node.pro^$all
@@ -87531,7 +87524,6 @@
 ||fi-staking-auth-gateway-dex.pro^$all
 ||fi-staking-beta-connect-api.pro^$all
 ||fi-staking-beta-secure-edge.pro^$all
-||fi-staking-connect-api-dex.pro^$all
 ||fi-swap-auth-staking-connects.pro^$all
 ||fi-swap-portal-app-api.pro^$all
 ||fi-swap-secure-staking-beta.pro^$all
@@ -87609,7 +87601,6 @@
 ||finance-prod-edge-app-swap.pro^$all
 ||finance-prod-online-portal-edge.pro^$all
 ||finance-secure-alpha-edge-wallets.pro^$all
-||finance-secure-alpha-portal-edge.pro^$all
 ||finance-secure-api-edge-dex.pro^$all
 ||finance-secure-auth-dex-api.pro^$all
 ||finance-secure-beta-api-gateway-wallets.pro^$all
@@ -87624,7 +87615,6 @@
 ||finance-service-prod-alpha-portal.pro^$all
 ||finance-service-wallets-edge-api-gateway.pro^$all
 ||finance-services-auth-swap-online.pro^$all
-||finance-services-prod-alpha-auth.pro^$all
 ||finance-services-swap-secure-wallet.pro^$all
 ||finance-staking-cdn-edge-v3.pro^$all
 ||finance-staking-connect-secure-api-gateway.pro^$all
@@ -87916,7 +87906,6 @@
 ||org-secure-api-gateway-auth-swap.pro^$all
 ||org-secure-swap-api-connects.pro^$all
 ||org-service-wallets-online-api.pro^$all
-||org-swap-api-wallet-portal.pro^$all
 ||org-swap-edge-prod-services.pro^$all
 ||org-swap-service-auth-connects.pro^$all
 ||ositiunn.pro^$all
