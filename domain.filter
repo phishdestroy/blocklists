@@ -2211,6 +2211,7 @@
 ||event-pengu.app^$all
 ||event-pudgypenguins.app^$all
 ||event-sui.app^$all
+||event-worldliberty.app^$all
 ||event-wormhole.app^$all
 ||evshare.app^$all
 ||ex0dus.app^$all
@@ -15696,6 +15697,7 @@
 ||app-wallet-rabby.com^$all
 ||launch.app-walletrestore.com^$all
 ||app-waronusd1.com^$all
+||app-worldlibertyfinancial.com^$all
 ||app-yearn-v1.com^$all
 ||app-yearn-v7.com^$all
 ||app-yieldbasis.com^$all
@@ -18226,6 +18228,7 @@
 ||claim-ventuals.com^$all
 ||claim-voyager.com^$all
 ||claim-wolrdliberyfinancial.com^$all
+||claim-worldlibertyfinancial.com^$all
 ||claim-xona-agent.com^$all
 ||claim-xrplkrwrewards.com^$all
 ||claim-your-ticket.com^$all
@@ -35141,6 +35144,7 @@
 ||join-uk.com^$all
 ||join-wfli.com^$all
 ||join-worldliberty.com^$all
+||join-worldlibertyfinancial.com^$all
 ||join-zoom-meeting.com^$all
 ||joinamandazoom.com^$all
 ||joingooglemeet.com^$all
@@ -42426,8 +42430,7 @@
 ||sscalping.com^$all
 ||ssl-encrypt-coinbase.com^$all
 ||ssl-ledger.com^$all
-||trade.ssl-worldlibertyfinancial.com^$all
-||vote.ssl-worldlibertyfinancial.com^$all
+||ssl-worldlibertyfinancial.com^$all
 ||ssmacg11.com^$all
 ||sso-gateway.com^$all
 ||sso-ledger.com^$all
@@ -44923,6 +44926,8 @@
 ||uscrofsolana.com^$all
 ||uscrsolana.com^$all
 ||usd-solana.com^$all
+||usd-worldlibertyfinance.com^$all
+||usd1-worldlibertyfi.com^$all
 ||usd6c.com^$all
 ||usdai-allocation.com^$all
 ||usdai-chip.com^$all
@@ -45636,6 +45641,7 @@
 ||voting-unipegv4.com^$all
 ||voting-worldibertyfinancial.com^$all
 ||voting-worldliberty.com^$all
+||voting-worldlibertyfinancial.com^$all
 ||voting-wormhole.com^$all
 ||voting-zebec.com^$all
 ||votingdex.com^$all
@@ -62382,6 +62388,7 @@
 ||poly.contract.finance^$all
 ||polymarket.contract.finance^$all
 ||polymarkets.contract.finance^$all
+||corebridge.finance^$all
 ||cowfi.finance^$all
 ||crestline.finance^$all
 ||cruve.finance^$all
@@ -62398,6 +62405,7 @@
 ||curvie.finance^$all
 ||curvr.finance^$all
 ||lods90002.curvre.finance^$all
+||curvue.finance^$all
 ||curvw.finance^$all
 ||cutve.finance^$all
 ||cuurve.finance^$all
@@ -62504,6 +62512,7 @@
 ||kitten-swap.finance^$all
 ||kkamino.finance^$all
 ||kpay.finance^$all
+||krkn-site.finance^$all
 ||krowndex.finance^$all
 ||kurve.finance^$all
 ||kusama.finance^$all
@@ -62752,6 +62761,7 @@
 ||wealthcurve.finance^$all
 ||web-kamino.finance^$all
 ||webpay.finance^$all
+||whitelist-worldliberty.finance^$all
 ||withdrawal-lido.finance^$all
 ||wlfi-claims.finance^$all
 ||www-solstice.finance^$all
@@ -64798,6 +64808,7 @@
 ||trustwalletmeta.help^$all
 ||trustwalletsupport.help^$all
 ||twcart.help^$all
+||unlock-worldlibertyfinancial.help^$all
 ||updatee.help^$all
 ||upholdsupport-center.help^$all
 ||usdtether.help^$all
@@ -92426,6 +92437,7 @@
 ||ultimatecore.site^$all
 ||unipegart.site^$all
 ||unipegv4.site^$all
+||unlock-worldlibertyfinancial.site^$all
 ||updategmailaccount.site^$all
 ||us02web-zoom-conference-meeting.site^$all
 ||us03web-zoom-conference-meeting.site^$all
@@ -92989,6 +93001,7 @@
 ||vote-ore.supply^$all
 ||votes-ore.supply^$all
 ||alert-coinbase.support^$all
+||allbridge.support^$all
 ||aml-check.support^$all
 ||aml-crypto.support^$all
 ||appealaction-x.support^$all
@@ -92999,6 +93012,8 @@
 ||basedefi.support^$all
 ||bitcoin-suisse.support^$all
 ||bitpanda-auth.support^$all
+||bridgeai.support^$all
+||bridgeoracle.support^$all
 ||bscscan.support^$all
 ||ca-live.support^$all
 ||cases.support^$all
@@ -93055,13 +93070,17 @@
 ||kraken-team.support^$all
 ||krakenexchange.support^$all
 ||ledger-live.support^$all
+||lunexnetwork.support^$all
 ||mail-coinbase.support^$all
+||marinadefinance.support^$all
 ||megaeth.support^$all
 ||microsoftofficial.support^$all
 ||mysuiet.support^$all
 ||polymarket.support^$all
 ||railgun.support^$all
 ||representative-kraken.support^$all
+||rexasfinace.support^$all
+||rexasfinance.support^$all
 ||mail.security-kraken.support^$all
 ||webmail.security-kraken.support^$all
 ||stableslabs.support^$all
@@ -93076,6 +93095,7 @@
 ||webmail.user-coinbase.support^$all
 ||vaultgateway.support^$all
 ||wirexapp.support^$all
+||worldlibertyfi.support^$all
 ||986.surf^$all
 ||aave.surf^$all
 ||aerodrome.surf^$all
@@ -96433,12 +96453,14 @@
 ||airdropalerts.us^$all
 ||airdropsalert.us^$all
 ||airdropsalerts.us^$all
+||airdropworldliberty.us^$all
 ||alert-asistent-help.us^$all
 ||alert-fmii-locations.us^$all
 ||alert-fmimx.us^$all
 ||alerts-find-phone.us^$all
 ||alerts-finder-id.us^$all
 ||alerts-finder-idd.us^$all
+||allbridge.us^$all
 ||alliai.us^$all
 ||alltrump.us^$all
 ||amibot.us^$all
@@ -96469,6 +96491,8 @@
 ||arbitray.us^$all
 ||as-zoom.us^$all
 ||asset-recovery.us^$all
+||asterdexperpetual.us^$all
+||asterdexreward.us^$all
 ||atlantiscex.us^$all
 ||audio16web.us^$all
 ||audius.us^$all
@@ -96654,6 +96678,7 @@
 ||exchangenow.us^$all
 ||exo-dus.us^$all
 ||exo-dus-download.us^$all
+||extsycommunity.us^$all
 ||falconfin.us^$all
 ||fhantomwllt.us^$all
 ||findmy-accoun.us^$all
@@ -96694,6 +96719,7 @@
 ||googlemeets.us^$all
 ||gooqlemeet.us^$all
 ||gosats.us^$all
+||harambetoken.us^$all
 ||help-opensea.us^$all
 ||hertz-kompressorens.us^$all
 ||hiaa.us^$all
@@ -96783,6 +96809,7 @@
 ||lforgot-signingcloudl.us^$all
 ||lforgotcol-lostcloud.us^$all
 ||lienhage.us^$all
+||lightchainai.us^$all
 ||linelive.us^$all
 ||link-account.us^$all
 ||liquideth.us^$all
@@ -96948,6 +96975,7 @@
 ||reply-accenture.us^$all
 ||resolvedocureview.us^$all
 ||revokecash.us^$all
+||rexasfinance.us^$all
 ||ripple-2x.us^$all
 ||ripple-core.us^$all
 ||ripple-deep.us^$all
@@ -97658,6 +97686,7 @@
 ||windows-zoom.us^$all
 ||windowsupdatennicrsofrversion.us^$all
 ||wlfisecure.us^$all
+||worldlibertyfi.us^$all
 ||worldtrump.us^$all
 ||wvuzoom.us^$all
 ||ww-live.us^$all
