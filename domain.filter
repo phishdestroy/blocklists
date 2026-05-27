@@ -3594,7 +3594,18 @@
 ||stableorbit.app^$all
 ||stake-jupiter.app^$all
 ||stakeandrelax.app^$all
-||stakelido.app^$all
+||api.stakelido.app^$all
+||assets.stakelido.app^$all
+||backup.stakelido.app^$all
+||demo.stakelido.app^$all
+||dev.stakelido.app^$all
+||docs.stakelido.app^$all
+||my.stakelido.app^$all
+||news.stakelido.app^$all
+||share.stakelido.app^$all
+||staging.stakelido.app^$all
+||test.stakelido.app^$all
+||uat.stakelido.app^$all
 ||stakelink.app^$all
 ||staketrust.app^$all
 ||stakingreward.app^$all
@@ -4341,7 +4352,6 @@
 ||v-auth-v2.app^$all
 ||v-auth-v3.app^$all
 ||v2-hyperliquid.app^$all
-||v2-lido.app^$all
 ||v4-aave.app^$all
 ||vaironex.app^$all
 ||vantageresearch.app^$all
@@ -7864,7 +7874,6 @@
 ||deep-polnts.buzz^$all
 ||discord-tradingview.buzz^$all
 ||eigenlayer.dropalert.buzz^$all
-||lido-fi.dropalert.buzz^$all
 ||elgeniayer.buzz^$all
 ||eligible-hype.buzz^$all
 ||ez-cash.buzz^$all
@@ -36192,7 +36201,6 @@
 ||lido-points.com^$all
 ||github.lido-pools.com^$all
 ||lido-protocol.com^$all
-||lido-stake.com^$all
 ||lido-steth.com^$all
 ||lido-update.com^$all
 ||lido-v3.com^$all
@@ -36207,10 +36215,8 @@
 ||lidonlin-eu.com^$all
 ||lidopoints.com^$all
 ||lidopoints-award.com^$all
-||lidopool.com^$all
 ||lidoportal.com^$all
 ||lidorp.com^$all
-||lidostakeairdrop.com^$all
 ||lidov5.com^$all
 ||lien-fi.com^$all
 ||lien-lfi.com^$all
@@ -55466,7 +55472,6 @@
 ||kaminos.pages.dev^$all
 ||kaminos-44.pages.dev^$all
 ||kaminotestresolve-ab5.pages.dev^$all
-||karak-network.pages.dev^$all
 ||karakein-login.pages.dev^$all
 ||karakresolves.pages.dev^$all
 ||karkeen-login.pages.dev^$all
@@ -56308,7 +56313,6 @@
 ||lido-stake.pages.dev^$all
 ||lido-stake-eth.pages.dev^$all
 ||lido-staking-site.pages.dev^$all
-||lidoa.pages.dev^$all
 ||lidoapp.pages.dev^$all
 ||lidoether.pages.dev^$all
 ||lidofi-7gk.pages.dev^$all
@@ -56319,7 +56323,6 @@
 ||lidonft.pages.dev^$all
 ||lidongman.pages.dev^$all
 ||lidopolygon.pages.dev^$all
-||lidostake.pages.dev^$all
 ||lidostakeeth.pages.dev^$all
 ||lilllylkj.pages.dev^$all
 ||linea-7wf.pages.dev^$all
@@ -57672,7 +57675,6 @@
 ||polkastarter.pages.dev^$all
 ||polkastarter-web.pages.dev^$all
 ||poly-web-app.pages.dev^$all
-||polygonlido.pages.dev^$all
 ||polygonlidofi.pages.dev^$all
 ||polymarket-3tk.pages.dev^$all
 ||polymarket-3zw.pages.dev^$all
@@ -62036,7 +62038,6 @@
 ||kolscan.fi^$all
 ||libo.fi^$all
 ||lidio.fi^$all
-||lidodao.fi^$all
 ||superset.lidotoken.fi^$all
 ||lidov3.fi^$all
 ||stake.lidp.fi^$all
@@ -67941,7 +67942,6 @@
 ||help-en-eigenlayerr.gitbook.io^$all
 ||help-exoduswebwalet-help.gitbook.io^$all
 ||help-krakenlogini.gitbook.io^$all
-||help-lidofinance.gitbook.io^$all
 ||help-m--metamask.gitbook.io^$all
 ||help-meftamask.gitbook.io^$all
 ||help-metamsk-chorme.gitbook.io^$all
@@ -68211,7 +68211,6 @@
 ||lido-finnce-help.gitbook.io^$all
 ||lido-fnance.gitbook.io^$all
 ||lidocstaing.gitbook.io^$all
-||lidodfiefinance-1.gitbook.io^$all
 ||lidodflodstaking.gitbook.io^$all
 ||lidodsstakking.gitbook.io^$all
 ||lidodstkving.gitbook.io^$all
@@ -68261,12 +68260,10 @@
 ||lidossftaking.gitbook.io^$all
 ||lidosstakieng.gitbook.io^$all
 ||lidosstakiengg.gitbook.io^$all
-||lidostakeing.gitbook.io^$all
 ||lidostakeingg.gitbook.io^$all
 ||lidostaking.gitbook.io^$all
 ||lidostakingg.gitbook.io^$all
 ||lidostakingss.gitbook.io^$all
-||lidostakingsus.gitbook.io^$all
 ||lidostakkingg.gitbook.io^$all
 ||lidostentaking.gitbook.io^$all
 ||lidostking.gitbook.io^$all
@@ -71757,7 +71754,6 @@
 ||lido-auth-staking.webflow.io^$all
 ||lido-do-finance.webflow.io^$all
 ||lido-fffinanceee.webflow.io^$all
-||lido-ffinancee.webflow.io^$all
 ||lido-ffinanceset.webflow.io^$all
 ||lido-fiancelogin.webflow.io^$all
 ||lido-fiiinance.webflow.io^$all
@@ -71775,8 +71771,6 @@
 ||lido-financedocs.webflow.io^$all
 ||lido-financee-app.webflow.io^$all
 ||lido-financeee.webflow.io^$all
-||lido-financeesite.webflow.io^$all
-||lido-financeeus.webflow.io^$all
 ||lido-financei.webflow.io^$all
 ||lido-financert.webflow.io^$all
 ||lido-finances.webflow.io^$all
@@ -71788,7 +71782,6 @@
 ||lido-stake-lloggin.webflow.io^$all
 ||lido-stakelogin.webflow.io^$all
 ||lido-staking-guide.webflow.io^$all
-||lido-stakings.webflow.io^$all
 ||lido-stokingguide.webflow.io^$all
 ||lido-web3.webflow.io^$all
 ||lidoatfinance.webflow.io^$all
@@ -71808,7 +71801,6 @@
 ||lidofinance--auth.webflow.io^$all
 ||lidofinance--secure.webflow.io^$all
 ||lidofinance-auth.webflow.io^$all
-||lidofinance-network.webflow.io^$all
 ||lidofinance-secured.webflow.io^$all
 ||lidofinance-site.webflow.io^$all
 ||lidofinanced.webflow.io^$all
@@ -72572,7 +72564,6 @@
 ||sso-krraken--cdn-z-auth.webflow.io^$all
 ||sso-krraken-web.webflow.io^$all
 ||sso-lidofinance-auth.webflow.io^$all
-||sso-lidostake-auth.webflow.io^$all
 ||sso-lobstr-sso.webflow.io^$all
 ||sso-log-inmoonpay7.webflow.io^$all
 ||sso-login-moonpay.webflow.io^$all
@@ -83561,7 +83552,6 @@
 ||asset-ai-recovery.org^$all
 ||asset-eigenfoundation.org^$all
 ||asset-eigenlayer.org^$all
-||asset-lido.org^$all
 ||assets-eigenlayer.org^$all
 ||assist-base.org^$all
 ||asterdash.org^$all
@@ -84619,7 +84609,6 @@
 ||lfjdex.org^$all
 ||libera-scudorio.org^$all
 ||libertyfinancials.org^$all
-||lido-event.org^$all
 ||lido-fi-app.org^$all
 ||lido-liquid-staking.org^$all
 ||lido-protocols.org^$all
@@ -85692,7 +85681,6 @@
 ||v2-app-raydium.org^$all
 ||v2-camelot-swap.org^$all
 ||v2-hyperliquid.org^$all
-||stake.v2-lido.org^$all
 ||v2-meteora.org^$all
 ||v2-pumpswap.org^$all
 ||v2-sushi.org^$all
@@ -95232,7 +95220,6 @@
 ||tonleeper-x.top^$all
 ||tontoncoin.top^$all
 ||tonwallet.top^$all
-||lido.tpdclaim.top^$all
 ||tpwallet.top^$all
 ||tpwallet-web3.top^$all
 ||trade-krakken.top^$all
@@ -97786,7 +97773,6 @@
 ||latticexchange.vip^$all
 ||h5.lbmaxau.vip^$all
 ||ledgerwallet.vip^$all
-||lido-fi.vip^$all
 ||lido-stake-reward.vip^$all
 ||lineababy.vip^$all
 ||lmaxdigital.vip^$all
@@ -102271,7 +102257,6 @@
 ||lido-stackd.xyz^$all
 ||lido-stackv2.xyz^$all
 ||lido-voting.xyz^$all
-||lidodao10x.xyz^$all
 ||lidodaoapp.xyz^$all
 ||lidodaolabs.xyz^$all
 ||lidodaostaking.xyz^$all
@@ -104894,7 +104879,6 @@
 ||vote-kaito.xyz^$all
 ||vote-kyan.xyz^$all
 ||vote-layerzero.xyz^$all
-||vote-lido.xyz^$all
 ||vote-lidofinance.xyz^$all
 ||vote-lifi.xyz^$all
 ||vote-lighter.xyz^$all
@@ -105053,7 +105037,6 @@
 ||voting-firelight.xyz^$all
 ||voting-flare.xyz^$all
 ||voting-fluid.xyz^$all
-||voting-lido.xyz^$all
 ||voting-lidofinance.xyz^$all
 ||voting-lienfi.xyz^$all
 ||voting-lifi.xyz^$all
