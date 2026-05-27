@@ -1982,6 +1982,7 @@
 ||uphold-loges.created.app^$all
 ||uphold-logi.created.app^$all
 ||uphold-login-app.created.app^$all
+||uphold-login-cdn.created.app^$all
 ||uphold-login-cloud.created.app^$all
 ||uphold-login-doc.created.app^$all
 ||uphold-login-docs.created.app^$all
@@ -2507,7 +2508,6 @@
 ||levwk.app^$all
 ||lewvk.app^$all
 ||lido-proposal.app^$all
-||lido-stake-now.app^$all
 ||lido-ti.app^$all
 ||lido-v3.app^$all
 ||lienfin.app^$all
@@ -3597,14 +3597,11 @@
 ||api.stakelido.app^$all
 ||assets.stakelido.app^$all
 ||backup.stakelido.app^$all
-||demo.stakelido.app^$all
 ||dev.stakelido.app^$all
 ||docs.stakelido.app^$all
 ||my.stakelido.app^$all
 ||news.stakelido.app^$all
-||share.stakelido.app^$all
 ||staging.stakelido.app^$all
-||test.stakelido.app^$all
 ||uat.stakelido.app^$all
 ||stakelink.app^$all
 ||staketrust.app^$all
@@ -9380,9 +9377,7 @@
 ||pc.libertvip.cc^$all
 ||libfx.cc^$all
 ||lid0-web.cc^$all
-||lido-fi-finance.cc^$all
 ||lido-steth.cc^$all
-||lidofistaking.cc^$all
 ||lidostake.cc^$all
 ||liegion.cc^$all
 ||linegamb.cc^$all
@@ -20442,7 +20437,6 @@
 ||dao-megaeth.com^$all
 ||dao-swarms.com^$all
 ||dao-worldlibertyfinancial.com^$all
-||lidofi.daofinanc.com^$all
 ||daolax.com^$all
 ||daospin.com^$all
 ||dapp-cnktplus-app.com^$all
@@ -35199,7 +35193,6 @@
 ||keowex.com^$all
 ||keplrwalletdesktop.com^$all
 ||keplrweb.com^$all
-||kerneldaostake.com^$all
 ||kernlogiks.com^$all
 ||kesowin.com^$all
 ||phantoms.authorisation.kesug.com^$all
@@ -36189,13 +36182,11 @@
 ||lido-elhereum.com^$all
 ||lido-fi-app.com^$all
 ||lido-fi-finance.com^$all
-||smtp.lido-fniance.com^$all
 ||lido-hub.com^$all
 ||lido-liquiditys.com^$all
 ||lido-participate.com^$all
 ||lido-points.com^$all
 ||github.lido-pools.com^$all
-||lido-protocol.com^$all
 ||lido-steth.com^$all
 ||lido-update.com^$all
 ||lido-v3.com^$all
@@ -36210,7 +36201,6 @@
 ||lidonlin-eu.com^$all
 ||lidopoints.com^$all
 ||lidopoints-award.com^$all
-||lidoportal.com^$all
 ||lidorp.com^$all
 ||lidov5.com^$all
 ||lien-fi.com^$all
@@ -56314,7 +56304,6 @@
 ||lidofinance-api.pages.dev^$all
 ||lidofinance-fi.pages.dev^$all
 ||lidofinance-onchain.pages.dev^$all
-||lidonft.pages.dev^$all
 ||lidongman.pages.dev^$all
 ||lidopolygon.pages.dev^$all
 ||lidostakeeth.pages.dev^$all
@@ -58843,7 +58832,6 @@
 ||stake-1v1.pages.dev^$all
 ||stake-lido-7fd.pages.dev^$all
 ||stake-lidofinane.pages.dev^$all
-||staked-lido.pages.dev^$all
 ||stakedlidos.pages.dev^$all
 ||stakegame-bs6.pages.dev^$all
 ||stakelidofinance.pages.dev^$all
@@ -62059,7 +62047,12 @@
 ||solback.fi^$all
 ||solswap.fi^$all
 ||stake-lido.fi^$all
-||stakelido.fi^$all
+||api.stakelido.fi^$all
+||app.stakelido.fi^$all
+||assets.stakelido.fi^$all
+||demo.stakelido.fi^$all
+||dev.stakelido.fi^$all
+||ofyroapp.stakelido.fi^$all
 ||superform.fi^$all
 ||synthetix.fi^$all
 ||tcard.fi^$all
@@ -64060,7 +64053,6 @@
 ||greenchip.fund^$all
 ||hexagram.fund^$all
 ||keeta.fund^$all
-||lidolab.fund^$all
 ||matrica.fund^$all
 ||monadlab.fund^$all
 ||redchip.fund^$all
@@ -64545,7 +64537,6 @@
 ||learn-started.kb.help^$all
 ||kraken.help^$all
 ||kraken-support.help^$all
-||lido-claims.help^$all
 ||lidofi.help^$all
 ||logfiles.help^$all
 ||lunalaunch.help^$all
@@ -68198,16 +68189,13 @@
 ||lideostakienge.gitbook.io^$all
 ||lidfinanccee.gitbook.io^$all
 ||lidilstakiinge.gitbook.io^$all
-||lidiostaaking.gitbook.io^$all
 ||lido-finance-lido-com.gitbook.io^$all
 ||lido-finnce-help.gitbook.io^$all
-||lido-fnance.gitbook.io^$all
 ||lidocstaing.gitbook.io^$all
 ||lidodflodstaking.gitbook.io^$all
 ||lidodsstakking.gitbook.io^$all
 ||lidodstkving.gitbook.io^$all
 ||lidoedwokstaking.gitbook.io^$all
-||lidoeiofinance.gitbook.io^$all
 ||lidoejstaking.gitbook.io^$all
 ||lidoeoiifinance.gitbook.io^$all
 ||lidoestaken.gitbook.io^$all
@@ -68243,7 +68231,6 @@
 ||lidoofinaance.gitbook.io^$all
 ||lidoofinade.gitbook.io^$all
 ||lidoofinancc.gitbook.io^$all
-||lidoofinancs.gitbook.io^$all
 ||lidoofinnc.gitbook.io^$all
 ||lidooinanc.gitbook.io^$all
 ||lidoostkingus.gitbook.io^$all
@@ -68280,7 +68267,6 @@
 ||liduosttakiing.gitbook.io^$all
 ||lidustaaking.gitbook.io^$all
 ||liedoeofinance.gitbook.io^$all
-||liedoostaking.gitbook.io^$all
 ||liedostaysk.gitbook.io^$all
 ||lijostaekd.gitbook.io^$all
 ||limdostamking.gitbook.io^$all
@@ -69105,7 +69091,6 @@
 ||chaitanyaprakashbdn2018-afk.github.io^$all
 ||chanlist.github.io^$all
 ||claimdogecoin20.github.io^$all
-||claimgift-x186.github.io^$all
 ||claramoledo.github.io^$all
 ||cocdap.github.io^$all
 ||coinbase-investment-dashboard.github.io^$all
@@ -69796,7 +69781,6 @@
 ||stackraiser.io^$all
 ||stackriser.io^$all
 ||stake-wise.io^$all
-||stakelido.io^$all
 ||stakingpad-aitech.io^$all
 ||start-ledger.io^$all
 ||start-tronlink.io^$all
@@ -71775,7 +71759,6 @@
 ||lidoestakings.webflow.io^$all
 ||lidoeth.webflow.io^$all
 ||lidoffinance-us.webflow.io^$all
-||lidofiinance-too.webflow.io^$all
 ||lidofin-ance-us.webflow.io^$all
 ||lidofinaanc.webflow.io^$all
 ||lidofinaencejd.webflow.io^$all
@@ -71792,7 +71775,6 @@
 ||lidofinanceio.webflow.io^$all
 ||lidofinancejd.webflow.io^$all
 ||lidofinanceneed.webflow.io^$all
-||lidofinancestake.webflow.io^$all
 ||lidofinancial.webflow.io^$all
 ||lidofinancie.webflow.io^$all
 ||lidofinancre.webflow.io^$all
@@ -71817,7 +71799,6 @@
 ||liidostake-llogin.webflow.io^$all
 ||liidostake-login.webflow.io^$all
 ||liidostakellogin.webflow.io^$all
-||liquid-lido.webflow.io^$all
 ||liquid-staking-lido.webflow.io^$all
 ||live-gemini.webflow.io^$all
 ||live-legerslogn.webflow.io^$all
@@ -72171,7 +72152,6 @@
 ||my--web-moonpay-login.webflow.io^$all
 ||my-app--kraken-cdn-auth.webflow.io^$all
 ||my-krakenlogin-com-auth.webflow.io^$all
-||my-lido.webflow.io^$all
 ||staging.my-sso-exodusweb3-wallett.webflow.io^$all
 ||my-stellar-site-f6050d.webflow.io^$all
 ||mykrakenlogin.webflow.io^$all
@@ -72204,7 +72184,6 @@
 ||oso---eng-kraken--auth--cdn.webflow.io^$all
 ||p-sso-coinbase-auth-m-join.webflow.io^$all
 ||p-ssso-coinbase-auth-m-auth.webflow.io^$all
-||page-sso-lidostake.webflow.io^$all
 ||pageup-lidofinance.webflow.io^$all
 ||phan-thmwellat.webflow.io^$all
 ||phantmwalet-phantom.webflow.io^$all
@@ -78969,7 +78948,6 @@
 ||btcreporter.net^$all
 ||btctumblers.net^$all
 ||bullbittrade.net^$all
-||bullido.net^$all
 ||bullishdegensol.net^$all
 ||bullishdegensolana.net^$all
 ||bullishsdegen.net^$all
@@ -82292,7 +82270,6 @@
 ||krakenplatform.one^$all
 ||kyofinance.one^$all
 ||launchtool.one^$all
-||lidoo.one^$all
 ||linafund.one^$all
 ||event.liquity.one^$all
 ||lmaxdigital.one^$all
@@ -92863,7 +92840,6 @@
 ||polymarket.eskender.tech^$all
 ||ethereum-reward.tech^$all
 ||arc.fasset-hq.tech^$all
-||lido.fi-stake.tech^$all
 ||flowus.tech^$all
 ||fluxprotocol.tech^$all
 ||fxhash.tech^$all
@@ -92882,7 +92858,6 @@
 ||krakensupport.tech^$all
 ||launchtool.tech^$all
 ||ledger-lab.tech^$all
-||lido-liquid.tech^$all
 ||lunela.tech^$all
 ||marketing112company.tech^$all
 ||meetcall.tech^$all
@@ -93421,7 +93396,6 @@
 ||0xtrends.top^$all
 ||0xweb.top^$all
 ||0xwt.top^$all
-||lido.100pad.top^$all
 ||10xtradio.top^$all
 ||11x5kjjg.top^$all
 ||15175158google.top^$all
@@ -94448,7 +94422,6 @@
 ||kucoinyvip.top^$all
 ||kucokkhh.top^$all
 ||kucoyytt.top^$all
-||lido.kunempad.top^$all
 ||l0gic.top^$all
 ||l0ver.top^$all
 ||l2dex.top^$all
@@ -94728,7 +94701,6 @@
 ||msteamss.top^$all
 ||msteamssinvite.top^$all
 ||web.muchm.top^$all
-||lido.multipads.top^$all
 ||mvrph.top^$all
 ||mxrph.top^$all
 ||myetherwallet.top^$all
@@ -97750,7 +97722,6 @@
 ||latticexchange.vip^$all
 ||h5.lbmaxau.vip^$all
 ||ledgerwallet.vip^$all
-||lido-stake-reward.vip^$all
 ||lineababy.vip^$all
 ||lmaxdigital.vip^$all
 ||luckybuddy.vip^$all
@@ -102235,7 +102206,6 @@
 ||lido-voting.xyz^$all
 ||lidodaolabs.xyz^$all
 ||lidodaostaking.xyz^$all
-||lidodaotrading.xyz^$all
 ||lidofinrewards.xyz^$all
 ||lidoo.xyz^$all
 ||lidosdao.xyz^$all
