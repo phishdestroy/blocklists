@@ -9735,7 +9735,7 @@
 ||sol-lib.cc^$all
 ||jup.sol-universe.cc^$all
 ||sol-wheel.cc^$all
-||sol-world.cc^$all
+||jupiter.sol-world.cc^$all
 ||solana-gain.cc^$all
 ||solanacard.cc^$all
 ||solanafaucet.cc^$all
@@ -63193,7 +63193,6 @@
 ||dexemojibot.fun^$all
 ||dexmoonshot.fun^$all
 ||dexscreener-vote.fun^$all
-||dexsmoji.fun^$all
 ||dexxboosts.fun^$all
 ||disclaimercoin-event.fun^$all
 ||distortedtoken.fun^$all
