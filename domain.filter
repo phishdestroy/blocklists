@@ -1277,7 +1277,6 @@
 ||auth-aib-ie.app^$all
 ||auth-x.app^$all
 ||authorize-u.app^$all
-||av-auth-v1.app^$all
 ||av-core-v1.app^$all
 ||av-core-v2.app^$all
 ||av-gho-v1.app^$all
@@ -4362,7 +4361,6 @@
 ||usoroil.app^$all
 ||usortech.app^$all
 ||uverification-v4.app^$all
-||v-auth-v3.app^$all
 ||v2-hyperliquid.app^$all
 ||v4-aave.app^$all
 ||vaironex.app^$all
@@ -11709,7 +11707,6 @@
 ||coinbasepayment.cloud^$all
 ||coinlist.cloud^$all
 ||com-approve-reservation.cloud^$all
-||com-edge-wallet-api-secure.cloud^$all
 ||com-file.cloud^$all
 ||com-portal-claims.cloud^$all
 ||com-us.cloud^$all
@@ -64950,7 +64947,6 @@
 ||clardun.icu^$all
 ||client-zoom.icu^$all
 ||coin-drop.icu^$all
-||coin-vulcan-win.icu^$all
 ||coin-world.icu^$all
 ||coinbase-commerce.icu^$all
 ||coinbase-recovery.icu^$all
@@ -85981,7 +85977,6 @@
 ||ag-online-v4-api-gateway-prod.pro^$all
 ||ag-portal-edge-auth-api-gateway.pro^$all
 ||ag-portal-services-connect-app.pro^$all
-||ag-prod-online-edge-api-gateway.pro^$all
 ||ag-prod-portal-v2-secure.pro^$all
 ||ag-secure-app-services-beta.pro^$all
 ||ag-secure-cdn-alpha-edge.pro^$all
@@ -86150,7 +86145,6 @@
 ||com-api-app-dex-v5.pro^$all
 ||com-api-apps-management-gateway.pro^$all
 ||com-api-beta-wallets-auth.pro^$all
-||com-api-cdn-portal-gateway.pro^$all
 ||com-api-cdn-prod-node.pro^$all
 ||com-api-connect-edge-dex.pro^$all
 ||com-api-core-dev-api-gateway.pro^$all
@@ -86206,7 +86200,6 @@
 ||com-auth-swap-dex-apps.pro^$all
 ||com-auth-v2-service-prod.pro^$all
 ||com-auth-wallet-online-cdn.pro^$all
-||com-backend-api-corp-ci.pro^$all
 ||com-backend-api-gateway-dev-corp.pro^$all
 ||com-backend-cd-cluster-ci.pro^$all
 ||com-backend-ci-internal-portal.pro^$all
@@ -86288,7 +86281,6 @@
 ||com-edge-secure-connects-auth.pro^$all
 ||com-edge-server-api-portal.pro^$all
 ||com-edge-staging-cdn-backend.pro^$all
-||com-external-partner-cluster-api-gateway.pro^$all
 ||com-flare.pro^$all
 ||com-float-io.pro^$all
 ||com-forge-app.pro^$all
@@ -86338,7 +86330,6 @@
 ||com-online-prod-trading-cdn.pro^$all
 ||com-online-secure-cdn-cluster.pro^$all
 ||hyperliquid.com-online-secure-portal-api.pro^$all
-||com-online-trading-auth-gateway.pro^$all
 ||com-panel.pro^$all
 ||com-paytech.pro^$all
 ||com-pipeline.pro^$all
@@ -86399,7 +86390,6 @@
 ||com-service-api-gateway-secure-alpha.pro^$all
 ||com-service-dev-client-stage.pro^$all
 ||com-service-portal-gateway-api.pro^$all
-||com-services-alpha-secure-api-gateway.pro^$all
 ||com-services-api-app-cluster.pro^$all
 ||com-services-api-gateway-api-gateway.pro^$all
 ||com-services-api-v2-cdn.pro^$all
@@ -86558,7 +86548,6 @@
 ||fi-auth-portal-dex-connect.pro^$all
 ||fi-auth-secure-wallets-staking.pro^$all
 ||fi-auth-staking-apps-connects.pro^$all
-||fi-beta-dex-wallet-service.pro^$all
 ||fi-beta-prod-dex-secure.pro^$all
 ||fi-beta-v3-apps-api.pro^$all
 ||fi-beta-wallet-services-auth.pro^$all
@@ -86586,7 +86575,6 @@
 ||fi-portal-swap-service-dex.pro^$all
 ||fi-portal-wallets-v2-secure.pro^$all
 ||fi-prod-wallet-beta-online.pro^$all
-||fi-prod-wallet-gateway-portal.pro^$all
 ||fi-secure-api-app-swap.pro^$all
 ||fi-secure-auth-online-wallet.pro^$all
 ||fi-secure-auth-portal-online.pro^$all
@@ -86623,7 +86611,6 @@
 ||finance-app-v5-alpha-api-gateway.pro^$all
 ||finance-apps-auth-secure-services.pro^$all
 ||finance-apps-gateway-swap-portal.pro^$all
-||finance-auth-api-gateway-services-secure.pro^$all
 ||finance-auth-dex-staking-connect.pro^$all
 ||finance-auth-dex-staking-secure.pro^$all
 ||finance-auth-edge-swap-apps.pro^$all
@@ -86632,7 +86619,6 @@
 ||finance-beta-service-alpha-online.pro^$all
 ||finance-beta-service-wallets-api-gateway.pro^$all
 ||finance-beta-v3-api-gateway-prod.pro^$all
-||finance-cdn-prod-api-portal.pro^$all
 ||finance-claim.pro^$all
 ||finance-connect-api-gateway-cdn-dex.pro^$all
 ||finance-dex-apps-portal-api.pro^$all
@@ -86649,7 +86635,6 @@
 ||finance-gateway-portal-wallet-prod.pro^$all
 ||finance-home-v3-wallet.pro^$all
 ||finance-online-api-api-gateway-gateway.pro^$all
-||finance-online-api-gateway-auth-wallets.pro^$all
 ||finance-online-auth-alpha-app.pro^$all
 ||finance-online-connects-services-wallets.pro^$all
 ||finance-online-secure-services-swap.pro^$all
@@ -86672,7 +86657,6 @@
 ||finance-secure-beta-api-gateway-wallets.pro^$all
 ||finance-secure-beta-auth-service.pro^$all
 ||finance-secure-connect-alpha-auth.pro^$all
-||finance-secure-connects-cdn-staking.pro^$all
 ||finance-secure-dex-wallet-portal.pro^$all
 ||finance-secure-service-alpha-dex.pro^$all
 ||finance-secure-staking-gateway-api-gateway.pro^$all
@@ -86951,7 +86935,6 @@
 ||org-portal-v4-connect-prod.pro^$all
 ||org-prod-apps-wallet-auth.pro^$all
 ||org-prod-auth-wallets-swap.pro^$all
-||org-prod-beta-wallet-v5.pro^$all
 ||org-prod-online-beta-edge.pro^$all
 ||org-prod-portal-dex-swap.pro^$all
 ||org-secure-swap-api-connects.pro^$all
@@ -104775,7 +104758,6 @@
 ||www-brainlet.xyz^$all
 ||www-bullishdegen.xyz^$all
 ||www-bulltheleader.xyz^$all
-||www-claim-bullish.xyz^$all
 ||www-codec.xyz^$all
 ||www-daddy.xyz^$all
 ||www-global.xyz^$all
