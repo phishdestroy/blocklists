@@ -86089,7 +86089,6 @@
 ||com-api-gateway-edge-swap-apps.pro^$all
 ||com-api-gateway-external-management-auth.pro^$all
 ||com-api-gateway-frontend-client-dev.pro^$all
-||com-api-gateway-management-portal-ci.pro^$all
 ||com-api-gateway-platform-internal-prod.pro^$all
 ||com-api-gateway-prod-api-v1.pro^$all
 ||com-api-gateway-secure-beta-portal.pro^$all
@@ -86131,10 +86130,8 @@
 ||com-auth-v2-service-prod.pro^$all
 ||com-auth-wallet-online-cdn.pro^$all
 ||com-backend-api-gateway-dev-corp.pro^$all
-||com-backend-cd-cluster-ci.pro^$all
 ||com-backend-ci-internal-portal.pro^$all
 ||com-backend-frontend-dev-cdn.pro^$all
-||com-beta-apps-partner-node.pro^$all
 ||com-beta-edge-online-service.pro^$all
 ||com-beta-external-stage-backend.pro^$all
 ||com-beta-invest-prod-api.pro^$all
