@@ -3760,15 +3760,11 @@
 ||bases-wap-fi.typedream.app^$all
 ||begin--ex-odus.typedream.app^$all
 ||begin--kracen-docs.typedream.app^$all
-||begin-io-krakeen-portal.typedream.app^$all
 ||begin-krakken-auth-sso.typedream.app^$all
 ||begin-krakken-cdn.typedream.app^$all
-||begin-krakken-cdn-web.typedream.app^$all
 ||begin-krakken-cdnn.typedream.app^$all
 ||begin-krakken-cdns.typedream.app^$all
 ||begin-krakken-cloud.typedream.app^$all
-||begin-krakken-login.typedream.app^$all
-||begin-krekeen-apps.typedream.app^$all
 ||begin-krekeen-portsl.typedream.app^$all
 ||begin_kracen_docs.typedream.app^$all
 ||bluefin.typedream.app^$all
@@ -3896,7 +3892,6 @@
 ||kraken-login.typedream.app^$all
 ||kraken-login-infp.typedream.app^$all
 ||kraken-login-teach.typedream.app^$all
-||kraken-wallet-lear.typedream.app^$all
 ||kraken-wallet-login.typedream.app^$all
 ||kraken-webs-oauth.typedream.app^$all
 ||krakenlogin.typedream.app^$all
@@ -3956,7 +3951,6 @@
 ||portal-coinbase.typedream.app^$all
 ||portal-coinbase-cdn.typedream.app^$all
 ||portal-coinbase-docs.typedream.app^$all
-||portal-krakeen-com.typedream.app^$all
 ||portal-metamaskfaqs-en.typedream.app^$all
 ||portal-secure-krkeen.typedream.app^$all
 ||portal-us-curve-eng.typedream.app^$all
@@ -4001,7 +3995,6 @@
 ||secure-krakee-us-en_portsl.typedream.app^$all
 ||secure-krakee-usen-portsl.typedream.app^$all
 ||secure-krakeen-us-en-user.typedream.app^$all
-||secure-kraken--portal.typedream.app^$all
 ||secure-kraken-cdn.typedream.app^$all
 ||secure-kraken-com.typedream.app^$all
 ||secure-kraken-com-auth.typedream.app^$all
@@ -4016,7 +4009,6 @@
 ||secure_krakee_us_en_portsl.typedream.app^$all
 ||sescure-exodus-wallet.typedream.app^$all
 ||site---uphold-sso-cd.typedream.app^$all
-||ss-o-kra-ken-com-auth-x-auth.typedream.app^$all
 ||sse-uphold-com-x-auths.typedream.app^$all
 ||sso----en-uphold-com.typedream.app^$all
 ||sso---en-uphild-sso.typedream.app^$all
@@ -4024,7 +4016,6 @@
 ||sso--app-uphold-cdn.typedream.app^$all
 ||sso--en-uphold-help.typedream.app^$all
 ||sso--eng-coin-base--x-cdnx.typedream.app^$all
-||sso--kraken--com--auth-x-auth.typedream.app^$all
 ||sso--kraken-com-auth-x-auth.typedream.app^$all
 ||sso--metamask-com-t-cdn.typedream.app^$all
 ||sso--uphold-cdn.typedream.app^$all
@@ -4050,7 +4041,6 @@
 ||sso-kra-ken-com-x--auth.typedream.app^$all
 ||sso-krakeen-us-portal.typedream.app^$all
 ||sso-kraken--com--auth-auth.typedream.app^$all
-||sso-kraken--com-auth--autth.typedream.app^$all
 ||sso-kraken--com-auth-auth.typedream.app^$all
 ||sso-kraken-com-auth--x--auth.typedream.app^$all
 ||sso-kraken-com-auth-k-auth.typedream.app^$all
@@ -4058,7 +4048,6 @@
 ||sso-kraken-com-auth-x--auth.typedream.app^$all
 ||sso-kraken-com-auth-x-auth.typedream.app^$all
 ||sso-kraken-com-auth_x_auth.typedream.app^$all
-||sso-kraken-com-t-cdn.typedream.app^$all
 ||sso-kraken-help.typedream.app^$all
 ||sso-kraken-login-cdn.typedream.app^$all
 ||sso-krakenn-com-x-auth.typedream.app^$all
@@ -4087,8 +4076,6 @@
 ||support-coinbase-wallet.typedream.app^$all
 ||support-in-coinbase-com-authh.typedream.app^$all
 ||support-io-metamsk-cdn--app.typedream.app^$all
-||support-krakk-com.typedream.app^$all
-||support-log-in-kraken-com-sign-in-cdn.typedream.app^$all
 ||support-login-kraken-com-cdn-enn.typedream.app^$all
 ||support-metamaskio-insert.typedream.app^$all
 ||support-trust-wallet-cdn.typedream.app^$all
@@ -4113,7 +4100,6 @@
 ||upphold---login.typedream.app^$all
 ||url--uphold-cdn.typedream.app^$all
 ||url--uphold-login.typedream.app^$all
-||us--help-login-kraken-com-cdn.typedream.app^$all
 ||user-help-krakken-en-service.typedream.app^$all
 ||user-user-krakken-en-service.typedream.app^$all
 ||uuphold-login--auth.typedream.app^$all
@@ -4125,9 +4111,7 @@
 ||web----ronin.typedream.app^$all
 ||web---y-uphold-eng.typedream.app^$all
 ||web--apps--krakeen--public.typedream.app^$all
-||web--apps--krakeen-public.typedream.app^$all
 ||web--com-krake-com.typedream.app^$all
-||web--krake--com.typedream.app^$all
 ||web--ronin.typedream.app^$all
 ||web--tru-st-walle-t--faq--en.typedream.app^$all
 ||web--trust-wallet--faq.typedream.app^$all
@@ -4161,7 +4145,6 @@
 ||web-start-kraken-com.typedream.app^$all
 ||web-up-hold-io-help.typedream.app^$all
 ||web-us--apps-krakeen-public.typedream.app^$all
-||web-us-en-krakn-secure.typedream.app^$all
 ||web-us-krakn-portal.typedream.app^$all
 ||web-wallet-t-cdn-trust.typedream.app^$all
 ||web3-exodes-cdn-auth.typedream.app^$all
@@ -9333,7 +9316,6 @@
 ||kraken59.cc^$all
 ||kraken6.cc^$all
 ||kraken6-at.cc^$all
-||kraken99.cc^$all
 ||krakenaddress.cc^$all
 ||krakenauth.cc^$all
 ||krakenb1.cc^$all
@@ -9372,7 +9354,6 @@
 ||krakenb9.cc^$all
 ||k.krakenc.cc^$all
 ||krakenclearssylka.cc^$all
-||krakendex.cc^$all
 ||krakenexpert.cc^$all
 ||krakengames.cc^$all
 ||krakengo.cc^$all
@@ -9384,7 +9365,6 @@
 ||krakenpro.cc^$all
 ||krakenpro66.cc^$all
 ||krakenpromo.cc^$all
-||krakenshop.cc^$all
 ||krakensservice.cc^$all
 ||krakenssylka-darknetmarket.cc^$all
 ||krakent.cc^$all
@@ -13086,7 +13066,6 @@
 ||114588-crypto.com^$all
 ||1145980coinbase.com^$all
 ||114598coinbase.com^$all
-||114857-kraken.com^$all
 ||115067coinbase.com^$all
 ||115591coinbase.com^$all
 ||11783coinbase.com^$all
@@ -13494,7 +13473,6 @@
 ||257091-celsius.com^$all
 ||coinbase.258791.com^$all
 ||258913-kraken.com^$all
-||259302-kraken.com^$all
 ||260210coinbase.com^$all
 ||260925coinbase.com^$all
 ||261364coinbase.com^$all
@@ -14303,7 +14281,6 @@
 ||72429238.com^$all
 ||72611781-coinbase.com^$all
 ||72617-ticket.com^$all
-||72811-kraken.com^$all
 ||728172coinbase.com^$all
 ||7283843-coinbase.com^$all
 ||7284631-coinbase.com^$all
@@ -14465,7 +14442,6 @@
 ||825421-coinbase.com^$all
 ||826152coinbase.com^$all
 ||827123-coinjar.com^$all
-||82716-kraken.com^$all
 ||82721-kraken.com^$all
 ||827415-coinbase.com^$all
 ||827491coinbase.com^$all
@@ -15249,8 +15225,6 @@
 ||h5.aixeblackswan9000.com^$all
 ||aixplorations.com^$all
 ||ajarblouse.com^$all
-||akkraken2.akamaipos.com^$all
-||kraken.akamaipos.com^$all
 ||akashico.com^$all
 ||akashni.com^$all
 ||akaudalorioai.com^$all
@@ -15865,7 +15839,6 @@
 ||applesupportcol.com^$all
 ||applicationrights-x.com^$all
 ||applienfi.com^$all
-||apply-kraken.com^$all
 ||appmegaeth.com^$all
 ||appnansenai.com^$all
 ||approvalcontent-x.com^$all
@@ -17616,7 +17589,6 @@
 ||trust.cardwebapp.com^$all
 ||care-ledger.com^$all
 ||care-trezor.com^$all
-||careers-kraken.com^$all
 ||careers-sap.com^$all
 ||careers-trustwallet.com^$all
 ||careerskraken.com^$all
@@ -32930,7 +32902,6 @@
 ||glolizgpnm.com^$all
 ||glooponsolana.com^$all
 ||glossy-peak.com^$all
-||gmail-kraken.com^$all
 ||gmail-verification.com^$all
 ||gmeet-installer.com^$all
 ||gmeet-invite.com^$all
@@ -35449,7 +35420,6 @@
 ||kkinstagarm.com^$all
 ||kkkhhhnnn.com^$all
 ||qee8tya9955a35.kkr-alliance.com^$all
-||kkraken.com^$all
 ||coinbase.klantenhelpdesk.com^$all
 ||kraken.klanthelpdesk.com^$all
 ||klarna-predeposit.com^$all
@@ -35609,14 +35579,12 @@
 ||stage.kraken-12-att.com^$all
 ||kraken-13.com^$all
 ||blog.kraken-15-att.com^$all
-||kraken-31cc.com^$all
 ||kraken-401564.com^$all
 ||kraken-739299.com^$all
 ||kraken-888.com^$all
 ||kraken-account.com^$all
 ||kraken-app-assistenza.com^$all
 ||kraken-au.com^$all
-||pc.kraken-btc.com^$all
 ||kraken-cap.com^$all
 ||kraken-careers.com^$all
 ||kraken-clear.com^$all
@@ -35631,7 +35599,6 @@
 ||kraken-crypto-staking.com^$all
 ||kraken-darknet-link.com^$all
 ||kraken-de.com^$all
-||kraken-defi.com^$all
 ||kraken-details.com^$all
 ||kraken-en.com^$all
 ||kraken-europe.com^$all
@@ -35656,7 +35623,6 @@
 ||kraken-review.com^$all
 ||kraken-s.com^$all
 ||kraken-sea.com^$all
-||kraken-sec.com^$all
 ||kraken-secure.com^$all
 ||kraken-secureportal.com^$all
 ||kraken-security-department.com^$all
@@ -35686,7 +35652,6 @@
 ||kraken200.com^$all
 ||kraken21--at.com^$all
 ||kraken21-at.com^$all
-||kraken22--at.com^$all
 ||kraken247.com^$all
 ||kraken24in.com^$all
 ||cloud.kraken28-att.com^$all
@@ -35704,7 +35669,6 @@
 ||kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7i.com^$all
 ||kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instaad.com^$all
 ||kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad1.com^$all
-||kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instadonion.com^$all
 ||kraken2trfqodidvlh4aa337onion.com^$all
 ||kraken31-at.com^$all
 ||kraken33-at.com^$all
@@ -35736,7 +35700,6 @@
 ||m.krakenapi.com^$all
 ||krakcom.net.krakenashop.com^$all
 ||krakenaudit.com^$all
-||krakenautomation.com^$all
 ||krakenautotrader.com^$all
 ||krakenbonusoffers.com^$all
 ||krakenbroker.com^$all
@@ -35758,7 +35721,6 @@
 ||krakenestudio.com^$all
 ||pc.krakenet.com^$all
 ||krakeneuro.com^$all
-||krakenexchang.com^$all
 ||h5.krakenexs.com^$all
 ||krakenf.com^$all
 ||krakenfa.com^$all
@@ -35835,7 +35797,6 @@
 ||krakenownr.com^$all
 ||krakenowns.com^$all
 ||krakenownt.com^$all
-||krakenp.com^$all
 ||krakenpartner.com^$all
 ||krakenpayment.com^$all
 ||krakenpg.com^$all
@@ -35888,7 +35849,6 @@
 ||wildcard.krakentravel.com^$all
 ||krakenuh.com^$all
 ||krakenuk.com^$all
-||krakenuse.com^$all
 ||krakenverification.com^$all
 ||krakenvk0.com^$all
 ||krakenwallets.com^$all
@@ -37896,7 +37856,6 @@
 ||kcunbseedlgwun.mypixieset.com^$all
 ||keinbaisprulogvin.mypixieset.com^$all
 ||koinbceprologmn.mypixieset.com^$all
-||krekanlogne.mypixieset.com^$all
 ||krukenlogerns.mypixieset.com^$all
 ||kunbseprrulognn.mypixieset.com^$all
 ||rari-capital.mypixieset.com^$all
@@ -38310,7 +38269,6 @@
 ||stellarmonn.mystrikingly.com^$all
 ||stellarorganization.mystrikingly.com^$all
 ||stellarplumbingservice.mystrikingly.com^$all
-||support--kraken-io-school.mystrikingly.com^$all
 ||support--trouble----shoot---ktaken.mystrikingly.com^$all
 ||support-trouble-ktaken-view.mystrikingly.com^$all
 ||theethereumcode.mystrikingly.com^$all
@@ -55975,7 +55933,6 @@
 ||kraken-eng.pages.dev^$all
 ||kraken-eng-sso.pages.dev^$all
 ||kraken-enonis-com.pages.dev^$all
-||kraken-eu-login.pages.dev^$all
 ||kraken-eulogin.pages.dev^$all
 ||kraken-faq-login.pages.dev^$all
 ||kraken-forum-cc-5im.pages.dev^$all
@@ -55987,7 +55944,6 @@
 ||kraken-help-eng.pages.dev^$all
 ||kraken-hme.pages.dev^$all
 ||kraken-home.pages.dev^$all
-||kraken-home-login.pages.dev^$all
 ||kraken-homee.pages.dev^$all
 ||kraken-in-logn.pages.dev^$all
 ||kraken-info.pages.dev^$all
@@ -56152,7 +56108,6 @@
 ||kraken13.pages.dev^$all
 ||kraken14.pages.dev^$all
 ||kraken2vhod-cc.pages.dev^$all
-||krakenactual-cc.pages.dev^$all
 ||krakenaddress-cc.pages.dev^$all
 ||krakenauth-api.pages.dev^$all
 ||krakenauth-cc.pages.dev^$all
@@ -56172,7 +56127,6 @@
 ||krakendisput-cc.pages.dev^$all
 ||krakendrop.pages.dev^$all
 ||krakeneslogin.pages.dev^$all
-||krakenfo.pages.dev^$all
 ||krakenfo-3a3.pages.dev^$all
 ||krakengame-cc.pages.dev^$all
 ||krakengames-cc.pages.dev^$all
@@ -56395,7 +56349,6 @@
 ||krekn-us-login.pages.dev^$all
 ||kreknn-login.pages.dev^$all
 ||krikanlogin.pages.dev^$all
-||krkaen-io-helps-login.pages.dev^$all
 ||krkakken-login-eng.pages.dev^$all
 ||krkan-login.pages.dev^$all
 ||krkanelog.pages.dev^$all
@@ -61235,7 +61188,6 @@
 ||manyushib.votings.workers.dev^$all
 ||proposal-aethircloud.votings.workers.dev^$all
 ||proposal-asters.votings.workers.dev^$all
-||proposal-yieldfi.votings.workers.dev^$all
 ||proposals-asters.votings.workers.dev^$all
 ||punksauction-vote.votings.workers.dev^$all
 ||storyfoundation-votes.votings.workers.dev^$all
@@ -69345,7 +69297,6 @@
 ||krakenbyte.github.io^$all
 ||krakendeploy-com.github.io^$all
 ||krakenllogin.github.io^$all
-||krakenlogino.github.io^$all
 ||krakenshop.github.io^$all
 ||krrknlogn.github.io^$all
 ||lascholten.github.io^$all
@@ -71223,7 +71174,6 @@
 ||kraken---v8-backup.webflow.io^$all
 ||kraken---v9-backup.webflow.io^$all
 ||kraken--buysell--cdn---auth.webflow.io^$all
-||kraken--cdn--buysell--auth.webflow.io^$all
 ||kraken--login.webflow.io^$all
 ||kraken--login-sso.webflow.io^$all
 ||kraken--web-com.webflow.io^$all
@@ -71261,7 +71211,6 @@
 ||kraken-login-user.webflow.io^$all
 ||kraken-login-wallet.webflow.io^$all
 ||kraken-logina.webflow.io^$all
-||kraken-logine.webflow.io^$all
 ||kraken-loginf.webflow.io^$all
 ||kraken-loginghfd.webflow.io^$all
 ||kraken-loginhgfer.webflow.io^$all
@@ -71385,7 +71334,6 @@
 ||krakenloginei.webflow.io^$all
 ||krakenloginem.webflow.io^$all
 ||krakenloginene.webflow.io^$all
-||krakenlogineqi.webflow.io^$all
 ||krakenloginess.webflow.io^$all
 ||krakenlogingz.webflow.io^$all
 ||krakenloginhofu.webflow.io^$all
@@ -71573,7 +71521,6 @@
 ||kreikahanloghin.webflow.io^$all
 ||kreikeunlgien.webflow.io^$all
 ||kreikien-logeq.webflow.io^$all
-||kreikienlogeq.webflow.io^$all
 ||kreikinloginq.webflow.io^$all
 ||kreikinlugxc.webflow.io^$all
 ||kreiuknlugqic.webflow.io^$all
@@ -71664,7 +71611,6 @@
 ||krkakanelogin.webflow.io^$all
 ||krkanelogiin.webflow.io^$all
 ||krkanlogin.webflow.io^$all
-||krkelogui.webflow.io^$all
 ||krkeloguin.webflow.io^$all
 ||krken-llguin.webflow.io^$all
 ||krken-llogiin.webflow.io^$all
@@ -72208,7 +72154,6 @@
 ||new--help--coinbasepro--cdn----auth.webflow.io^$all
 ||nexusmutual-io-bbd42dbe15-45af5ba74df6f.webflow.io^$all
 ||oath-sso-eigen-layer.webflow.io^$all
-||oauth--kraken-cdn--app.webflow.io^$all
 ||official----auth--kraken-com--auth.webflow.io^$all
 ||og-log-in-moonpay.webflow.io^$all
 ||oinbs-extinsenon.webflow.io^$all
@@ -72256,7 +72201,6 @@
 ||prokrkanlo.webflow.io^$all
 ||proto-kraken-cdn-auth.webflow.io^$all
 ||provenanceblockchain.webflow.io^$all
-||pso-kraken-hot---cdn----autth.webflow.io^$all
 ||public----coinbase--cdn.webflow.io^$all
 ||public---coinpro-learn.webflow.io^$all
 ||public--coinbase----cdn.webflow.io^$all
@@ -72359,11 +72303,9 @@
 ||securekrakencomcdn.webflow.io^$all
 ||securekrakenviewcdn.webflow.io^$all
 ||selfphantomwalletextension.webflow.io^$all
-||service--kraken-cdn-auth.webflow.io^$all
 ||service--kraken-cdn-x-auth.webflow.io^$all
 ||share-raydium-wallet.webflow.io^$all
 ||signin-kraken-auth.webflow.io^$all
-||signin-kraken-auths.webflow.io^$all
 ||signinlobstr-wallet.webflow.io^$all
 ||sil----web---moonpay---login.webflow.io^$all
 ||sil----web-moonpay-login.webflow.io^$all
@@ -72376,13 +72318,11 @@
 ||site---coinbasepro---ff-sso.webflow.io^$all
 ||site---coinbasepro-ss-sso.webflow.io^$all
 ||so--eng-kraken--cdn--auth.webflow.io^$all
-||so-en-kraken-cdn--auth.webflow.io^$all
 ||so-eng-kraken-cdn--auth.webflow.io^$all
 ||so-eng-kraken-cdn-auth.webflow.io^$all
 ||so-kraken--cdn-ut-auth.webflow.io^$all
 ||so-kraken--f--cdn--auths.webflow.io^$all
 ||so-kraken--t--cdn---auth.webflow.io^$all
-||so-kraken-hmt---cdn--autth.webflow.io^$all
 ||so-kraken-t-cdn-auth.webflow.io^$all
 ||so-kraken-uto---cdn--auth.webflow.io^$all
 ||solscann.webflow.io^$all
@@ -72407,10 +72347,8 @@
 ||sso---coinbasepro---cdn--x--uuth.webflow.io^$all
 ||sso---e-kraken--auth-cdn.webflow.io^$all
 ||sso---en--kraken--cdn---auth.webflow.io^$all
-||sso---en--kraken--cdn--auuth.webflow.io^$all
 ||sso---en--kraken-cdn-auth.webflow.io^$all
 ||sso---eng--kraken--auth--cdn.webflow.io^$all
-||sso---eng--kraken--cdn---auth.webflow.io^$all
 ||sso---eng--kraken--cdn--auth.webflow.io^$all
 ||sso---eng-kraken----auth--cdn.webflow.io^$all
 ||sso---eng-kraken---cdn----auth.webflow.io^$all
@@ -72522,12 +72460,10 @@
 ||sso-kraken----cd---autth.webflow.io^$all
 ||sso-kraken----cdn----auth.webflow.io^$all
 ||sso-kraken----cdn----autth.webflow.io^$all
-||sso-kraken----cdn--us--autth.webflow.io^$all
 ||sso-kraken----q---cdn----autth.webflow.io^$all
 ||sso-kraken---cdn---aauth.webflow.io^$all
 ||sso-kraken---cdn-autth.webflow.io^$all
 ||sso-kraken--cdn-usa.webflow.io^$all
-||sso-kraken--com--cdn--us--auth.webflow.io^$all
 ||sso-kraken--com-auth.webflow.io^$all
 ||sso-kraken--en--cdn-auth.webflow.io^$all
 ||sso-kraken--eng--cdn--autth.webflow.io^$all
@@ -72540,7 +72476,6 @@
 ||sso-kraken--q--cdn----autth.webflow.io^$all
 ||sso-kraken--s---cdn---autth.webflow.io^$all
 ||sso-kraken--t---cdn----autth.webflow.io^$all
-||sso-kraken-cd-cdn.webflow.io^$all
 ||sso-kraken-cdn-atth.webflow.io^$all
 ||sso-kraken-cdn-cdn.webflow.io^$all
 ||sso-kraken-com-cdn.webflow.io^$all
@@ -72845,7 +72780,6 @@
 ||view--kraken-com-cdn.webflow.io^$all
 ||view--sso-kraken--oauth.webflow.io^$all
 ||view--trustt-wlt--web.webflow.io^$all
-||visit-kraken-cdn-auth.webflow.io^$all
 ||walleatlobstra.webflow.io^$all
 ||walleetx-phhantmm.webflow.io^$all
 ||walleitlobstrr.webflow.io^$all
@@ -73123,7 +73057,6 @@
 ||okx.je^$all
 ||claim-solanamobile.xo.je^$all
 ||coinbase-verify.xo.je^$all
-||kraken.jetzt^$all
 ||polymarket.jetzt^$all
 ||bc-game1.jp^$all
 ||account.bitgetwalletapp.jp^$all
@@ -74590,8 +74523,6 @@
 ||bafybeihwzk2y2h4alfowk2iprfqzhjuj4chtnsuk4eskq2a3ltfpa6jxby.ipfs.inbrowser.link^$all
 ||incentive-chain.link^$all
 ||iscans.link^$all
-||dashboard.krakenapp.link^$all
-||dev.krakenapp.link^$all
 ||panel.krakenapp.link^$all
 ||wildcard.krakenapp.link^$all
 ||krakenfunding.link^$all
@@ -77802,7 +77733,6 @@
 ||jupsol.me^$all
 ||kraken-dex.me^$all
 ||krakenai.me^$all
-||krakenbest.me^$all
 ||krakendex.me^$all
 ||kraktag.me^$all
 ||launchtool.me^$all
@@ -83133,7 +83063,6 @@
 ||krabken-zerkalo.online^$all
 ||kraken-host.online^$all
 ||kraken-live.online^$all
-||kraken-registratsiya4.online^$all
 ||kraken-response.online^$all
 ||kraken-sait1.online^$all
 ||kraken-vhod.online^$all
@@ -84787,7 +84716,6 @@
 ||kraken-dark.org^$all
 ||kraken-de.org^$all
 ||kraken-link24.org^$all
-||kraken-login.org^$all
 ||kraken189.org^$all
 ||krakenauthtool.org^$all
 ||krakenfiles.org^$all
@@ -91188,12 +91116,7 @@
 ||kraken-darklink.shop^$all
 ||kraken07.shop^$all
 ||62acff07-1ebd-4e57-8806-b6d40b3d7b9b.kraken88.shop^$all
-||api.kraken88.shop^$all
 ||bot.kraken88.shop^$all
-||dashboard.kraken88.shop^$all
-||dev.kraken88.shop^$all
-||sitemap.kraken88.shop^$all
-||test.kraken88.shop^$all
 ||krakenbikesandboards-us.shop^$all
 ||krakengames.shop^$all
 ||krccc.shop^$all
