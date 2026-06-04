@@ -1586,7 +1586,6 @@
 ||coinbase-wallat.created.app^$all
 ||coinbase-wallet.created.app^$all
 ||coinbase-wallet-auth.created.app^$all
-||coinbase-wallet-cloud.created.app^$all
 ||coinbase-wallet-eng-exteension.created.app^$all
 ||coinbase-wallet-extn.created.app^$all
 ||coinbase-wallet-world.created.app^$all
@@ -72432,6 +72431,7 @@
 ||connectivity-ledger.live^$all
 ||connectlayers.live^$all
 ||consumerfiai.live^$all
+||mail.coinbase.consumersupport.live^$all
 ||contract-ledger.live^$all
 ||copytrade-x.live^$all
 ||cosmosnetwork.live^$all
