@@ -83711,7 +83711,6 @@
 ||com-beta-prod-cdn-v5.pro^$all
 ||com-beta-prod-main-core.pro^$all
 ||com-beta-prod-v5-gateway.pro^$all
-||com-beta-secure-swap-dex.pro^$all
 ||com-beta-v1-cdn-online.pro^$all
 ||com-blast-hub.pro^$all
 ||com-boom.pro^$all
@@ -83727,14 +83726,12 @@
 ||com-cdn-api-alpha-api-gateway.pro^$all
 ||com-cdn-beta-app-swap.pro^$all
 ||com-cdn-edge-api-ai.pro^$all
-||com-cdn-gateway-invest-secure.pro^$all
 ||com-cdn-internal-gateway-prod.pro^$all
 ||com-cdn-prod-swap-secure.pro^$all
 ||com-cdn-secure-gateway-trading.pro^$all
 ||com-cdn-secure-v1-api-gateway.pro^$all
 ||com-cdn-swap-api-apps.pro^$all
 ||com-cdn-swap-api-gateway-service.pro^$all
-||com-cdn-swap-portal-auth.pro^$all
 ||com-checking.pro^$all
 ||com-ci-auth-staging-client.pro^$all
 ||com-ci-node-online-v4.pro^$all
@@ -83773,7 +83770,6 @@
 ||com-edge-auth-beta-trading.pro^$all
 ||com-edge-gateway-v4-api-gateway.pro^$all
 ||com-edge-portal-online-brokers.pro^$all
-||com-edge-secure-connects-auth.pro^$all
 ||com-edge-server-api-portal.pro^$all
 ||com-edge-staging-cdn-backend.pro^$all
 ||com-flare.pro^$all
@@ -83781,7 +83777,6 @@
 ||com-forge-app.pro^$all
 ||com-gate-net.pro^$all
 ||com-gateway-alpha-auth-api.pro^$all
-||com-gateway-alpha-swap-connect.pro^$all
 ||com-gateway-api-gateway-apps-portal.pro^$all
 ||com-gateway-auth-alpha-cdn.pro^$all
 ||com-gateway-auth-secure-api-gateway.pro^$all
@@ -83915,7 +83910,6 @@
 ||com-v5-trading-api-prod.pro^$all
 ||com-vault-io.pro^$all
 ||com-vector-hub.pro^$all
-||com-wallets-dex-gateway-alpha.pro^$all
 ||com-warm-hub.pro^$all
 ||com-zone-hub.pro^$all
 ||com-zone-zone.pro^$all
@@ -84057,7 +84051,6 @@
 ||fi-secure-api-app-swap.pro^$all
 ||fi-secure-auth-online-wallet.pro^$all
 ||fi-secure-auth-portal-online.pro^$all
-||fi-secure-prod-dex-portal.pro^$all
 ||fi-services-staking-v2-swap.pro^$all
 ||fi-staking-alpha-edge-wallets.pro^$all
 ||fi-staking-auth-gateway-dex.pro^$all
@@ -84083,7 +84076,6 @@
 ||finance-api-prod-connect-staking.pro^$all
 ||finance-app-api-v3-online.pro^$all
 ||finance-app-gateway-online-auth.pro^$all
-||finance-app-gateway-portal-swap.pro^$all
 ||finance-app-online-gateway-alpha.pro^$all
 ||finance-app-v5-alpha-api-gateway.pro^$all
 ||finance-apps-auth-secure-services.pro^$all
@@ -84108,7 +84100,6 @@
 ||finance-home-v3-wallet.pro^$all
 ||finance-online-auth-alpha-app.pro^$all
 ||finance-online-connects-services-wallets.pro^$all
-||finance-online-secure-services-swap.pro^$all
 ||finance-portal-alpha-api-staking.pro^$all
 ||finance-portal-api-gateway-online-connects.pro^$all
 ||finance-portal-beta-auth-cdn.pro^$all
@@ -84121,7 +84112,6 @@
 ||finance-prod-api-gateway-wallets-services.pro^$all
 ||finance-prod-app-portal-api-gateway.pro^$all
 ||finance-prod-edge-app-swap.pro^$all
-||finance-prod-online-portal-edge.pro^$all
 ||finance-secure-beta-api-gateway-wallets.pro^$all
 ||finance-secure-beta-auth-service.pro^$all
 ||finance-secure-dex-wallet-portal.pro^$all
@@ -84398,7 +84388,6 @@
 ||org-dex-connects-app-auth.pro^$all
 ||org-edge-app-api-cdn.pro^$all
 ||org-edge-gateway-api-gateway-dex.pro^$all
-||org-portal-api-swap-dex.pro^$all
 ||org-portal-gateway-api-gateway-alpha.pro^$all
 ||org-portal-v4-connect-prod.pro^$all
 ||org-prod-apps-wallet-auth.pro^$all
@@ -87434,7 +87423,6 @@
 ||fight-foundation.sbs^$all
 ||fileconverter.sbs^$all
 ||final-cashback.sbs^$all
-||finance-advisor-agi.sbs^$all
 ||finance-estadao.sbs^$all
 ||finance-eth-sol.sbs^$all
 ||finance-home.sbs^$all
