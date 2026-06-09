@@ -1136,7 +1136,6 @@
 ||coinomiwallet.app^$all
 ||coinomize.app^$all
 ||coinpool.app^$all
-||coinrevoke.app^$all
 ||coinsbits.app^$all
 ||com-find-devices.app^$all
 ||com-livewallet.app^$all
@@ -3165,7 +3164,6 @@
 ||takotii.replit.app^$all
 ||uniswap-finance.replit.app^$all
 ||restaking-chainswap.app^$all
-||revoke-ether.app^$all
 ||revoke-tydro.app^$all
 ||revoke-yearns.app^$all
 ||revokeapp.app^$all
@@ -20152,7 +20150,6 @@
 ||dashboard-lidopoints.com^$all
 ||dashboard-link.com^$all
 ||dashboard-ondo.com^$all
-||dashboard-pancakeswap.com^$all
 ||dashboard-poly.com^$all
 ||dashboard-silostaking.com^$all
 ||dashboard-spx6900.com^$all
@@ -38620,7 +38617,6 @@
 ||petugamb.com^$all
 ||pewnytokenex-official.com^$all
 ||pfppepe-fun.com^$all
-||pg-axieinfinity.com^$all
 ||pgiitudr.com^$all
 ||pguhrdr.com^$all
 ||ph-xmas.com^$all
@@ -40257,7 +40253,6 @@
 ||revoke-zetachain.com^$all
 ||revokebutton.com^$all
 ||revokeme.com^$all
-||revokerugs.com^$all
 ||revokesafe.com^$all
 ||revokio.com^$all
 ||webtrader.revolnys-mumbtyx.com^$all
@@ -40342,7 +40337,6 @@
 ||rewards-whitewhalememe.com^$all
 ||rewards-wlfi.com^$all
 ||rewards-worldlibertyfinancial.com^$all
-||rewards-yieldusd.com^$all
 ||rewards-z1labs.com^$all
 ||rewards-zebec.com^$all
 ||rewards-zestprotocol.com^$all
@@ -71661,7 +71655,6 @@
 ||airdroppings.live^$all
 ||airdrops-nexira.live^$all
 ||airdrops-register.live^$all
-||blast.airdropsalert.live^$all
 ||coinlist.airdropsalert.live^$all
 ||ewt.airdropsalert.live^$all
 ||haedal.airdropsalert.live^$all
@@ -83361,7 +83354,6 @@
 ||com-api-app-dex-v5.pro^$all
 ||com-api-apps-management-gateway.pro^$all
 ||com-api-beta-wallets-auth.pro^$all
-||com-api-cdn-prod-node.pro^$all
 ||com-api-connect-edge-dex.pro^$all
 ||com-api-core-dev-api-gateway.pro^$all
 ||com-api-gateway-apps-api-secure.pro^$all
@@ -83371,11 +83363,9 @@
 ||com-api-gateway-cdn-alpha-beta.pro^$all
 ||com-api-gateway-edge-swap-apps.pro^$all
 ||com-api-gateway-external-management-auth.pro^$all
-||com-api-gateway-frontend-client-dev.pro^$all
 ||com-api-gateway-secure-invests-auth.pro^$all
 ||com-api-partner-main-gateway.pro^$all
 ||com-api-portal-app-services.pro^$all
-||com-api-portal-backend-secure.pro^$all
 ||com-api-secure-cdn-beta.pro^$all
 ||com-api-secure-gateway-services.pro^$all
 ||com-api-service-auth-edge.pro^$all
@@ -83394,7 +83384,6 @@
 ||com-auth-api-alpha-secure.pro^$all
 ||com-auth-cdn-beta-portal.pro^$all
 ||com-auth-cdn-edge-v5.pro^$all
-||com-auth-cluster-alpha-beta.pro^$all
 ||com-auth-dex-online-v1.pro^$all
 ||com-auth-portal-partner-cdn.pro^$all
 ||com-auth-secure-trading-apps.pro^$all
@@ -83411,7 +83400,6 @@
 ||com-beta-prod-cdn-v5.pro^$all
 ||com-beta-prod-main-core.pro^$all
 ||com-beta-prod-v5-gateway.pro^$all
-||com-beta-v1-cdn-online.pro^$all
 ||com-blast-hub.pro^$all
 ||com-boom.pro^$all
 ||com-branch-web.pro^$all
@@ -83488,7 +83476,6 @@
 ||com-grade-hub.pro^$all
 ||com-guardian.pro^$all
 ||com-hyperedge-resolver.pro^$all
-||com-internal-portal-auth-service.pro^$all
 ||com-invest-prod-auth-cdn.pro^$all
 ||com-invest-prod-v2-trade.pro^$all
 ||com-invests-beta-app-api-gateway.pro^$all
@@ -83547,13 +83534,11 @@
 ||com-secure-auth-app-online.pro^$all
 ||com-secure-beta-portal-wallet.pro^$all
 ||com-secure-io.pro^$all
-||com-secure-portal-services-auth.pro^$all
 ||com-secure-services-v1-server.pro^$all
 ||com-server-alpha-v3-partner.pro^$all
 ||com-server-cd-management-online.pro^$all
 ||com-server-frontend-ci-secure.pro^$all
 ||com-server-frontend-corp-alpha.pro^$all
-||com-server-management-main-alpha.pro^$all
 ||com-service-alpha-auth-app.pro^$all
 ||com-service-api-api-gateway-broker.pro^$all
 ||com-service-dev-client-stage.pro^$all
@@ -84024,7 +84009,6 @@
 ||optionsflowtrade.pro^$all
 ||org-alpha-swap-auth-gateway.pro^$all
 ||org-apps-portal-auth-dex.pro^$all
-||org-apps-v4-dex-secure.pro^$all
 ||org-auth-beta-swap-dex.pro^$all
 ||org-auth-connect-beta-app.pro^$all
 ||org-auth-gateway-edge-api-gateway.pro^$all
@@ -87529,7 +87513,7 @@
 ||amlbot.services^$all
 ||audius.services^$all
 ||basepay.services^$all
-||api.basesupport.services^$all
+||basesupport.services^$all
 ||com-en-us.services^$all
 ||com-us.services^$all
 ||defender.services^$all
@@ -88081,7 +88065,6 @@
 ||io-en-us.site^$all
 ||io-exchange.site^$all
 ||io-exchangecrypto.site^$all
-||io-group.site^$all
 ||eigenlayer.io-l2.site^$all
 ||io-swap.site^$all
 ||io-swapnow.site^$all
@@ -99920,7 +99903,6 @@
 ||rewards-nanovita.xyz^$all
 ||rewards-neverland.xyz^$all
 ||rewards-nexus.xyz^$all
-||rewards-niche.xyz^$all
 ||rewards-nillion.xyz^$all
 ||rewards-noble.xyz^$all
 ||rewards-nunchi.xyz^$all
