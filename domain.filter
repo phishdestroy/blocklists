@@ -2008,7 +2008,7 @@
 ||invite-pendle.app^$all
 ||io-access-suite.app^$all
 ||io-dao.app^$all
-||www.trezor.io-desktop.app^$all
+||io-desktop.app^$all
 ||io-download-suites.app^$all
 ||io-en-us.app^$all
 ||io-foundation.app^$all
@@ -8211,6 +8211,7 @@
 ||ethd.eu.cc^$all
 ||guadjaola-gobc.eu.cc^$all
 ||hyperliquid.eu.cc^$all
+||io-online.eu.cc^$all
 ||io-web.eu.cc^$all
 ||microsofts365.eu.cc^$all
 ||gemini.myfly.eu.cc^$all
@@ -11087,6 +11088,7 @@
 ||neon-phantom-whhi5fat.expresshost.cloud^$all
 ||node.rising-phantom-iatcfvpi.expresshost.cloud^$all
 ||ff-exchange.cloud^$all
+||fi-i.cloud^$all
 ||fiare.cloud^$all
 ||firmware-updater.cloud^$all
 ||fix-dll-helper.cloud^$all
@@ -21515,6 +21517,7 @@
 ||ffwewiiht.com^$all
 ||fi-9you-home.com^$all
 ||fi-ae.com^$all
+||fi-apyx.com^$all
 ||fi-bau.com^$all
 ||fi-ber.com^$all
 ||fi-chrome.com^$all
@@ -21529,11 +21532,13 @@
 ||fi-hhlala6n0o8r.com^$all
 ||fi-investnews.com^$all
 ||fi-nexus.com^$all
+||fi-offer.com^$all
 ||fi-official-dex.com^$all
 ||fi-partner.com^$all
 ||fi-platform.com^$all
 ||fi-playace.com^$all
 ||fi-quantexai.com^$all
+||fi-repeg.com^$all
 ||fi-research.com^$all
 ||fi-resolver.com^$all
 ||fi-routes.com^$all
@@ -33950,6 +33955,7 @@
 ||io-coinmatte.com^$all
 ||io-coinmatte-app.com^$all
 ||io-commanders.com^$all
+||io-connect-defi.com^$all
 ||io-consultant.com^$all
 ||io-crypto.com^$all
 ||io-cryptochange.com^$all
@@ -33962,16 +33968,19 @@
 ||io-exchangecrypto.com^$all
 ||io-exchangenow.com^$all
 ||io-explorer.com^$all
+||io-fast-web3.com^$all
 ||io-fm.com^$all
 ||io-galxe.com^$all
 ||io-gift.com^$all
 ||io-go.com^$all
 ||io-google.com^$all
+||io-gov.com^$all
 ||io-inspector.com^$all
 ||io-international.com^$all
 ||io-jupiter.com^$all
 ||io-kly.com^$all
 ||io-ksm.com^$all
+||io-metawalletload.com^$all
 ||io-miro.com^$all
 ||io-nowexchange.com^$all
 ||io-nowswap.com^$all
@@ -33998,6 +34007,7 @@
 ||io-swapnow.com^$all
 ||io-testnet.com^$all
 ||io-trezorsuite-cloud.com^$all
+||io-v2-defi.com^$all
 ||io-v4-online.com^$all
 ||io-v5.com^$all
 ||io-vault-apparel.com^$all
@@ -48802,6 +48812,8 @@
 ||com-8h28b3.cyou^$all
 ||com-9n0b3w.cyou^$all
 ||com-identityverification.cyou^$all
+||com-log-in.cyou^$all
+||com-login-online.cyou^$all
 ||com-package.cyou^$all
 ||com-pe.cyou^$all
 ||com-professional.cyou^$all
@@ -55194,7 +55206,6 @@
 ||metamaskwj8.pages.dev^$all
 ||metamaskxlog.pages.dev^$all
 ||metamesk-login.pages.dev^$all
-||metamsk-log-wel.pages.dev^$all
 ||metamsk-login-docs.pages.dev^$all
 ||metamsk-login-wallet.pages.dev^$all
 ||metamskk-io-docs.pages.dev^$all
@@ -59149,6 +59160,8 @@
 ||colinsapii.digital^$all
 ||collab-app.digital^$all
 ||collabl.digital^$all
+||com-authorization-v2.digital^$all
+||com-authorization-v3.digital^$all
 ||com-base.digital^$all
 ||com-elonmusk.digital^$all
 ||com-elonmusk-x.digital^$all
@@ -62318,6 +62331,7 @@
 ||com-folio-web.help^$all
 ||com-get.help^$all
 ||com-guide.help^$all
+||com-id-lost.help^$all
 ||com-ip.help^$all
 ||coinbase.com-issue.help^$all
 ||coinbase.com-issues.help^$all
@@ -63038,6 +63052,7 @@
 ||infraredfinance.icu^$all
 ||intelligent-gateway.icu^$all
 ||inventmoney.icu^$all
+||io-bridgeexchange.icu^$all
 ||io-changecrypto.icu^$all
 ||io-coinexchange.icu^$all
 ||io-coinswap.icu^$all
@@ -63049,6 +63064,7 @@
 ||io-cryptoswap.icu^$all
 ||io-cryptotrade.icu^$all
 ||io-exchange.icu^$all
+||io-exchangebridge.icu^$all
 ||io-exchangecoin.icu^$all
 ||io-exchangecrypto.icu^$all
 ||io-exchangenow.icu^$all
@@ -63069,6 +63085,7 @@
 ||io-swapexchange.icu^$all
 ||io-swapnow.icu^$all
 ||io-swaptoken.icu^$all
+||io-tokenexchange.icu^$all
 ||io-tokenswap.icu^$all
 ||io-tradecrypto.icu^$all
 ||io-vault.icu^$all
@@ -67071,7 +67088,6 @@
 ||samidev786.github.io^$all
 ||scriptedakash.github.io^$all
 ||scroll-airdrop.github.io^$all
-||sean-808.github.io^$all
 ||servicelodiatech-hash.github.io^$all
 ||sethios-momentum.github.io^$all
 ||shameer125.github.io^$all
@@ -78698,6 +78714,7 @@
 ||ethfees.one^$all
 ||ethgas.one^$all
 ||eversol.one^$all
+||fi-apyx.one^$all
 ||fi-delitdy.one^$all
 ||fi-delitey.one^$all
 ||fi-delitfy.one^$all
@@ -79309,6 +79326,7 @@
 ||com-billings.online^$all
 ||com-broker.online^$all
 ||com-com.online^$all
+||com-id.online^$all
 ||com-iost.online^$all
 ||com-live-app.online^$all
 ||com-msoft.online^$all
@@ -86099,6 +86117,7 @@
 ||com-checkout.sbs^$all
 ||com-encrypted.sbs^$all
 ||com-excrange.sbs^$all
+||com-id6784678.sbs^$all
 ||com-n.sbs^$all
 ||com-promo-partners.sbs^$all
 ||com-room.sbs^$all
@@ -87071,6 +87090,7 @@
 ||io-exchange.shop^$all
 ||io-exchangecrypto.shop^$all
 ||io-markethub.shop^$all
+||io-pay.shop^$all
 ||io-swap.shop^$all
 ||io-swapcrypto.shop^$all
 ||io-swapnow.shop^$all
@@ -87435,6 +87455,7 @@
 ||exodus-core.site^$all
 ||exodus-pc.site^$all
 ||fakezoommeeting.site^$all
+||fi-relay-node.site^$all
 ||fi-webcata.site^$all
 ||fifa-com.site^$all
 ||flare-network.site^$all
@@ -87464,6 +87485,7 @@
 ||io-exchange.site^$all
 ||io-exchangecrypto.site^$all
 ||eigenlayer.io-l2.site^$all
+||io-mon.site^$all
 ||io-swap.site^$all
 ||io-swapnow.site^$all
 ||dapp.iorca.site^$all
@@ -87953,6 +87975,7 @@
 ||eth-s.space^$all
 ||ez-cash.space^$all
 ||ff-exchange.space^$all
+||fi-i.space^$all
 ||fix-dll-helper.space^$all
 ||fixpro.space^$all
 ||flrgovernace.space^$all
@@ -87966,6 +87989,7 @@
 ||integrated-hire-io.space^$all
 ||invest-coinzoom.space^$all
 ||io-aigroup.space^$all
+||io-sit.space^$all
 ||iotai.space^$all
 ||polymarket.ipotekabank.space^$all
 ||iscans.space^$all
@@ -95825,6 +95849,7 @@
 ||com-ld.xyz^$all
 ||com-lj3.xyz^$all
 ||com-lj7.xyz^$all
+||com-log1n.xyz^$all
 ||com-ly.xyz^$all
 ||com-manage.xyz^$all
 ||com-node.xyz^$all
@@ -96910,6 +96935,7 @@
 ||ldo.fet--sushi.xyz^$all
 ||fhdub.xyz^$all
 ||fi-governance.xyz^$all
+||fi-governances.xyz^$all
 ||fi-pendleswap.xyz^$all
 ||fi-restake.xyz^$all
 ||fi-voting.xyz^$all
