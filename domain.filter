@@ -2494,7 +2494,6 @@
 ||phantom-chat.app^$all
 ||phantom-service.app^$all
 ||phantom-wallet-extension.app^$all
-||ww01.phantom-wallets.app^$all
 ||phantom-web.app^$all
 ||phantomdesktop.app^$all
 ||phantomdrop.app^$all
@@ -54439,6 +54438,7 @@
 ||io-trezor-us-x-eng.pages.dev^$all
 ||io-trezor-wallet.pages.dev^$all
 ||io-trezorbridji.pages.dev^$all
+||io-trezorcom.pages.dev^$all
 ||io-trezorr--start.pages.dev^$all
 ||io-trezorr--strts-sso-us.pages.dev^$all
 ||io-trezorr-wallets.pages.dev^$all
@@ -95617,7 +95617,6 @@
 ||connect-virtualsprotocol.xyz^$all
 ||connection-aave.xyz^$all
 ||connects-flarenetworks.xyz^$all
-||consensysnavi.xyz^$all
 ||constellation-migration.xyz^$all
 ||contentalerts-x.xyz^$all
 ||contentbreach-x.xyz^$all
