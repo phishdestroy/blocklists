@@ -1708,7 +1708,6 @@
 ||io-download-suites.app^$all
 ||io-en-us.app^$all
 ||io-foundation.app^$all
-||io-season-2.app^$all
 ||io-stage2.app^$all
 ||io-starts.app^$all
 ||io-suite.app^$all
@@ -6765,7 +6764,6 @@
 ||exchange-help.bond^$all
 ||exchange-mm.bond^$all
 ||exchange-nn.bond^$all
-||fi-ca.bond^$all
 ||final-cashback.bond^$all
 ||fluxchain.bond^$all
 ||golden-era.bond^$all
@@ -7746,7 +7744,6 @@
 ||com-exch.cc^$all
 ||com-farm.cc^$all
 ||com-iasdlj.cc^$all
-||com-id914hafhicj23u1q5baf3c8u1b8ab17bca198c9a.cc^$all
 ||com-id914hfca19g8gc91g9ag718791ucbaz1.cc^$all
 ||com-itm.cc^$all
 ||com-oauth2.cc^$all
@@ -9424,7 +9421,6 @@
 ||faulttolerantnode.cfd^$all
 ||feeless-index.cfd^$all
 ||feeless-relay-probe.cfd^$all
-||fi-ca.cfd^$all
 ||fi-liquid.cfd^$all
 ||www.fiare.cfd^$all
 ||workspace.google.com.filetransfer.cfd^$all
@@ -33464,7 +33460,6 @@
 ||io-pages.com^$all
 ||io-partner.com^$all
 ||io-pf-aiyouxisport.com^$all
-||io-predict.com^$all
 ||io-sgct.com^$all
 ||io-shibarium.com^$all
 ||io-spherehq.com^$all
@@ -47169,7 +47164,6 @@
 ||wlfiwallst.com^$all
 ||wlfiwallstreet.com^$all
 ||wlfiweb3.com^$all
-||wlt-wallets-validate.com^$all
 ||opensea.wmge-shebapubs.com^$all
 ||woahex.com^$all
 ||migrate.wojakcto.com^$all
@@ -48627,9 +48621,6 @@
 ||crosswindmax.cyou^$all
 ||cryaesa.cyou^$all
 ||crypto-onchainmax.cyou^$all
-||crypto-to-fiat-onramp-services-abm.cyou^$all
-||crypto-to-fiat-onramp-services-bod.cyou^$all
-||crypto-to-fiat-onramp-services-bza.cyou^$all
 ||crypto-wallet.cyou^$all
 ||cryptoex.cyou^$all
 ||cryptonexus.cyou^$all
@@ -59758,7 +59749,6 @@
 ||fastrewardnode.digital^$all
 ||feeliq.digital^$all
 ||ffincorporated.digital^$all
-||fi-ca.digital^$all
 ||fight-foundation.digital^$all
 ||fightfoundations.digital^$all
 ||filinngog.digital^$all
@@ -72531,7 +72521,6 @@
 ||inviteteams.live^$all
 ||inviteteams-meeting.live^$all
 ||io-chainlink.live^$all
-||io-start-app.live^$all
 ||io-suites.live^$all
 ||io-suites-app.live^$all
 ||ios-ledgerwallet.live^$all
@@ -76132,7 +76121,6 @@
 ||coinbase.com-992057.net^$all
 ||com-email.net^$all
 ||com-lives.net^$all
-||com-x4.net^$all
 ||commerz-support.net^$all
 ||community-moonshot.net^$all
 ||communityvoting.net^$all
@@ -79742,7 +79730,6 @@
 ||fakephantom.online^$all
 ||faroswap.online^$all
 ||fengdong.online^$all
-||fi-ca.online^$all
 ||filenotice-x.online^$all
 ||filereport-x.online^$all
 ||fintrustfinance.online^$all
@@ -81423,7 +81410,6 @@
 ||eigenlayer.io-l2.org^$all
 ||io-nft.org^$all
 ||io-nowswap.org^$all
-||io-org.org^$all
 ||io-raydium.org^$all
 ||io-swapcrypto.org^$all
 ||io-swapnow.org^$all
@@ -83148,7 +83134,6 @@
 ||ag-connects-auth-edge-alpha.pro^$all
 ||ag-dex-cdn-api-online.pro^$all
 ||ag-gateway-connects-services-beta.pro^$all
-||ag-portal-edge-auth-api-gateway.pro^$all
 ||ag-prod-portal-v2-secure.pro^$all
 ||ag-secure-cdn-alpha-edge.pro^$all
 ||ag-secure-prod-beta-services.pro^$all
@@ -83296,7 +83281,6 @@
 ||com-alpha-ci-online-secure.pro^$all
 ||com-alpha-main-external-node.pro^$all
 ||com-alpha-management-cluster-internal.pro^$all
-||com-alpha-node-cd-staging.pro^$all
 ||com-alpha-secure-corp-cdn.pro^$all
 ||com-api-apps-management-gateway.pro^$all
 ||com-api-beta-wallets-auth.pro^$all
@@ -83307,7 +83291,6 @@
 ||com-api-gateway-broker-auth-prod.pro^$all
 ||com-api-gateway-cdn-alpha-beta.pro^$all
 ||com-api-gateway-edge-swap-apps.pro^$all
-||com-api-gateway-external-management-auth.pro^$all
 ||com-api-gateway-secure-invests-auth.pro^$all
 ||com-api-partner-main-gateway.pro^$all
 ||com-api-portal-app-services.pro^$all
@@ -83323,8 +83306,6 @@
 ||com-arctic-app.pro^$all
 ||com-atomic.pro^$all
 ||com-auth-dex-online-v1.pro^$all
-||com-auth-service-dex-secure.pro^$all
-||com-auth-swap-dex-apps.pro^$all
 ||com-backend-api-gateway-dev-corp.pro^$all
 ||com-backend-ci-internal-portal.pro^$all
 ||com-beta-edge-online-service.pro^$all
@@ -83359,7 +83340,6 @@
 ||com-connect-wallet.pro^$all
 ||com-connect-web.pro^$all
 ||com-coral-net.pro^$all
-||com-core-alpha-dev-gateway.pro^$all
 ||com-corp-api-gateway-auth-management.pro^$all
 ||com-corp-ci-auth-client.pro^$all
 ||com-crash.pro^$all
@@ -83368,11 +83348,9 @@
 ||com-dev-auth-main-online.pro^$all
 ||com-dev-core-api-frontend.pro^$all
 ||com-dex-api-prod-online.pro^$all
-||com-dex-edge-beta-alpha.pro^$all
 ||tradestation.com-drive-net.pro^$all
 ||com-drive-web.pro^$all
 ||com-eco-pro.pro^$all
-||com-edge-auth-beta-trading.pro^$all
 ||com-edge-server-api-portal.pro^$all
 ||com-edge-staging-cdn-backend.pro^$all
 ||com-flare.pro^$all
@@ -83381,7 +83359,6 @@
 ||com-forge-app.pro^$all
 ||com-gate-net.pro^$all
 ||com-gateway-auth-alpha-cdn.pro^$all
-||com-gateway-beta-dex-auth.pro^$all
 ||com-gateway-hub.pro^$all
 ||com-gateway-prod-connects-portal.pro^$all
 ||com-gateway-v1-api-gateway-auth.pro^$all
@@ -83409,17 +83386,13 @@
 ||com-node-web.pro^$all
 ||com-notification.pro^$all
 ||com-ocean-web.pro^$all
-||com-online-api-connect-auth.pro^$all
 ||com-online-api-services-trade.pro^$all
 ||com-online-beta-wallets-services.pro^$all
 ||com-online-portal-invests-alpha.pro^$all
-||com-online-prod-trading-cdn.pro^$all
 ||com-online-secure-cdn-cluster.pro^$all
 ||com-panel.pro^$all
 ||com-paytech.pro^$all
 ||com-pipeline.pro^$all
-||com-platform-online-gateway-external.pro^$all
-||com-platform-server-core-online.pro^$all
 ||com-platform-staging-server-stage.pro^$all
 ||com-poly-hub.pro^$all
 ||com-portal-beta-app-api-gateway.pro^$all
@@ -83449,7 +83422,6 @@
 ||com-secure-beta-portal-wallet.pro^$all
 ||com-secure-io.pro^$all
 ||com-secure-services-v1-server.pro^$all
-||com-server-alpha-v3-partner.pro^$all
 ||com-server-cd-management-online.pro^$all
 ||com-server-frontend-ci-secure.pro^$all
 ||com-server-frontend-corp-alpha.pro^$all
@@ -83477,7 +83449,6 @@
 ||com-trust-hub.pro^$all
 ||com-type-hub.pro^$all
 ||com-v3-beta-api-alpha.pro^$all
-||com-v4-swap-cdn-api.pro^$all
 ||com-vault-io.pro^$all
 ||com-vector-hub.pro^$all
 ||com-warm-hub.pro^$all
@@ -83591,7 +83562,6 @@
 ||fi-edge-api-wallet-service.pro^$all
 ||fi-gateway-v3-dex-staking.pro^$all
 ||fi-liquidstaking.pro^$all
-||fi-online-gateway-beta-alpha.pro^$all
 ||fi-online-staking-api-dex.pro^$all
 ||lido.fi-portal-staking-gateway-alpha.pro^$all
 ||fi-prod-wallet-beta-online.pro^$all
@@ -83600,7 +83570,6 @@
 ||fi-staking-alpha-edge-wallets.pro^$all
 ||fi-staking-beta-connect-api.pro^$all
 ||fi-staking-beta-secure-edge.pro^$all
-||fi-swap-portal-app-api.pro^$all
 ||fi-swap-secure-staking-beta.pro^$all
 ||fi-v1-portal-gateway-online.pro^$all
 ||fi-wallets-apps-service-prod.pro^$all
@@ -83622,10 +83591,8 @@
 ||finance-home-v3-wallet.pro^$all
 ||finance-online-auth-alpha-app.pro^$all
 ||finance-portal-alpha-api-staking.pro^$all
-||finance-portal-beta-auth-cdn.pro^$all
 ||finance-portal-swap-api-gateway-dex.pro^$all
 ||finance-portal-swap-apps-secure.pro^$all
-||finance-prod-app-portal-api-gateway.pro^$all
 ||finance-prod-edge-app-swap.pro^$all
 ||finance-secure-beta-api-gateway-wallets.pro^$all
 ||finance-secure-dex-wallet-portal.pro^$all
@@ -83898,7 +83865,6 @@
 ||io-apps.pro^$all
 ||io-auth-edge-node-portal.pro^$all
 ||io-backend-cdn-api-gateway-cluster.pro^$all
-||io-backend-services-portal-cluster.pro^$all
 ||io-base.pro^$all
 ||io-client-frontend-online-ci.pro^$all
 ||io-cloud.pro^$all
@@ -84067,8 +84033,6 @@
 ||optionsflowtrade.pro^$all
 ||org-alpha-swap-auth-gateway.pro^$all
 ||org-auth-gateway-edge-api-gateway.pro^$all
-||org-connect-swap-v1-cdn.pro^$all
-||org-dex-api-gateway-v4-apps.pro^$all
 ||org-portal-gateway-api-gateway-alpha.pro^$all
 ||org-prod-apps-wallet-auth.pro^$all
 ||org-prod-online-beta-edge.pro^$all
@@ -84933,7 +84897,6 @@
 ||krab1-cc.choose-store.ru^$all
 ||coinbaseonecard.ru^$all
 ||coinbaseru.ru^$all
-||com-authconnectin.ru^$all
 ||com-broker.ru^$all
 ||com-ledgerly-finance-firebase.ru^$all
 ||com-proxy.ru^$all
@@ -85876,7 +85839,6 @@
 ||coinbasesupport-desk.fetls.sbs^$all
 ||coinbasewalletappsupportlivechat.fettl.sbs^$all
 ||ff-excharge.sbs^$all
-||fi-ca.sbs^$all
 ||fi-dao.sbs^$all
 ||fi-dashboard.sbs^$all
 ||fi-dex.sbs^$all
@@ -86761,7 +86723,6 @@
 ||coinomize.shop^$all
 ||coinsbee.shop^$all
 ||collectiongshocspot.shop^$all
-||com-auth-checkout-step.shop^$all
 ||com-auth-realms-customer-openid-connect.shop^$all
 ||com-auths.shop^$all
 ||com-caseid26980.shop^$all
@@ -89279,7 +89240,6 @@
 ||coinmarketcap-vote.top^$all
 ||coinomiwallet.coinportal.top^$all
 ||coinusbase.top^$all
-||com-8pkt822.top^$all
 ||com-abu.top^$all
 ||com-aqw.top^$all
 ||com-avb.top^$all
