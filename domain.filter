@@ -1945,8 +1945,10 @@
 ||moonshot-rating.app^$all
 ||moonshot-ratings.app^$all
 ||moonshot-up.app^$all
+||moonshot-verif.app^$all
 ||moonshot-voter.app^$all
 ||moonshot-voting.app^$all
+||moonshote.app^$all
 ||moonshots-beta.app^$all
 ||moonshots-poll.app^$all
 ||moonshots-pump.app^$all
@@ -2464,8 +2466,9 @@
 ||pacefi.app^$all
 ||padrecashback.app^$all
 ||padreterminal.app^$all
-||cashback.padretrade.app^$all
+||padretrade.app^$all
 ||pancake-event.app^$all
+||pancakes-wap.app^$all
 ||pancakeswap.app^$all
 ||pankeceswap-dex.app^$all
 ||pantherprotocol.app^$all
@@ -2508,6 +2511,7 @@
 ||photorec.app^$all
 ||pickshot.app^$all
 ||picsartmodapks.app^$all
+||pikaprotocol.app^$all
 ||pippins.app^$all
 ||pippkin.app^$all
 ||pitaes.app^$all
@@ -2518,6 +2522,7 @@
 ||plasma-rewards.app^$all
 ||plasma-vote.app^$all
 ||plasmarewards.app^$all
+||pllume.app^$all
 ||points-firelightfinance.app^$all
 ||points-pendle.app^$all
 ||points-river.app^$all
@@ -2600,6 +2605,7 @@
 ||pump-sniper.app^$all
 ||pump-stream.app^$all
 ||pumpfun-bot.app^$all
+||pumprunner.app^$all
 ||pumpsnipe.app^$all
 ||punchdrop.app^$all
 ||punchonsol.app^$all
@@ -2732,6 +2738,7 @@
 ||skr-id.app^$all
 ||slushe.app^$all
 ||slushwalletdesktop.app^$all
+||smartapp-resolver.app^$all
 ||smartcoinsresolver.app^$all
 ||smartholder.app^$all
 ||smartprosolution.app^$all
@@ -2754,7 +2761,7 @@
 ||solanamonitor.app^$all
 ||solflarecard.app^$all
 ||solisticefinance.app^$all
-||claim.solmobile.app^$all
+||solmobile.app^$all
 ||solnft.app^$all
 ||solomonlabs.app^$all
 ||solomonslab.app^$all
@@ -2780,6 +2787,7 @@
 ||stake-jupiter.app^$all
 ||stakeandrelax.app^$all
 ||stakecom.app^$all
+||stakedigm.app^$all
 ||stakelink.app^$all
 ||staketrust.app^$all
 ||stakingreward.app^$all
@@ -2870,6 +2878,7 @@
 ||troll-coin.app^$all
 ||trollnetworks.app^$all
 ||tron-lidofi.app^$all
+||tronamlscan.app^$all
 ||tronbase.app^$all
 ||troncamp.app^$all
 ||trondrop.app^$all
@@ -5119,6 +5128,7 @@
 ||whitelist-usro.app^$all
 ||whitewhalememe.app^$all
 ||whopaccounts.app^$all
+||whopweb3.app^$all
 ||wiederherstellung-cb.app^$all
 ||wiederherstellung-coinbase.app^$all
 ||win11debloat.app^$all
@@ -49527,7 +49537,9 @@
 ||cvat.midnight-ai.dev^$all
 ||momentum-tracker.dev^$all
 ||moonnshot.dev^$all
+||near-intents.dev^$all
 ||ethos.ngrok.dev^$all
+||nodeissuefixes.dev^$all
 ||onchainrestorer.dev^$all
 ||padrecash.dev^$all
 ||0gfoundation.pages.dev^$all
@@ -60908,6 +60920,7 @@
 ||pancakebase.finance^$all
 ||pancakeswap-claim.finance^$all
 ||ecdup5ys6k.pedle.finance^$all
+||pencakeswep.finance^$all
 ||pendlestrategy.finance^$all
 ||pendlme.finance^$all
 ||pendnel.finance^$all
@@ -64999,6 +65012,7 @@
 ||moonbirds-rectification.info^$all
 ||moonnshot.info^$all
 ||moonnshots.info^$all
+||moonshot-listing.info^$all
 ||moonshots.info^$all
 ||moonvote.info^$all
 ||mosaiq2131.info^$all
@@ -65048,6 +65062,7 @@
 ||onlinezoom.info^$all
 ||onnabarabane.info^$all
 ||onstreampro.info^$all
+||oovefest.info^$all
 ||open-capital-portal.info^$all
 ||openseafoundation.info^$all
 ||opinion-lab.info^$all
@@ -65240,6 +65255,7 @@
 ||sorrells-exchange.info^$all
 ||sosovalue.info^$all
 ||sparkfilabs.info^$all
+||spidcxk.info^$all
 ||spikemattfurie.info^$all
 ||sreportesla.info^$all
 ||stablenetworkbase.info^$all
@@ -65377,6 +65393,7 @@
 ||polymarket-airdrop.verify-seed.info^$all
 ||polymarket-claim.verify-seed.info^$all
 ||polymarket2026.verify-seed.info^$all
+||versicherungs-vergleicher.info^$all
 ||vestmarktrade.info^$all
 ||vestomartex.info^$all
 ||vexil.info^$all
@@ -65429,6 +65446,7 @@
 ||wertkernix.info^$all
 ||whennot2meet.info^$all
 ||whitewhalememe.info^$all
+||whopweb3connect.info^$all
 ||winston-exchange.info^$all
 ||wlow.info^$all
 ||wojakcto.info^$all
@@ -72867,6 +72885,7 @@
 ||bancor.nelwork.live^$all
 ||neo-spin.live^$all
 ||neonevm-migration.live^$all
+||neutronweb.live^$all
 ||newagebank.live^$all
 ||newleedcapital.live^$all
 ||adifoundation-migration.newphase.live^$all
@@ -72888,6 +72907,7 @@
 ||nodesynchronize.live^$all
 ||noracistcoin.live^$all
 ||nova-updates.live^$all
+||novabankfinance.live^$all
 ||now-link.live^$all
 ||coin-base.nowlink.live^$all
 ||nsdaiu3824nas.live^$all
@@ -72934,6 +72954,7 @@
 ||orderbook.live^$all
 ||originsdefi.live^$all
 ||originslgns.live^$all
+||originslgnsdefi.live^$all
 ||orochi-update.live^$all
 ||osmosisdexapp.live^$all
 ||owltofinance.live^$all
@@ -72980,6 +73001,7 @@
 ||phnixreward.live^$all
 ||photonsniper.live^$all
 ||photontoken.live^$all
+||pikaprotocol.live^$all
 ||pino-payment-method-verification-solana.live^$all
 ||pino-verification-pay.live^$all
 ||pino-verification-pays.live^$all
@@ -73034,6 +73056,7 @@
 ||propfx.live^$all
 ||proposal-ondo.live^$all
 ||prostartegies.live^$all
+||protonemail.live^$all
 ||provenanceblockchain.live^$all
 ||prypco.live^$all
 ||psyopsanime.live^$all
@@ -73230,6 +73253,7 @@
 ||sniperdex.live^$all
 ||snorterstoken.live^$all
 ||sns-migration.live^$all
+||sodak.live^$all
 ||sol-helper.live^$all
 ||sol-hyperliquid.live^$all
 ||sol-ph.live^$all
@@ -73298,6 +73322,8 @@
 ||spinflux.live^$all
 ||exodus.ac.sportscentraltv.live^$all
 ||sray-tkn.live^$all
+||stableslabs.live^$all
+||stakebonuses.live^$all
 ||stakestoneapp.live^$all
 ||stakingbdagscan.live^$all
 ||stakingsrewards.live^$all
@@ -73430,6 +73456,7 @@
 ||trustwalletperps.live^$all
 ||trustwallets.live^$all
 ||trustwalletusdt.live^$all
+||trustypanel.live^$all
 ||try-cryptogate.live^$all
 ||turbine-migrate.live^$all
 ||turbinecash.live^$all
@@ -73660,6 +73687,7 @@
 ||yieldzircuit.live^$all
 ||yo-claim.live^$all
 ||yoprotocol-claim.live^$all
+||yoroiwallet.live^$all
 ||zamatoken.live^$all
 ||zamaupdate.live^$all
 ||zcashreward.live^$all
@@ -73668,6 +73696,7 @@
 ||zenlistings.live^$all
 ||zentromaket.live^$all
 ||zerolupdate.live^$all
+||zerorisk.live^$all
 ||zetarium.live^$all
 ||app.zirciut.live^$all
 ||zircuitupdates.live^$all
@@ -91933,6 +91962,7 @@
 ||peng-app.us^$all
 ||pengu-app.us^$all
 ||pengus-share.us^$all
+||penguworld.us^$all
 ||phamtom.us^$all
 ||phantom-wallet-phantom.us^$all
 ||phantommedia.us^$all
@@ -92135,6 +92165,7 @@
 ||trez0rsuite-suite.us^$all
 ||trezor-app.us^$all
 ||trezorrsuite.us^$all
+||trezorswatch.us^$all
 ||trmp-distribution.us^$all
 ||coinbase.tronboll.us^$all
 ||trt3-jus-br-zoom.us^$all
@@ -92171,6 +92202,7 @@
 ||trustwalletpay.us^$all
 ||trustwalllet.us^$all
 ||truthoneth.us^$all
+||twscards.us^$all
 ||u-id.us^$all
 ||u-zoom.us^$all
 ||u09.us^$all
@@ -92194,6 +92226,7 @@
 ||uco5webzoom.us^$all
 ||uco6webzoom.us^$all
 ||ucweb05.us^$all
+||udizosbuiikzfjdjj.us^$all
 ||ue01web.us^$all
 ||ue01webzoom.us^$all
 ||ue02web.us^$all
@@ -92715,6 +92748,7 @@
 ||your-zo0m.us^$all
 ||z00mmeeting.us^$all
 ||zendeskwhizz.us^$all
+||zerogastrx.us^$all
 ||zfsex.us^$all
 ||zo0m.us^$all
 ||us02web.zoom.us02web.zoo.us^$all
