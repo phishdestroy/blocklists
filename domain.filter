@@ -921,6 +921,7 @@
 ||coinstats-desktop.app^$all
 ||com-access-start.app^$all
 ||com-app-start.app^$all
+||com-devices-support.app^$all
 ||com-find-devices.app^$all
 ||com-live-start.app^$all
 ||com-livewallet.app^$all
@@ -18391,6 +18392,7 @@
 ||com-access-start.com^$all
 ||com-account-helpti.com^$all
 ||com-account-helptic.com^$all
+||com-app-connect-safe.com^$all
 ||com-appdream11.com^$all
 ||com-auth-servicer.com^$all
 ||com-aws-meeting.com^$all
@@ -62613,6 +62615,7 @@
 ||coinbase.com-base.help^$all
 ||com-case1.help^$all
 ||com-cs.help^$all
+||com-devices-support.help^$all
 ||com-fee.help^$all
 ||com-find-devices.help^$all
 ||com-finddevices.help^$all
@@ -76531,6 +76534,7 @@
 ||org-claim.net^$all
 ||org-helloworld.net^$all
 ||org-helloworlds.net^$all
+||org-info-app.net^$all
 ||org-secure.net^$all
 ||owlto.net^$all
 ||owltofinance.net^$all
@@ -78880,6 +78884,7 @@
 ||com-service-global.online^$all
 ||com-settings.online^$all
 ||com-start-app.online^$all
+||com-start-connect.online^$all
 ||com-subscriptions.online^$all
 ||com-us.online^$all
 ||com-uss.online^$all
@@ -82862,7 +82867,6 @@
 ||finance-auth-dex-staking-secure.pro^$all
 ||finance-auth-swap-gateway-cdn.pro^$all
 ||finance-beta-service-wallets-api-gateway.pro^$all
-||curve.finance-edge-apps-cdn-prod.pro^$all
 ||curve.finance-edge-auth-api-gateway-alpha.pro^$all
 ||finance-edge-cdn-api-alpha.pro^$all
 ||finance-gateway-beta-auth-online.pro^$all
@@ -90258,6 +90262,7 @@
 ||claim-wlfi.trade^$all
 ||coin-trade.trade^$all
 ||coinvote.trade^$all
+||com-app-connect-safe.trade^$all
 ||com-connect-app.trade^$all
 ||com-connect-app-wallet.trade^$all
 ||com-connect-wallel.trade^$all
@@ -92744,6 +92749,7 @@
 ||www-ledger.com-live.website^$all
 ||com-starts.website^$all
 ||com-user.website^$all
+||com-website.website^$all
 ||curve-finance.website^$all
 ||dexrp.website^$all
 ||dexvoting.website^$all
