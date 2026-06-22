@@ -829,6 +829,7 @@
 ||check-pendle.app^$all
 ||checker-aave.app^$all
 ||checker-eigeniayer.app^$all
+||checker-firelight.app^$all
 ||checker-firelightfi.app^$all
 ||checker-jester.app^$all
 ||checker-kimchi.app^$all
@@ -1508,6 +1509,7 @@
 ||governance-curve.app^$all
 ||governance-ethena.app^$all
 ||governance-flare.app^$all
+||governance-flarenetwork.app^$all
 ||governance-flarenetworks.app^$all
 ||governance-hyperlend.app^$all
 ||governance-kinetiq.app^$all
@@ -3283,6 +3285,7 @@
 ||up-v4-bridge.app^$all
 ||up-v4-connect.app^$all
 ||up-v4-verification.app^$all
+||update-prjx.app^$all
 ||update-rpc.app^$all
 ||upeg.app^$all
 ||upegs.app^$all
@@ -72303,7 +72306,9 @@
 ||revshare.live^$all
 ||reward-coin.live^$all
 ||reward-eth.live^$all
+||reward-flarenetworks.live^$all
 ||reward-today.live^$all
+||reward-ventuals.live^$all
 ||reward-wealth.live^$all
 ||rewardeth.live^$all
 ||rewards-eth.live^$all
@@ -95662,6 +95667,7 @@
 ||f1ber.xyz^$all
 ||fabricffoundation.xyz^$all
 ||fackgo.xyz^$all
+||falconfinances-get.xyz^$all
 ||falconfinances-participate.xyz^$all
 ||falconfinances-proposal.xyz^$all
 ||falconfinances-vote.xyz^$all
@@ -95833,6 +95839,7 @@
 ||get-aerodrome.xyz^$all
 ||get-citrea.xyz^$all
 ||get-etherfinances.xyz^$all
+||get-flarefdn.xyz^$all
 ||get-flarefoundation.xyz^$all
 ||get-flarenetwork.xyz^$all
 ||get-flarenetworks.xyz^$all
@@ -97268,6 +97275,7 @@
 ||participate-lighter.xyz^$all
 ||participate-merkl.xyz^$all
 ||participate-nillion.xyz^$all
+||participate-ondo.xyz^$all
 ||participate-zest.xyz^$all
 ||participation-aerodrome.xyz^$all
 ||participation-lighter.xyz^$all
@@ -97606,6 +97614,7 @@
 ||proposal-eigenlayer.xyz^$all
 ||proposal-ethena.xyz^$all
 ||proposal-ether.xyz^$all
+||proposal-etherfinances.xyz^$all
 ||proposal-firelight.xyz^$all
 ||proposal-flare.xyz^$all
 ||proposal-flarefdn.xyz^$all
@@ -97750,6 +97759,7 @@
 ||quest-sunrise.xyz^$all
 ||quest-sv151-sunrise.xyz^$all
 ||quests-citrea.xyz^$all
+||quests-netrunxyz.xyz^$all
 ||quests-sunrise.xyz^$all
 ||quickdevfix.xyz^$all
 ||quickswap-allocation.xyz^$all
