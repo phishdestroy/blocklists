@@ -1579,7 +1579,7 @@
 ||io-online-suite.app^$all
 ||io-slart.app^$all
 ||io-stage2.app^$all
-||trezor.io-start-suites.app^$all
+||io-start-suites.app^$all
 ||io-starts.app^$all
 ||trezor.io-suitc.app^$all
 ||io-suite.app^$all
@@ -12756,6 +12756,7 @@
 ||338593-ledger.com^$all
 ||339095-coinbase.com^$all
 ||339294-coinspot.com^$all
+||339523-coinspot.com^$all
 ||339525-coinspot.com^$all
 ||339854-ledger.com^$all
 ||339945-coinbase.com^$all
@@ -13211,6 +13212,7 @@
 ||583721-coinbase.com^$all
 ||583891coinbase.com^$all
 ||583943coinbase.com^$all
+||583992-login-coinbase.com^$all
 ||584211-coinbase.com^$all
 ||5842399-coinbase.com^$all
 ||5844-login-coinbase.com^$all
@@ -47547,6 +47549,7 @@
 ||xmustw.com^$all
 ||xn--72c3bya0a6c.com^$all
 ||xn--aav-ura.com^$all
+||xn--aserdex-orb.com^$all
 ||xn--bluefn-f9a.com^$all
 ||xn--blufin-k4a.com^$all
 ||xn--cakewalle-yt6d.com^$all
@@ -60320,11 +60323,15 @@
 ||uphold-logins.blogspot.fi^$all
 ||vhrtcgerx.blogspot.fi^$all
 ||bnqi.fi^$all
+||c9w.fi^$all
 ||capp.fi^$all
 ||cardspropay.fi^$all
 ||ccow.fi^$all
 ||claim-kiln.fi^$all
+||clw.fi^$all
 ||compensation-apyx.fi^$all
+||coow.fi^$all
+||cowf.fi^$all
 ||dao-apyx.fi^$all
 ||dao-ethena.fi^$all
 ||eigenlayerfi.fi^$all
@@ -60353,6 +60360,7 @@
 ||malgo.fi^$all
 ||public-api.metadao.fi^$all
 ||mymonero.fi^$all
+||ocw.fi^$all
 ||pacfica.fi^$all
 ||pacilfica.fi^$all
 ||pcow.fi^$all
@@ -60394,6 +60402,7 @@
 ||voting-apyx.fi^$all
 ||voting-ethena.fi^$all
 ||weatherbot.fi^$all
+||xow.fi^$all
 ||xshares.fi^$all
 ||xstock.fi^$all
 ||yefam-kiln.fi^$all
@@ -62579,6 +62588,7 @@
 ||blockfi-claims.help^$all
 ||qcardactivation-pcq-egdjadadandsadgs.camore.help^$all
 ||case-x.help^$all
+||cb-4487131.help^$all
 ||cdeposit.help^$all
 ||cefaz-notazsp.help^$all
 ||cemarenergia-portal.help^$all
@@ -65473,6 +65483,7 @@
 ||48475-trezor.io^$all
 ||49485-trezor.io^$all
 ||5820942-trezor.io^$all
+||582933-trezor.io^$all
 ||582993-trezor.io^$all
 ||590814-trezor.io^$all
 ||592921-trezor.io^$all
@@ -71340,6 +71351,7 @@
 ||commontoken.live^$all
 ||community-billions-network.live^$all
 ||communityvote.live^$all
+||compatibility-ledger.live^$all
 ||compclaims.live^$all
 ||compund.live^$all
 ||conference-google-meet.live^$all
@@ -71749,6 +71761,7 @@
 ||insiderfuture.live^$all
 ||insidermindset.live^$all
 ||integrate-ledger.live^$all
+||integrity-ledger.live^$all
 ||intelligencedropcubed.live^$all
 ||interface-ledger.live^$all
 ||into-space.live^$all
@@ -71868,6 +71881,7 @@
 ||ledger-shop.live^$all
 ||ledger-wallets.live^$all
 ||ledgerwallets.live^$all
+||legacy-ledger.live^$all
 ||lgn-mygouonline.live^$all
 ||lgnsresolve.live^$all
 ||libertyusd1.live^$all
@@ -72237,6 +72251,7 @@
 ||portalhpp.live^$all
 ||portfolio01-ledger.live^$all
 ||post-redirect.live^$all
+||preferences-ledger.live^$all
 ||premium-business.live^$all
 ||premuims.live^$all
 ||presale-ozakai.live^$all
@@ -72776,6 +72791,7 @@
 ||verifyusdt20.live^$all
 ||verifywallets.live^$all
 ||verifyyourwallet.live^$all
+||version-ledger.live^$all
 ||vgb-dex.live^$all
 ||video-call.live^$all
 ||viewdocsviewfil.live^$all
@@ -86134,6 +86150,7 @@
 ||coinbasewabppsgn.webpulsa.shop^$all
 ||wellbutringeneric.shop^$all
 ||coinbase.wlsp.shop^$all
+||worlldcup.shop^$all
 ||xfernobb.shop^$all
 ||xibumexc.shop^$all
 ||xisuayxt.shop^$all
@@ -95720,6 +95737,7 @@
 ||fhdub.xyz^$all
 ||fi-en.xyz^$all
 ||fi-eu.xyz^$all
+||fi-euz.xyz^$all
 ||fi-governance.xyz^$all
 ||fi-governances.xyz^$all
 ||fi-pendleswap.xyz^$all
@@ -96372,6 +96390,7 @@
 ||io-swapcrypto.xyz^$all
 ||io-swapping.xyz^$all
 ||io-tradebridge.xyz^$all
+||io-uk.xyz^$all
 ||io-us.xyz^$all
 ||iopntech.xyz^$all
 ||dapp.iorca.xyz^$all
@@ -99065,6 +99084,7 @@
 ||vanish-trade.xyz^$all
 ||vapingsquirrel-rewards.xyz^$all
 ||www.varialtional.xyz^$all
+||variational-io.xyz^$all
 ||variational-omniprotocol.xyz^$all
 ||variational-protocol.xyz^$all
 ||variational-season.xyz^$all
