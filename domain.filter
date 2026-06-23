@@ -834,6 +834,7 @@
 ||checker-solstice.app^$all
 ||checker-usdai.app^$all
 ||checker-zyfai.app^$all
+||checkers-firelightfi.app^$all
 ||checkstarbridge.app^$all
 ||chicken-road-download.app^$all
 ||chicken-road-official.app^$all
@@ -39128,9 +39129,14 @@
 ||refunds-kelpdao.com^$all
 ||refundyuorsol.com^$all
 ||reg-coincomms.com^$all
+||reg-falconfi.com^$all
+||reg-firelightfi.com^$all
 ||reg-fnde-ondo.com^$all
 ||reg-kaminofinance.com^$all
 ||reg-megaetn.com^$all
+||reg-pendlefi.com^$all
+||reg-plasmafi.com^$all
+||reg-sunrisefi.com^$all
 ||coinbase-verification.coinbase.com.regallawcentre.com^$all
 ||regist-exodus.com^$all
 ||registartion-usdai.com^$all
@@ -44279,6 +44285,7 @@
 ||voting-mexc.com^$all
 ||voting-monad.com^$all
 ||voting-ondofinance.com^$all
+||voting-ondoperps.com^$all
 ||voting-prjx.com^$all
 ||voting-sparkdex.com^$all
 ||voting-stark.com^$all
@@ -44292,6 +44299,7 @@
 ||voting-worldliberty.com^$all
 ||voting-worldlibertyfinancial.com^$all
 ||voting-wormhole.com^$all
+||voting-xaman.com^$all
 ||voting-xstocksfi.com^$all
 ||voting-zebec.com^$all
 ||votingdex.com^$all
@@ -44302,6 +44310,7 @@
 ||votings-flare.com^$all
 ||votings-flarenetwork.com^$all
 ||votings-mexc.com^$all
+||votings-xaman.com^$all
 ||votings-zebec.com^$all
 ||votingscreener.com^$all
 ||voudet.com^$all
@@ -55934,7 +55943,6 @@
 ||phaver-ert.pages.dev^$all
 ||phntm-wllet-up.pages.dev^$all
 ||phntm-wlletup.pages.dev^$all
-||phntmwllet-up.pages.dev^$all
 ||phntom-doce.pages.dev^$all
 ||pho-mtqswallet.pages.dev^$all
 ||phomt-wallet.pages.dev^$all
@@ -71353,6 +71361,7 @@
 ||deepnode.live^$all
 ||deepsnitchtoken.live^$all
 ||defi-3-ledgers.live^$all
+||defi-ventuals.live^$all
 ||defi11ama.live^$all
 ||deficentraldex.live^$all
 ||defiland-migration.live^$all
@@ -72769,6 +72778,7 @@
 ||votes-flarenetwork.live^$all
 ||votes-flarenetworks.live^$all
 ||votesokx.live^$all
+||voting-flarenetworks.live^$all
 ||votingdex.live^$all
 ||votinglist.live^$all
 ||waever.live^$all
@@ -93187,6 +93197,7 @@
 ||aerodrome-drop.xyz^$all
 ||aerodrome-eligibility.xyz^$all
 ||aerodrome-register.xyz^$all
+||aerodrome-registration.xyz^$all
 ||aerodrome-reward.xyz^$all
 ||aerodrome-snapshot.xyz^$all
 ||aerodrome-vote.xyz^$all
@@ -95687,6 +95698,7 @@
 ||flarenetwork-devtool.xyz^$all
 ||flarenetwork-rewards.xyz^$all
 ||flarenetwork-vote.xyz^$all
+||flarenetwork-votes.xyz^$all
 ||flarenetworkearn.xyz^$all
 ||flarenetworkpool.xyz^$all
 ||flarenetworks-season.xyz^$all
@@ -96512,6 +96524,7 @@
 ||lido-stackd.xyz^$all
 ||lido-stackv2.xyz^$all
 ||lido-voting.xyz^$all
+||lidofinance-enter.xyz^$all
 ||lidofinance-register.xyz^$all
 ||lidofinrewards.xyz^$all
 ||lidoo.xyz^$all
@@ -97893,12 +97906,14 @@
 ||registers-stabilizerfinance.xyz^$all
 ||registration-aerodrome.xyz^$all
 ||registration-altdotfun.xyz^$all
+||registration-asterdex.xyz^$all
 ||registration-berachain.xyz^$all
 ||registration-citrea.xyz^$all
 ||registration-curvance.xyz^$all
 ||registration-destranetwork.xyz^$all
 ||registration-eigeniayer.xyz^$all
 ||registration-hyperbeat.xyz^$all
+||registration-injective.xyz^$all
 ||registration-lidofinance.xyz^$all
 ||registration-lighter.xyz^$all
 ||registration-pendlefi.xyz^$all
@@ -99054,6 +99069,7 @@
 ||virtualsprotocol-rewards.xyz^$all
 ||virtualsprotocol-vault.xyz^$all
 ||virtualsprotocol-vote.xyz^$all
+||virtualsprotocol-voting.xyz^$all
 ||visualcompliance-x.xyz^$all
 ||visualviolation-x.xyz^$all
 ||vizerdesk.xyz^$all
@@ -99393,9 +99409,11 @@
 ||voting-nillion.xyz^$all
 ||voting-onyx.xyz^$all
 ||voting-openvpp.xyz^$all
+||voting-pendlefi.xyz^$all
 ||voting-pendlefinance.xyz^$all
 ||voting-pendlefinancesl.xyz^$all
 ||voting-pharos.xyz^$all
+||voting-pharosnetwork.xyz^$all
 ||voting-pieverse.xyz^$all
 ||voting-plumenetwork.xyz^$all
 ||voting-raac.xyz^$all
