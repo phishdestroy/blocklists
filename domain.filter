@@ -4948,6 +4948,7 @@
 ||run-cache.vercel.app^$all
 ||run-indexer.vercel.app^$all
 ||run-scanner.vercel.app^$all
+||run-simulator.vercel.app^$all
 ||runnerlayer.vercel.app^$all
 ||runtime-build.vercel.app^$all
 ||runtime-deploy.vercel.app^$all
@@ -45883,6 +45884,7 @@
 ||enexoduud-eng.wixstudio.com^$all
 ||enexoduus.wixstudio.com^$all
 ||eng-apps-coinbase.wixstudio.com^$all
+||eng-base-extensions.wixstudio.com^$all
 ||eng-coinbase.wixstudio.com^$all
 ||eng-coinbaseapp.wixstudio.com^$all
 ||eng-coinbasepro.wixstudio.com^$all
@@ -57048,6 +57050,7 @@
 ||run-hub.pages.dev^$all
 ||run-store.pages.dev^$all
 ||run-table.pages.dev^$all
+||run-tester.pages.dev^$all
 ||runc-12b.pages.dev^$all
 ||runneronethxyz.pages.dev^$all
 ||rwdcetus.pages.dev^$all
