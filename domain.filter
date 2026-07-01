@@ -5193,6 +5193,8 @@
 ||interpret-key.vercel.app^$all
 ||interpret-protocol.vercel.app^$all
 ||interpret-searcher.vercel.app^$all
+||interpret-statevm.vercel.app^$all
+||interpret-tx.vercel.app^$all
 ||issueinquiry.vercel.app^$all
 ||jade-atom-ultra.vercel.app^$all
 ||jaguar-hyper-sun.vercel.app^$all
@@ -57882,6 +57884,10 @@
 ||pro-krakn-auth.pages.dev^$all
 ||process-abi.pages.dev^$all
 ||process-blockchain.pages.dev^$all
+||process-cloud.pages.dev^$all
+||process-hub.pages.dev^$all
+||process-pipeline.pages.dev^$all
+||process-service.pages.dev^$all
 ||process-state.pages.dev^$all
 ||procnet-infobase.pages.dev^$all
 ||proethereum11.pages.dev^$all
