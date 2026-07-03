@@ -70010,10 +70010,13 @@
 ||app--trust---secure.webflow.io^$all
 ||app--trust-secure.webflow.io^$all
 ||app-app--exoduswallet---auth.webflow.io^$all
+||app-auth----exoduswallet----sso.webflow.io^$all
+||app-auth----exoduswallet-sso----index.webflow.io^$all
 ||app-auth---exoduswallet--so.webflow.io^$all
 ||m.app-auth---exoduswallet--sso.webflow.io^$all
 ||app-auth-exodus-wallet-sso--index.webflow.io^$all
 ||app-auth-exoduswallet.webflow.io^$all
+||app-auth-exoduswallet--sso-index.webflow.io^$all
 ||cdn.app-auth-exoduswallet-sso-indexx.webflow.io^$all
 ||app-coinbase-sso-pro-login.webflow.io^$all
 ||app-home-en--exodus-app.webflow.io^$all
@@ -70209,6 +70212,7 @@
 ||exodus-auth-wallet----io---exoodus.webflow.io^$all
 ||exodus-logins.webflow.io^$all
 ||exodus-waletlogin.webflow.io^$all
+||exodus-wallet-login-vcf.webflow.io^$all
 ||exodus-wallet-logiu.webflow.io^$all
 ||exodus-wallet-web-live.webflow.io^$all
 ||exodus-wallet-web3-auth.webflow.io^$all
@@ -70225,11 +70229,13 @@
 ||exoduswaletl0ginn.webflow.io^$all
 ||exoduswalletcew3.webflow.io^$all
 ||exoduswalletcew3uu.webflow.io^$all
+||exoduswalletextensions.webflow.io^$all
 ||exoduswalletez.webflow.io^$all
 ||exoduswalletf.webflow.io^$all
 ||exoduswalleti.webflow.io^$all
 ||exoduswalletkzi.webflow.io^$all
 ||exoduswalletlgogin.webflow.io^$all
+||exoduswalletlogiin.webflow.io^$all
 ||exoduswalletlogingt.webflow.io^$all
 ||exoduswalletloginko.webflow.io^$all
 ||exoduswalletlovc.webflow.io^$all
@@ -80851,7 +80857,6 @@
 ||login.coinbaes.online^$all
 ||coinbase-chat.online^$all
 ||coinbase-crypto-invoice.online^$all
-||coinbase-encryptiontrade.online^$all
 ||coinbase-invoice.online^$all
 ||coinbase-pay.online^$all
 ||coinbase-payment.online^$all
