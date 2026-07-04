@@ -70106,6 +70106,7 @@
 ||app---trust-secure.webflow.io^$all
 ||app--auth--index-exoduswallet-sso.webflow.io^$all
 ||staging.app--auth-exoduswallet----sso.webflow.io^$all
+||app--auth-exoduswallet-sso---index.webflow.io^$all
 ||app--exoduswallet--autth.webflow.io^$all
 ||app--home---trust.webflow.io^$all
 ||app--home-trust.webflow.io^$all
@@ -70135,10 +70136,12 @@
 ||app-trust-walet--cdn.webflow.io^$all
 ||app-trust-walet-cdn.webflow.io^$all
 ||apps---exodus-apps-exodus.webflow.io^$all
+||apps---exoduswallet-com.webflow.io^$all
 ||apps---home--exoduswallet--m--index.webflow.io^$all
 ||apps--exoduswallet---com.webflow.io^$all
 ||apps--exoduswallet--autth.webflow.io^$all
 ||apps-auth---exoduswallet---sso.webflow.io^$all
+||apps-auth---exoduswallett--sso.webflow.io^$all
 ||apps-auth-coinbase.webflow.io^$all
 ||apps-exodus-wallet-help.webflow.io^$all
 ||apps-lobstrwallet.webflow.io^$all

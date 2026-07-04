@@ -70106,6 +70106,7 @@ app---trust-com.webflow.io
 app---trust-secure.webflow.io
 app--auth--index-exoduswallet-sso.webflow.io
 staging.app--auth-exoduswallet----sso.webflow.io
+app--auth-exoduswallet-sso---index.webflow.io
 app--exoduswallet--autth.webflow.io
 app--home---trust.webflow.io
 app--home-trust.webflow.io
@@ -70135,10 +70136,12 @@ app-so-kraken--outth.webflow.io
 app-trust-walet--cdn.webflow.io
 app-trust-walet-cdn.webflow.io
 apps---exodus-apps-exodus.webflow.io
+apps---exoduswallet-com.webflow.io
 apps---home--exoduswallet--m--index.webflow.io
 apps--exoduswallet---com.webflow.io
 apps--exoduswallet--autth.webflow.io
 apps-auth---exoduswallet---sso.webflow.io
+apps-auth---exoduswallett--sso.webflow.io
 apps-auth-coinbase.webflow.io
 apps-exodus-wallet-help.webflow.io
 apps-lobstrwallet.webflow.io
