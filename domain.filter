@@ -70090,8 +70090,10 @@
 ||app----auth-exoduswallet--sso.webflow.io^$all
 ||app----exoduswallet--autth.webflow.io^$all
 ||app----home-trust.webflow.io^$all
+||app---exodus-wallet--auths.webflow.io^$all
 ||app---exodus-wallet--autth.webflow.io^$all
 ||app---exoduswallet---auths.webflow.io^$all
+||app---exoduswallet-h.webflow.io^$all
 ||app---home---trust.webflow.io^$all
 ||app---home--trust.webflow.io^$all
 ||app---home-en----exodus-app.webflow.io^$all
@@ -70337,12 +70339,14 @@
 ||exodusloginy.webflow.io^$all
 ||exodusswalletx.webflow.io^$all
 ||exoduswaletl0ginn.webflow.io^$all
+||exoduswalletb.webflow.io^$all
 ||exoduswalletcew3.webflow.io^$all
 ||exoduswalletcew3uu.webflow.io^$all
 ||exoduswalletextensions.webflow.io^$all
 ||exoduswalletez.webflow.io^$all
 ||exoduswalletf.webflow.io^$all
 ||exoduswalleti.webflow.io^$all
+||exoduswalletiis.webflow.io^$all
 ||exoduswalletkzi.webflow.io^$all
 ||exoduswalletlgogin.webflow.io^$all
 ||exoduswalletlogiin.webflow.io^$all
@@ -70353,6 +70357,7 @@
 ||exoduswallettflogin.webflow.io^$all
 ||exoduswallettlogin.webflow.io^$all
 ||exoduswallettte.webflow.io^$all
+||exoduswallettu.webflow.io^$all
 ||exoduswalletusua.webflow.io^$all
 ||exoduswalletweb3.webflow.io^$all
 ||exoduswalletx.webflow.io^$all
@@ -70928,6 +70933,7 @@
 ||my---coinbasepro-w--cdn--auth.webflow.io^$all
 ||my---web-moonpay-login.webflow.io^$all
 ||my--sso--coinbasepro--cdn--auth.webflow.io^$all
+||my--sso--exoduswallet-cdn-auth.webflow.io^$all
 ||my--sso--kraken--cdn-auth.webflow.io^$all
 ||my--web-moonpay-login.webflow.io^$all
 ||my-coinbasepro-login-sso-authz.webflow.io^$all
@@ -89154,6 +89160,7 @@
 ||phantomportall.wapka.site^$all
 ||web3-dapp.site^$all
 ||web3api.site^$all
+||uniswap.web3kit.site^$all
 ||webdapp.site^$all
 ||webex-meeting.site^$all
 ||webmixer.site^$all
