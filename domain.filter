@@ -70091,6 +70091,8 @@
 ||app----auth-exoduswallet--sso.webflow.io^$all
 ||app----exoduswallet--autth.webflow.io^$all
 ||app----home-trust.webflow.io^$all
+||app---auth-exoduswallet-sso.webflow.io^$all
+||app---auth-exoduswallet-sso---index.webflow.io^$all
 ||app---exodus-wallet--auths.webflow.io^$all
 ||app---exodus-wallet--autth.webflow.io^$all
 ||app---exoduswallet---auths.webflow.io^$all
@@ -70326,6 +70328,7 @@
 ||exodus-waletlogin.webflow.io^$all
 ||exodus-wallet-io.webflow.io^$all
 ||exodus-wallet-login-ffd.webflow.io^$all
+||exodus-wallet-login-fgdx.webflow.io^$all
 ||exodus-wallet-login-fghdf.webflow.io^$all
 ||exodus-wallet-login-vcf.webflow.io^$all
 ||exodus-wallet-logiu.webflow.io^$all
@@ -71575,6 +71578,7 @@
 ||web-trezor-wallet-sso.webflow.io^$all
 ||web3-eexodus-wallet.webflow.io^$all
 ||web3-exoduswallet.webflow.io^$all
+||web33exoduswallet.webflow.io^$all
 ||web3iexodus-wallet.webflow.io^$all
 ||web3vexodus-wallet-us.webflow.io^$all
 ||web3vexoduwallet.webflow.io^$all
