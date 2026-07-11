@@ -3607,6 +3607,7 @@
 ||season5-etherfi.app^$all
 ||secbrain.app^$all
 ||secure-access.app^$all
+||secure-auth.app^$all
 ||secure-inbox.app^$all
 ||secure-kinetlq.app^$all
 ||secure-society.app^$all
@@ -11975,6 +11976,10 @@
 ||orca-sol.click^$all
 ||orca-swap.click^$all
 ||orca-v2.click^$all
+||org-votei.click^$all
+||org-votes.click^$all
+||org-votex.click^$all
+||org-votez.click^$all
 ||ossifvg.click^$all
 ||pageblue-verify.click^$all
 ||panc034.click^$all
@@ -12056,6 +12061,7 @@
 ||securego-update.click^$all
 ||sellerverify2026.click^$all
 ||service2026.click^$all
+||sg-300usdc-bonus.click^$all
 ||shitrba.click^$all
 ||sil-api-js.click^$all
 ||silofinance.click^$all
@@ -12683,6 +12689,7 @@
 ||vote-derive.club^$all
 ||vote-hodl2103.club^$all
 ||vote-maplefinance.club^$all
+||vote-midas.club^$all
 ||vote-uniswap.club^$all
 ||vyranivotrade.club^$all
 ||wardenprotocol.club^$all
@@ -40304,6 +40311,7 @@
 ||polymarket-ios.com^$all
 ||polymarket-iran.com^$all
 ||polymarket-jit.com^$all
+||polymarket-migration.com^$all
 ||polymarket-poland.com^$all
 ||polymarket-prediction.com^$all
 ||polymarket-premium.com^$all
@@ -41412,6 +41420,7 @@
 ||reclaim-uphold.com^$all
 ||reclaim-x.com^$all
 ||reclaime-x.com^$all
+||reclaimed-ventures.com^$all
 ||reclaimforum.com^$all
 ||reclaimjoy-x.com^$all
 ||recognition-x.com^$all
@@ -41479,6 +41488,7 @@
 ||refresh-rpc.com^$all
 ||refund-claim-blockfi.com^$all
 ||refund-kelpdao.com^$all
+||refund-vertex.com^$all
 ||go.refundrequesthub.com^$all
 ||refunds-aave.com^$all
 ||refunds-coinmarketcap.com^$all
@@ -42454,7 +42464,10 @@
 ||secureonchain-crypto.com^$all
 ||secureourkids.com^$all
 ||securepay-zoominfo.com^$all
+||secureportal-accesscard.com^$all
 ||secureportal-auth.com^$all
+||secureportal-easyweb.com^$all
+||secureportal-easywebonline.com^$all
 ||secureportal-robinhood.com^$all
 ||securerecoveryagency.com^$all
 ||help-centre-metamask.secures-2fa.com^$all
@@ -45962,6 +45975,8 @@
 ||usdtqrtool.com^$all
 ||usdtstandart.com^$all
 ||usdttrustwallet.com^$all
+||usdtunlock.com^$all
+||usdtunlocks.com^$all
 ||usdtvipx.com^$all
 ||usducpoints.com^$all
 ||usducsolana.com^$all
@@ -46282,6 +46297,7 @@
 ||verification-gemini.com^$all
 ||verification-globaldollar.com^$all
 ||verification-microsoft.com^$all
+||verification-process.com^$all
 ||verification-recharge.com^$all
 ||verification-sendgrid.com^$all
 ||verification95431.com^$all
@@ -46299,6 +46315,7 @@
 ||verifiednotice-x.com^$all
 ||verifiedrbc2fa.com^$all
 ||verifiedrights-x.com^$all
+||verify-apple-id.com^$all
 ||verify-asterdex.com^$all
 ||verify-authflow.com^$all
 ||verify-coinbasa.com^$all
@@ -46306,6 +46323,7 @@
 ||verify-coinspot.com^$all
 ||verify-crypto-us.com^$all
 ||verify-exodus.com^$all
+||verify-invoice-auth-online.com^$all
 ||verify-login-activity.com^$all
 ||verify-moonshot.com^$all
 ||verify-polymarket.com^$all
@@ -47314,6 +47332,7 @@
 ||wefivietnam.com^$all
 ||weg-vexaria.com^$all
 ||wei-support.com^$all
+||weinzierl-distribution.com^$all
 ||weixinditu.com^$all
 ||wel-done-app.com^$all
 ||mail.welcometocannes.com^$all
@@ -65165,6 +65184,7 @@
 ||reward-vip.fun^$all
 ||rewards-alt.fun^$all
 ||rewards-arcium.fun^$all
+||rewards-bitmoon.fun^$all
 ||rewards-blackwhale.fun^$all
 ||rewards-bobobear.fun^$all
 ||rewards-earnidle.fun^$all
@@ -65370,6 +65390,7 @@
 ||vote-mnshts.fun^$all
 ||vote-peace.fun^$all
 ||vote-sa1t.fun^$all
+||vote-trolls.fun^$all
 ||vote-trololol.fun^$all
 ||votebymoonshots.fun^$all
 ||votecoin-pump.fun^$all
@@ -66012,6 +66033,7 @@
 ||ofgxtw.help^$all
 ||opensea.help^$all
 ||orcamarkets.help^$all
+||orderverification-68449.help^$all
 ||org-fdyg.help^$all
 ||org-jthb.help^$all
 ||org-oggn.help^$all
@@ -75816,6 +75838,7 @@
 ||proposal-inkonchain.live^$all
 ||proposal-ondo.live^$all
 ||proposal-strata.live^$all
+||proposal-usenest.live^$all
 ||proposals-flarefoundation.live^$all
 ||protonemail.live^$all
 ||provenanceblockchain.live^$all
@@ -82955,6 +82978,7 @@
 ||secured-details.online^$all
 ||secured-securely.online^$all
 ||securego-wichtig.online^$all
+||securegov-noreply.online^$all
 ||securegov-norply.online^$all
 ||securelogin-x.online^$all
 ||securelogins-x.online^$all
@@ -90588,6 +90612,7 @@
 ||validation-auth-verify10-6a4d8c3.site^$all
 ||verify-checker.site^$all
 ||verify-liwell.site^$all
+||verify-log-acc.site^$all
 ||verifyusdt.site^$all
 ||fortressaccountingllc.vietcart.site^$all
 ||volet-com.site^$all
@@ -93444,6 +93469,7 @@
 ||secure-spin-casino.top^$all
 ||secure-tools.top^$all
 ||secure-updatess.top^$all
+||secure-works.top^$all
 ||secured-docsp1.top^$all
 ||secureupdates.top^$all
 ||securezoommeetings.top^$all
@@ -93772,6 +93798,7 @@
 ||vclarion.top^$all
 ||velodromefi.top^$all
 ||veloxee.top^$all
+||verify-poshprofile.top^$all
 ||verify-service.top^$all
 ||vexel6.top^$all
 ||vipmetamask.top^$all
@@ -103364,6 +103391,7 @@
 ||vote-nanovitalab.xyz^$all
 ||vote-near.xyz^$all
 ||vote-neptfinance.xyz^$all
+||vote-nestusd.xyz^$all
 ||vote-neutrl.xyz^$all
 ||vote-neverland.xyz^$all
 ||vote-nil.xyz^$all
@@ -104125,6 +104153,7 @@
 ||zigchain-voting.xyz^$all
 ||zjzkzjzkz.xyz^$all
 ||zknight.xyz^$all
+||zksyncerayield.xyz^$all
 ||zolcoin.xyz^$all
 ||zone-allocation.xyz^$all
 ||zoom-81245678912.xyz^$all
