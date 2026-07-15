@@ -890,6 +890,7 @@
 ||claim-maxidoge.app^$all
 ||claim-midas.app^$all
 ||claim-noble.app^$all
+||claim-noxafi.app^$all
 ||claim-ore.app^$all
 ||claim-pancake.app^$all
 ||claim-pengu.app^$all
@@ -2116,10 +2117,12 @@
 ||coincommunity-dr.netlify.app^$all
 ||coincommunity-ee.netlify.app^$all
 ||coincommunity-ev.netlify.app^$all
+||coincommunity-fv.netlify.app^$all
 ||coincommunity-gm.netlify.app^$all
 ||coincommunity-gz.netlify.app^$all
 ||coincommunity-h2.netlify.app^$all
 ||coincommunity-hi.netlify.app^$all
+||coincommunity-hk.netlify.app^$all
 ||coincommunity-hq.netlify.app^$all
 ||coincommunity-hs.netlify.app^$all
 ||coincommunity-ib.netlify.app^$all
@@ -2165,6 +2168,7 @@
 ||coincommunity-ye.netlify.app^$all
 ||coincommunity-ys.netlify.app^$all
 ||coincommunity-z0.netlify.app^$all
+||coincommunity-z1.netlify.app^$all
 ||coincommunity-z4.netlify.app^$all
 ||coincommunity-z6.netlify.app^$all
 ||coincommunity-z7.netlify.app^$all
@@ -2728,6 +2732,7 @@
 ||moonshot-voting-9eegai.netlify.app^$all
 ||moonshot-voting-9gu145.netlify.app^$all
 ||moonshot-voting-9itf45.netlify.app^$all
+||moonshot-voting-9k.netlify.app^$all
 ||moonshot-voting-9n5.netlify.app^$all
 ||moonshot-voting-9r.netlify.app^$all
 ||moonshot-voting-9sm.netlify.app^$all
@@ -2774,6 +2779,7 @@
 ||moonshot-voting-bqq.netlify.app^$all
 ||moonshot-voting-brr.netlify.app^$all
 ||moonshot-voting-bsf.netlify.app^$all
+||moonshot-voting-bu.netlify.app^$all
 ||moonshot-voting-bub.netlify.app^$all
 ||moonshot-voting-but.netlify.app^$all
 ||moonshot-voting-bvr.netlify.app^$all
@@ -2990,6 +2996,7 @@
 ||moonshot-voting-mou.netlify.app^$all
 ||moonshot-voting-mqk.netlify.app^$all
 ||moonshot-voting-mu9nso.netlify.app^$all
+||moonshot-voting-mw.netlify.app^$all
 ||moonshot-voting-my1.netlify.app^$all
 ||moonshot-voting-n7.netlify.app^$all
 ||moonshot-voting-n8h.netlify.app^$all
@@ -3031,6 +3038,7 @@
 ||moonshot-voting-p7.netlify.app^$all
 ||moonshot-voting-p75.netlify.app^$all
 ||moonshot-voting-p91.netlify.app^$all
+||moonshot-voting-pa.netlify.app^$all
 ||moonshot-voting-pb6.netlify.app^$all
 ||moonshot-voting-pek.netlify.app^$all
 ||moonshot-voting-phj.netlify.app^$all
@@ -3856,6 +3864,7 @@
 ||snapshot-ethgasfoundation.app^$all
 ||snapshot-hyperfoundation.app^$all
 ||snapshot-rainbow.app^$all
+||snapshot-strata.app^$all
 ||snapshot-unipeg.app^$all
 ||soilclaim.app^$all
 ||sol-airdrop.app^$all
@@ -6431,6 +6440,7 @@
 ||vote-firelightfinance.app^$all
 ||vote-flare-network.app^$all
 ||vote-flarefoundation.app^$all
+||vote-flaregovernance.app^$all
 ||vote-flarenetwork.app^$all
 ||vote-flarenetworks.app^$all
 ||vote-gaibai.app^$all
@@ -16719,6 +16729,7 @@
 ||app-bifrost.com^$all
 ||app-bin-go-0x.com^$all
 ||app-bitbox.com^$all
+||app-blackbullsol.com^$all
 ||app-blackhole.com^$all
 ||app-bullbitcoin.com^$all
 ||app-bullx.com^$all
@@ -21400,6 +21411,7 @@
 ||dashboard-firelights.com^$all
 ||dashboard-flarenetwork.com^$all
 ||dashboard-flyingtulip.com^$all
+||dashboard-kintara.com^$all
 ||dashboard-link.com^$all
 ||dashboard-ondo.com^$all
 ||dashboard-poly.com^$all
@@ -36885,6 +36897,7 @@
 ||launch-noxa.com^$all
 ||launch-trustwallet.com^$all
 ||launchamd.com^$all
+||launchonrh.com^$all
 ||launchpad-prxvt.com^$all
 ||lawsuit-blockfi.com^$all
 ||layendashboand-foundation.com^$all
@@ -64375,7 +64388,9 @@
 ||revett.finance^$all
 ||revoke-curve.finance^$all
 ||reward-maple.finance^$all
+||rewards-ether.finance^$all
 ||rewards-firelight.finance^$all
+||rewards-hydrex.finance^$all
 ||rewards-klik.finance^$all
 ||rewards-moonwell.finance^$all
 ||rewards-solstice.finance^$all
@@ -65357,6 +65372,7 @@
 ||nobody-gifts.fun^$all
 ||noti-moonshot.fun^$all
 ||novawallet.fun^$all
+||noxas.fun^$all
 ||meow.oakar.fun^$all
 ||official-byvotes.fun^$all
 ||ogsolanafaucet.fun^$all
@@ -68658,6 +68674,7 @@
 ||q3-aevo.info^$all
 ||q3-backpack.info^$all
 ||q3-monad.info^$all
+||q3-variational.info^$all
 ||qfsledgers.info^$all
 ||qprchs.info^$all
 ||quantumaixtradings.info^$all
@@ -68916,6 +68933,7 @@
 ||vexil.info^$all
 ||veylathorim.info^$all
 ||vidal-exchange.info^$all
+||view-layerzero.info^$all
 ||virtuals.info^$all
 ||virtualsprotocol.info^$all
 ||vooi.info^$all
@@ -75811,8 +75829,12 @@
 ||firelightfi-distributions.live^$all
 ||firelightfi-drop.live^$all
 ||firelightfi-genesis.live^$all
+||firelightfi-join.live^$all
+||firelightfi-registers.live^$all
 ||firelightfi-reward.live^$all
 ||firelightfi-rewards.live^$all
+||firelightfi-take.live^$all
+||firelightfi-token.live^$all
 ||firelightfi-tokens.live^$all
 ||firelightfinance.live^$all
 ||firelightfinance-genesis.live^$all
@@ -75858,13 +75880,20 @@
 ||flarefndn-xrp.live^$all
 ||flarefoundation-allocation.live^$all
 ||flarefoundation-allocations.live^$all
+||flarefoundation-app.live^$all
 ||flarefoundation-bonus.live^$all
 ||flarefoundation-dapp.live^$all
+||flarefoundation-defi.live^$all
 ||flarefoundation-distribution.live^$all
 ||flarefoundation-distributions.live^$all
 ||flarefoundation-event.live^$all
 ||flarefoundation-events.live^$all
+||flarefoundation-gift.live^$all
+||flarefoundation-gifts.live^$all
+||flarefoundation-governance.live^$all
+||flarefoundation-join.live^$all
 ||flarefoundation-launch.live^$all
+||flarefoundation-participate.live^$all
 ||flarefoundation-phase1.live^$all
 ||flarefoundation-phase2.live^$all
 ||flarefoundation-proposal.live^$all
@@ -75878,6 +75907,7 @@
 ||flarefoundation-votings.live^$all
 ||flarefoundation-xrp.live^$all
 ||flarefoundations-dapp.live^$all
+||flarefoundations-go.live^$all
 ||flarefoundations-launch.live^$all
 ||flarefoundations-phase1.live^$all
 ||flarefoundations-phase2.live^$all
@@ -75979,6 +76009,8 @@
 ||get-flarefndn.live^$all
 ||get-flarefoundation.live^$all
 ||ggooglemeetinginterview.live^$all
+||gift-flarefoundation.live^$all
+||gifts-flarefoundation.live^$all
 ||global-chat.live^$all
 ||globalmarkettrade.live^$all
 ||globalsol.live^$all
@@ -76030,6 +76062,7 @@
 ||gove-flarenetworks.live^$all
 ||governance.live^$all
 ||governance-flarenetwork.live^$all
+||governances-flarefoundation.live^$all
 ||goves-flarenetwork.live^$all
 ||goves-flarenetworks.live^$all
 ||goyimofficial.live^$all
@@ -76149,6 +76182,7 @@
 ||claim.jitosol.live^$all
 ||jitoyieldio.live^$all
 ||join-falconfi.live^$all
+||join-flarefoundation.live^$all
 ||join-matrica.live^$all
 ||join-moonshot.live^$all
 ||join-stake.live^$all
@@ -76554,7 +76588,9 @@
 ||paradex-claim.live^$all
 ||parcelodelivery.live^$all
 ||parodex.live^$all
+||participate-flarefoundation.live^$all
 ||participate-flarenetworks.live^$all
+||participatel-firelightfi.live^$all
 ||paxosreward.live^$all
 ||coinbase.com.paypol.live^$all
 ||paytrust.live^$all
@@ -76636,6 +76672,7 @@
 ||port-pharos.live^$all
 ||portal-coinbase.live^$all
 ||portal-eeseeyield.live^$all
+||portal-firelightfi.live^$all
 ||portal-firelightfinance.live^$all
 ||portal-ledger.live^$all
 ||portal-matrca.live^$all
@@ -76787,6 +76824,7 @@
 ||register-virtualsfi.live^$all
 ||register-whackywhales.live^$all
 ||register-yajucoin.live^$all
+||registers-firelightfi.live^$all
 ||registers-virtualsfi.live^$all
 ||remittix-token.live^$all
 ||remittixtoken.live^$all
@@ -77046,6 +77084,7 @@
 ||syncvalidsolution.live^$all
 ||syruptoken.live^$all
 ||t-wallet.live^$all
+||take-firelightfi.live^$all
 ||take-flarefoundation.live^$all
 ||tars-migration.live^$all
 ||te-min-platform.live^$all
@@ -77073,6 +77112,7 @@
 ||therealworlduniversities.live^$all
 ||tinysolfarm.live^$all
 ||todayzoominvitehome.live^$all
+||token-firelightfi.live^$all
 ||token-firelightfinances.live^$all
 ||token-flarenetwork.live^$all
 ||token-flarenetworks.live^$all
@@ -85303,6 +85343,7 @@
 ||list-moonshot.org^$all
 ||lista-dao.org^$all
 ||listed-moonshot.org^$all
+||listedokx.org^$all
 ||listingvote.org^$all
 ||live-fartcoin.org^$all
 ||live-horsetwting.org^$all
@@ -98157,6 +98198,7 @@
 ||aethir-register.xyz^$all
 ||aethir-rewards.xyz^$all
 ||aethir-vote.xyz^$all
+||aevoeco.xyz^$all
 ||jup.ag-bonus.xyz^$all
 ||ag-check.xyz^$all
 ||ag-claim.xyz^$all
@@ -99266,6 +99308,7 @@
 ||check-jupuary.xyz^$all
 ||check-lighter.xyz^$all
 ||check-points.xyz^$all
+||check-varational.xyz^$all
 ||checkcitrea.xyz^$all
 ||checkdrops.xyz^$all
 ||checkeigen-byzantlne.xyz^$all
@@ -100356,6 +100399,7 @@
 ||event-arc.xyz^$all
 ||event-astar.xyz^$all
 ||event-avax.xyz^$all
+||event-backpack.xyz^$all
 ||event-balancer.xyz^$all
 ||event-base.xyz^$all
 ||event-beefy.xyz^$all
@@ -101890,6 +101934,7 @@
 ||monad-voting.xyz^$all
 ||n8n.monadao.xyz^$all
 ||monadap.xyz^$all
+||monadcard.xyz^$all
 ||monadcult.xyz^$all
 ||monadfish.xyz^$all
 ||monadgovernance.xyz^$all
@@ -103956,6 +104001,7 @@
 ||unlock-asterdex.xyz^$all
 ||unlock-worldlbertyfi.xyz^$all
 ||update-abs.xyz^$all
+||update-layerzero.xyz^$all
 ||updated-apiv2-tranact-originalsource.xyz^$all
 ||upgrade-degen.xyz^$all
 ||upgrademakerdao.xyz^$all

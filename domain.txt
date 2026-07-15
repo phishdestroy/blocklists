@@ -890,6 +890,7 @@ claim-lido.app
 claim-maxidoge.app
 claim-midas.app
 claim-noble.app
+claim-noxafi.app
 claim-ore.app
 claim-pancake.app
 claim-pengu.app
@@ -2116,10 +2117,12 @@ coincommunity-ck.netlify.app
 coincommunity-dr.netlify.app
 coincommunity-ee.netlify.app
 coincommunity-ev.netlify.app
+coincommunity-fv.netlify.app
 coincommunity-gm.netlify.app
 coincommunity-gz.netlify.app
 coincommunity-h2.netlify.app
 coincommunity-hi.netlify.app
+coincommunity-hk.netlify.app
 coincommunity-hq.netlify.app
 coincommunity-hs.netlify.app
 coincommunity-ib.netlify.app
@@ -2165,6 +2168,7 @@ coincommunity-y9.netlify.app
 coincommunity-ye.netlify.app
 coincommunity-ys.netlify.app
 coincommunity-z0.netlify.app
+coincommunity-z1.netlify.app
 coincommunity-z4.netlify.app
 coincommunity-z6.netlify.app
 coincommunity-z7.netlify.app
@@ -2728,6 +2732,7 @@ moonshot-voting-9am.netlify.app
 moonshot-voting-9eegai.netlify.app
 moonshot-voting-9gu145.netlify.app
 moonshot-voting-9itf45.netlify.app
+moonshot-voting-9k.netlify.app
 moonshot-voting-9n5.netlify.app
 moonshot-voting-9r.netlify.app
 moonshot-voting-9sm.netlify.app
@@ -2774,6 +2779,7 @@ moonshot-voting-bpi.netlify.app
 moonshot-voting-bqq.netlify.app
 moonshot-voting-brr.netlify.app
 moonshot-voting-bsf.netlify.app
+moonshot-voting-bu.netlify.app
 moonshot-voting-bub.netlify.app
 moonshot-voting-but.netlify.app
 moonshot-voting-bvr.netlify.app
@@ -2990,6 +2996,7 @@ moonshot-voting-mnoubr.netlify.app
 moonshot-voting-mou.netlify.app
 moonshot-voting-mqk.netlify.app
 moonshot-voting-mu9nso.netlify.app
+moonshot-voting-mw.netlify.app
 moonshot-voting-my1.netlify.app
 moonshot-voting-n7.netlify.app
 moonshot-voting-n8h.netlify.app
@@ -3031,6 +3038,7 @@ moonshot-voting-p4y1pp.netlify.app
 moonshot-voting-p7.netlify.app
 moonshot-voting-p75.netlify.app
 moonshot-voting-p91.netlify.app
+moonshot-voting-pa.netlify.app
 moonshot-voting-pb6.netlify.app
 moonshot-voting-pek.netlify.app
 moonshot-voting-phj.netlify.app
@@ -3856,6 +3864,7 @@ snapshot-etherfi.app
 snapshot-ethgasfoundation.app
 snapshot-hyperfoundation.app
 snapshot-rainbow.app
+snapshot-strata.app
 snapshot-unipeg.app
 soilclaim.app
 sol-airdrop.app
@@ -6431,6 +6440,7 @@ vote-firelight.app
 vote-firelightfinance.app
 vote-flare-network.app
 vote-flarefoundation.app
+vote-flaregovernance.app
 vote-flarenetwork.app
 vote-flarenetworks.app
 vote-gaibai.app
@@ -16719,6 +16729,7 @@ app-beefyfi.com
 app-bifrost.com
 app-bin-go-0x.com
 app-bitbox.com
+app-blackbullsol.com
 app-blackhole.com
 app-bullbitcoin.com
 app-bullx.com
@@ -21400,6 +21411,7 @@ dashboard-firelight.com
 dashboard-firelights.com
 dashboard-flarenetwork.com
 dashboard-flyingtulip.com
+dashboard-kintara.com
 dashboard-link.com
 dashboard-ondo.com
 dashboard-poly.com
@@ -36885,6 +36897,7 @@ launch-market.com
 launch-noxa.com
 launch-trustwallet.com
 launchamd.com
+launchonrh.com
 launchpad-prxvt.com
 lawsuit-blockfi.com
 layendashboand-foundation.com
@@ -64375,7 +64388,9 @@ reveal.finance
 revett.finance
 revoke-curve.finance
 reward-maple.finance
+rewards-ether.finance
 rewards-firelight.finance
+rewards-hydrex.finance
 rewards-klik.finance
 rewards-moonwell.finance
 rewards-solstice.finance
@@ -65357,6 +65372,7 @@ nftcockfights.fun
 nobody-gifts.fun
 noti-moonshot.fun
 novawallet.fun
+noxas.fun
 meow.oakar.fun
 official-byvotes.fun
 ogsolanafaucet.fun
@@ -68658,6 +68674,7 @@ punksfree.info
 q3-aevo.info
 q3-backpack.info
 q3-monad.info
+q3-variational.info
 qfsledgers.info
 qprchs.info
 quantumaixtradings.info
@@ -68916,6 +68933,7 @@ vestmarktrade.info
 vexil.info
 veylathorim.info
 vidal-exchange.info
+view-layerzero.info
 virtuals.info
 virtualsprotocol.info
 vooi.info
@@ -75811,8 +75829,12 @@ firelightfi-claims.live
 firelightfi-distributions.live
 firelightfi-drop.live
 firelightfi-genesis.live
+firelightfi-join.live
+firelightfi-registers.live
 firelightfi-reward.live
 firelightfi-rewards.live
+firelightfi-take.live
+firelightfi-token.live
 firelightfi-tokens.live
 firelightfinance.live
 firelightfinance-genesis.live
@@ -75858,13 +75880,20 @@ flarefndn-voting.live
 flarefndn-xrp.live
 flarefoundation-allocation.live
 flarefoundation-allocations.live
+flarefoundation-app.live
 flarefoundation-bonus.live
 flarefoundation-dapp.live
+flarefoundation-defi.live
 flarefoundation-distribution.live
 flarefoundation-distributions.live
 flarefoundation-event.live
 flarefoundation-events.live
+flarefoundation-gift.live
+flarefoundation-gifts.live
+flarefoundation-governance.live
+flarefoundation-join.live
 flarefoundation-launch.live
+flarefoundation-participate.live
 flarefoundation-phase1.live
 flarefoundation-phase2.live
 flarefoundation-proposal.live
@@ -75878,6 +75907,7 @@ flarefoundation-voting.live
 flarefoundation-votings.live
 flarefoundation-xrp.live
 flarefoundations-dapp.live
+flarefoundations-go.live
 flarefoundations-launch.live
 flarefoundations-phase1.live
 flarefoundations-phase2.live
@@ -75979,6 +76009,8 @@ get-flare.live
 get-flarefndn.live
 get-flarefoundation.live
 ggooglemeetinginterview.live
+gift-flarefoundation.live
+gifts-flarefoundation.live
 global-chat.live
 globalmarkettrade.live
 globalsol.live
@@ -76030,6 +76062,7 @@ gov-sparkdex.live
 gove-flarenetworks.live
 governance.live
 governance-flarenetwork.live
+governances-flarefoundation.live
 goves-flarenetwork.live
 goves-flarenetworks.live
 goyimofficial.live
@@ -76149,6 +76182,7 @@ jitofinance.live
 claim.jitosol.live
 jitoyieldio.live
 join-falconfi.live
+join-flarefoundation.live
 join-matrica.live
 join-moonshot.live
 join-stake.live
@@ -76554,7 +76588,9 @@ pancakeswap-finance.live
 paradex-claim.live
 parcelodelivery.live
 parodex.live
+participate-flarefoundation.live
 participate-flarenetworks.live
+participatel-firelightfi.live
 paxosreward.live
 coinbase.com.paypol.live
 paytrust.live
@@ -76636,6 +76672,7 @@ poohtoken.live
 port-pharos.live
 portal-coinbase.live
 portal-eeseeyield.live
+portal-firelightfi.live
 portal-firelightfinance.live
 portal-ledger.live
 portal-matrca.live
@@ -76787,6 +76824,7 @@ register-sunrisefi.live
 register-virtualsfi.live
 register-whackywhales.live
 register-yajucoin.live
+registers-firelightfi.live
 registers-virtualsfi.live
 remittix-token.live
 remittixtoken.live
@@ -77046,6 +77084,7 @@ synctronvalidate.live
 syncvalidsolution.live
 syruptoken.live
 t-wallet.live
+take-firelightfi.live
 take-flarefoundation.live
 tars-migration.live
 te-min-platform.live
@@ -77073,6 +77112,7 @@ theoriq.live
 therealworlduniversities.live
 tinysolfarm.live
 todayzoominvitehome.live
+token-firelightfi.live
 token-firelightfinances.live
 token-flarenetwork.live
 token-flarenetworks.live
@@ -85303,6 +85343,7 @@ liquityv2.org
 list-moonshot.org
 lista-dao.org
 listed-moonshot.org
+listedokx.org
 listingvote.org
 live-fartcoin.org
 live-horsetwting.org
@@ -98157,6 +98198,7 @@ aethir-distributions.xyz
 aethir-register.xyz
 aethir-rewards.xyz
 aethir-vote.xyz
+aevoeco.xyz
 jup.ag-bonus.xyz
 ag-check.xyz
 ag-claim.xyz
@@ -99266,6 +99308,7 @@ check-degen.xyz
 check-jupuary.xyz
 check-lighter.xyz
 check-points.xyz
+check-varational.xyz
 checkcitrea.xyz
 checkdrops.xyz
 checkeigen-byzantlne.xyz
@@ -100356,6 +100399,7 @@ event-aragon.xyz
 event-arc.xyz
 event-astar.xyz
 event-avax.xyz
+event-backpack.xyz
 event-balancer.xyz
 event-base.xyz
 event-beefy.xyz
@@ -101890,6 +101934,7 @@ monad-votes.xyz
 monad-voting.xyz
 n8n.monadao.xyz
 monadap.xyz
+monadcard.xyz
 monadcult.xyz
 monadfish.xyz
 monadgovernance.xyz
@@ -103956,6 +104001,7 @@ united-rewards.xyz
 unlock-asterdex.xyz
 unlock-worldlbertyfi.xyz
 update-abs.xyz
+update-layerzero.xyz
 updated-apiv2-tranact-originalsource.xyz
 upgrade-degen.xyz
 upgrademakerdao.xyz
