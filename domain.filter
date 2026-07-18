@@ -79107,7 +79107,6 @@
 ||exodus.market^$all
 ||fmoney.market^$all
 ||habor.market^$all
-||hidden.market^$all
 ||liqwid.market^$all
 ||login-us.market^$all
 ||login-usa.market^$all
@@ -79115,8 +79114,6 @@
 ||myriads.market^$all
 ||poliy.market^$all
 ||polybeta.market^$all
-||reserved.market^$all
-||restricted.market^$all
 ||states.market^$all
 ||us-com.market^$all
 ||pudgy.marketing^$all
@@ -79126,13 +79123,10 @@
 ||polymarket.com-access.markets^$all
 ||polymarket.com-asia.markets^$all
 ||polymarket.com-private.markets^$all
-||com-usa.markets^$all
-||covert.markets^$all
 ||deposit-strata.markets^$all
 ||polymarket.display.markets^$all
 ||polymarket.initialize.markets^$all
 ||kyc.markets^$all
-||league.markets^$all
 ||openusd.markets^$all
 ||pancakeswap.markets^$all
 ||porbable.markets^$all
@@ -79146,7 +79140,6 @@
 ||register-strata.markets^$all
 ||rewards-strata.markets^$all
 ||solxfi.markets^$all
-||special.markets^$all
 ||polymarket.states.markets^$all
 ||superbowl.markets^$all
 ||polymarket.us-live.markets^$all
@@ -92911,7 +92904,7 @@
 ||go-intuition.systems^$all
 ||hub-intuition.systems^$all
 ||info-intuition.systems^$all
-||invitation.systems^$all
+||polymarket.invitation.systems^$all
 ||join-intuition.systems^$all
 ||nai.systems^$all
 ||cdn-origin-auth.norlys-kraken.systems^$all
@@ -95928,8 +95921,6 @@
 ||eigenlayercoindao.trading^$all
 ||eigenlayerdefi.trading^$all
 ||eigenlayersio.trading^$all
-||intern.trading^$all
-||internal.trading^$all
 ||keeta.trading^$all
 ||meteora.trading^$all
 ||neuriva.trading^$all
