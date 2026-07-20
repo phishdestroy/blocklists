@@ -11293,6 +11293,7 @@
 ||sol-lib.cc^$all
 ||sol-wheel.cc^$all
 ||solana-gain.cc^$all
+||solana-mining.cc^$all
 ||solanacard.cc^$all
 ||solanafaucet.cc^$all
 ||solavre.cc^$all
@@ -61007,6 +61008,7 @@
 ||solana-mixer.pages.dev^$all
 ||solana-official.pages.dev^$all
 ||solana-pp.pages.dev^$all
+||solana-rev1.pages.dev^$all
 ||solana-tdp-web.pages.dev^$all
 ||solanaai.pages.dev^$all
 ||solanamobiletoken.pages.dev^$all
