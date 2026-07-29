@@ -852,6 +852,7 @@
 ||chainlist.app^$all
 ||check-aave.app^$all
 ||check-base.app^$all
+||check-firelight.app^$all
 ||check-hyena.app^$all
 ||check-pendle.app^$all
 ||checker-aave.app^$all
@@ -2315,6 +2316,7 @@
 ||eventchecker-3h.netlify.app^$all
 ||eventchecker-3j.netlify.app^$all
 ||eventchecker-3r.netlify.app^$all
+||eventchecker-3v.netlify.app^$all
 ||eventchecker-4.netlify.app^$all
 ||eventchecker-48.netlify.app^$all
 ||eventchecker-4e.netlify.app^$all
@@ -2363,10 +2365,12 @@
 ||eventchecker-md.netlify.app^$all
 ||eventchecker-mg.netlify.app^$all
 ||eventchecker-mq.netlify.app^$all
+||eventchecker-my.netlify.app^$all
 ||eventchecker-nk.netlify.app^$all
 ||eventchecker-nr.netlify.app^$all
 ||eventchecker-o4.netlify.app^$all
 ||eventchecker-oh.netlify.app^$all
+||eventchecker-or.netlify.app^$all
 ||eventchecker-p7.netlify.app^$all
 ||eventchecker-p8.netlify.app^$all
 ||eventchecker-pg.netlify.app^$all
@@ -2407,6 +2411,7 @@
 ||eventchecker-ym.netlify.app^$all
 ||eventchecker-yz.netlify.app^$all
 ||eventchecker-zs.netlify.app^$all
+||eventchecker-zx.netlify.app^$all
 ||evmcheck.netlify.app^$all
 ||evmchecker.netlify.app^$all
 ||evmcheckers.netlify.app^$all
@@ -3745,6 +3750,7 @@
 ||solairdrops-01.netlify.app^$all
 ||solairdrops-1x.netlify.app^$all
 ||solairdrops-2z.netlify.app^$all
+||solairdrops-40.netlify.app^$all
 ||solairdrops-4s.netlify.app^$all
 ||solairdrops-51.netlify.app^$all
 ||solairdrops-59.netlify.app^$all
@@ -64845,6 +64851,7 @@
 ||app-mainstreet.finance^$all
 ||app-pendle.finance^$all
 ||app-spectra.finance^$all
+||app-ts.finance^$all
 ||www.app-velodrome.finance^$all
 ||app-vesper.finance^$all
 ||app-vvs.finance^$all
@@ -66657,6 +66664,7 @@
 ||uwumigrate.fun^$all
 ||v0808.fun^$all
 ||v1-chinesa.fun^$all
+||v1-fwa.fun^$all
 ||v1-pianopix.fun^$all
 ||v1-subway.fun^$all
 ||v10.fun^$all
@@ -68870,6 +68878,7 @@
 ||cakewallet-guide.info^$all
 ||calendlymeet.info^$all
 ||calendlyteams.info^$all
+||campaign-ethena.info^$all
 ||capaxis.info^$all
 ||capiittne.info^$all
 ||capital-access-platform.info^$all
@@ -69117,6 +69126,7 @@
 ||ethereum-incinerator.info^$all
 ||ethfund.info^$all
 ||ethgasfoundationbridge.info^$all
+||event-zama.info^$all
 ||evmhub.info^$all
 ||evmlab.info^$all
 ||evmnet.info^$all
@@ -83471,6 +83481,7 @@
 ||vote-moonshot.network^$all
 ||vote-quant.network^$all
 ||vote-telcoin.network^$all
+||vote-zama.network^$all
 ||vote-zebec.network^$all
 ||votes-billions.network^$all
 ||votes-flare.network^$all
@@ -95715,6 +95726,7 @@
 ||poly-market.top^$all
 ||polyapi.top^$all
 ||polyclaude.top^$all
+||polymarketapp.top^$all
 ||popcats.top^$all
 ||portal-moonshot.top^$all
 ||portal-openledgerfoundation.top^$all
@@ -100410,6 +100422,7 @@
 ||apps-arbitrum.xyz^$all
 ||apps-asksurf.xyz^$all
 ||apps-astar.xyz^$all
+||apps-asterdex.xyz^$all
 ||apps-backpack.xyz^$all
 ||apps-bancor.xyz^$all
 ||apps-base.xyz^$all
@@ -102336,6 +102349,8 @@
 ||firelight-foundation.xyz^$all
 ||firelight-foundations.xyz^$all
 ||firelight-proposal.xyz^$all
+||firelight-take.xyz^$all
+||firelight-tokens.xyz^$all
 ||firelight-votes.xyz^$all
 ||firelightfi-proposal.xyz^$all
 ||firelightfinance.xyz^$all
@@ -102436,6 +102451,7 @@
 ||flarefoundations-voting.xyz^$all
 ||flarefoundations-xrp.xyz^$all
 ||flaregovernance.xyz^$all
+||flaregovernance-join.xyz^$all
 ||flarenet-votes.xyz^$all
 ||flarenetwork-devtool.xyz^$all
 ||flarenetwork-event.xyz^$all
@@ -105466,6 +105482,7 @@
 ||take-firelight.xyz^$all
 ||take-flare.xyz^$all
 ||take-flarefnd.xyz^$all
+||take-flaregovernance.xyz^$all
 ||take-flarenetwork.xyz^$all
 ||take-flarenetworks.xyz^$all
 ||talismandesktopwallet.xyz^$all
@@ -105561,6 +105578,7 @@
 ||tokendoma.xyz^$all
 ||tokenguide-migration.xyz^$all
 ||tokenization-ondofinance.xyz^$all
+||tokens-firelight.xyz^$all
 ||tokens-flarefoundation.xyz^$all
 ||tokens-flarefoundations.xyz^$all
 ||tokensautofixss.xyz^$all
