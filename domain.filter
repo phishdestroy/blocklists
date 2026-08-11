@@ -71843,6 +71843,7 @@
 ||auth--sso-exodus-app---cdn.webflow.io^$all
 ||auth--sso-moonpay-cdn--home.webflow.io^$all
 ||auth--web--trustextenson.webflow.io^$all
+||auth-app--moonpay-cdn---auth.webflow.io^$all
 ||auth-auth-phantomwalletextension.webflow.io^$all
 ||auth-browser--extension.webflow.io^$all
 ||auth-en-eigenlayer.webflow.io^$all
@@ -72195,6 +72196,7 @@
 ||https--auth--moonpay--login.webflow.io^$all
 ||https--moonpay--com-cdn.webflow.io^$all
 ||https--moonpay-com--auth.webflow.io^$all
+||https-auth--moonpay--login.webflow.io^$all
 ||https-auth--moonpay-login.webflow.io^$all
 ||https-auth-moonpay-login.webflow.io^$all
 ||immutable-737205.webflow.io^$all
@@ -72838,6 +72840,7 @@
 ||sso--en-coinbasepro--cdn--x---auth.webflow.io^$all
 ||sso--en-exodus--cdn-auth.webflow.io^$all
 ||sso--en-phantom-wallet--extension-cdn.webflow.io^$all
+||sso--eng-moonpay-com---x--auth.webflow.io^$all
 ||sso--exodus-web3--cdn.webflow.io^$all
 ||sso--exoduswallet--exodus-auth.webflow.io^$all
 ||sso--exodusweb3-wollet.webflow.io^$all
@@ -95786,7 +95789,6 @@
 ||usdtvault.us^$all
 ||use05webzoom.us^$all
 ||userzoom.us^$all
-||uso06webzoom.us^$all
 ||uso1web.us^$all
 ||uso4web.us^$all
 ||usobweb.us^$all
