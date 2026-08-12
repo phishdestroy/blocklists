@@ -1949,6 +1949,7 @@
 ||base-bridge-site.netlify.app^$all
 ||baseconsultlineinfo.netlify.app^$all
 ||basedfnd.netlify.app^$all
+||baseopencheckstatus.netlify.app^$all
 ||blockchain3.netlify.app^$all
 ||blockdagclaims.netlify.app^$all
 ||bonkbonkclaim.netlify.app^$all
@@ -1961,12 +1962,16 @@
 ||checkunicommunitypull-gg.netlify.app^$all
 ||christianagyapong-coins.netlify.app^$all
 ||claim-ca.netlify.app^$all
+||claim-cr.netlify.app^$all
 ||claim-dj.netlify.app^$all
 ||claim-e5.netlify.app^$all
 ||claim-kr.netlify.app^$all
 ||claim-lp.netlify.app^$all
 ||claim-pd.netlify.app^$all
+||claim-po.netlify.app^$all
 ||claim-te.netlify.app^$all
+||claim-wv.netlify.app^$all
+||claim-xm.netlify.app^$all
 ||claim-yj.netlify.app^$all
 ||clickfast-mint4.netlify.app^$all
 ||cloud-trezor-suite.netlify.app^$all
@@ -2540,6 +2545,7 @@
 ||moonshot-listing-bxv.netlify.app^$all
 ||moonshot-listing-bxy.netlify.app^$all
 ||moonshot-listing-bzc.netlify.app^$all
+||moonshot-listing-cb4.netlify.app^$all
 ||moonshot-listing-cee.netlify.app^$all
 ||moonshot-listing-cqm.netlify.app^$all
 ||moonshot-listing-cqn.netlify.app^$all
@@ -2811,6 +2817,7 @@
 ||moonshot-listing-uvx.netlify.app^$all
 ||moonshot-listing-uwr.netlify.app^$all
 ||moonshot-listing-v74.netlify.app^$all
+||moonshot-listing-vah.netlify.app^$all
 ||moonshot-listing-vbn.netlify.app^$all
 ||moonshot-listing-vbq.netlify.app^$all
 ||moonshot-listing-vck.netlify.app^$all
@@ -2869,6 +2876,7 @@
 ||moonshot-listing-xzr.netlify.app^$all
 ||moonshot-listing-yab.netlify.app^$all
 ||moonshot-listing-yaz.netlify.app^$all
+||moonshot-listing-yhy.netlify.app^$all
 ||moonshot-listing-ykp.netlify.app^$all
 ||moonshot-listing-ype.netlify.app^$all
 ||moonshot-listing-ypw.netlify.app^$all
@@ -3486,6 +3494,7 @@
 ||moonshot-voting-ge.netlify.app^$all
 ||moonshot-voting-gel.netlify.app^$all
 ||moonshot-voting-gevg06.netlify.app^$all
+||moonshot-voting-gf.netlify.app^$all
 ||moonshot-voting-gfboa2.netlify.app^$all
 ||moonshot-voting-gg.netlify.app^$all
 ||moonshot-voting-gh.netlify.app^$all
@@ -4114,6 +4123,7 @@
 ||moonshot-voting-xt.netlify.app^$all
 ||moonshot-voting-xte.netlify.app^$all
 ||moonshot-voting-xty.netlify.app^$all
+||moonshot-voting-xx.netlify.app^$all
 ||moonshot-voting-xyk.netlify.app^$all
 ||moonshot-voting-y0.netlify.app^$all
 ||moonshot-voting-y10.netlify.app^$all
@@ -14198,6 +14208,7 @@
 ||app-onyx.cloud^$all
 ||app-solsticefinance.cloud^$all
 ||app-stable.cloud^$all
+||app-termmax-finance.cloud^$all
 ||app-xaman.cloud^$all
 ||app-zebec.cloud^$all
 ||appeal-grvt.cloud^$all
@@ -14511,11 +14522,13 @@
 ||termmaxfinance.cloud^$all
 ||echo.to64.cloud^$all
 ||tori-finance.cloud^$all
+||tori-finances.cloud^$all
 ||torifinance.cloud^$all
 ||torifinances.cloud^$all
 ||tradexyz.cloud^$all
 ||trojantoken.cloud^$all
 ||trust-wallet.cloud^$all
+||tvl-umbrafoundation.cloud^$all
 ||twcardsup.cloud^$all
 ||unitrans.cloud^$all
 ||unsiki.cloud^$all
@@ -65480,6 +65493,7 @@
 ||restore-pump.fun^$all
 ||returnpump.fun^$all
 ||reward-bigtrout.fun^$all
+||reward-fwa.fun^$all
 ||reward-rain.fun^$all
 ||reward-vip.fun^$all
 ||rewards-alt.fun^$all
@@ -68899,6 +68913,7 @@
 ||vote-zama.info^$all
 ||vote-zamaevent.info^$all
 ||vote-zebec.info^$all
+||votes-firelight.info^$all
 ||voting-flap.info^$all
 ||voting-flare.info^$all
 ||voting-frax.info^$all
@@ -91706,6 +91721,8 @@
 ||eigenlayer-social-verification.sit.clique-test.tech^$all
 ||kraken.cloudcraft.tech^$all
 ||coinbasedefi.tech^$all
+||data.compute.tech^$all
+||shard.compute.tech^$all
 ||crypto-cdn.tech^$all
 ||ddfddf23.tech^$all
 ||defiautoresolvedapp.tech^$all
@@ -93090,6 +93107,7 @@
 ||independentresepesk.top^$all
 ||independentresepkst.top^$all
 ||injective-app.top^$all
+||injective-claim.top^$all
 ||injectiveapp.top^$all
 ||web.intbitinc.top^$all
 ||intradbro.top^$all
@@ -94103,6 +94121,7 @@
 ||virtualview.top^$all
 ||virtualviewer.top^$all
 ||virtualzoompro.top^$all
+||virtulsapp.top^$all
 ||vokavoka.top^$all
 ||vote-asterdex.top^$all
 ||vote-asterdexapp.top^$all
@@ -99313,6 +99332,7 @@
 ||drop-event.xyz^$all
 ||drop-firelight.xyz^$all
 ||drop-flare.xyz^$all
+||drop-flarefn.xyz^$all
 ||drop-flarefoundation.xyz^$all
 ||drop-flarefoundations.xyz^$all
 ||drop-flr.xyz^$all
@@ -100105,6 +100125,7 @@
 ||flarefdn-vote.xyz^$all
 ||flarefdn-votes.xyz^$all
 ||flarefdn-voting.xyz^$all
+||flarefn-drop.xyz^$all
 ||flarefn-proposal.xyz^$all
 ||flarefn-proposals.xyz^$all
 ||flarefn-token.xyz^$all
