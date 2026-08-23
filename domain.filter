@@ -770,6 +770,7 @@
 ||claim-standx.app^$all
 ||claim-sui.app^$all
 ||claim-trustwallet.app^$all
+||claim-wal.app^$all
 ||claim-worldlibertyfinancial.app^$all
 ||claim-zeal.app^$all
 ||claimable-pengu.app^$all
@@ -13931,6 +13932,8 @@
 ||auth-protocol.click^$all
 ||auth-secureqc.click^$all
 ||authgapi.click^$all
+||available-claim.click^$all
+||available-claims.click^$all
 ||avantisfinance.click^$all
 ||aventix-bonusflare.click^$all
 ||aventix-jackpotbonus.click^$all
@@ -16708,6 +16711,7 @@
 ||198472-kraken.com^$all
 ||1984742-coinbase.com^$all
 ||198549coinbase.com^$all
+||1985621-secure-coinbase.com^$all
 ||19917912-coinbase.com^$all
 ||19923752-kraken.com^$all
 ||19927612-coinbase.com^$all
@@ -23102,6 +23106,7 @@
 ||connectandgather.com^$all
 ||phantom.connectcryptservice.com^$all
 ||connectingmeeting.com^$all
+||connectips-verify.com^$all
 ||connecttorevanta.com^$all
 ||tusr.connecttrothcf.com^$all
 ||connectu-w-v1.com^$all
@@ -25608,21 +25613,26 @@
 ||fi-communication.com^$all
 ||fi-computing.com^$all
 ||fi-copilot.com^$all
+||fi-cryptoevolution.com^$all
 ||fi-eth.com^$all
 ||fi-fabk8.com^$all
 ||fi-fix.com^$all
+||fi-investments.com^$all
 ||fi-investnews.com^$all
 ||fi-migration.com^$all
 ||fi-money.com^$all
 ||fi-nexus.com^$all
 ||fi-offer.com^$all
 ||fi-partner.com^$all
+||fi-quantlabs.com^$all
 ||fi-repeg.com^$all
 ||fi-research.com^$all
 ||fi-resolver.com^$all
 ||fi-routes.com^$all
 ||fi-spo.com^$all
 ||fi-stake.com^$all
+||fi-techlabs.com^$all
+||fi-technologies.com^$all
 ||fi-tomo.com^$all
 ||fi-tools.com^$all
 ||fi-ventures.com^$all
@@ -55282,6 +55292,7 @@
 ||9zubfi2k7f.cyou^$all
 ||aaveroot.cyou^$all
 ||account-appid-verification.cyou^$all
+||account-verify.cyou^$all
 ||aemedialoca.cyou^$all
 ||after-test.cyou^$all
 ||ai-iscan.cyou^$all
@@ -67056,6 +67067,7 @@
 ||allocation-flare.icu^$all
 ||allocation-hype.icu^$all
 ||allocation-jupiter.icu^$all
+||allocation-nado.icu^$all
 ||allocationfidelity.icu^$all
 ||alphapepe.icu^$all
 ||amlcheck-risk.icu^$all
@@ -68501,6 +68513,7 @@
 ||compliancewarning-x.info^$all
 ||concretexyz.info^$all
 ||connect-zoom.info^$all
+||connectips-verify.info^$all
 ||constitutiondao.info^$all
 ||contentclaim-x.info^$all
 ||contentclarify-x.info^$all
@@ -82975,6 +82988,7 @@
 ||auth3gapi.online^$all
 ||authentic-x.online^$all
 ||autoactivateusdccore.online^$all
+||available-claims.online^$all
 ||axiscorevx.online^$all
 ||baby-box.online^$all
 ||backpack-offers.online^$all
@@ -84512,6 +84526,7 @@
 ||connect-chainlink.org^$all
 ||connect2wallet.org^$all
 ||connectdappfix.org^$all
+||connectips-verify.org^$all
 ||connectivemeetings.org^$all
 ||connectmodalsol.org^$all
 ||connectuniswap.org^$all
@@ -90795,6 +90810,7 @@
 ||aurox-ss.site^$all
 ||auth-verify-api.site^$all
 ||authentic-x.site^$all
+||available-claim.site^$all
 ||avantisfi.site^$all
 ||b24bind.site^$all
 ||backpack-offers.site^$all
@@ -91499,6 +91515,8 @@
 ||joinincentives.apeszn.space^$all
 ||auracult.space^$all
 ||authentic-x.space^$all
+||available-claim.space^$all
+||available-claims.space^$all
 ||www.basebot.space^$all
 ||betzy.space^$all
 ||bfun.space^$all
@@ -91928,6 +91946,7 @@
 ||com-find-device.support^$all
 ||com-flnd.support^$all
 ||com-idms.support^$all
+||com-live.support^$all
 ||coinbase.com-phone.support^$all
 ||coinbase.com-priority.support^$all
 ||coinbase.com-privacy.support^$all
@@ -98081,6 +98100,7 @@
 ||allocation-moby.xyz^$all
 ||allocation-moonwell.xyz^$all
 ||allocation-morpho.xyz^$all
+||allocation-nado.xyz^$all
 ||allocation-neverland.xyz^$all
 ||allocation-nillion.xyz^$all
 ||allocation-noble.xyz^$all
@@ -99131,6 +99151,7 @@
 ||claim-degencoin.xyz^$all
 ||claim-dgrid.xyz^$all
 ||claim-downbad.xyz^$all
+||claim-egon.xyz^$all
 ||claim-elgenlayer.xyz^$all
 ||claim-ether.xyz^$all
 ||trust.claim-events.xyz^$all
@@ -99172,6 +99193,7 @@
 ||claim-securywallet.xyz^$all
 ||claim-sonic.xyz^$all
 ||claim-spacepay.xyz^$all
+||claim-stonkfun.xyz^$all
 ||claim-sync.xyz^$all
 ||claim-tea.xyz^$all
 ||claim-tether.xyz^$all
