@@ -10950,6 +10950,7 @@
 ||io-authentication.bond^$all
 ||io-online.bond^$all
 ||io-vault.bond^$all
+||io-verify-hub.bond^$all
 ||stealthex.io-verify.bond^$all
 ||iqkkqjpz.bond^$all
 ||iscans-ai.bond^$all
@@ -13920,6 +13921,8 @@
 ||inviteparty.cfd^$all
 ||io-cash-ff.cfd^$all
 ||io-cash-now.cfd^$all
+||io-pay-ff.cfd^$all
+||io-pay-now.cfd^$all
 ||io-ssl.cfd^$all
 ||isolated-vault-enginex.cfd^$all
 ||jdsnlfd.cfd^$all
@@ -59549,6 +59552,8 @@
 ||io-cryptopay.icu^$all
 ||io-cryptoswap.icu^$all
 ||io-cryptotrade.icu^$all
+||io-deal-ff.icu^$all
+||io-deal-now.icu^$all
 ||io-easy-swap.icu^$all
 ||io-en.icu^$all
 ||io-exchange.icu^$all
@@ -59559,6 +59564,8 @@
 ||io-exchangeswap.icu^$all
 ||io-exchangetoken.icu^$all
 ||io-fastswap.icu^$all
+||io-go-ff.icu^$all
+||io-go-now.icu^$all
 ||io-hub-swap.icu^$all
 ||io-instant-coin.icu^$all
 ||io-instant-swap.icu^$all
