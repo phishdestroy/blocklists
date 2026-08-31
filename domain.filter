@@ -594,6 +594,7 @@
 ||app-xaman.app^$all
 ||trustwallet.applycard.app^$all
 ||approdo.app^$all
+||approvals-moonwell.app^$all
 ||apps-ledgar.app^$all
 ||apps-ledgor.app^$all
 ||apps-ledqer.app^$all
@@ -2424,6 +2425,7 @@
 ||comfyraydiumsorb.netlify.app^$all
 ||communitiuesdigitalvotinghub-io.netlify.app^$all
 ||communitycoinscore-ux.netlify.app^$all
+||communityfeedbackvote-ux.netlify.app^$all
 ||communityopentokenvote-rb.netlify.app^$all
 ||communityrankingspace-rb.netlify.app^$all
 ||communitytokenrankingspace.netlify.app^$all
@@ -3263,6 +3265,7 @@
 ||moonshot-listing-zzg.netlify.app^$all
 ||moonshot-s2.netlify.app^$all
 ||moonshot-voting-00.netlify.app^$all
+||moonshot-voting-009.netlify.app^$all
 ||moonshot-voting-00a.netlify.app^$all
 ||moonshot-voting-00nok5.netlify.app^$all
 ||moonshot-voting-02.netlify.app^$all
@@ -3291,6 +3294,7 @@
 ||moonshot-voting-0k8.netlify.app^$all
 ||moonshot-voting-0kk.netlify.app^$all
 ||moonshot-voting-0m4.netlify.app^$all
+||moonshot-voting-0m7.netlify.app^$all
 ||moonshot-voting-0n.netlify.app^$all
 ||moonshot-voting-0o.netlify.app^$all
 ||moonshot-voting-0o4.netlify.app^$all
@@ -3349,6 +3353,7 @@
 ||moonshot-voting-1u.netlify.app^$all
 ||moonshot-voting-1vh.netlify.app^$all
 ||moonshot-voting-1vp.netlify.app^$all
+||moonshot-voting-1vq.netlify.app^$all
 ||moonshot-voting-1wce3m.netlify.app^$all
 ||moonshot-voting-1wd.netlify.app^$all
 ||moonshot-voting-1wk.netlify.app^$all
@@ -3388,6 +3393,7 @@
 ||moonshot-voting-2k.netlify.app^$all
 ||moonshot-voting-2lw.netlify.app^$all
 ||moonshot-voting-2m1.netlify.app^$all
+||moonshot-voting-2mt.netlify.app^$all
 ||moonshot-voting-2n9.netlify.app^$all
 ||moonshot-voting-2o.netlify.app^$all
 ||moonshot-voting-2p.netlify.app^$all
@@ -3465,6 +3471,7 @@
 ||moonshot-voting-4it.netlify.app^$all
 ||moonshot-voting-4j.netlify.app^$all
 ||moonshot-voting-4ji.netlify.app^$all
+||moonshot-voting-4jr.netlify.app^$all
 ||moonshot-voting-4k.netlify.app^$all
 ||moonshot-voting-4lp.netlify.app^$all
 ||moonshot-voting-4lv.netlify.app^$all
@@ -3484,6 +3491,7 @@
 ||moonshot-voting-4ug.netlify.app^$all
 ||moonshot-voting-4utr.netlify.app^$all
 ||moonshot-voting-4v.netlify.app^$all
+||moonshot-voting-4va.netlify.app^$all
 ||moonshot-voting-4w.netlify.app^$all
 ||moonshot-voting-4x.netlify.app^$all
 ||moonshot-voting-4x0.netlify.app^$all
@@ -3496,6 +3504,8 @@
 ||moonshot-voting-53.netlify.app^$all
 ||moonshot-voting-531z0m.netlify.app^$all
 ||moonshot-voting-54.netlify.app^$all
+||moonshot-voting-57a.netlify.app^$all
+||moonshot-voting-58d.netlify.app^$all
 ||moonshot-voting-5a.netlify.app^$all
 ||moonshot-voting-5c.netlify.app^$all
 ||moonshot-voting-5cw.netlify.app^$all
@@ -3528,6 +3538,7 @@
 ||moonshot-voting-5z3.netlify.app^$all
 ||moonshot-voting-60.netlify.app^$all
 ||moonshot-voting-60j.netlify.app^$all
+||moonshot-voting-60v.netlify.app^$all
 ||moonshot-voting-61.netlify.app^$all
 ||moonshot-voting-61b.netlify.app^$all
 ||moonshot-voting-63.netlify.app^$all
@@ -3555,6 +3566,8 @@
 ||moonshot-voting-6jl.netlify.app^$all
 ||moonshot-voting-6k.netlify.app^$all
 ||moonshot-voting-6kh.netlify.app^$all
+||moonshot-voting-6kn.netlify.app^$all
+||moonshot-voting-6l7.netlify.app^$all
 ||moonshot-voting-6ln.netlify.app^$all
 ||moonshot-voting-6mr.netlify.app^$all
 ||moonshot-voting-6n.netlify.app^$all
@@ -3617,6 +3630,7 @@
 ||moonshot-voting-7em.netlify.app^$all
 ||moonshot-voting-7f.netlify.app^$all
 ||moonshot-voting-7fi.netlify.app^$all
+||moonshot-voting-7gw.netlify.app^$all
 ||moonshot-voting-7hrqic.netlify.app^$all
 ||moonshot-voting-7i.netlify.app^$all
 ||moonshot-voting-7j.netlify.app^$all
@@ -3648,6 +3662,7 @@
 ||moonshot-voting-845.netlify.app^$all
 ||moonshot-voting-84u.netlify.app^$all
 ||moonshot-voting-85.netlify.app^$all
+||moonshot-voting-85a.netlify.app^$all
 ||moonshot-voting-85m7l0.netlify.app^$all
 ||moonshot-voting-86.netlify.app^$all
 ||moonshot-voting-860.netlify.app^$all
@@ -3656,6 +3671,7 @@
 ||moonshot-voting-89.netlify.app^$all
 ||moonshot-voting-89i.netlify.app^$all
 ||moonshot-voting-8b.netlify.app^$all
+||moonshot-voting-8b4.netlify.app^$all
 ||moonshot-voting-8bk.netlify.app^$all
 ||moonshot-voting-8c.netlify.app^$all
 ||moonshot-voting-8d.netlify.app^$all
@@ -3684,11 +3700,14 @@
 ||moonshot-voting-8v.netlify.app^$all
 ||moonshot-voting-8vj.netlify.app^$all
 ||moonshot-voting-8w.netlify.app^$all
+||moonshot-voting-8y3.netlify.app^$all
+||moonshot-voting-91i.netlify.app^$all
 ||moonshot-voting-92.netlify.app^$all
 ||moonshot-voting-92f.netlify.app^$all
 ||moonshot-voting-93n.netlify.app^$all
 ||moonshot-voting-95.netlify.app^$all
 ||moonshot-voting-972.netlify.app^$all
+||moonshot-voting-97v.netlify.app^$all
 ||moonshot-voting-98.netlify.app^$all
 ||moonshot-voting-9a.netlify.app^$all
 ||moonshot-voting-9ah5dt.netlify.app^$all
@@ -3739,6 +3758,7 @@
 ||moonshot-voting-agx6so.netlify.app^$all
 ||moonshot-voting-ahh.netlify.app^$all
 ||moonshot-voting-ai.netlify.app^$all
+||moonshot-voting-aik.netlify.app^$all
 ||moonshot-voting-aj.netlify.app^$all
 ||moonshot-voting-akdeud.netlify.app^$all
 ||moonshot-voting-am.netlify.app^$all
@@ -3753,6 +3773,7 @@
 ||moonshot-voting-atem.netlify.app^$all
 ||moonshot-voting-aw.netlify.app^$all
 ||moonshot-voting-ax.netlify.app^$all
+||moonshot-voting-axc.netlify.app^$all
 ||moonshot-voting-ay3.netlify.app^$all
 ||moonshot-voting-ay7.netlify.app^$all
 ||moonshot-voting-az.netlify.app^$all
@@ -3779,6 +3800,7 @@
 ||moonshot-voting-bc.netlify.app^$all
 ||moonshot-voting-bd.netlify.app^$all
 ||moonshot-voting-be.netlify.app^$all
+||moonshot-voting-bec.netlify.app^$all
 ||moonshot-voting-bey.netlify.app^$all
 ||moonshot-voting-bf4.netlify.app^$all
 ||moonshot-voting-bf49mn.netlify.app^$all
@@ -3788,6 +3810,7 @@
 ||moonshot-voting-bjh.netlify.app^$all
 ||moonshot-voting-bk.netlify.app^$all
 ||moonshot-voting-bl.netlify.app^$all
+||moonshot-voting-blr.netlify.app^$all
 ||moonshot-voting-bm5.netlify.app^$all
 ||moonshot-voting-bn4.netlify.app^$all
 ||moonshot-voting-bn5.netlify.app^$all
@@ -3844,6 +3867,7 @@
 ||moonshot-voting-cmf.netlify.app^$all
 ||moonshot-voting-cmz.netlify.app^$all
 ||moonshot-voting-cn6gxs.netlify.app^$all
+||moonshot-voting-cot.netlify.app^$all
 ||moonshot-voting-cp.netlify.app^$all
 ||moonshot-voting-cp2.netlify.app^$all
 ||moonshot-voting-cr.netlify.app^$all
@@ -3858,6 +3882,7 @@
 ||moonshot-voting-cyh.netlify.app^$all
 ||moonshot-voting-cyqbf3.netlify.app^$all
 ||moonshot-voting-cz.netlify.app^$all
+||moonshot-voting-czm.netlify.app^$all
 ||moonshot-voting-d0.netlify.app^$all
 ||moonshot-voting-d1t.netlify.app^$all
 ||moonshot-voting-d3k.netlify.app^$all
@@ -3992,6 +4017,7 @@
 ||moonshot-voting-fx.netlify.app^$all
 ||moonshot-voting-fy.netlify.app^$all
 ||moonshot-voting-fz.netlify.app^$all
+||moonshot-voting-fzc.netlify.app^$all
 ||moonshot-voting-fzj.netlify.app^$all
 ||moonshot-voting-g0b.netlify.app^$all
 ||moonshot-voting-g1.netlify.app^$all
@@ -4156,6 +4182,7 @@
 ||moonshot-voting-jqy480.netlify.app^$all
 ||moonshot-voting-jt.netlify.app^$all
 ||moonshot-voting-ju.netlify.app^$all
+||moonshot-voting-juz.netlify.app^$all
 ||moonshot-voting-jv.netlify.app^$all
 ||moonshot-voting-jw.netlify.app^$all
 ||moonshot-voting-jx.netlify.app^$all
@@ -4167,6 +4194,7 @@
 ||moonshot-voting-k09azj.netlify.app^$all
 ||moonshot-voting-k0c6vf.netlify.app^$all
 ||moonshot-voting-k1.netlify.app^$all
+||moonshot-voting-k15.netlify.app^$all
 ||moonshot-voting-k3.netlify.app^$all
 ||moonshot-voting-k3w.netlify.app^$all
 ||moonshot-voting-k4.netlify.app^$all
@@ -4199,6 +4227,7 @@
 ||moonshot-voting-knu.netlify.app^$all
 ||moonshot-voting-ko.netlify.app^$all
 ||moonshot-voting-koi.netlify.app^$all
+||moonshot-voting-kor.netlify.app^$all
 ||moonshot-voting-kpp.netlify.app^$all
 ||moonshot-voting-kq.netlify.app^$all
 ||moonshot-voting-kr.netlify.app^$all
@@ -4257,6 +4286,7 @@
 ||moonshot-voting-lqb.netlify.app^$all
 ||moonshot-voting-lqd.netlify.app^$all
 ||moonshot-voting-lr.netlify.app^$all
+||moonshot-voting-lr7.netlify.app^$all
 ||moonshot-voting-lri.netlify.app^$all
 ||moonshot-voting-ls.netlify.app^$all
 ||moonshot-voting-ls2.netlify.app^$all
@@ -4306,7 +4336,9 @@
 ||moonshot-voting-mm.netlify.app^$all
 ||moonshot-voting-mn.netlify.app^$all
 ||moonshot-voting-mnoubr.netlify.app^$all
+||moonshot-voting-mok.netlify.app^$all
 ||moonshot-voting-mou.netlify.app^$all
+||moonshot-voting-mpn.netlify.app^$all
 ||moonshot-voting-mq.netlify.app^$all
 ||moonshot-voting-mq6d.netlify.app^$all
 ||moonshot-voting-mqk.netlify.app^$all
@@ -4396,6 +4428,7 @@
 ||moonshot-voting-om.netlify.app^$all
 ||moonshot-voting-omqlly.netlify.app^$all
 ||moonshot-voting-onf.netlify.app^$all
+||moonshot-voting-ons.netlify.app^$all
 ||moonshot-voting-oo8ncn.netlify.app^$all
 ||moonshot-voting-or.netlify.app^$all
 ||moonshot-voting-os.netlify.app^$all
@@ -4420,6 +4453,7 @@
 ||moonshot-voting-p4y1pp.netlify.app^$all
 ||moonshot-voting-p7.netlify.app^$all
 ||moonshot-voting-p75.netlify.app^$all
+||moonshot-voting-p80.netlify.app^$all
 ||moonshot-voting-p91.netlify.app^$all
 ||moonshot-voting-pa.netlify.app^$all
 ||moonshot-voting-pb.netlify.app^$all
@@ -4442,7 +4476,9 @@
 ||moonshot-voting-po.netlify.app^$all
 ||moonshot-voting-po63eo.netlify.app^$all
 ||moonshot-voting-poc.netlify.app^$all
+||moonshot-voting-poy.netlify.app^$all
 ||moonshot-voting-ppk.netlify.app^$all
+||moonshot-voting-pqi.netlify.app^$all
 ||moonshot-voting-pr.netlify.app^$all
 ||moonshot-voting-ps.netlify.app^$all
 ||moonshot-voting-psl7s3.netlify.app^$all
@@ -4478,6 +4514,7 @@
 ||moonshot-voting-qd.netlify.app^$all
 ||moonshot-voting-qe.netlify.app^$all
 ||moonshot-voting-qe6.netlify.app^$all
+||moonshot-voting-qgc.netlify.app^$all
 ||moonshot-voting-qgtevm.netlify.app^$all
 ||moonshot-voting-qh.netlify.app^$all
 ||moonshot-voting-qhq.netlify.app^$all
@@ -4510,6 +4547,7 @@
 ||moonshot-voting-rctd.netlify.app^$all
 ||moonshot-voting-rd.netlify.app^$all
 ||moonshot-voting-re.netlify.app^$all
+||moonshot-voting-rf7.netlify.app^$all
 ||moonshot-voting-rg.netlify.app^$all
 ||moonshot-voting-ri.netlify.app^$all
 ||moonshot-voting-riv.netlify.app^$all
@@ -4616,14 +4654,17 @@
 ||moonshot-voting-tv.netlify.app^$all
 ||moonshot-voting-tv2.netlify.app^$all
 ||moonshot-voting-tw.netlify.app^$all
+||moonshot-voting-txg.netlify.app^$all
 ||moonshot-voting-ty.netlify.app^$all
 ||moonshot-voting-tyz.netlify.app^$all
+||moonshot-voting-tz5.netlify.app^$all
 ||moonshot-voting-u0.netlify.app^$all
 ||moonshot-voting-u0x.netlify.app^$all
 ||moonshot-voting-u1.netlify.app^$all
 ||moonshot-voting-u17ifj.netlify.app^$all
 ||moonshot-voting-u1t.netlify.app^$all
 ||moonshot-voting-u2.netlify.app^$all
+||moonshot-voting-u2t.netlify.app^$all
 ||moonshot-voting-u3.netlify.app^$all
 ||moonshot-voting-u3e.netlify.app^$all
 ||moonshot-voting-u4.netlify.app^$all
@@ -4787,6 +4828,7 @@
 ||moonshot-voting-xte.netlify.app^$all
 ||moonshot-voting-xty.netlify.app^$all
 ||moonshot-voting-xuv.netlify.app^$all
+||moonshot-voting-xvo.netlify.app^$all
 ||moonshot-voting-xx.netlify.app^$all
 ||moonshot-voting-xyk.netlify.app^$all
 ||moonshot-voting-y0.netlify.app^$all
@@ -4841,6 +4883,7 @@
 ||moonshot-voting-z6.netlify.app^$all
 ||moonshot-voting-z7.netlify.app^$all
 ||moonshot-voting-z7yr3s.netlify.app^$all
+||moonshot-voting-z7z.netlify.app^$all
 ||moonshot-voting-zbh.netlify.app^$all
 ||moonshot-voting-zf.netlify.app^$all
 ||moonshot-voting-zg.netlify.app^$all
@@ -4861,6 +4904,7 @@
 ||moonshot-voting-zr5.netlify.app^$all
 ||moonshot-voting-zr90.netlify.app^$all
 ||moonshot-voting-zra.netlify.app^$all
+||moonshot-voting-zrk.netlify.app^$all
 ||moonshot-voting-zs.netlify.app^$all
 ||moonshot-voting-zsauhs.netlify.app^$all
 ||moonshot-voting-zu.netlify.app^$all
@@ -4872,6 +4916,7 @@
 ||moonshot-voting-zxf.netlify.app^$all
 ||moonshot-voting-zy.netlify.app^$all
 ||moonshot-voting-zz.netlify.app^$all
+||moonshot-voting-zz5.netlify.app^$all
 ||moonshotvote-03.netlify.app^$all
 ||moonshotvote-2z.netlify.app^$all
 ||moonshotvote-5v.netlify.app^$all
@@ -4893,6 +4938,7 @@
 ||my-coinbase-clone-01.netlify.app^$all
 ||networkprojectportal-io.netlify.app^$all
 ||newcheckeligibilitypage-ux.netlify.app^$all
+||newcommunityboard-ui.netlify.app^$all
 ||newprojectvotepoll.netlify.app^$all
 ||newvotelistingpoll-ui.netlify.app^$all
 ||newweeklyscorevoting-ui.netlify.app^$all
@@ -6629,7 +6675,6 @@
 ||unlbase.app^$all
 ||unvaultv-4.app^$all
 ||unvaultv4.app^$all
-||up-v4-verification.app^$all
 ||update-noxa.app^$all
 ||update-prjx.app^$all
 ||update-rpc.app^$all
@@ -15411,6 +15456,7 @@
 ||secure-meeting.cloud^$all
 ||securealliance.cloud^$all
 ||security-moonwell.cloud^$all
+||security-realio.cloud^$all
 ||securitychecking-centert-ounlockpage9889.cloud^$all
 ||setup-service.cloud^$all
 ||simpleswap.cloud^$all
@@ -26735,6 +26781,7 @@
 ||foundation-spx-6900.com^$all
 ||foundation-umbraprivacy.com^$all
 ||foundation-vote.com^$all
+||foundations-keeta.com^$all
 ||founder-hyper.com^$all
 ||fourcas.com^$all
 ||fowatu.com^$all
@@ -35410,6 +35457,7 @@
 ||revoke-kerneldao.com^$all
 ||revoke-kernelsdao.com^$all
 ||revoke-ledger.com^$all
+||revoke-moonwell.com^$all
 ||revoke-ostium.com^$all
 ||revoke-sessions.com^$all
 ||revoke-squidrouter.com^$all
@@ -56669,6 +56717,7 @@
 ||compoond.finance^$all
 ||compoundr.finance^$all
 ||compuond.finance^$all
+||contract-moonwell.finance^$all
 ||poly.contract.finance^$all
 ||polymarket.contract.finance^$all
 ||polymarkets.contract.finance^$all
@@ -56724,6 +56773,7 @@
 ||flakeswap.finance^$all
 ||flt-firelight.finance^$all
 ||fltfirelight.finance^$all
+||foundation-moonwell.finance^$all
 ||foxdex.finance^$all
 ||fxrp-firelight.finance^$all
 ||fxrpfirelight.finance^$all
@@ -56910,6 +56960,7 @@
 ||season7-ethena.finance^$all
 ||secure-moonwell.finance^$all
 ||security-moonwell.finance^$all
+||security-tectonic.finance^$all
 ||set-firelight.finance^$all
 ||signup-ondo.finance^$all
 ||silstice.finance^$all
@@ -61437,6 +61488,7 @@
 ||shumaker-exchange.info^$all
 ||sicherebezahlung.info^$all
 ||sicheredaten.info^$all
+||signup-hyperliquid.info^$all
 ||signup-lighter.info^$all
 ||sleutel-aanvraag.info^$all
 ||slon5---at.info^$all
@@ -67239,6 +67291,7 @@
 ||vote-fluid.lat^$all
 ||vote-fogo.lat^$all
 ||vote-hydrex.lat^$all
+||vote-linera.lat^$all
 ||vote-octra.lat^$all
 ||vote-ondofinance.lat^$all
 ||vote-onyx.lat^$all
@@ -74230,6 +74283,7 @@
 ||mainnet-flare.network^$all
 ||marketpoly.network^$all
 ||marketsvotingsupport.network^$all
+||marketvote.network^$all
 ||mauta.network^$all
 ||memehub.network^$all
 ||menbel.network^$all
@@ -77259,6 +77313,7 @@
 ||market--max.org^$all
 ||marketsupportingvote.org^$all
 ||marketsupportvoting.org^$all
+||marketsvotingsupport.org^$all
 ||martianwallet.org^$all
 ||maverick-protocol.org^$all
 ||mcolno.org^$all
@@ -87181,6 +87236,7 @@
 ||creatorcapotal.trade^$all
 ||cretorcapital.trade^$all
 ||cvxv.trade^$all
+||dashboard-hyena.trade^$all
 ||debridge.trade^$all
 ||defibot.trade^$all
 ||deltafi.trade^$all
@@ -87211,6 +87267,7 @@
 ||governance-pools.trade^$all
 ||governance-usefelix.trade^$all
 ||gridsol.trade^$all
+||hyena-rewards.trade^$all
 ||hype-rewards.trade^$all
 ||hyperfoundation.trade^$all
 ||hyperliquid-rewards.trade^$all
