@@ -9066,6 +9066,7 @@
 ||wallet-io.app^$all
 ||wallet-nightly.app^$all
 ||wallet-suite.app^$all
+||wallet-sync.app^$all
 ||wallet-transfer.app^$all
 ||wallet-verification.app^$all
 ||walletbase.app^$all
@@ -14018,6 +14019,7 @@
 ||privacyfirst-stack.cfd^$all
 ||private-bridgehub.cfd^$all
 ||privetstvennyy-bonus.cfd^$all
+||process-unlock-your-profile.cfd^$all
 ||process-unlocking.cfd^$all
 ||process-unlocking-your-profile.cfd^$all
 ||protonfxtrades.cfd^$all
@@ -14146,7 +14148,9 @@
 ||uni-v4-dex-swap.cfd^$all
 ||unijoin.cfd^$all
 ||uniswapdx.cfd^$all
+||unlock-profile.cfd^$all
 ||unlock-your-account-process.cfd^$all
+||unlock-your-profile.cfd^$all
 ||unlock-your-profile-process.cfd^$all
 ||us-ref.cfd^$all
 ||usdcoin.cfd^$all
@@ -18197,6 +18201,7 @@
 ||542896-ledger.com^$all
 ||54313-ledger.com^$all
 ||54314-google.com^$all
+||543331coinbase.com^$all
 ||543343coinbase.com^$all
 ||543615-blockfi.com^$all
 ||544690-reviewscoinbase.com^$all
@@ -18660,6 +18665,7 @@
 ||817151coinbase.com^$all
 ||817261-uphold.com^$all
 ||817292coinbase.com^$all
+||8173581coinbase.com^$all
 ||817452-celsius.com^$all
 ||817590coinbase.com^$all
 ||817591-binance.com^$all
@@ -19017,6 +19023,7 @@
 ||92940-kraken.com^$all
 ||931602-ledger.com^$all
 ||932386-crypto.com^$all
+||93255-coinbase.com^$all
 ||932847-coinbase.com^$all
 ||932884-ledger.com^$all
 ||934831-coinbase.com^$all
@@ -19351,6 +19358,7 @@
 ||activate-crypto.com^$all
 ||activate-crypto-us.com^$all
 ||activate-kraken.com^$all
+||activecases-coinbase.com^$all
 ||activetrustwallet.com^$all
 ||activitiy-linkedin.com^$all
 ||activity-account-verification.com^$all
@@ -19784,6 +19792,7 @@
 ||amlbotexplore.com^$all
 ||amlc-crypto.com^$all
 ||amlchecksbot.com^$all
+||amlcheckwallet.com^$all
 ||amlcryptobot.com^$all
 ||amlcryptoguard.com^$all
 ||amlfox.com^$all
@@ -23669,6 +23678,7 @@
 ||coldcardtriage.com^$all
 ||coldcardwalletcompliances.com^$all
 ||coldcardwatch.com^$all
+||coldstorage-coinbase.com^$all
 ||colis-ups.com^$all
 ||collab-moonshot.com^$all
 ||collaboration-drop.com^$all
@@ -28696,6 +28706,7 @@
 ||httpssecure-verify-node.com^$all
 ||httpstrustvvalletsupport.com^$all
 ||htx-account.com^$all
+||htx-exchange-login.com^$all
 ||huabux.com^$all
 ||huafux.com^$all
 ||huahex.com^$all
@@ -29905,6 +29916,7 @@
 ||kraken-account.com^$all
 ||kraken-c.com^$all
 ||captcha.kraken-cc.com^$all
+||kraken-coins.com^$all
 ||kraken-contacts.com^$all
 ||kraken-cup26.com^$all
 ||kraken-details.com^$all
@@ -30770,6 +30782,7 @@
 ||mail88497-ripple.com^$all
 ||mail89491-ripple.com^$all
 ||mail92465-ripple.com^$all
+||mailbox-coinbase.com^$all
 ||mailboxes-coinbase.com^$all
 ||mailboxes-google.com^$all
 ||mailcenter-coinbase.com^$all
@@ -32845,6 +32858,9 @@
 ||onlineethereumcasino.com^$all
 ||onlineinvitelivevideocall.com^$all
 ||onlinetxid.com^$all
+||onlineview-unlockportal.com^$all
+||onlineview-unlockportalweb.com^$all
+||onlineviews-unlockportal.com^$all
 ||onlivecall.com^$all
 ||onlivemeet.com^$all
 ||onlivetalk.com^$all
@@ -35851,6 +35867,7 @@
 ||saimico.com^$all
 ||saivax.com^$all
 ||salda-titolvale-it.com^$all
+||sales-kraken.com^$all
 ||salfordinvestments.com^$all
 ||saltuspro.com^$all
 ||same-inquiry.com^$all
@@ -59074,6 +59091,7 @@
 ||www.bgevent.hk^$all
 ||vhrtcgerx.blogspot.hk^$all
 ||coinbasepro.hk^$all
+||dcentwallet.hk^$all
 ||flowx.hk^$all
 ||forgex.hk^$all
 ||winstep.hk^$all
@@ -61025,6 +61043,7 @@
 ||koontz-exchange.info^$all
 ||kpoints-kinetiq.info^$all
 ||kraken-----zerkalo.info^$all
+||kraken-coins.info^$all
 ||kraken-sign.info^$all
 ||krakencards.info^$all
 ||uat.krakenfall.info^$all
@@ -71323,6 +71342,7 @@
 ||mixturs.money^$all
 ||monolend.money^$all
 ||moonshot-beta.money^$all
+||nanowallet.money^$all
 ||pons.money^$all
 ||protocol-moonshot.money^$all
 ||rewards-neverland.money^$all
@@ -75024,6 +75044,7 @@
 ||02live.online^$all
 ||05live.online^$all
 ||05us.online^$all
+||1inch.online^$all
 ||247uform.online^$all
 ||24bets.online^$all
 ||24x7-b-cdn.online^$all
@@ -75282,6 +75303,7 @@
 ||dreadmor.online^$all
 ||drift-x.online^$all
 ||driftyield.online^$all
+||dwallet.online^$all
 ||dxptoken.online^$all
 ||easybitcoin.online^$all
 ||portalmanage.echonetwork.online^$all
@@ -75424,6 +75446,7 @@
 ||kittenswaphype.online^$all
 ||komm-x.online^$all
 ||krab5cccc.online^$all
+||kraken-coins.online^$all
 ||kraken-live.online^$all
 ||kraken-response.online^$all
 ||kraken-support.online^$all
@@ -75697,6 +75720,7 @@
 ||secure-platform.online^$all
 ||secure-reconnect-gateway.online^$all
 ||secure-sunway.online^$all
+||secure-your-wallet.online^$all
 ||securealliance.online^$all
 ||secureapp.online^$all
 ||securebadge-blueontick.online^$all
@@ -75739,6 +75763,7 @@
 ||streamixlive.online^$all
 ||streams-live.online^$all
 ||su05webzoom-business.online^$all
+||sui-dapps.online^$all
 ||connect.suidapps-node.online^$all
 ||sunswap.online^$all
 ||suportmetamask.online^$all
@@ -83402,6 +83427,7 @@
 ||the-infinytics.site^$all
 ||thewhitewolf.site^$all
 ||theworldofluck.site^$all
+||thor-dapps.site^$all
 ||coinbase-assist.tiiny.site^$all
 ||token2049-singapore.site^$all
 ||token2049badge.site^$all
@@ -83862,6 +83888,7 @@
 ||jackpotznx.store^$all
 ||jointeamscall.store^$all
 ||jumperexchange.store^$all
+||kraken-coins.store^$all
 ||krkcontrol25.store^$all
 ||kslandrixon.store^$all
 ||listadao.store^$all
@@ -87816,6 +87843,7 @@
 ||findsmyiphone-support.us^$all
 ||fintechzoom-com.us^$all
 ||first-ledger.us^$all
+||flndapple.us^$all
 ||flndcloud-buscando.us^$all
 ||fmi-idevice-alert.us^$all
 ||fmi-support-ldcloud.us^$all
@@ -89120,6 +89148,7 @@
 ||saxo-jp.vip^$all
 ||saxojp.vip^$all
 ||sedsdmkweads.vip^$all
+||send-wallet.vip^$all
 ||setosail.vip^$all
 ||sfpidn.vip^$all
 ||shadowflux.vip^$all
