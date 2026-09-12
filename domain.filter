@@ -11244,6 +11244,7 @@
 ||com-secure-hub.bond^$all
 ||com-true.bond^$all
 ||com-verify-net.bond^$all
+||com-verify-web.bond^$all
 ||com-wallet.bond^$all
 ||com-wallet-hub.bond^$all
 ||couplehadnv.bond^$all
@@ -11413,6 +11414,7 @@
 ||io-urban.bond^$all
 ||io-valor.bond^$all
 ||io-vault.bond^$all
+||io-vault-app.bond^$all
 ||io-vault-hub.bond^$all
 ||io-verify-hub.bond^$all
 ||io-verify-web.bond^$all
@@ -14945,6 +14947,7 @@
 ||com-lj7.click^$all
 ||com-mobile.click^$all
 ||com-order05920.click^$all
+||com-received.click^$all
 ||com-received034901.click^$all
 ||com-receivepayout.click^$all
 ||com-us.click^$all
@@ -26287,6 +26290,7 @@
 ||encrypted-ledger.com^$all
 ||encryptweb3wallets.com^$all
 ||endpoint-trustwallet.com^$all
+||enforcement-x.com^$all
 ||enforcementlog-x.com^$all
 ||eng-cobase.com^$all
 ||eng-coinbase.com^$all
@@ -39329,6 +39333,7 @@
 ||trustwalletln.com^$all
 ||m.trustwalletlnv.com^$all
 ||trustwalletlo.com^$all
+||trustwalletlogin.com^$all
 ||m.trustwalletloz.com^$all
 ||trustwalletlp.com^$all
 ||trustwalletlr.com^$all
@@ -39943,6 +39948,7 @@
 ||uniswap-dapps.com^$all
 ||uniswap-exchanges.com^$all
 ||admin.uniswap-invest.com^$all
+||uniswap-io.com^$all
 ||uniswap-ipfs.com^$all
 ||uniswap-labs.com^$all
 ||uniswap-s.com^$all
@@ -58487,6 +58493,8 @@
 ||feebacks-pumps.fun^$all
 ||feeclaim-pump.fun^$all
 ||fees-pumps.fun^$all
+||fi-jq.fun^$all
+||fi-oe.fun^$all
 ||figure03.fun^$all
 ||final-cashback.fun^$all
 ||finalpump.fun^$all
@@ -58562,6 +58570,8 @@
 ||instigate-sol.fun^$all
 ||inswap.fun^$all
 ||io-basegod.fun^$all
+||io-ct.fun^$all
+||io-fm.fun^$all
 ||iscan-grimdoge.fun^$all
 ||iscan-voidpepe.fun^$all
 ||iscanlive.fun^$all
@@ -76165,6 +76175,7 @@
 ||trustwallet-codegen.online^$all
 ||trustwallet-cs.online^$all
 ||trustwallet-fly.online^$all
+||trustwallet-help.online^$all
 ||trustwallet-mobile.online^$all
 ||trustwallet-org.online^$all
 ||trustwallet-security.online^$all
@@ -86620,6 +86631,7 @@
 ||orangecranberry.top^$all
 ||orbitrelaydata.top^$all
 ||order839194.top^$all
+||org-on.top^$all
 ||origindefi-bonus.top^$all
 ||originsdefi.top^$all
 ||osaksushi.top^$all
@@ -89549,6 +89561,7 @@
 ||eigenlayer.website^$all
 ||eni-top.website^$all
 ||exodus-wallet.website^$all
+||fi-gg.website^$all
 ||fi-strategy-assistant-website.website^$all
 ||fifa-com.website^$all
 ||astar-network-eng-ios.framer.website^$all
@@ -95018,6 +95031,7 @@
 ||rewardmorpho.xyz^$all
 ||rewards-3jane.xyz^$all
 ||rewards-aave.xyz^$all
+||rewards-aerodromefi.xyz^$all
 ||rewards-allocation-proposal-flare.xyz^$all
 ||rewards-arbitrumdrip.xyz^$all
 ||rewards-asterdex.xyz^$all
@@ -95029,6 +95043,7 @@
 ||rewards-bioprotocol.xyz^$all
 ||rewards-cascade.xyz^$all
 ||rewards-citrea.xyz^$all
+||rewards-degen.xyz^$all
 ||rewards-delulu.xyz^$all
 ||rewards-eigeniayer.xyz^$all
 ||rewards-eigenlayer.xyz^$all
@@ -95073,6 +95088,7 @@
 ||rewards-onchainheroes.xyz^$all
 ||rewards-onrefinance.xyz^$all
 ||rewards-onyx.xyz^$all
+||rewards-original.xyz^$all
 ||rewards-plumenetwork.xyz^$all
 ||rewards-polymarket.xyz^$all
 ||rewards-proposal-flare.xyz^$all
