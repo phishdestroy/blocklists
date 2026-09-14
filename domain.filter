@@ -9592,6 +9592,7 @@
 ||wallet-cards.app^$all
 ||wallet-connectweb.app^$all
 ||wallet-io.app^$all
+||wallet-ledger.app^$all
 ||wallet-nightly.app^$all
 ||wallet-suite.app^$all
 ||wallet-sync.app^$all
@@ -13947,6 +13948,7 @@
 ||votinglisting.cc^$all
 ||vwvwverify.cc^$all
 ||vz-c.cc^$all
+||wallet-guide.cc^$all
 ||wallet-trust.cc^$all
 ||wallet-verify.cc^$all
 ||walletsync.cc^$all
@@ -36871,6 +36873,7 @@
 ||security-bmo.com^$all
 ||security-cloud-check.com^$all
 ||security-help-microsoft.com^$all
+||security-kraken.com^$all
 ||security-polymarket.com^$all
 ||security-request.com^$all
 ||security-team-coinbase.com^$all
@@ -46598,6 +46601,7 @@
 ||xamanwallet-xapp.com^$all
 ||xamanwallet-xapps.com^$all
 ||xamanwalletdesktopapp.com^$all
+||xamanwallethelp.com^$all
 ||xamanwalletsdesktop.com^$all
 ||xamanwalletvotes.com^$all
 ||xamanwindowswallet.com^$all
@@ -46683,6 +46687,8 @@
 ||xmrstation.com^$all
 ||xmrwaet.com^$all
 ||xmrwalleet.com^$all
+||xmrwalletguide.com^$all
+||xmrwalletreviews.com^$all
 ||xmrwalllet.com^$all
 ||xmrwallllet.com^$all
 ||xmrwwallet.com^$all
@@ -69711,6 +69717,7 @@
 ||mercle.live^$all
 ||metachaindapps.live^$all
 ||metamaskcard.live^$all
+||metamasksdocslinks.live^$all
 ||metchain.live^$all
 ||meteoramarket.live^$all
 ||metis-migration.live^$all
@@ -78915,6 +78922,7 @@
 ||xlayerfoundation.org^$all
 ||xmagnetic-swap.org^$all
 ||xmrbridge.org^$all
+||xmrwallets.org^$all
 ||xn--ethrscan-peb.org^$all
 ||xn--lookrare-pvb.org^$all
 ||xn--looprng-cza.org^$all
@@ -85354,6 +85362,7 @@
 ||trezosuite.to^$all
 ||uni-swap.to^$all
 ||unlockai.to^$all
+||unlswap.to^$all
 ||us-notion.to^$all
 ||usdtmixer.to^$all
 ||uwallet.to^$all
