@@ -1701,6 +1701,7 @@
 ||moonshot-verif.app^$all
 ||moonshote.app^$all
 ||moonshotvote.app^$all
+||moonwellfi.app^$all
 ||mooondogesclaim.app^$all
 ||morphovotes.app^$all
 ||motionara.app^$all
@@ -2388,6 +2389,7 @@
 ||crypto-2sr.netlify.app^$all
 ||crypto-3rv.netlify.app^$all
 ||crypto-4mw.netlify.app^$all
+||crypto-4op.netlify.app^$all
 ||crypto-64g.netlify.app^$all
 ||crypto-6qd.netlify.app^$all
 ||crypto-72t.netlify.app^$all
@@ -2418,6 +2420,7 @@
 ||crypto-gpb.netlify.app^$all
 ||crypto-gqp.netlify.app^$all
 ||crypto-h4i.netlify.app^$all
+||crypto-hfi.netlify.app^$all
 ||crypto-i7t.netlify.app^$all
 ||crypto-i9s.netlify.app^$all
 ||crypto-jae.netlify.app^$all
@@ -2433,6 +2436,7 @@
 ||crypto-klg.netlify.app^$all
 ||crypto-kms.netlify.app^$all
 ||crypto-knj.netlify.app^$all
+||crypto-kpl.netlify.app^$all
 ||crypto-kts.netlify.app^$all
 ||crypto-kxn.netlify.app^$all
 ||crypto-lii.netlify.app^$all
@@ -2486,6 +2490,7 @@
 ||crypto-xnb.netlify.app^$all
 ||crypto-xsf.netlify.app^$all
 ||crypto-xur.netlify.app^$all
+||crypto-xwk.netlify.app^$all
 ||crypto-yex.netlify.app^$all
 ||crypto-z0n.netlify.app^$all
 ||crypto-z2x.netlify.app^$all
@@ -5371,6 +5376,7 @@
 ||pons-voting-1f.netlify.app^$all
 ||pons-voting-1k.netlify.app^$all
 ||pons-voting-1z.netlify.app^$all
+||pons-voting-24.netlify.app^$all
 ||pons-voting-28.netlify.app^$all
 ||pons-voting-2f.netlify.app^$all
 ||pons-voting-32.netlify.app^$all
@@ -5389,8 +5395,10 @@
 ||pons-voting-4l.netlify.app^$all
 ||pons-voting-4n.netlify.app^$all
 ||pons-voting-4p.netlify.app^$all
+||pons-voting-4r.netlify.app^$all
 ||pons-voting-4z.netlify.app^$all
 ||pons-voting-54.netlify.app^$all
+||pons-voting-58.netlify.app^$all
 ||pons-voting-5b.netlify.app^$all
 ||pons-voting-5g.netlify.app^$all
 ||pons-voting-5h.netlify.app^$all
@@ -5444,6 +5452,7 @@
 ||pons-voting-dj.netlify.app^$all
 ||pons-voting-dm.netlify.app^$all
 ||pons-voting-dq.netlify.app^$all
+||pons-voting-dv.netlify.app^$all
 ||pons-voting-ec.netlify.app^$all
 ||pons-voting-ed.netlify.app^$all
 ||pons-voting-ey.netlify.app^$all
@@ -5467,6 +5476,7 @@
 ||pons-voting-hv.netlify.app^$all
 ||pons-voting-i2.netlify.app^$all
 ||pons-voting-i3.netlify.app^$all
+||pons-voting-i5.netlify.app^$all
 ||pons-voting-id.netlify.app^$all
 ||pons-voting-if.netlify.app^$all
 ||pons-voting-ih.netlify.app^$all
@@ -5502,6 +5512,7 @@
 ||pons-voting-nx.netlify.app^$all
 ||pons-voting-o0.netlify.app^$all
 ||pons-voting-o9.netlify.app^$all
+||pons-voting-od.netlify.app^$all
 ||pons-voting-oj.netlify.app^$all
 ||pons-voting-om.netlify.app^$all
 ||pons-voting-oy.netlify.app^$all
@@ -9675,6 +9686,7 @@
 ||votes-lido.app^$all
 ||votes-megaeth.app^$all
 ||votes-onyx.app^$all
+||votes-standardreserve.app^$all
 ||votes-synthetix.app^$all
 ||votes-unipeg.app^$all
 ||votes-zebec.app^$all
@@ -12411,6 +12423,7 @@
 ||bitgetwalletweb30.capital^$all
 ||checker-netnet.capital^$all
 ||claim-netnet.capital^$all
+||claims-netnet.capital^$all
 ||consensuscapitalholdings.capital^$all
 ||crate-netnet.capital^$all
 ||crates-netnet.capital^$all
@@ -12527,6 +12540,7 @@
 ||cryptomixer.cash^$all
 ||gains.cash^$all
 ||goblins.cash^$all
+||governance-ipo.cash^$all
 ||iscan.cash^$all
 ||metamask.cash^$all
 ||meteorka.cash^$all
@@ -56449,6 +56463,8 @@
 ||x-claim-pad.pages.dev^$all
 ||x-claim-status.pages.dev^$all
 ||x-claim-tracker.pages.dev^$all
+||x-claimops.pages.dev^$all
+||x-deep-tag.pages.dev^$all
 ||x-distribution-checker.pages.dev^$all
 ||x-eligibility-checker.pages.dev^$all
 ||x-eligibility-portal.pages.dev^$all
@@ -56856,6 +56872,7 @@
 ||meterocowh.firzegelta.workers.dev^$all
 ||red-hall-6fba.fwqda.workers.dev^$all
 ||openseas005.givaway.workers.dev^$all
+||eu.govenrance-standardreserve.workers.dev^$all
 ||47.governance-aave-info.workers.dev^$all
 ||49.governance-aave-info.workers.dev^$all
 ||50.governance-aave-info.workers.dev^$all
@@ -56868,7 +56885,9 @@
 ||59.governance-aave-info.workers.dev^$all
 ||61.governance-aave-info.workers.dev^$all
 ||63.governance-aave-info.workers.dev^$all
+||eu.governnance-standardreserve.workers.dev^$all
 ||my-worker22.govnozavr.workers.dev^$all
+||eu.govrenance-standardreserve.workers.dev^$all
 ||271437943103258069784186.gpt8437378.workers.dev^$all
 ||cold-bonus-13e0.guptasersingh.workers.dev^$all
 ||rough-cell-639d.haleighhoener08.workers.dev^$all
@@ -57179,6 +57198,7 @@
 ||liminalmoney.digital^$all
 ||liquid-safe.digital^$all
 ||listandvote.digital^$all
+||listandvotes.digital^$all
 ||listandvoting.digital^$all
 ||listingsupport.digital^$all
 ||listingvote.digital^$all
@@ -59386,6 +59406,7 @@
 ||projectmigrate.fun^$all
 ||proposal-aerodrome.fun^$all
 ||proposal-alt.fun^$all
+||proposal-extended.fun^$all
 ||proposal-fwa.fun^$all
 ||proposal-hookr.fun^$all
 ||proposal-nukes.fun^$all
@@ -68000,6 +68021,7 @@
 ||chainlink.lat^$all
 ||check.lat^$all
 ||checker-firelight.lat^$all
+||checker-world.lat^$all
 ||cheerry.lat^$all
 ||chibi.lat^$all
 ||chibicoln.lat^$all
@@ -87910,6 +87932,7 @@
 ||ansem.trade^$all
 ||ansemapp.trade^$all
 ||ansemcoin.trade^$all
+||app-pool.trade^$all
 ||app-pools.trade^$all
 ||apyx.trade^$all
 ||arbpoly.trade^$all
