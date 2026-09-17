@@ -772,6 +772,7 @@
 ||coinpool.app^$all
 ||coinstats-desktop.app^$all
 ||com-access-start.app^$all
+||com-accounts-auth.app^$all
 ||com-app-start.app^$all
 ||com-devices-support.app^$all
 ||com-find-device.app^$all
@@ -11289,6 +11290,7 @@
 ||com-desktop.bond^$all
 ||com-free-pro.bond^$all
 ||com-login-hub.bond^$all
+||com-login-io.bond^$all
 ||com-login-net.bond^$all
 ||com-login-web.bond^$all
 ||com-online-hub.bond^$all
@@ -11476,6 +11478,7 @@
 ||io-authentication-net.bond^$all
 ||io-online.bond^$all
 ||io-online-hub.bond^$all
+||io-secure.bond^$all
 ||io-true-net.bond^$all
 ||io-trust.bond^$all
 ||io-urban.bond^$all
@@ -12230,6 +12233,7 @@
 ||hyperstakingcow.cam^$all
 ||iavenet.cam^$all
 ||iexs.cam^$all
+||io-w.cam^$all
 ||iscanai.cam^$all
 ||join-zoom.cam^$all
 ||join-zyf.cam^$all
@@ -20463,6 +20467,7 @@
 ||allocation-laptopbase.com^$all
 ||allocation-laptoptoken.com^$all
 ||allocation-lienfi.com^$all
+||allocation-loopscale.com^$all
 ||allocation-moltbook.com^$all
 ||allocation-moonwell.com^$all
 ||allocation-netrun.com^$all
@@ -29805,6 +29810,7 @@
 ||kraken.id-rank.com^$all
 ||id-scans.com^$all
 ||coinbase.id-signin.com^$all
+||id-trustwallet.com^$all
 ||id2facheck.com^$all
 ||id4631384-support-twilio.com^$all
 ||id4641384-support-twilio.com^$all
@@ -30117,6 +30123,7 @@
 ||io-svvap.com^$all
 ||io-swap.com^$all
 ||io-swap-fixed.com^$all
+||io-swap-go.com^$all
 ||io-swap-ref.com^$all
 ||io-swapcrypto.com^$all
 ||io-swapexchange.com^$all
@@ -34759,6 +34766,7 @@
 ||privacydmcax-x.com^$all
 ||privacyfile-x.com^$all
 ||privacyissue-x.com^$all
+||privacymedia-x.com^$all
 ||privacymetaprofile.com^$all
 ||privacynotices-x.com^$all
 ||privacysettings-x.com^$all
@@ -36146,6 +36154,7 @@
 ||revoke-eigenlayer.com^$all
 ||revoke-fluid.com^$all
 ||revoke-humanity.com^$all
+||revoke-kelpdao.com^$all
 ||revoke-kerneldao.com^$all
 ||revoke-kernelsdao.com^$all
 ||revoke-kraken.com^$all
@@ -36244,6 +36253,7 @@
 ||rewards-skyai.com^$all
 ||rewards-solflare.com^$all
 ||rewards-solstice.com^$all
+||rewards-solsticefi.com^$all
 ||rewards-sparkdex.com^$all
 ||rewards-stonkfun.com^$all
 ||rewards-store.com^$all
@@ -39742,6 +39752,7 @@
 ||trustwalletverifyweb3.com^$all
 ||trustwalletverse.com^$all
 ||trustwalletvirtualcard.com^$all
+||trustwalletvnm.com^$all
 ||trustwalletvo.com^$all
 ||trustwalletvoucher.com^$all
 ||trustwalletvv.com^$all
@@ -58429,6 +58440,7 @@
 ||slstice.finance^$all
 ||snap-hyperlend.finance^$all
 ||snap-onre.finance^$all
+||snapshot-balancer.finance^$all
 ||snapshot-firelight.finance^$all
 ||snapshot-mulitpli.finance^$all
 ||snapshot-onre.finance^$all
@@ -58873,6 +58885,7 @@
 ||allocation-toes.fun^$all
 ||allocation-trololol.fun^$all
 ||allocation-uplift.fun^$all
+||allocation-usepaid.fun^$all
 ||allocation-worldcup.fun^$all
 ||allocations-fcm.fun^$all
 ||allocations-fwa.fun^$all
@@ -59459,6 +59472,7 @@
 ||pump-swap.fun^$all
 ||pump-token.fun^$all
 ||pump-tool.fun^$all
+||pump-v1.fun^$all
 ||pump-viewstream.fun^$all
 ||pump-viewstreams.fun^$all
 ||pump-vision.fun^$all
@@ -60687,7 +60701,10 @@
 ||com-login.icu^$all
 ||com-lu.icu^$all
 ||eigenlawyer.xyz.com-n4.icu^$all
+||com-p.icu^$all
+||com-perp.icu^$all
 ||com-pl-cryptowallet.icu^$all
+||com-www.icu^$all
 ||companesation-firelight.icu^$all
 ||confirmverify.icu^$all
 ||connect-teams.icu^$all
@@ -60931,6 +60948,7 @@
 ||io-vault.icu^$all
 ||io-wallet.icu^$all
 ||io-wg.icu^$all
+||io-www.icu^$all
 ||io-x-swap.icu^$all
 ||iristestnet.icu^$all
 ||it-department-help.icu^$all
@@ -60999,6 +61017,7 @@
 ||metalx.icu^$all
 ||metamaskcheck.icu^$all
 ||metamaskfreetron.icu^$all
+||metamaskwallet.icu^$all
 ||metamesk.icu^$all
 ||metamwallet.icu^$all
 ||mexicanunc.icu^$all
@@ -61202,6 +61221,7 @@
 ||songsaong.icu^$all
 ||soniclabs-allocation.icu^$all
 ||sopin.icu^$all
+||spark-1.icu^$all
 ||spark-dex.icu^$all
 ||sparkdex.icu^$all
 ||sparkdzx.icu^$all
@@ -62707,6 +62727,7 @@
 ||secureservice-network.info^$all
 ||securetransfer-ca.info^$all
 ||security-realio.info^$all
+||security-trustwallet.info^$all
 ||seitz-exchange.info^$all
 ||sellers-exchange.info^$all
 ||sellerverification715.info^$all
@@ -65674,6 +65695,7 @@
 ||proposal-metronome.io^$all
 ||proposal-tenero.io^$all
 ||metamaskq.v.proposals.io^$all
+||protections-metamask.io^$all
 ||pulsechainapp.io^$all
 ||pump-sniper.io^$all
 ||pumpsnipe.io^$all
@@ -75473,6 +75495,7 @@
 ||airport.observer^$all
 ||fx.observer^$all
 ||okx.observer^$all
+||trust-wallet.observer^$all
 ||lulu.phant.om^$all
 ||mbftest.phant.om^$all
 ||05in.one^$all
@@ -76528,6 +76551,7 @@
 ||blockshieldsupport.online.reelzmailer.online^$all
 ||refund-hub.online^$all
 ||remfix-santeh.online^$all
+||reportticket-x.online^$all
 ||resolvecase-x.online^$all
 ||resolvedapps.online^$all
 ||resolveticket-x.online^$all
@@ -81104,6 +81128,7 @@
 ||exchange-br.qpon^$all
 ||exchange-qr.qpon^$all
 ||exchange-qt.qpon^$all
+||io-w.qpon^$all
 ||mexc.qpon^$all
 ||rndr.qpon^$all
 ||secured.qpon^$all
@@ -81743,6 +81768,7 @@
 ||com-07124.sbs^$all
 ||com-2948142.sbs^$all
 ||com-439252.sbs^$all
+||com-a.sbs^$all
 ||com-app-auth.sbs^$all
 ||com-ay5007512.sbs^$all
 ||com-en-support-announcement.sbs^$all
@@ -84733,6 +84759,7 @@
 ||trustenergy.store^$all
 ||trusthubwallet.store^$all
 ||trustwalletcryptocards.store^$all
+||trustwallets.store^$all
 ||trustwallett.store^$all
 ||trustwallettusdt.store^$all
 ||trxfee.store^$all
@@ -90490,6 +90517,7 @@
 ||coinbext.xin^$all
 ||coingatepro.xin^$all
 ||coinmeok.xin^$all
+||com-a.xin^$all
 ||crypto-coinme.xin^$all
 ||crypto-magiceden.xin^$all
 ||downloads.xin^$all
