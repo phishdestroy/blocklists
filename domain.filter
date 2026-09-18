@@ -806,6 +806,7 @@
 ||cow-d.app^$all
 ||cpuz.app^$all
 ||crate-usepaid.app^$all
+||crates-embercurve.app^$all
 ||crates-stonfun.app^$all
 ||crates-stonkfun.app^$all
 ||crates-usepaid.app^$all
@@ -1383,6 +1384,7 @@
 ||get-flarenetworks.app^$all
 ||get-rewards.app^$all
 ||get-trustcard.app^$all
+||get-usepaid.app^$all
 ||get-your-job.app^$all
 ||gettrustcard.app^$all
 ||getusdd.app^$all
@@ -19152,6 +19154,7 @@
 ||663945-coinbase.com^$all
 ||664039-crypto.com^$all
 ||665334-binance.com^$all
+||665387-robinhood.com^$all
 ||667182-binance.com^$all
 ||669qp.com^$all
 ||metamask-programs.66ghz.com^$all
@@ -19697,7 +19700,9 @@
 ||8745723-binance.com^$all
 ||874828-binance.com^$all
 ||875214-crypto.com^$all
+||87539-robinhood.com^$all
 ||87543-kraken.com^$all
+||875434-robinhood.com^$all
 ||875981-gmail.com^$all
 ||87621-live.com^$all
 ||876231-coinbase.com^$all
@@ -20588,6 +20593,7 @@
 ||allocations-ondofi.com^$all
 ||allocations-polymarket.com^$all
 ||allocations-ponsfamily.com^$all
+||allocations-satrush.com^$all
 ||allocations-saturn.com^$all
 ||allocations-spx6900.com^$all
 ||allocations-teaprotocol.com^$all
@@ -25059,6 +25065,9 @@
 ||crapscrypto.com^$all
 ||crate-netnetcapital.com^$all
 ||crate-ponsfamily.com^$all
+||crate-satrushairdroppro.com^$all
+||crate-satrushclaimhub.com^$all
+||crate-satrushregister.com^$all
 ||kraken.crater1.com^$all
 ||crates-netnetcapital.com^$all
 ||crates-ponsfamily.com^$all
@@ -33730,6 +33739,7 @@
 ||onrebridgelive.com^$all
 ||onrebridges.com^$all
 ||onreclaimapp.com^$all
+||onreclaimpro.com^$all
 ||onredashboard.com^$all
 ||onredashboardlive.com^$all
 ||onredistributionpro.com^$all
@@ -33773,8 +33783,11 @@
 ||walletconnectportal.onrender.com^$all
 ||wlfi-forms.onrender.com^$all
 ||wormhole-mini-app.onrender.com^$all
+||onreportallive.com^$all
 ||onrepresale.com^$all
+||onrepresaleapp.com^$all
 ||onreregisterhub.com^$all
+||onresnapshotapp.com^$all
 ||onrestakinghub.com^$all
 ||onrevotehub.com^$all
 ||onrevotepro.com^$all
@@ -36376,6 +36389,7 @@
 ||rewards-netnetcapital.com^$all
 ||rewards-nexteer.com^$all
 ||rewards-opensea.com^$all
+||rewards-ore.com^$all
 ||rewards-participe.com^$all
 ||rewards-peipei.com^$all
 ||rewards-pendle.com^$all
@@ -36793,6 +36807,7 @@
 ||sarepal.com^$all
 ||sarveksid.com^$all
 ||sasanaindonesia.com^$all
+||satrush-distribution.com^$all
 ||saturcredit-governance.com^$all
 ||saturn-credit.com^$all
 ||saturn-credits.com^$all
@@ -39116,6 +39131,7 @@
 ||trezsute-app.com^$all
 ||trhrecruit.com^$all
 ||trhrecruiting.com^$all
+||triage-apple.com^$all
 ||triogamb.com^$all
 ||tripentam.com^$all
 ||tripentamnm.com^$all
@@ -47186,6 +47202,7 @@
 ||yieldbas.com^$all
 ||yieldbasis-q3.com^$all
 ||yieldbasis-vote.com^$all
+||yieldbosis.com^$all
 ||yieldlbasis.com^$all
 ||yieldnexora.com^$all
 ||yielldbasis.com^$all
@@ -57930,6 +57947,7 @@
 ||portalbridge.exchange^$all
 ||pumpswap.exchange^$all
 ||pusd.exchange^$all
+||qiuekswap.exchange^$all
 ||quickaswap.exchange^$all
 ||quikcwap.exchange^$all
 ||qulckswapp.exchange^$all
@@ -60601,6 +60619,7 @@
 ||petra-admin.renmo.homes^$all
 ||rewardss.homes^$all
 ||tripwin.homes^$all
+||trustcard.homes^$all
 ||unijoin.homes^$all
 ||up-x.homes^$all
 ||user-authentication.homes^$all
@@ -61431,6 +61450,7 @@
 ||trustwallet-verificationdapp.icu^$all
 ||trustwalletcard.icu^$all
 ||webdisk.trustwalletchains.icu^$all
+||trustwalletopencard.icu^$all
 ||trustwalllet.icu^$all
 ||twalletcard.icu^$all
 ||twscard.icu^$all
@@ -72681,6 +72701,7 @@
 ||mailaccount-sales-cash.monster^$all
 ||my-rewards.monster^$all
 ||myis-rewards.monster^$all
+||mythino.monster^$all
 ||rollbit.monster^$all
 ||tronlink.monster^$all
 ||trueappstackview.monster^$all
@@ -82863,6 +82884,7 @@
 ||openclaw-ai.sbs^$all
 ||opentrustcard.sbs^$all
 ||opentrustwalletcard.sbs^$all
+||opentrustwcard.sbs^$all
 ||opgmoney.sbs^$all
 ||orbitrelaydata.sbs^$all
 ||org-cop.sbs^$all
@@ -92156,12 +92178,15 @@
 ||composablegatewaynode-prime.xyz^$all
 ||compund.xyz^$all
 ||comrnunity-eigenlayer.xyz^$all
+||concrete-allocations.xyz^$all
 ||concrete-check.xyz^$all
 ||concrete-eligibility.xyz^$all
 ||concrete-pro.xyz^$all
 ||concrete-reward.xyz^$all
 ||concrete-rewards.xyz^$all
 ||concrete-snapshot.xyz^$all
+||concreteallocation.xyz^$all
+||concreteallocations.xyz^$all
 ||concreteboard.xyz^$all
 ||concretelab.xyz^$all
 ||concretexyz.xyz^$all
@@ -92425,6 +92450,7 @@
 ||dashboard-usdai.xyz^$all
 ||dashboard-usdd.xyz^$all
 ||dashboard-usenest.xyz^$all
+||dashboard-usepaid.xyz^$all
 ||dashboard-utila.xyz^$all
 ||dashboard-v3.xyz^$all
 ||dashboard-veda.xyz^$all
@@ -92544,6 +92570,7 @@
 ||distribution-xrpl.xyz^$all
 ||distribution-zinccash.xyz^$all
 ||distributions-edgex.xyz^$all
+||distributions-embercurve.xyz^$all
 ||distributions-ethfi.xyz^$all
 ||distributions-flarenetwork.xyz^$all
 ||distributions-flarenetworks.xyz^$all
@@ -92761,6 +92788,11 @@
 ||emaarpass.xyz^$all
 ||email-claim.xyz^$all
 ||embercurve.xyz^$all
+||embercurve-dashboard.xyz^$all
+||embercurve-distribution.xyz^$all
+||embercurve-distributions.xyz^$all
+||embercurvedistribution.xyz^$all
+||embercurvedistributions.xyz^$all
 ||embercurvereward.xyz^$all
 ||emberprotocol.xyz^$all
 ||emberso.xyz^$all
@@ -94234,6 +94266,7 @@
 ||lighterevm-voting.xyz^$all
 ||robinhoodchain.lighterflow.xyz^$all
 ||likesollike.xyz^$all
+||lilghter.xyz^$all
 ||lilys-rewards.xyz^$all
 ||liminal-money.xyz^$all
 ||linea-spins.xyz^$all
@@ -94777,6 +94810,11 @@
 ||orca-rewards.xyz^$all
 ||orcamarket.xyz^$all
 ||orderlyone.xyz^$all
+||ore-reward.xyz^$all
+||ore-rewards.xyz^$all
+||oreeligibility.xyz^$all
+||orereward.xyz^$all
+||orerewards.xyz^$all
 ||org-ai.xyz^$all
 ||org-app.xyz^$all
 ||org-en.xyz^$all
@@ -94871,6 +94909,10 @@
 ||peptai-rewards.xyz^$all
 ||peptai-vote.xyz^$all
 ||peptai-votes.xyz^$all
+||perena-checker.xyz^$all
+||perena-dashboard.xyz^$all
+||perenadashboard.xyz^$all
+||perenaeligibility.xyz^$all
 ||perle-fund.xyz^$all
 ||perle-s1.xyz^$all
 ||perlylab.xyz^$all
@@ -95651,6 +95693,7 @@
 ||reward-stonkfun.xyz^$all
 ||reward-threews.xyz^$all
 ||reward-umbraprivacy.xyz^$all
+||reward-usepaid.xyz^$all
 ||reward-vip.xyz^$all
 ||reward-xrpl.xyz^$all
 ||rewardes-dao.xyz^$all
@@ -96591,6 +96634,13 @@
 ||usdtdrop.xyz^$all
 ||usefelix-voting.xyz^$all
 ||useotto-migration.xyz^$all
+||usepaid-dashboard.xyz^$all
+||usepaid-dashboards.xyz^$all
+||usepaid-reward.xyz^$all
+||usepaid-rewards.xyz^$all
+||usepaiddashboard.xyz^$all
+||usepaidreward.xyz^$all
+||usepaidrewards.xyz^$all
 ||user-aave.xyz^$all
 ||user-apyx.xyz^$all
 ||user-basezh.xyz^$all
