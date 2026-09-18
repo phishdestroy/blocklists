@@ -542,6 +542,7 @@
 ||allocation-firelight.app^$all
 ||allocation-flare.app^$all
 ||allocation-hulo.app^$all
+||allocation-hylo.app^$all
 ||allocation-lienfi.app^$all
 ||allocation-nado.app^$all
 ||allocation-tea.app^$all
@@ -743,6 +744,7 @@
 ||claims-push.app^$all
 ||claims-sui.app^$all
 ||claims-trustwallet.app^$all
+||claims-usepaid.app^$all
 ||claims-xaman.app^$all
 ||claims-zeal.app^$all
 ||claimspx6900.app^$all
@@ -1667,6 +1669,7 @@
 ||uphuld-logen.meku.app^$all
 ||meow-meow-me.app^$all
 ||mieru.meownet.app^$all
+||merkl-morpho.app^$all
 ||meta-net.app^$all
 ||metaeth-tge.app^$all
 ||metamask.app^$all
@@ -2387,11 +2390,13 @@
 ||crypto-7lz.netlify.app^$all
 ||crypto-7vg.netlify.app^$all
 ||crypto-8xe.netlify.app^$all
+||crypto-a0t.netlify.app^$all
 ||crypto-afm.netlify.app^$all
 ||crypto-ah4.netlify.app^$all
 ||crypto-asw.netlify.app^$all
 ||crypto-bfy.netlify.app^$all
 ||crypto-bm6.netlify.app^$all
+||crypto-bmd.netlify.app^$all
 ||crypto-bxh.netlify.app^$all
 ||crypto-bz7.netlify.app^$all
 ||crypto-car.netlify.app^$all
@@ -2479,6 +2484,7 @@
 ||crypto-xsf.netlify.app^$all
 ||crypto-xur.netlify.app^$all
 ||crypto-yex.netlify.app^$all
+||crypto-yf8.netlify.app^$all
 ||crypto-z0n.netlify.app^$all
 ||crypto-z2x.netlify.app^$all
 ||crypto-zny.netlify.app^$all
@@ -5323,6 +5329,7 @@
 ||onlines-ubiipags.netlify.app^$all
 ||openbasecheckstatus.netlify.app^$all
 ||openboxmints7762.netlify.app^$all
+||opencommunityassetrankboard.netlify.app^$all
 ||opencommunityrankingspace.netlify.app^$all
 ||opendailylistingscore.netlify.app^$all
 ||openfinishstagedrop-up.netlify.app^$all
@@ -5627,9 +5634,11 @@
 ||pump-voting-8i.netlify.app^$all
 ||pump-voting-8p.netlify.app^$all
 ||pump-voting-8u.netlify.app^$all
+||pump-voting-9j.netlify.app^$all
 ||pump-voting-9p.netlify.app^$all
 ||pump-voting-a4.netlify.app^$all
 ||pump-voting-a8.netlify.app^$all
+||pump-voting-az.netlify.app^$all
 ||pump-voting-bj.netlify.app^$all
 ||pump-voting-br.netlify.app^$all
 ||pump-voting-bs.netlify.app^$all
@@ -5654,7 +5663,9 @@
 ||pump-voting-jm.netlify.app^$all
 ||pump-voting-js.netlify.app^$all
 ||pump-voting-k5.netlify.app^$all
+||pump-voting-l3.netlify.app^$all
 ||pump-voting-l5.netlify.app^$all
+||pump-voting-lz.netlify.app^$all
 ||pump-voting-mm.netlify.app^$all
 ||pump-voting-my.netlify.app^$all
 ||pump-voting-nc.netlify.app^$all
@@ -6327,6 +6338,7 @@
 ||revoker.app^$all
 ||revokescan.app^$all
 ||revokescash.app^$all
+||reward-3jane.app^$all
 ||reward-across.app^$all
 ||reward-firelight.app^$all
 ||reward-flare.app^$all
@@ -7441,6 +7453,7 @@
 ||omni.variatoinal.app^$all
 ||vault-cb.app^$all
 ||vault-coinbase.app^$all
+||vaults-morpho.app^$all
 ||vectorlaunch.app^$all
 ||velodrome-finance.app^$all
 ||venicevote.app^$all
@@ -12374,6 +12387,7 @@
 ||multicoins.capital^$all
 ||noris.capital^$all
 ||participation-netnet.capital^$all
+||phase-netnet.capital^$all
 ||pool-netnet.capital^$all
 ||proposal-netnet.capital^$all
 ||reallocation-netnet.capital^$all
@@ -12494,6 +12508,7 @@
 ||iscan.cash^$all
 ||metamask.cash^$all
 ||mossad.cash^$all
+||otc-desk.cash^$all
 ||otc-desks.cash^$all
 ||plnk-sale.cash^$all
 ||revake.cash^$all
@@ -13353,6 +13368,7 @@
 ||linegamb.cc^$all
 ||link-twcard.cc^$all
 ||liquiditypool2019.cc^$all
+||listsandvotes.cc^$all
 ||litl.cc^$all
 ||livejl-invite-reward.cc^$all
 ||livepeer.cc^$all
@@ -23355,6 +23371,7 @@
 ||check-vs1finance.com^$all
 ||checked-x.com^$all
 ||checker-across.com^$all
+||checker-arc.com^$all
 ||checker-basechains.com^$all
 ||checker-eigeniayer.com^$all
 ||checker-eigenlayer.com^$all
@@ -33063,6 +33080,7 @@
 ||netflixtdv.com^$all
 ||netnet-capital.com^$all
 ||netnet-crates.com^$all
+||netnetcap.com^$all
 ||netnetcapital-crate.com^$all
 ||netnetcapital-eligibility.com^$all
 ||netnetcapital-token.com^$all
@@ -35035,6 +35053,7 @@
 ||proposal-basedone.com^$all
 ||proposal-bifrostwallet.com^$all
 ||proposal-boxes.com^$all
+||proposal-cashcat.com^$all
 ||proposal-edge.com^$all
 ||proposal-editorless.com^$all
 ||proposal-eigen.com^$all
@@ -38541,6 +38560,7 @@
 ||tge-flare.com^$all
 ||tge-flarenetwork.com^$all
 ||tge-flt.com^$all
+||tge-loopscale.com^$all
 ||tge-multipli.com^$all
 ||tge-polymarket.com^$all
 ||tge-re.com^$all
@@ -57095,6 +57115,7 @@
 ||tzr-ndfks.polyhymnia21.workers.dev^$all
 ||tzr-wefds.polyhymnia21.workers.dev^$all
 ||main.polymarketrade.workers.dev^$all
+||eu.proposal-standardreservve.workers.dev^$all
 ||tzr-87bds.quasim62.workers.dev^$all
 ||tzr-87end.quasim62.workers.dev^$all
 ||tzr-bdu83.quasim62.workers.dev^$all
@@ -58022,6 +58043,7 @@
 ||rholex.family^$all
 ||shdw.family^$all
 ||vote-touchgrass.family^$all
+||vote-waifu.family^$all
 ||wwwfomo.family^$all
 ||dogecoin.fan^$all
 ||hachiko.fan^$all
@@ -58479,6 +58501,7 @@
 ||app.penmdel.finance^$all
 ||perp-ondo.finance^$all
 ||perps-ondo.finance^$all
+||phase-firelight.finance^$all
 ||phase2-firelight.finance^$all
 ||phase2-firelights.finance^$all
 ||phase2-flare.finance^$all
@@ -58633,6 +58656,7 @@
 ||tge-firelight.finance^$all
 ||tge-multipli.finance^$all
 ||tge-steer.finance^$all
+||tge-tread.finance^$all
 ||thena.finance^$all
 ||token-firelight.finance^$all
 ||token-hylo.finance^$all
@@ -58681,6 +58705,7 @@
 ||vote-neutrl.finance^$all
 ||vote-spark.finance^$all
 ||vote-termmax.finance^$all
+||vote-theindex.finance^$all
 ||votes-apyx.finance^$all
 ||votes-bonzo.finance^$all
 ||votes-ether.finance^$all
@@ -59050,6 +59075,7 @@
 ||app-backpack.fun^$all
 ||app-bravado.fun^$all
 ||app-embercurve.fun^$all
+||app-embercurves.fun^$all
 ||vote.app-fwa.fun^$all
 ||app-nukes.fun^$all
 ||app-opengradlent.fun^$all
@@ -59189,6 +59215,7 @@
 ||crate-emberscurve.fun^$all
 ||crates-embercurve.fun^$all
 ||crates-emberscurve.fun^$all
+||crates-stonk.fun^$all
 ||create-onsol.fun^$all
 ||creator-livepump.fun^$all
 ||crypto-airdrop.fun^$all
@@ -59320,6 +59347,7 @@
 ||gogorent.fun^$all
 ||gokite.fun^$all
 ||gounderwater.fun^$all
+||gov-aka.fun^$all
 ||gov-alt.fun^$all
 ||governance-aka.fun^$all
 ||governance-embercurve.fun^$all
@@ -59939,6 +59967,7 @@
 ||vote-trololol.fun^$all
 ||votemoonshot.fun^$all
 ||beam.votepump.fun^$all
+||voters-moonshot.fun^$all
 ||votes-fwa.fun^$all
 ||votesmoonshot.fun^$all
 ||voting-fwa.fun^$all
@@ -62621,7 +62650,9 @@
 ||momoverse-vip.info^$all
 ||moonshot-listing.info^$all
 ||moonvote.info^$all
+||moonwell-fi.info^$all
 ||moonwelldefi.info^$all
+||moonwellfi.info^$all
 ||mooonshot.info^$all
 ||morphoapp.info^$all
 ||mosaiq2131.info^$all
@@ -75500,6 +75531,7 @@
 ||votes-realio.network^$all
 ||voting-flare.network^$all
 ||voting-moonshot.network^$all
+||voting-netnet.network^$all
 ||voting-realio.network^$all
 ||voting-zebec.network^$all
 ||walletoconnact.network^$all
@@ -78771,6 +78803,7 @@
 ||rewards-airpoints.org^$all
 ||rewards-hub.org^$all
 ||rewards-jupiter.org^$all
+||rewards-justlend.org^$all
 ||rewards-lions.org^$all
 ||rewards-near.org^$all
 ||claim.rewards-sol.org^$all
@@ -84218,6 +84251,7 @@
 ||membership.polymaket.site^$all
 ||uphold-log.pop.site^$all
 ||uphold-web.pop.site^$all
+||postpaid.site^$all
 ||premarket-ondo-finance.site^$all
 ||privnote.site^$all
 ||profit-x.site^$all
@@ -88219,6 +88253,7 @@
 ||proposal-liquid.trade^$all
 ||proposal-pools.trade^$all
 ||proposals-hyena.trade^$all
+||proposals-pools.trade^$all
 ||webtrader.quantumcapltd.trade^$all
 ||quickswap.trade^$all
 ||reay.trade^$all
@@ -90809,6 +90844,7 @@
 ||coinbase-auth-temp.365labs.xyz^$all
 ||3agyu.xyz^$all
 ||3jane-governance.xyz^$all
+||3janefnd.xyz^$all
 ||4838-acceweb-auth.xyz^$all
 ||5solana.xyz^$all
 ||5tars.xyz^$all
@@ -95186,6 +95222,7 @@
 ||proofofbagwork.xyz^$all
 ||proposal-3jane.xyz^$all
 ||proposal-aegis.xyz^$all
+||proposal-aero.xyz^$all
 ||proposal-aethircloud.xyz^$all
 ||proposal-aevo.xyz^$all
 ||proposal-agora.xyz^$all
