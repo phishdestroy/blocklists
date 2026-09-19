@@ -1190,6 +1190,7 @@
 ||distribution-zebec.app^$all
 ||distributions-firelight.app^$all
 ||distributions-flarenetwork.app^$all
+||distributions-usepaid.app^$all
 ||dnsjumper.app^$all
 ||dodoex.app^$all
 ||dominion-market.app^$all
@@ -1299,6 +1300,7 @@
 ||event-usepaid.app^$all
 ||event-worldliberty.app^$all
 ||events-heisted.app^$all
+||events-usepaid.app^$all
 ||evshare.app^$all
 ||exodus-app.app^$all
 ||api.exodus-recovery.app^$all
@@ -1572,6 +1574,7 @@
 ||join-meet.app^$all
 ||join-morpho.app^$all
 ||join-spark.app^$all
+||join-usepaid.app^$all
 ||join-zoom.app^$all
 ||joinopenstandard.app^$all
 ||jtx-trade.app^$all
@@ -2462,6 +2465,7 @@
 ||crypto-cff.netlify.app^$all
 ||crypto-cml.netlify.app^$all
 ||crypto-cs5.netlify.app^$all
+||crypto-cze.netlify.app^$all
 ||crypto-dfl.netlify.app^$all
 ||crypto-dwz.netlify.app^$all
 ||crypto-e1w.netlify.app^$all
@@ -2494,6 +2498,7 @@
 ||crypto-kts.netlify.app^$all
 ||crypto-kxn.netlify.app^$all
 ||crypto-lii.netlify.app^$all
+||crypto-lj6.netlify.app^$all
 ||crypto-mhx.netlify.app^$all
 ||crypto-mll.netlify.app^$all
 ||crypto-mmq.netlify.app^$all
@@ -2551,6 +2556,7 @@
 ||crypto-z0n.netlify.app^$all
 ||crypto-z2x.netlify.app^$all
 ||crypto-zny.netlify.app^$all
+||crypto-zt2.netlify.app^$all
 ||cryptocoin-9gs.netlify.app^$all
 ||cryptocoin-jpz.netlify.app^$all
 ||cryptocoin-jth.netlify.app^$all
@@ -58501,7 +58507,9 @@
 ||eu.etehrfi-interest.workers.dev^$all
 ||25.eth-claim.workers.dev^$all
 ||lidovoi.eth-claim.workers.dev^$all
+||eu.etherffi-interest.workers.dev^$all
 ||eu.etherfi-inetrest.workers.dev^$all
+||eu.etherfi-inteerst.workers.dev^$all
 ||eu.etherfi-intreest.workers.dev^$all
 ||eu.etherfi-niterest.workers.dev^$all
 ||1.etherfi-team.workers.dev^$all
@@ -60412,6 +60420,7 @@
 ||supertime.forum^$all
 ||supportinglist.forum^$all
 ||supportslist.forum^$all
+||supportsvote.forum^$all
 ||supportvote.forum^$all
 ||tradexyz.forum^$all
 ||trust-wallet.forum^$all
@@ -97077,10 +97086,12 @@
 ||netnetcapital-dashboards.xyz^$all
 ||netnetcapital-holder.xyz^$all
 ||netnetcapital-token.xyz^$all
+||netnetcapital-tokens.xyz^$all
 ||netnetcapitaldashboards.xyz^$all
 ||netnetcapitalholder.xyz^$all
 ||netnetcapitalholders.xyz^$all
 ||netnetcapitaltoken.xyz^$all
+||netnetcapitaltokens.xyz^$all
 ||netruns.xyz^$all
 ||network-app.xyz^$all
 ||flare.network-voting.xyz^$all
@@ -97540,6 +97551,7 @@
 ||portal-sparkdotfi.xyz^$all
 ||portal-spectra.xyz^$all
 ||portal-ssvnetwork.xyz^$all
+||portal-stonkfun.xyz^$all
 ||portal-stormrae.xyz^$all
 ||portal-tac.xyz^$all
 ||portal-theoriq.xyz^$all
@@ -98825,6 +98837,7 @@
 ||token-flarefoundations.xyz^$all
 ||token-flr.xyz^$all
 ||token-flt.xyz^$all
+||token-netnetcapital.xyz^$all
 ||token-rush.xyz^$all
 ||token0ps.xyz^$all
 ||portal.tokenallocation.xyz^$all
