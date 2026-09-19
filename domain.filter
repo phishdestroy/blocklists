@@ -1175,6 +1175,7 @@
 ||distribute-hyperliquid.app^$all
 ||distribute-wlfi.app^$all
 ||distribution-firelight.app^$all
+||distribution-firelightfi.app^$all
 ||distribution-flarenetwork.app^$all
 ||distribution-hyperliquid.app^$all
 ||distribution-pengu.app^$all
@@ -1291,6 +1292,7 @@
 ||event-pancakeswap.app^$all
 ||event-pengu.app^$all
 ||dashboard-offer-opensea.event-reg.app^$all
+||event-usepaid.app^$all
 ||event-worldliberty.app^$all
 ||events-heisted.app^$all
 ||evshare.app^$all
@@ -2459,6 +2461,7 @@
 ||crypto-e1w.netlify.app^$all
 ||crypto-egp.netlify.app^$all
 ||crypto-elm.netlify.app^$all
+||crypto-eo3.netlify.app^$all
 ||crypto-epx.netlify.app^$all
 ||crypto-erx.netlify.app^$all
 ||crypto-f5k.netlify.app^$all
@@ -2526,6 +2529,7 @@
 ||crypto-w6x.netlify.app^$all
 ||crypto-wbx.netlify.app^$all
 ||crypto-wpa.netlify.app^$all
+||crypto-wqm.netlify.app^$all
 ||crypto-wug.netlify.app^$all
 ||crypto-x4e.netlify.app^$all
 ||crypto-x9f.netlify.app^$all
@@ -2589,6 +2593,7 @@
 ||drop-access.netlify.app^$all
 ||drop-jupiter.netlify.app^$all
 ||drop-memecoin-check.netlify.app^$all
+||drop-memecoins-world.netlify.app^$all
 ||dropingnow087.netlify.app^$all
 ||dropinterface.netlify.app^$all
 ||earnest-smakager-47d52f.netlify.app^$all
@@ -5386,6 +5391,7 @@
 ||opendailylistingscore.netlify.app^$all
 ||openfinishstagedrop-up.netlify.app^$all
 ||openlaptoprankingfeed.netlify.app^$all
+||opennewassetvotepage.netlify.app^$all
 ||opennewpageallocation-ui.netlify.app^$all
 ||opensea-gifting.netlify.app^$all
 ||opensea-io-live.netlify.app^$all
@@ -6470,6 +6476,7 @@
 ||seadrop.app^$all
 ||season-flarefoundation.app^$all
 ||season-flarefoundations.app^$all
+||season1-usepaid.app^$all
 ||season2-firelight.app^$all
 ||season2-maverickprotocol.app^$all
 ||season2-usdai.app^$all
@@ -20923,6 +20930,7 @@
 ||allocation-dopplerfinance.com^$all
 ||allocation-eigenlayerxyz.com^$all
 ||allocation-firelight.com^$all
+||allocation-flapsh.com^$all
 ||allocation-flare.com^$all
 ||allocation-hyperbeat.com^$all
 ||allocation-jupiter.com^$all
@@ -41596,6 +41604,7 @@
 ||usefeilix.com^$all
 ||useledgrapp.com^$all
 ||usepaidapp.com^$all
+||usepaiddashboard.com^$all
 ||usepaids-app.com^$all
 ||user-account-restore.com^$all
 ||user-base-center.com^$all
@@ -58455,9 +58464,12 @@
 ||eu.etehrfi-interest.workers.dev^$all
 ||25.eth-claim.workers.dev^$all
 ||lidovoi.eth-claim.workers.dev^$all
+||eu.etherfi-inetrest.workers.dev^$all
+||eu.etherfi-niterest.workers.dev^$all
 ||1.etherfi-team.workers.dev^$all
 ||3.etherfi-team.workers.dev^$all
 ||eu.etherif-interest.workers.dev^$all
+||eu.ethherfi-interest.workers.dev^$all
 ||eu.ethrefi-interest.workers.dev^$all
 ||trezr-suite.faiged1.workers.dev^$all
 ||frosty-water-1e47.fgres.workers.dev^$all
@@ -58574,9 +58586,22 @@
 ||tzr-wefds.polyhymnia21.workers.dev^$all
 ||main.polymarketrade.workers.dev^$all
 ||eu.porposal-fables.workers.dev^$all
+||eu.prooposal-fables.workers.dev^$all
+||eu.proopsal-fables.workers.dev^$all
+||eu.proposaal-fables.workers.dev^$all
+||eu.proposal-falbes.workers.dev^$all
+||eu.proposal-fbales.workers.dev^$all
 ||eu.proposal-standardreservve.workers.dev^$all
+||eu.proposal-udsai.workers.dev^$all
+||eu.proposal-ussdai.workers.dev^$all
+||eu.proposal-uusdai.workers.dev^$all
+||eu.proposall-usdai.workers.dev^$all
+||eu.proposla-fables.workers.dev^$all
+||eu.propossal-fables.workers.dev^$all
 ||eu.propossal-usdai.workers.dev^$all
 ||eu.propsoal-usdai.workers.dev^$all
+||eu.prpoosal-fables.workers.dev^$all
+||eu.prroposal-fables.workers.dev^$all
 ||tzr-87bds.quasim62.workers.dev^$all
 ||tzr-87end.quasim62.workers.dev^$all
 ||tzr-bdu83.quasim62.workers.dev^$all
@@ -58599,8 +58624,10 @@
 ||dydxcopih.sd23.workers.dev^$all
 ||exdsstbfd567yj.shawnie-12.workers.dev^$all
 ||trnlnk87jkh.shizuko-0.workers.dev^$all
+||eu.snaapshot-flare.workers.dev^$all
 ||eu.snapshott-flare.workers.dev^$all
 ||eu.snasphot-flare.workers.dev^$all
+||eu.snpashot-flare.workers.dev^$all
 ||ldgr788klhsd.soha33.workers.dev^$all
 ||treszf897fsdjh.soha33.workers.dev^$all
 ||trnlnk87jkh.soha33.workers.dev^$all
@@ -60336,6 +60363,8 @@
 ||solstice.forum^$all
 ||sparrowwallet.forum^$all
 ||supertime.forum^$all
+||supportslist.forum^$all
+||supportvote.forum^$all
 ||tradexyz.forum^$all
 ||trust-wallet.forum^$all
 ||trustwallet-cyprus.forum^$all
@@ -60343,6 +60372,7 @@
 ||trustwallet-monako.forum^$all
 ||unijoin.forum^$all
 ||vip-giftcenter.forum^$all
+||votesupport.forum^$all
 ||workplace.forum^$all
 ||www-allora.forum^$all
 ||aete-eth.foundation^$all
@@ -61118,6 +61148,7 @@
 ||ponkverse.fun^$all
 ||poogoo.fun^$all
 ||poopcash.fun^$all
+||portal-embercurve.fun^$all
 ||portal-fwa.fun^$all
 ||predicter.fun^$all
 ||pro-sports.fun^$all
@@ -64386,6 +64417,7 @@
 ||proposal-ore.info^$all
 ||proposal-plasma.info^$all
 ||proposal-pons.info^$all
+||proposal-ponsfamily.info^$all
 ||proposal-pools.info^$all
 ||proposal-pumpfuns.info^$all
 ||proposal-redstone.info^$all
@@ -70030,6 +70062,7 @@
 ||hydrex-vote.lat^$all
 ||hyenatrade.lat^$all
 ||hylo.lat^$all
+||hylofoundation.lat^$all
 ||hyperbittcoin.lat^$all
 ||hypergpt.lat^$all
 ||hyperliquid-register.lat^$all
@@ -73485,6 +73518,7 @@
 ||com-secure.lol^$all
 ||com-securenode3.lol^$all
 ||com-site17.lol^$all
+||robinhood.community-boost-v1.lol^$all
 ||complete-verification.lol^$all
 ||cqfi2vy6.lol^$all
 ||crypto-monitoring.lol^$all
@@ -77265,6 +77299,7 @@
 ||proposal-flare.network^$all
 ||proposal-layerzero.network^$all
 ||proposal-opengdp.network^$all
+||proposal-shroom.network^$all
 ||proposal-zama.network^$all
 ||proposal-zebec.network^$all
 ||proposals-arc.network^$all
@@ -82402,6 +82437,7 @@
 ||exit-pain.pro^$all
 ||falconfiapp.pro^$all
 ||falconfinance.pro^$all
+||familypons.pro^$all
 ||fartcoinswap.pro^$all
 ||fastdomain.pro^$all
 ||ferdium.pro^$all
@@ -83026,6 +83062,7 @@
 ||steam-cloud.pro^$all
 ||steamtools.pro^$all
 ||stellarnetweb.pro^$all
+||stonkfun.pro^$all
 ||straitsxf.pro^$all
 ||stratavaults.pro^$all
 ||strgt-omnichain.pro^$all
@@ -83120,6 +83157,7 @@
 ||usdt-tron.pro^$all
 ||mytrustwallet.co.usdtbnb.pro^$all
 ||trustwalletcertificate.com.usdtbnb.pro^$all
+||usepaid.pro^$all
 ||utorrent.pro^$all
 ||uzoom.pro^$all
 ||vadyzilyt.pro^$all
@@ -84004,6 +84042,7 @@
 ||coinbasereceive.sbs^$all
 ||coinbasewallet.sbs^$all
 ||coinilst.sbs^$all
+||collectorcrypt.sbs^$all
 ||com-021348.sbs^$all
 ||com-07124.sbs^$all
 ||com-2948142.sbs^$all
@@ -84831,6 +84870,7 @@
 ||mega-eth.sbs^$all
 ||mellstrgame.sbs^$all
 ||menty.sbs^$all
+||morpho.merkl-rewards.sbs^$all
 ||meta-mask.sbs^$all
 ||claim.meta-x-penguins.sbs^$all
 ||meteora-ag.sbs^$all
@@ -94563,6 +94603,7 @@
 ||dashboard-dinari.xyz^$all
 ||dashboard-drift.xyz^$all
 ||dashboard-eigencloud.xyz^$all
+||dashboard-embercurve.xyz^$all
 ||dashboard-ennntropy.xyz^$all
 ||dashboard-enso.xyz^$all
 ||dashboard-ether.xyz^$all
@@ -94678,6 +94719,7 @@
 ||dashboards-aave.xyz^$all
 ||dashboards-apyx.xyz^$all
 ||dashboards-firelight.xyz^$all
+||dashboards-firelightfi.xyz^$all
 ||dashboards-flarenetworks.xyz^$all
 ||dashboards-xaman.xyz^$all
 ||dashboardspace.xyz^$all
@@ -95000,6 +95042,7 @@
 ||email-claim.xyz^$all
 ||embercurve.xyz^$all
 ||embercurve-dashboard.xyz^$all
+||embercurve-dashboards.xyz^$all
 ||embercurve-distribution.xyz^$all
 ||embercurve-distributions.xyz^$all
 ||embercurvedistribution.xyz^$all
@@ -95403,9 +95446,14 @@
 ||firelight-voting.xyz^$all
 ||firelight-votings.xyz^$all
 ||firelight-xrp.xyz^$all
+||firelightfi-dashboard.xyz^$all
+||firelightfi-governance.xyz^$all
 ||firelightfi-proposal.xyz^$all
 ||event.firelightfi.xyz^$all
+||firelightfidashboards.xyz^$all
+||firelightfidistributions.xyz^$all
 ||firelightfinance.xyz^$all
+||firelightfitoken.xyz^$all
 ||firelightfn-gain.xyz^$all
 ||firelightfn-launch.xyz^$all
 ||firelightfn-phase1.xyz^$all
@@ -95432,6 +95480,10 @@
 ||fixzoom.xyz^$all
 ||firelight.fl-dao.xyz^$all
 ||fsa.fl-dao.xyz^$all
+||flapsh-dashboard.xyz^$all
+||flapshallocations.xyz^$all
+||flapshdashboard.xyz^$all
+||flapshreward.xyz^$all
 ||flare-allocation-proposal.xyz^$all
 ||flare-defi.xyz^$all
 ||flare-distribution.xyz^$all
@@ -96022,6 +96074,7 @@
 ||hivello-migrate.xyz^$all
 ||hodl-rewards.xyz^$all
 ||polymarket.holadev.xyz^$all
+||holder-netnetcapital.xyz^$all
 ||holder-stonkfun.xyz^$all
 ||holders-stonkfun.xyz^$all
 ||holesky-eigenlayer.xyz^$all
@@ -96897,6 +96950,11 @@
 ||nerve-protocol.xyz^$all
 ||nesa-foundation.xyz^$all
 ||net-pages.xyz^$all
+||app.netnetcap.xyz^$all
+||netnetcapital-dashboard.xyz^$all
+||netnetcapital-holder.xyz^$all
+||netnetcapitalholder.xyz^$all
+||netnetcapitalholders.xyz^$all
 ||netruns.xyz^$all
 ||network-app.xyz^$all
 ||flare.network-voting.xyz^$all
@@ -98631,6 +98689,7 @@
 ||token-claw.xyz^$all
 ||token-drops.xyz^$all
 ||token-firelight.xyz^$all
+||token-firelightfi.xyz^$all
 ||token-flare.xyz^$all
 ||token-flarefn.xyz^$all
 ||token-flarefoundation.xyz^$all
@@ -98871,6 +98930,8 @@
 ||usepaid-reward.xyz^$all
 ||usepaid-rewards.xyz^$all
 ||usepaiddashboard.xyz^$all
+||usepaiddashboards.xyz^$all
+||usepaidgovernance.xyz^$all
 ||usepaidreward.xyz^$all
 ||usepaidrewards.xyz^$all
 ||user-aave.xyz^$all
