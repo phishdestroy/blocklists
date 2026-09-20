@@ -5745,6 +5745,7 @@
 ||pump-voting-a4.netlify.app^$all
 ||pump-voting-a8.netlify.app^$all
 ||pump-voting-az.netlify.app^$all
+||pump-voting-b9.netlify.app^$all
 ||pump-voting-bd.netlify.app^$all
 ||pump-voting-bj.netlify.app^$all
 ||pump-voting-bq.netlify.app^$all
@@ -6483,6 +6484,7 @@
 ||revokescash.app^$all
 ||reward-3jane.app^$all
 ||reward-across.app^$all
+||reward-desk.app^$all
 ||reward-firelight.app^$all
 ||reward-flare.app^$all
 ||reward-ray.app^$all
@@ -28084,7 +28086,6 @@
 ||cancel858-coinbase.firebaseapp.com^$all
 ||cardano-zendesk.firebaseapp.com^$all
 ||claims-eigenfoundation.firebaseapp.com^$all
-||geminiai-trading.firebaseapp.com^$all
 ||goldfishgold.firebaseapp.com^$all
 ||gominningminerdev.firebaseapp.com^$all
 ||instantjotlab.firebaseapp.com^$all
@@ -93912,6 +93913,7 @@
 ||arcblink.xyz^$all
 ||arcbridgecrypto.xyz^$all
 ||arcbrokies.xyz^$all
+||arcdashboard.xyz^$all
 ||arceasy.xyz^$all
 ||arcescrow.xyz^$all
 ||arcexit.xyz^$all
@@ -95829,7 +95831,9 @@
 ||flarenetworks-reward.xyz^$all
 ||flarenetworks-rewards.xyz^$all
 ||flarenetworks-season.xyz^$all
+||flarenetworks-snapshot.xyz^$all
 ||flarenetworks-stake.xyz^$all
+||flarenetworks-stakes.xyz^$all
 ||flarenetworks-staking.xyz^$all
 ||flarenetworks-tokens.xyz^$all
 ||flarenetworks-vote.xyz^$all
@@ -95837,9 +95841,13 @@
 ||flarenetworks-voting.xyz^$all
 ||flarenetworks-votings.xyz^$all
 ||flarenetworksallocation.xyz^$all
+||flarenetworksallocations.xyz^$all
 ||flarenetworksdashboard.xyz^$all
 ||flarenetworkseligibility.xyz^$all
 ||flarenetworksgovernances.xyz^$all
+||flarenetworksholders.xyz^$all
+||flarenetworkslaunch.xyz^$all
+||flarenetworkslaunchpad.xyz^$all
 ||flarenetworksrewards.xyz^$all
 ||flarenetworkssnapshots.xyz^$all
 ||flarenetworksstake.xyz^$all
@@ -96310,6 +96318,7 @@
 ||hylo-eligibility.xyz^$all
 ||hyloallocation.xyz^$all
 ||hyloallocations.xyz^$all
+||hylodashboard.xyz^$all
 ||hyloeligibility.xyz^$all
 ||hype-box.xyz^$all
 ||hype-canton.xyz^$all
@@ -96680,6 +96689,7 @@
 ||launch-flaregovernance.xyz^$all
 ||launch-flarenetworks.xyz^$all
 ||launch-flr.xyz^$all
+||launch-netnetcapital.xyz^$all
 ||launchertool.xyz^$all
 ||launchpad-kaito.xyz^$all
 ||launchpad-ponsfamily.xyz^$all
@@ -97170,12 +97180,14 @@
 ||netnetcapitalgovernances.xyz^$all
 ||netnetcapitalholder.xyz^$all
 ||netnetcapitalholders.xyz^$all
+||netnetcapitallaunch.xyz^$all
 ||netnetcapitalrewards.xyz^$all
 ||netnetcapitalsnapshot.xyz^$all
 ||netnetcapitalsnapshots.xyz^$all
 ||netnetcapitalstake.xyz^$all
 ||netnetcapitalstakes.xyz^$all
 ||netnetcapitalstaking.xyz^$all
+||netnetcapitalstakings.xyz^$all
 ||netnetcapitaltoken.xyz^$all
 ||netnetcapitaltokens.xyz^$all
 ||netruns.xyz^$all
@@ -98182,6 +98194,7 @@
 ||reward-flarefoundation.xyz^$all
 ||reward-flaregovernance.xyz^$all
 ||reward-flarenetwork.xyz^$all
+||reward-flarenetworks.xyz^$all
 ||reward-flr.xyz^$all
 ||reward-fluid.xyz^$all
 ||reward-gifts.xyz^$all
@@ -98694,6 +98707,7 @@
 ||staking-arcium.xyz^$all
 ||staking-flaregovernance.xyz^$all
 ||staking-flarenetwork.xyz^$all
+||staking-netnetcapital.xyz^$all
 ||staking-sherwood.xyz^$all
 ||interface-rail.stakingreward.xyz^$all
 ||stakings-flarenetworks.xyz^$all
@@ -98957,6 +98971,7 @@
 ||tokens-flaregovernance.xyz^$all
 ||tokens-flarenetworks.xyz^$all
 ||tokens-flr.xyz^$all
+||tokens-usepaid.xyz^$all
 ||tokens-xrpl.xyz^$all
 ||tokensautofixss.xyz^$all
 ||tokensdistributiondesk.xyz^$all
