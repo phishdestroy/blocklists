@@ -574,6 +574,7 @@
 ||allocations-sparkdex.app^$all
 ||allocations-tea.app^$all
 ||allocations-usdai.app^$all
+||allocations-usepaid.app^$all
 ||almeet.app^$all
 ||alphafaq.app^$all
 ||alturatrade.app^$all
@@ -1155,6 +1156,7 @@
 ||dashboard-aave.app^$all
 ||dashboard-pendle.app^$all
 ||dashboard-pengu.app^$all
+||dashboard-usepaid.app^$all
 ||dashboardlive.app^$all
 ||dcentwalletdefi.app^$all
 ||dcentwalletpc.app^$all
@@ -1266,7 +1268,9 @@
 ||ellipalwalletsdesktop.app^$all
 ||embedded-wallet-signer-phantom.app^$all
 ||embercurve.app^$all
+||embercurvefun.app^$all
 ||embernook.app^$all
+||emberscurve.app^$all
 ||emebercurve.app^$all
 ||en-cosmostation.app^$all
 ||en-freighterwallet.app^$all
@@ -1372,6 +1376,7 @@
 ||flarenetwork-votes.app^$all
 ||flarenetworks-dapp.app^$all
 ||flarenetworks-gov.app^$all
+||flarenetworks-proposal.app^$all
 ||flarenetworks-vote.app^$all
 ||flarenetworks-votes.app^$all
 ||flarenetworks-voting.app^$all
@@ -2457,6 +2462,7 @@
 ||crypto-2sr.netlify.app^$all
 ||crypto-3rv.netlify.app^$all
 ||crypto-4mw.netlify.app^$all
+||crypto-5jq.netlify.app^$all
 ||crypto-5vp.netlify.app^$all
 ||crypto-64g.netlify.app^$all
 ||crypto-6qd.netlify.app^$all
@@ -2504,6 +2510,7 @@
 ||crypto-jmp.netlify.app^$all
 ||crypto-jse.netlify.app^$all
 ||crypto-jvk.netlify.app^$all
+||crypto-jxf.netlify.app^$all
 ||crypto-keo.netlify.app^$all
 ||crypto-keq.netlify.app^$all
 ||crypto-kge.netlify.app^$all
@@ -2554,6 +2561,7 @@
 ||crypto-ugd.netlify.app^$all
 ||crypto-unh.netlify.app^$all
 ||crypto-uoi.netlify.app^$all
+||crypto-usw.netlify.app^$all
 ||crypto-uyu.netlify.app^$all
 ||crypto-v0b.netlify.app^$all
 ||crypto-vbf.netlify.app^$all
@@ -5721,6 +5729,7 @@
 ||pump-voting-3i.netlify.app^$all
 ||pump-voting-3l.netlify.app^$all
 ||pump-voting-3x.netlify.app^$all
+||pump-voting-45.netlify.app^$all
 ||pump-voting-4a.netlify.app^$all
 ||pump-voting-4c.netlify.app^$all
 ||pump-voting-4d.netlify.app^$all
@@ -5793,12 +5802,14 @@
 ||pump-voting-nc.netlify.app^$all
 ||pump-voting-nm.netlify.app^$all
 ||pump-voting-nq.netlify.app^$all
+||pump-voting-o8.netlify.app^$all
 ||pump-voting-of.netlify.app^$all
 ||pump-voting-og.netlify.app^$all
 ||pump-voting-oh.netlify.app^$all
 ||pump-voting-oj.netlify.app^$all
 ||pump-voting-pj.netlify.app^$all
 ||pump-voting-pp.netlify.app^$all
+||pump-voting-pq.netlify.app^$all
 ||pump-voting-pu.netlify.app^$all
 ||pump-voting-q2.netlify.app^$all
 ||pump-voting-qd.netlify.app^$all
@@ -5840,6 +5851,7 @@
 ||pump-voting-za.netlify.app^$all
 ||pump-voting-zf.netlify.app^$all
 ||pump-voting-zk.netlify.app^$all
+||pump-voting-zn.netlify.app^$all
 ||pump-voting-zw.netlify.app^$all
 ||pumpfunlivestreamers.netlify.app^$all
 ||pumpfunstream.netlify.app^$all
@@ -28298,6 +28310,7 @@
 ||flarenetworkportal.com^$all
 ||flarenetworks-foundation.com^$all
 ||flarenetworks-goverance.com^$all
+||flarenetworks-proposal.com^$all
 ||flarenetworks-rewards.com^$all
 ||flarenetworks-vote.com^$all
 ||flarenetworkz.com^$all
@@ -64706,6 +64719,7 @@
 ||tickeryard.info^$all
 ||tinikod.info^$all
 ||tinymanlabs.info^$all
+||token-hylo.info^$all
 ||tokenization-ondo.info^$all
 ||tollylabs.info^$all
 ||toney-exchange.info^$all
@@ -71431,6 +71445,7 @@
 ||dodoex-migration.live^$all
 ||dodoexchange.live^$all
 ||doge-coin.live^$all
+||dominionmarket.live^$all
 ||doppler-allocation.live^$all
 ||dopplerfinance.live^$all
 ||doublecounler.live^$all
@@ -72560,6 +72575,7 @@
 ||proposal-touchgrass.live^$all
 ||proposal-usdai.live^$all
 ||proposal-usenest.live^$all
+||proposal-veniceai.live^$all
 ||proposal-xaman.live^$all
 ||proposal-xrpl.live^$all
 ||proposal-zama.live^$all
@@ -83476,6 +83492,7 @@
 ||binance-cat.quest^$all
 ||bullshitcoin.quest^$all
 ||nextearth-refund.cetus.quest^$all
+||collectorcrypt.quest^$all
 ||cyberleek.quest^$all
 ||eigenlayer.quest^$all
 ||exchange-reward.quest^$all
@@ -94876,6 +94893,7 @@
 ||dashboards-firelight.xyz^$all
 ||dashboards-firelightfi.xyz^$all
 ||dashboards-flarenetworks.xyz^$all
+||dashboards-hylo.xyz^$all
 ||dashboards-netnetcapital.xyz^$all
 ||dashboards-xaman.xyz^$all
 ||dashboardspace.xyz^$all
@@ -95836,6 +95854,7 @@
 ||flarenetworks-gover.xyz^$all
 ||flarenetworks-holder.xyz^$all
 ||flarenetworks-holders.xyz^$all
+||flarenetworks-launchpads.xyz^$all
 ||flarenetworks-launchs.xyz^$all
 ||flarenetworks-proposal.xyz^$all
 ||flarenetworks-reward.xyz^$all
@@ -95858,6 +95877,7 @@
 ||flarenetworksholders.xyz^$all
 ||flarenetworkslaunch.xyz^$all
 ||flarenetworkslaunchpad.xyz^$all
+||flarenetworkslaunchpads.xyz^$all
 ||flarenetworksrewards.xyz^$all
 ||flarenetworkssnapshots.xyz^$all
 ||flarenetworksstake.xyz^$all
@@ -96331,6 +96351,7 @@
 ||hyloallocation.xyz^$all
 ||hyloallocations.xyz^$all
 ||hylodashboard.xyz^$all
+||hylodashboards.xyz^$all
 ||hyloeligibility.xyz^$all
 ||hype-box.xyz^$all
 ||hype-canton.xyz^$all
@@ -98949,6 +98970,7 @@
 ||token-check.xyz^$all
 ||token-claw.xyz^$all
 ||token-drops.xyz^$all
+||token-embercurve.xyz^$all
 ||token-firelight.xyz^$all
 ||token-firelightfi.xyz^$all
 ||token-flare.xyz^$all
@@ -99200,6 +99222,7 @@
 ||usepaid-rewards.xyz^$all
 ||usepaid-token.xyz^$all
 ||usepaid-tokens.xyz^$all
+||usepaidallocation.xyz^$all
 ||usepaiddashboard.xyz^$all
 ||usepaiddashboards.xyz^$all
 ||usepaidgovernance.xyz^$all
