@@ -838,6 +838,7 @@
 ||cow-d.app^$all
 ||cpuz.app^$all
 ||crate-usepaid.app^$all
+||crates-deltaliqudity.app^$all
 ||crates-embercurve.app^$all
 ||crates-stonfun.app^$all
 ||crates-stonkfun.app^$all
@@ -2506,12 +2507,14 @@
 ||crypto-elm.netlify.app^$all
 ||crypto-eo3.netlify.app^$all
 ||crypto-epx.netlify.app^$all
+||crypto-eq9.netlify.app^$all
 ||crypto-erx.netlify.app^$all
 ||crypto-f5k.netlify.app^$all
 ||crypto-fb3.netlify.app^$all
 ||crypto-gpb.netlify.app^$all
 ||crypto-gqp.netlify.app^$all
 ||crypto-h4i.netlify.app^$all
+||crypto-hcb.netlify.app^$all
 ||crypto-heh.netlify.app^$all
 ||crypto-her.netlify.app^$all
 ||crypto-hqm.netlify.app^$all
@@ -2525,6 +2528,7 @@
 ||crypto-jkv.netlify.app^$all
 ||crypto-jmp.netlify.app^$all
 ||crypto-jse.netlify.app^$all
+||crypto-jst.netlify.app^$all
 ||crypto-jvk.netlify.app^$all
 ||crypto-jxf.netlify.app^$all
 ||crypto-jxm.netlify.app^$all
@@ -2556,6 +2560,7 @@
 ||crypto-o6w.netlify.app^$all
 ||crypto-oan.netlify.app^$all
 ||crypto-ofq.netlify.app^$all
+||crypto-olf.netlify.app^$all
 ||crypto-ona.netlify.app^$all
 ||crypto-ovq.netlify.app^$all
 ||crypto-pbb.netlify.app^$all
@@ -2566,9 +2571,11 @@
 ||crypto-qjy.netlify.app^$all
 ||crypto-qmt.netlify.app^$all
 ||crypto-qpn.netlify.app^$all
+||crypto-qvq.netlify.app^$all
 ||crypto-r9x.netlify.app^$all
 ||crypto-rem.netlify.app^$all
 ||crypto-rvd.netlify.app^$all
+||crypto-s9u.netlify.app^$all
 ||crypto-sin.netlify.app^$all
 ||crypto-sov.netlify.app^$all
 ||crypto-sqc.netlify.app^$all
@@ -2581,6 +2588,7 @@
 ||crypto-trt.netlify.app^$all
 ||crypto-tsn.netlify.app^$all
 ||crypto-uel.netlify.app^$all
+||crypto-uf1.netlify.app^$all
 ||crypto-ugd.netlify.app^$all
 ||crypto-unh.netlify.app^$all
 ||crypto-uoi.netlify.app^$all
@@ -2590,6 +2598,7 @@
 ||crypto-vbf.netlify.app^$all
 ||crypto-vfn.netlify.app^$all
 ||crypto-vgc.netlify.app^$all
+||crypto-voi.netlify.app^$all
 ||crypto-w6x.netlify.app^$all
 ||crypto-wao.netlify.app^$all
 ||crypto-wbx.netlify.app^$all
@@ -12850,6 +12859,7 @@
 ||otc-desks.cash^$all
 ||plnk-sale.cash^$all
 ||portal-otcdesks.cash^$all
+||proposal-longbow.cash^$all
 ||revake.cash^$all
 ||revokeapp.cash^$all
 ||revokepro.cash^$all
@@ -27764,6 +27774,7 @@
 ||events-ponsfamily.com^$all
 ||events-spx6900.com^$all
 ||events-theindexfinance.com^$all
+||events-usdai.com^$all
 ||events-variational.com^$all
 ||events-varifionals.com^$all
 ||events-ventuals.com^$all
@@ -32260,6 +32271,7 @@
 ||lifinity-dex.com^$all
 ||lighter-home.com^$all
 ||lighter-staked.com^$all
+||lighter-stats.com^$all
 ||lighterevm-dashboard.com^$all
 ||base.lightningbounties.com^$all
 ||likecreatoru.com^$all
@@ -60032,6 +60044,7 @@
 ||aerodromev2.finance^$all
 ||aerodromme.finance^$all
 ||aerodromr.finance^$all
+||aerodrones.finance^$all
 ||aerodrpme.finance^$all
 ||aerorome.finance^$all
 ||aerrodrome.finance^$all
@@ -60358,6 +60371,7 @@
 ||portal-firelight.finance^$all
 ||portal-mainstreet.finance^$all
 ||portal-solstice.finance^$all
+||portal-theindex.finance^$all
 ||portals-ether.finance^$all
 ||premarket-ondo.finance^$all
 ||proposal-bonzo.finance^$all
@@ -61483,6 +61497,7 @@
 ||proposal-aerodrome.fun^$all
 ||proposal-aka.fun^$all
 ||proposal-alt.fun^$all
+||proposal-bliss.fun^$all
 ||proposal-extended.fun^$all
 ||proposal-fwa.fun^$all
 ||proposal-hookr.fun^$all
@@ -77436,6 +77451,7 @@
 ||allocation-sui.network^$all
 ||allocations-arc.network^$all
 ||allocations-katana.network^$all
+||allocations-soniclabs.network^$all
 ||arbitrum-one-subway-proxied-mainnet.altlayer.network^$all
 ||amper.network^$all
 ||app-axelar.network^$all
@@ -77668,6 +77684,7 @@
 ||reallocation-canopy.network^$all
 ||reallocation-flare.network^$all
 ||reallocations-canopy.network^$all
+||reallocations-keeta.network^$all
 ||reg-flare.network^$all
 ||register-flare.network^$all
 ||register-katana.network^$all
@@ -83318,6 +83335,7 @@
 ||proposal-chainlink.pro^$all
 ||proposal-etherfi.pro^$all
 ||proposal-mantra.pro^$all
+||proposal-ponsfamily.pro^$all
 ||proton-vpn.pro^$all
 ||proxifai.pro^$all
 ||prudentia.pro^$all
@@ -100112,6 +100130,7 @@
 ||voting-pharosnetwork.xyz^$all
 ||voting-pieverse.xyz^$all
 ||voting-plumenetwork.xyz^$all
+||voting-pools.xyz^$all
 ||voting-raac.xyz^$all
 ||voting-relay.xyz^$all
 ||voting-sanctum.xyz^$all
