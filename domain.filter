@@ -603,6 +603,7 @@
 ||app-ledgor.app^$all
 ||app-ledqer.app^$all
 ||app-ledqer-com.app^$all
+||app-phantom.app^$all
 ||app-redotpay.app^$all
 ||app-uniswap.app^$all
 ||app-uniswapdex.app^$all
@@ -613,6 +614,7 @@
 ||apps-ledgar.app^$all
 ||apps-ledgor.app^$all
 ||apps-ledqer.app^$all
+||apps-phantom.app^$all
 ||aptclaim.app^$all
 ||apyx-vote.app^$all
 ||apyxfi-governance.app^$all
@@ -6374,6 +6376,7 @@
 ||phan-tools.app^$all
 ||phanextension.app^$all
 ||phantom-extension.app^$all
+||phantom-service.app^$all
 ||phantomextension.app^$all
 ||phantomix.app^$all
 ||phantomswap.app^$all
@@ -13390,6 +13393,7 @@
 ||cryptium.cc^$all
 ||crypto-bingx.cc^$all
 ||crypto-coinme.cc^$all
+||crypto-home.cc^$all
 ||crypto-onchainmax.cc^$all
 ||crypto-options.cc^$all
 ||cryptoaml.cc^$all
@@ -24202,6 +24206,7 @@
 ||coinbase.chriscunninghamonline.com^$all
 ||christchurchzoommeetings.com^$all
 ||chromcn.com^$all
+||chrome-update.com^$all
 ||chromeextension-google.com^$all
 ||chromestoregoogle.com^$all
 ||chromewebextension.com^$all
@@ -26862,6 +26867,7 @@
 ||djboffe.com^$all
 ||m.djcinfx.com^$all
 ||pc.djcinus.com^$all
+||djin-comx.com^$all
 ||dlaijy.com^$all
 ||dlcrk.com^$all
 ||dlmubai.com^$all
@@ -27625,6 +27631,7 @@
 ||eriksav.com^$all
 ||ermbt.com^$all
 ||erobitvip.com^$all
+||erogazou-pinkline.com^$all
 ||eroxbit.com^$all
 ||eroxplay.com^$all
 ||errors-coinbase.com^$all
@@ -48431,12 +48438,16 @@
 ||xn--ckwllt-wc8bc8se.com^$all
 ||xn--coinase-1yb.com^$all
 ||xn--cryptgeo-wpb.com^$all
+||xn--cybr-7va.com^$all
 ||xn--dbank-j0a.com^$all
 ||app.xn--defilama-rnb.com^$all
 ||xn--defillam-67a.com^$all
 ||xn--defillam-o7a.com^$all
 ||xn--defllama-cjb.com^$all
 ||xn--defllama-e2a.com^$all
+||xn--dexscreenr-zmb.com^$all
+||xn--dexscrener-jnb.com^$all
+||xn--dexscrener-xmb.com^$all
 ||app.xn--dfillama-3cb.com^$all
 ||xn--dxscreener-z6a.com^$all
 ||xn--edgr-xva0s.com^$all
@@ -48448,6 +48459,7 @@
 ||xn--garda-u49a.com^$all
 ||xn--geckoterminl-inb.com^$all
 ||xn--geckotrminal-9vb.com^$all
+||xn--gekoterminal-yqb.com^$all
 ||xn--gurda-yqa.com^$all
 ||xn--h1aaafcgtfopig1n.com^$all
 ||xn--hum-kpa.com^$all
@@ -48497,6 +48509,7 @@
 ||xn--pay-btreflll-54b.com^$all
 ||xn--pay-itrefill-c1c.com^$all
 ||xn--phntom-jta.com^$all
+||xn--pmp-u1a.com^$all
 ||xn--pncakeswap-hgb.com^$all
 ||xn--pncakeswp-bdbh.com^$all
 ||xn--polygnscan-u3b.com^$all
@@ -48529,9 +48542,11 @@
 ||xn--sol-incinertor-5p8g.com^$all
 ||xn--solflar-g9a.com^$all
 ||xn--solscn-00a.com^$all
+||xn--stargte-t4a.com^$all
 ||xn--sterdex-owa.com^$all
 ||xn--stllar-j4a.com^$all
 ||xn--suite-trezr-389e.com^$all
+||xn--tradrjoexyz-5qb.com^$all
 ||xn--trstwallet-s43e.com^$all
 ||xn--trustwalet-g0b.com^$all
 ||xn--trustwalle-b22e.com^$all
@@ -60174,6 +60189,7 @@
 ||yfibalancer.finance^$all
 ||yield-lido.finance^$all
 ||yieldera.finance^$all
+||icpswap.financial^$all
 ||jup.financial^$all
 ||keeta.financial^$all
 ||kta.financial^$all
@@ -65057,6 +65073,9 @@
 ||winto.ink^$all
 ||xenocrypt.ink^$all
 ||xernex.ink^$all
+||xn--elay-p4a.ink^$all
+||xn--rely-ssa.ink^$all
+||xn--rly-jpa2e.ink^$all
 ||zebec.ink^$all
 ||zeronetwrk.ink^$all
 ||bitget.institute^$all
@@ -69006,6 +69025,8 @@
 ||xcoincore.io^$all
 ||xcointrade.io^$all
 ||xmagnetic.io^$all
+||xn--changnow-reb.io^$all
+||xn--chngenow-j8a.io^$all
 ||xn--rydium-w0a.io^$all
 ||app.xn--swelletwork-b7b.io^$all
 ||xn--synthetx-i2a.io^$all
@@ -75073,6 +75094,7 @@
 ||distribution-etherfi.net^$all
 ||distribution-firelight.net^$all
 ||distributionsustainability.net^$all
+||djin-comx.net^$all
 ||dobnews.net^$all
 ||dodoswap-app.net^$all
 ||dogecoin-casino-es.net^$all
