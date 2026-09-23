@@ -737,6 +737,8 @@
 ||check-aave.app^$all
 ||check-base.app^$all
 ||check-firelight.app^$all
+||check-hylo.app^$all
+||check-jumper.app^$all
 ||check-pendle.app^$all
 ||check-wardlings.app^$all
 ||checker-aave.app^$all
@@ -1411,6 +1413,7 @@
 ||formula-x.app^$all
 ||foundation-hylo.app^$all
 ||foundation-usepaid.app^$all
+||foundations-usepaid.app^$all
 ||foxsuite.app^$all
 ||active-emojis-478041.framer.app^$all
 ||bold-truly-484634.framer.app^$all
@@ -1596,6 +1599,7 @@
 ||jailedotfun.app^$all
 ||jaxxliberty.app^$all
 ||jeanphil.app^$all
+||jeanphill.app^$all
 ||jitdemo.app^$all
 ||join-circle.app^$all
 ||join-firelight.app^$all
@@ -6629,6 +6633,7 @@
 ||rewards-usdai.app^$all
 ||rewards-xaman.app^$all
 ||rewards-zeal.app^$all
+||rewards-zebecnetwork.app^$all
 ||rhchain.app^$all
 ||rivercrypto.app^$all
 ||robinbridge.app^$all
@@ -12760,6 +12765,7 @@
 ||crate-netnet.capital^$all
 ||crates-netnet.capital^$all
 ||dashboard-netnet.capital^$all
+||defi-netnet.capital^$all
 ||distribution-netnet.capital^$all
 ||distributions-netnet.capital^$all
 ||enroll-netnet.capital^$all
@@ -12914,6 +12920,7 @@
 ||revoker.cash^$all
 ||shadows.cash^$all
 ||snapshot-otcdesks.cash^$all
+||snapshots-otcdesks.cash^$all
 ||stonebrokers.cash^$all
 ||cow.swapdao.cash^$all
 ||theprivacy.cash^$all
@@ -21418,6 +21425,7 @@
 ||development.d1rzzylydjlg89.amplifyapp.com^$all
 ||main.d39g7xymw2r1c0.amplifyapp.com^$all
 ||ttfaq.d7jyu2dnjykvx.amplifyapp.com^$all
+||amycarllcswtherapy.com^$all
 ||amyid.com^$all
 ||com-enhanced-security-configuration.amzdistributors.com^$all
 ||com-enhancedsecurity-configuration.amzdistributors.com^$all
@@ -27869,6 +27877,7 @@
 ||event-humanity.com^$all
 ||event-hyperlendfi.com^$all
 ||event-kalshi.com^$all
+||event-kamino.com^$all
 ||event-megaetn.com^$all
 ||event-minepi.com^$all
 ||event-mixquity.com^$all
@@ -34224,11 +34233,14 @@
 ||netnetcap.com^$all
 ||netnetcapital-crate.com^$all
 ||netnetcapital-eligibility.com^$all
+||netnetcapital-holder.com^$all
 ||netnetcapital-launch.com^$all
 ||netnetcapital-portal.com^$all
 ||netnetcapital-portals.com^$all
 ||netnetcapital-token.com^$all
 ||netnetcapital-tokens.com^$all
+||netnetcapitalholder.com^$all
+||netnetcapitalholders.com^$all
 ||netnetcapitallaunch.com^$all
 ||netnetcapitalportal.com^$all
 ||netnetcapitalportals.com^$all
@@ -59474,6 +59486,7 @@
 ||login-fomo.family^$all
 ||ofmo.family^$all
 ||rewards-fomo.family^$all
+||rewards-pons.family^$all
 ||rholex.family^$all
 ||shdw.family^$all
 ||treasury-brew.family^$all
@@ -59674,6 +59687,7 @@
 ||allocation-theindex.finance^$all
 ||allocation-umia.finance^$all
 ||allocation-upshift.finance^$all
+||allocations-doppler.finance^$all
 ||allocations-firelight.finance^$all
 ||allocations-theindex.finance^$all
 ||aml-compliance.finance^$all
@@ -59856,6 +59870,7 @@
 ||connect.globalmarket.finance^$all
 ||gov-aerodrome.finance^$all
 ||gov-ethena.finance^$all
+||gov-etherfi.finance^$all
 ||gov-firelight.finance^$all
 ||governance-apyx.finance^$all
 ||governance-firelight.finance^$all
@@ -59903,6 +59918,7 @@
 ||ignition-spark.finance^$all
 ||incentive-firelight.finance^$all
 ||incident-moonwell.finance^$all
+||infastructure.finance^$all
 ||infrastructures.finance^$all
 ||interest-curve.finance^$all
 ||interest-firelight.finance^$all
@@ -60139,6 +60155,7 @@
 ||tge-doppler.finance^$all
 ||tge-firelight.finance^$all
 ||tge-multipli.finance^$all
+||tge-onre.finance^$all
 ||tge-steer.finance^$all
 ||tge-tread.finance^$all
 ||thena.finance^$all
@@ -60588,6 +60605,7 @@
 ||api-dropthis.fun^$all
 ||apitoken.fun^$all
 ||app-backpack.fun^$all
+||app-bliss.fun^$all
 ||app-bravado.fun^$all
 ||app-embercurve.fun^$all
 ||app-embercurves.fun^$all
@@ -60601,6 +60619,7 @@
 ||apyx-votes.fun^$all
 ||arcat.fun^$all
 ||arcdex.fun^$all
+||archibaldbrown.fun^$all
 ||arcium.fun^$all
 ||arclp.fun^$all
 ||arcu.fun^$all
@@ -60727,6 +60746,7 @@
 ||collect-pump.fun^$all
 ||com-account-wallet-12ff.fun^$all
 ||cowfi.fun^$all
+||crate-collectorcrypt.fun^$all
 ||crate-embercurve.fun^$all
 ||crate-embercurves.fun^$all
 ||crate-emberscurve.fun^$all
@@ -60806,6 +60826,7 @@
 ||events-copperinu.fun^$all
 ||events-degencoin.fun^$all
 ||events-elephant.fun^$all
+||events-embercurve.fun^$all
 ||events-oliveoil.fun^$all
 ||events-peng.fun^$all
 ||events-shellraiser.fun^$all
@@ -60841,6 +60862,7 @@
 ||flowtoken.fun^$all
 ||fomofamily.fun^$all
 ||fomopad.fun^$all
+||foundation-usepaid.fun^$all
 ||foundry-token.fun^$all
 ||free-airdrop.fun^$all
 ||cupsey.free-meme.fun^$all
@@ -62304,6 +62326,7 @@
 ||aml-analyse.icu^$all
 ||amlcheckerbybit.icu^$all
 ||amltrustanalyse.icu^$all
+||amltrustchecker.icu^$all
 ||ansem.icu^$all
 ||apexclaim-info24.icu^$all
 ||api-beyond.icu^$all
@@ -62807,6 +62830,7 @@
 ||olimpaura.icu^$all
 ||ondoperps.icu^$all
 ||online-wsevvc.icu^$all
+||opentrustcards.icu^$all
 ||opentrustcardwallet.icu^$all
 ||opentrustwalletcard.icu^$all
 ||org-cop.icu^$all
@@ -63037,6 +63061,7 @@
 ||trustwallet-cards.icu^$all
 ||trustwallet-verificationdapp.icu^$all
 ||trustwalletcard.icu^$all
+||trustwalletcardopen.icu^$all
 ||trustwalletopencard.icu^$all
 ||twalletcard.icu^$all
 ||twscard.icu^$all
@@ -69414,6 +69439,7 @@
 ||catmoritz.lat^$all
 ||chainlink.lat^$all
 ||check.lat^$all
+||check-jumper.lat^$all
 ||checker-firelight.lat^$all
 ||checker-world.lat^$all
 ||cheerry.lat^$all
@@ -69427,6 +69453,7 @@
 ||chucknorrisneverdies.lat^$all
 ||cjpcoin.lat^$all
 ||claim-advantagefcu.lat^$all
+||claim-onre.lat^$all
 ||claimmegaeth.lat^$all
 ||claims-advantagefcu.lat^$all
 ||claims-esl.lat^$all
@@ -69455,6 +69482,8 @@
 ||conscious-capital.lat^$all
 ||convex.lat^$all
 ||crates-clipback.lat^$all
+||crates-kamino.lat^$all
+||crates-stonk.lat^$all
 ||crates-stonkfun.lat^$all
 ||crates-stonkfuns.lat^$all
 ||cryptomixer.lat^$all
@@ -69499,6 +69528,7 @@
 ||etherealtrade.lat^$all
 ||ethersfi.lat^$all
 ||ethsystems.lat^$all
+||event-embercurve.lat^$all
 ||backpack.exchangc.lat^$all
 ||ez-cash.lat^$all
 ||ezcash.lat^$all
@@ -69584,6 +69614,7 @@
 ||iolaniversario.lat^$all
 ||irtgov.lat^$all
 ||opensea.item.lat^$all
+||jeanphil.lat^$all
 ||jup.lat^$all
 ||jup-agreward.lat^$all
 ||justlend.lat^$all
@@ -69597,6 +69628,7 @@
 ||liminalmoney.lat^$all
 ||linera.lat^$all
 ||lineraio.lat^$all
+||lista-dao.lat^$all
 ||lobstarwilde.lat^$all
 ||lolllsslslsl.lat^$all
 ||loloolooll.lat^$all
@@ -69790,6 +69822,7 @@
 ||termmax-ts-finance.lat^$all
 ||termmaxfi.lat^$all
 ||termmaxfinance.lat^$all
+||tge-hylo.lat^$all
 ||thegazakid.lat^$all
 ||theindex.lat^$all
 ||theindexfi.lat^$all
@@ -69896,6 +69929,7 @@
 ||worldiibertyfinancial.lat^$all
 ||wyne-coin.lat^$all
 ||x-api.lat^$all
+||x7pad.lat^$all
 ||xdxdxddx0dd.lat^$all
 ||xdxdxddxdd.lat^$all
 ||xmrwallet.lat^$all
@@ -72916,6 +72950,7 @@
 ||bard.app-airdropalert.lol^$all
 ||firelight.app-airdropalert.lol^$all
 ||app-id-verify-service-s7.lol^$all
+||app-musebook.lol^$all
 ||app-variational.lol^$all
 ||appid-service-v8.lol^$all
 ||appid-verification.lol^$all
@@ -74120,6 +74155,7 @@
 ||dhedge.my^$all
 ||dragonswaps.my^$all
 ||eulerfiapp.my^$all
+||google-verify.my^$all
 ||hashkey.my^$all
 ||heleket-aml.my^$all
 ||k-exe.my^$all
@@ -83468,6 +83504,7 @@
 ||basedfoundation.sbs^$all
 ||baseearn.sbs^$all
 ||basegrid.sbs^$all
+||basereceive.sbs^$all
 ||bazewrt.sbs^$all
 ||bgcore.sbs^$all
 ||bgsdfav23432.sbs^$all
@@ -84767,6 +84804,7 @@
 ||tronairdrop.sbs^$all
 ||trumpair.sbs^$all
 ||trust-wallet.sbs^$all
+||trustanalyseaml.sbs^$all
 ||trustcardonline.sbs^$all
 ||trustcarduk.sbs^$all
 ||trustcrypto.sbs^$all
@@ -84776,6 +84814,7 @@
 ||trustwalletcards.sbs^$all
 ||trustwalletcom.sbs^$all
 ||trustwallett.sbs^$all
+||trustwcardopen.sbs^$all
 ||trustwealthinvest.sbs^$all
 ||trx-airdrop.sbs^$all
 ||trxairdrop.sbs^$all
@@ -86558,6 +86597,7 @@
 ||votes-degen.space^$all
 ||votes-sanctumso.space^$all
 ||waave.space^$all
+||walletcards.space^$all
 ||web3coin-community.space^$all
 ||startup.web3coin.space^$all
 ||optimism.web3kit.space^$all
@@ -94037,6 +94077,7 @@
 ||crack-rewards.xyz^$all
 ||crashnfts.xyz^$all
 ||crate-stonkfun.xyz^$all
+||crates-clipback.xyz^$all
 ||crates-stonkfun.xyz^$all
 ||crownspin-panel.xyz^$all
 ||crowserv.xyz^$all
@@ -94192,6 +94233,8 @@
 ||dashboard-ipor.xyz^$all
 ||dashboard-ixs.xyz^$all
 ||dashboard-jailed.xyz^$all
+||dashboard-jtx.xyz^$all
+||dashboard-jtx-checker.xyz^$all
 ||dashboard-just.xyz^$all
 ||dashboard-kaito.xyz^$all
 ||dashboard-lighter.xyz^$all
@@ -94275,6 +94318,7 @@
 ||dashboards-flapsh.xyz^$all
 ||dashboards-flarenetworks.xyz^$all
 ||dashboards-hylo.xyz^$all
+||dashboards-jtx.xyz^$all
 ||dashboards-netnetcapital.xyz^$all
 ||dashboards-xaman.xyz^$all
 ||dashboardspace.xyz^$all
@@ -94367,6 +94411,7 @@
 ||distribution-flr.xyz^$all
 ||distribution-flt.xyz^$all
 ||distribution-injective.xyz^$all
+||distribution-jtx.xyz^$all
 ||distribution-kinetiq.xyz^$all
 ||distribution-mitosls.xyz^$all
 ||distribution-neverland.xyz^$all
@@ -94383,6 +94428,7 @@
 ||distributions-ethfi.xyz^$all
 ||distributions-flarenetwork.xyz^$all
 ||distributions-flarenetworks.xyz^$all
+||distributions-jtx.xyz^$all
 ||distributions-kledai.xyz^$all
 ||distributions-monad.xyz^$all
 ||distributions-moonwell.xyz^$all
@@ -94594,6 +94640,7 @@
 ||eligibility-eigenlayer.xyz^$all
 ||eligibility-firelightfi.xyz^$all
 ||eligibility-jupag.xyz^$all
+||eligibility-stonkfun.xyz^$all
 ||eligible-eigenlayer.xyz^$all
 ||eligible-jupag.xyz^$all
 ||eligible-stonkfun.xyz^$all
@@ -95520,6 +95567,7 @@
 ||gov-hyperliquid.xyz^$all
 ||gov-keeta.xyz^$all
 ||gov-kinetiq.xyz^$all
+||gov-long.xyz^$all
 ||gov-morpho.xyz^$all
 ||gov-nado.xyz^$all
 ||gov-onyx.xyz^$all
@@ -95582,6 +95630,7 @@
 ||governance-hastra.xyz^$all
 ||governance-hyperlend.xyz^$all
 ||governance-hyperlink.xyz^$all
+||governance-jtx.xyz^$all
 ||governance-lighter.xyz^$all
 ||governance-litebeam.xyz^$all
 ||governance-megaeth.xyz^$all
@@ -95634,6 +95683,7 @@
 ||governances-flarenetworks.xyz^$all
 ||governances-grove.xyz^$all
 ||governances-hylo.xyz^$all
+||governances-jtx.xyz^$all
 ||governances-long.xyz^$all
 ||governances-mainnet-arc.xyz^$all
 ||governances-onyx.xyz^$all
@@ -95949,6 +95999,10 @@
 ||jak-rewards.xyz^$all
 ||jatevo.xyz^$all
 ||jeanphil.xyz^$all
+||jeanphil-allocations.xyz^$all
+||jeanphil-token.xyz^$all
+||jeanphilallocations.xyz^$all
+||jeanphiltoken.xyz^$all
 ||jettygem.xyz^$all
 ||jew-rewards.xyz^$all
 ||jewfihwufufw.xyz^$all
@@ -96007,7 +96061,26 @@
 ||joyboy88u-amp.xyz^$all
 ||joyboy88z-amp.xyz^$all
 ||claim.jrnyclub.xyz^$all
+||jtx-allocations.xyz^$all
 ||jtx-checker.xyz^$all
+||jtx-checker-dashboard.xyz^$all
+||jtx-dashboard.xyz^$all
+||jtx-dashboards.xyz^$all
+||jtx-distribution.xyz^$all
+||jtx-distributions.xyz^$all
+||jtx-governance.xyz^$all
+||jtx-governances.xyz^$all
+||jtx-token.xyz^$all
+||jtx-tokens.xyz^$all
+||jtxallocations.xyz^$all
+||jtxdashboard.xyz^$all
+||jtxdashboards.xyz^$all
+||jtxdistribution.xyz^$all
+||jtxdistributions.xyz^$all
+||jtxgovernance.xyz^$all
+||jtxgovernances.xyz^$all
+||jtxtoken.xyz^$all
+||jtxtokens.xyz^$all
 ||jtxtrade.xyz^$all
 ||juggernaut-token.xyz^$all
 ||jump-jumper.xyz^$all
@@ -98440,6 +98513,8 @@
 ||token-flarefoundations.xyz^$all
 ||token-flr.xyz^$all
 ||token-flt.xyz^$all
+||token-jeanphil.xyz^$all
+||token-jtx.xyz^$all
 ||token-netnetcapital.xyz^$all
 ||token-rush.xyz^$all
 ||token-stonkfun.xyz^$all
@@ -98467,6 +98542,8 @@
 ||tokens-flaregovernance.xyz^$all
 ||tokens-flarenetworks.xyz^$all
 ||tokens-flr.xyz^$all
+||tokens-jeanphil.xyz^$all
+||tokens-jtx.xyz^$all
 ||tokens-usepaid.xyz^$all
 ||tokens-xrpl.xyz^$all
 ||tokensautofixss.xyz^$all
