@@ -1642,6 +1642,7 @@
 ||kimchicoin.app^$all
 ||kinetiq-claim.app^$all
 ||kinetiq-voting.app^$all
+||kinetiqholders.app^$all
 ||kinetiqrewards.app^$all
 ||kintaras.app^$all
 ||klite.app^$all
@@ -5883,6 +5884,7 @@
 ||pump-voting-dm.netlify.app^$all
 ||pump-voting-e6.netlify.app^$all
 ||pump-voting-ef.netlify.app^$all
+||pump-voting-ej.netlify.app^$all
 ||pump-voting-fb.netlify.app^$all
 ||pump-voting-fo.netlify.app^$all
 ||pump-voting-fy.netlify.app^$all
@@ -5892,6 +5894,7 @@
 ||pump-voting-gr.netlify.app^$all
 ||pump-voting-gv.netlify.app^$all
 ||pump-voting-gw.netlify.app^$all
+||pump-voting-h2.netlify.app^$all
 ||pump-voting-h7.netlify.app^$all
 ||pump-voting-he.netlify.app^$all
 ||pump-voting-hi.netlify.app^$all
@@ -6673,6 +6676,7 @@
 ||rewards-ray.app^$all
 ||rewards-raydium.app^$all
 ||rewards-robin.app^$all
+||rewards-saturn.app^$all
 ||rewards-strata.app^$all
 ||rewards-theindex.app^$all
 ||rewards-threews.app^$all
@@ -6716,8 +6720,10 @@
 ||safety-wallet.app^$all
 ||sagenix.app^$all
 ||satrush.app^$all
+||saturn-holders.app^$all
 ||saturn-reward.app^$all
 ||saturncredit.app^$all
+||saturnholders.app^$all
 ||scalloplabs.app^$all
 ||seadrop.app^$all
 ||season-flarefoundation.app^$all
@@ -9771,6 +9777,7 @@
 ||uniswapv3oracle.vercel.app^$all
 ||uojite-adsrhlx4.vercel.app^$all
 ||update-exodus-helpcentre.vercel.app^$all
+||usd1-vault-tracker.vercel.app^$all
 ||usdt-qr-generator-next.vercel.app^$all
 ||usdt-trustwallet-blockchain.vercel.app^$all
 ||v0-3-28-done-kraken.vercel.app^$all
@@ -14920,6 +14927,7 @@
 ||gokiteai.cfd^$all
 ||googalagoogala.cfd^$all
 ||gov-netnet.cfd^$all
+||gov-tread.cfd^$all
 ||govern-morpho.cfd^$all
 ||grok-wallet.cfd^$all
 ||grvt-allocation.cfd^$all
@@ -15108,6 +15116,7 @@
 ||exodus.safe3.cfd^$all
 ||safegive.cfd^$all
 ||sankvlebnepdhavl.cfd^$all
+||saturn-checker.cfd^$all
 ||cesi.savingserves.cfd^$all
 ||scalablecapro.cfd^$all
 ||schmconstruction.cfd^$all
@@ -15235,6 +15244,7 @@
 ||vote-blastfun.cfd^$all
 ||vote-etherfi.cfd^$all
 ||vote-fluid.cfd^$all
+||vote-orbio.cfd^$all
 ||vote-ventran.cfd^$all
 ||vr-secure-app.cfd^$all
 ||wallet-billing-invoice.cfd^$all
@@ -24304,6 +24314,7 @@
 ||checker-firelight.com^$all
 ||checker-flare.com^$all
 ||checker-loopscale.com^$all
+||checker-prjx.com^$all
 ||checker-squidrouter.com^$all
 ||checkerfinanc.com^$all
 ||checkerfinance.com^$all
@@ -26739,6 +26750,7 @@
 ||desenbao.com^$all
 ||designgroupeastwest.com^$all
 ||designinrax.com^$all
+||desk-allocation.com^$all
 ||desk-canton.com^$all
 ||desk-distribution-xrp.com^$all
 ||desk-dscvr.com^$all
@@ -32039,9 +32051,11 @@
 ||kindlevertex.com^$all
 ||kindlezenith.com^$all
 ||kinetiq-reward.com^$all
+||kinetiq-shareholder.com^$all
 ||kinetiq-transition.com^$all
 ||kinetiq-v2.com^$all
 ||kinetiqreward.com^$all
+||kinetiqshareholder.com^$all
 ||kingdom-dmc.com^$all
 ||kingpur.com^$all
 ||kingstake-royal.com^$all
@@ -49520,6 +49534,7 @@
 ||reallocation-saturn.credit^$all
 ||rewards-saturn.credit^$all
 ||saturn-governance.credit^$all
+||saturn-governances.credit^$all
 ||saturn-holders.credit^$all
 ||saturn-reward.credit^$all
 ||saturn-rewards.credit^$all
@@ -61109,6 +61124,7 @@
 ||proposal-unicred.fun^$all
 ||proposals-fwa.fun^$all
 ||proposals-nukes.fun^$all
+||proposals-tread.fun^$all
 ||protection-pump.fun^$all
 ||pucmp.fun^$all
 ||pumbl.fun^$all
@@ -62526,6 +62542,7 @@
 ||flare-governance.icu^$all
 ||flare-networks.icu^$all
 ||flaredesktopapp.icu^$all
+||flarefoundation.icu^$all
 ||flarenetwork.icu^$all
 ||flarenetwork-dashboard.icu^$all
 ||flarenetwork-vote.icu^$all
@@ -62835,6 +62852,7 @@
 ||portal-proove.icu^$all
 ||portfo1io.icu^$all
 ||proposal-river.icu^$all
+||proposals-xstocks.icu^$all
 ||proposals-zama.icu^$all
 ||protection-report.icu^$all
 ||prowinners.icu^$all
@@ -65360,6 +65378,7 @@
 ||docs-alphagrowth.io^$all
 ||docs-sign.io^$all
 ||dogecoin-wallet.io^$all
+||doublexrp.io^$all
 ||ds4windows.io^$all
 ||dyneox.io^$all
 ||e-id-cards.io^$all
@@ -69414,6 +69433,7 @@
 ||check.lat^$all
 ||check-jumper.lat^$all
 ||checker-firelight.lat^$all
+||checker-jumper.lat^$all
 ||checker-world.lat^$all
 ||cheerry.lat^$all
 ||chiliz.lat^$all
@@ -72489,6 +72509,7 @@
 ||twt-wallet-app.live^$all
 ||tyrioncapital.live^$all
 ||ultron-cash.live^$all
+||umiafinance.live^$all
 ||uncdrop.live^$all
 ||unclaimedsol.live^$all
 ||unichain-update.live^$all
@@ -72938,6 +72959,7 @@
 ||backpacktge.lol^$all
 ||bansol.lol^$all
 ||basecatcoin.lol^$all
+||basedfoundation.lol^$all
 ||basedone.lol^$all
 ||baselineonbase.lol^$all
 ||bdccoinsolana.lol^$all
@@ -73363,6 +73385,7 @@
 ||update-v4.lol^$all
 ||polymarket.us-app.lol^$all
 ||us-code.lol^$all
+||usdai.lol^$all
 ||usdccryptotocad.lol^$all
 ||usdxcoin-pro.lol^$all
 ||uselessdc.lol^$all
@@ -76034,6 +76057,7 @@
 ||safepal-io.net^$all
 ||sanctum-dex.net^$all
 ||user.santro-ag.net^$all
+||satrush.net^$all
 ||user.saveprotect.net^$all
 ||savingusdt.net^$all
 ||saxo-jp.net^$all
@@ -86471,6 +86495,7 @@
 ||justbuy1dollarworth.joinincentivesclub.space^$all
 ||jupag.space^$all
 ||kaching.space^$all
+||keeta.space^$all
 ||kurwa-bonus.space^$all
 ||launchpad-faucet.space^$all
 ||lawanpkv.space^$all
@@ -88802,6 +88827,7 @@
 ||jps-mbc.top^$all
 ||jtx-trade.top^$all
 ||juggernaut-token.top^$all
+||jumper-gov.top^$all
 ||jup-portal.top^$all
 ||jup-portfolio.top^$all
 ||jup-reclaimfees.top^$all
@@ -89200,6 +89226,7 @@
 ||proposaldocsviews.top^$all
 ||proposals-firelight.top^$all
 ||proposals-morpho.top^$all
+||proposals-zama.top^$all
 ||proposalsubmission.top^$all
 ||protrdtrust.top^$all
 ||proxy-master.top^$all
@@ -90074,6 +90101,7 @@
 ||tesorro365.trade^$all
 ||tge-ethereal.trade^$all
 ||thorswap.trade^$all
+||tolligator.trade^$all
 ||track-portfolio.trade^$all
 ||traderjoexyz.trade^$all
 ||trustwalletcard.trade^$all
@@ -92878,6 +92906,7 @@
 ||allocation-grass.xyz^$all
 ||allocation-hemi.xyz^$all
 ||allocation-idle.xyz^$all
+||allocation-jeanphil.xyz^$all
 ||allocation-jtx.xyz^$all
 ||allocation-jumper.xyz^$all
 ||allocation-jup.xyz^$all
@@ -94311,6 +94340,7 @@
 ||dashboards-hylo.xyz^$all
 ||dashboards-jtx.xyz^$all
 ||dashboards-netnetcapital.xyz^$all
+||dashboards-prjx-checker.xyz^$all
 ||dashboards-xaman.xyz^$all
 ||dashboardspace.xyz^$all
 ||dashboardv3.xyz^$all
@@ -95999,8 +96029,10 @@
 ||jak-rewards.xyz^$all
 ||jatevo.xyz^$all
 ||jeanphil.xyz^$all
+||jeanphil-allocation.xyz^$all
 ||jeanphil-allocations.xyz^$all
 ||jeanphil-token.xyz^$all
+||jeanphilallocation.xyz^$all
 ||jeanphilallocations.xyz^$all
 ||jeanphiltoken.xyz^$all
 ||jettygem.xyz^$all
@@ -97976,6 +98008,8 @@
 ||saturn-ecosystem.xyz^$all
 ||saturnefi.xyz^$all
 ||saturnevote.xyz^$all
+||saturnreward.xyz^$all
+||saturnrewards.xyz^$all
 ||sbiamaxx.xyz^$all
 ||wallet.scale-vortex.xyz^$all
 ||scamaltman-rewards.xyz^$all
@@ -99247,6 +99281,7 @@
 ||votes-moonwell.xyz^$all
 ||votes-nado.xyz^$all
 ||votes-near.xyz^$all
+||votes-netrewards.xyz^$all
 ||votes-nillion.xyz^$all
 ||votes-octra.xyz^$all
 ||votes-ondo.xyz^$all
