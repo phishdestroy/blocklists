@@ -1633,10 +1633,12 @@
 ||kinetiq-claim.app^$all
 ||kinetiq-holder.app^$all
 ||kinetiq-shareholders.app^$all
+||kinetiq-vote.app^$all
 ||kinetiq-voting.app^$all
 ||kinetiqholders.app^$all
 ||kinetiqrewards.app^$all
 ||kinetiqshareholders.app^$all
+||kinetiqvote.app^$all
 ||kintaras.app^$all
 ||klite.app^$all
 ||kntq-vote.app^$all
@@ -2620,6 +2622,7 @@
 ||crypto-olf.netlify.app^$all
 ||crypto-ona.netlify.app^$all
 ||crypto-ovq.netlify.app^$all
+||crypto-oyh.netlify.app^$all
 ||crypto-pbb.netlify.app^$all
 ||crypto-pe1.netlify.app^$all
 ||crypto-pek.netlify.app^$all
@@ -3174,6 +3177,7 @@
 ||moonshot-listing-eae.netlify.app^$all
 ||moonshot-listing-efw.netlify.app^$all
 ||moonshot-listing-eif.netlify.app^$all
+||moonshot-listing-elk.netlify.app^$all
 ||moonshot-listing-emc.netlify.app^$all
 ||moonshot-listing-enq.netlify.app^$all
 ||moonshot-listing-epq.netlify.app^$all
@@ -3340,6 +3344,7 @@
 ||moonshot-listing-orw.netlify.app^$all
 ||moonshot-listing-osg.netlify.app^$all
 ||moonshot-listing-oww.netlify.app^$all
+||moonshot-listing-oyt.netlify.app^$all
 ||moonshot-listing-ozs.netlify.app^$all
 ||moonshot-listing-p26.netlify.app^$all
 ||moonshot-listing-pcu.netlify.app^$all
@@ -3370,6 +3375,7 @@
 ||moonshot-listing-quz.netlify.app^$all
 ||moonshot-listing-qvl.netlify.app^$all
 ||moonshot-listing-qwk.netlify.app^$all
+||moonshot-listing-qwv.netlify.app^$all
 ||moonshot-listing-qyc.netlify.app^$all
 ||moonshot-listing-qyk.netlify.app^$all
 ||moonshot-listing-qz6.netlify.app^$all
@@ -3428,6 +3434,7 @@
 ||moonshot-listing-tiv.netlify.app^$all
 ||moonshot-listing-tkp.netlify.app^$all
 ||moonshot-listing-tlb.netlify.app^$all
+||moonshot-listing-tmr.netlify.app^$all
 ||moonshot-listing-tnt.netlify.app^$all
 ||moonshot-listing-tnx.netlify.app^$all
 ||moonshot-listing-to9.netlify.app^$all
@@ -3452,6 +3459,7 @@
 ||moonshot-listing-ukv.netlify.app^$all
 ||moonshot-listing-uli.netlify.app^$all
 ||moonshot-listing-ume.netlify.app^$all
+||moonshot-listing-uvb.netlify.app^$all
 ||moonshot-listing-uvx.netlify.app^$all
 ||moonshot-listing-uwr.netlify.app^$all
 ||moonshot-listing-uzm.netlify.app^$all
@@ -6044,6 +6052,7 @@
 ||robinhood-main-dex-mtv.netlify.app^$all
 ||robinhood-main-dex-owq.netlify.app^$all
 ||robinhood-main-dex-pgt.netlify.app^$all
+||robinhood-main-dex-psg.netlify.app^$all
 ||robinhood-main-dex-sdc.netlify.app^$all
 ||robinhood-main-dex-uvm.netlify.app^$all
 ||robinhood-main-dex-vgb.netlify.app^$all
@@ -60116,6 +60125,7 @@
 ||financing-xwtn.forum^$all
 ||freecall.forum^$all
 ||getlists.forum^$all
+||getvotes.forum^$all
 ||guarda.forum^$all
 ||helpcast.forum^$all
 ||helpingvotes.forum^$all
@@ -60971,6 +60981,7 @@
 ||proposal-unicred.fun^$all
 ||proposals-aeve.fun^$all
 ||proposals-blast.fun^$all
+||proposals-embercurve.fun^$all
 ||proposals-fwa.fun^$all
 ||proposals-nukes.fun^$all
 ||proposals-tread.fun^$all
@@ -61634,6 +61645,7 @@
 ||driftprotocoi.guru^$all
 ||cow.ecipies-do.guru^$all
 ||event.firelight.guru^$all
+||governance-pendle.guru^$all
 ||iggy.guru^$all
 ||injective.guru^$all
 ||magicwand.guru^$all
@@ -69831,6 +69843,7 @@
 ||ethenafi.life^$all
 ||ether-scan.life^$all
 ||ethgpu.life^$all
+||firelight-ecosystem.life^$all
 ||flarefoundation.life^$all
 ||flarenetwork.life^$all
 ||flarenetworks.life^$all
@@ -71580,6 +71593,7 @@
 ||nearprotocol.live^$all
 ||neinei.live^$all
 ||neo-spin.live^$all
+||netnet.live^$all
 ||netnet-capital.live^$all
 ||netnetchain.live^$all
 ||network-flarefoundation.live^$all
@@ -72133,6 +72147,7 @@
 ||stakebonuses.live^$all
 ||eigen.stakingsrewards.live^$all
 ||eigenfdn.stakingsrewards.live^$all
+||standardreserve.live^$all
 ||stargatemigrate.live^$all
 ||starknet-migrate.live^$all
 ||starknet-migration.live^$all
@@ -97974,6 +97989,7 @@
 ||sitemujbcz1nas1x.xyz^$all
 ||sitemujdi54aitrf.xyz^$all
 ||sitemujffobdhxgj.xyz^$all
+||sitemujoqrmsm0et.xyz^$all
 ||sitweb.xyz^$all
 ||sizecons.xyz^$all
 ||skate-amm.xyz^$all
@@ -98211,6 +98227,7 @@
 ||stakings-netrewards.xyz^$all
 ||stakingshub.xyz^$all
 ||standardlreserves.xyz^$all
+||standardreserve.xyz^$all
 ||standardreserves.xyz^$all
 ||starcomplete.xyz^$all
 ||stargate-finance-project.xyz^$all
@@ -98702,6 +98719,7 @@
 ||usepaid-distribution.xyz^$all
 ||usepaid-governance.xyz^$all
 ||usepaid-governances.xyz^$all
+||usepaid-holder.xyz^$all
 ||usepaid-holders.xyz^$all
 ||usepaid-proposal.xyz^$all
 ||usepaid-reward.xyz^$all
@@ -98747,6 +98765,7 @@
 ||users-tac.xyz^$all
 ||users-thegraph.xyz^$all
 ||users-turtle.xyz^$all
+||usesplit-holder.xyz^$all
 ||usesplitholders.xyz^$all
 ||usexs.xyz^$all
 ||ustokins.xyz^$all
