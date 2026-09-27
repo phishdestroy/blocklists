@@ -1537,6 +1537,7 @@
 ||hub-flarenetwork.app^$all
 ||hub-flarenetworks.app^$all
 ||hub-morpho.app^$all
+||hub-usepaid.app^$all
 ||hub-xrpfi-flare.app^$all
 ||huddleoo.app^$all
 ||huff-n-puff.app^$all
@@ -1560,6 +1561,7 @@
 ||identification01-ledger.app^$all
 ||ifumbled.app^$all
 ||immtoken.app^$all
+||incentive-morpho.app^$all
 ||info-aml.app^$all
 ||info-hylo.app^$all
 ||info-raum.app^$all
@@ -1630,11 +1632,15 @@
 ||kimchicoin.app^$all
 ||kinetiq-claim.app^$all
 ||kinetiq-holder.app^$all
+||kinetiq-shareholders.app^$all
 ||kinetiq-voting.app^$all
 ||kinetiqholders.app^$all
 ||kinetiqrewards.app^$all
+||kinetiqshareholders.app^$all
 ||kintaras.app^$all
 ||klite.app^$all
+||kntq-vote.app^$all
+||kntqstaking.app^$all
 ||kollabit.app^$all
 ||krakcard.app^$all
 ||social.krakenai.app^$all
@@ -1828,7 +1834,9 @@
 ||netlifi.app^$all
 ||0kxloyaltycommunityopenhub-1ww3.netlify.app^$all
 ||0kxloyaltycommunityopenhub-1zoe.netlify.app^$all
+||0kxloyaltycommunityopenhub-4ks.netlify.app^$all
 ||0kxloyaltycommunityopenhub-ka1x.netlify.app^$all
+||0kxloyaltycommunityopenhub-ou9s.netlify.app^$all
 ||0kxloyaltycommunityopenhub-ty71.netlify.app^$all
 ||0kxloyaltycommunityopenhub-za9a.netlify.app^$all
 ||1inch-dapp-router-v30.netlify.app^$all
@@ -2465,6 +2473,7 @@
 ||coincommunityvotingscore-sl.netlify.app^$all
 ||coindase-log-in-66verify.netlify.app^$all
 ||coinmarketcapblockvote-cc.netlify.app^$all
+||coinmrkp-vote-ver-52.netlify.app^$all
 ||coinprojectranking-ux.netlify.app^$all
 ||cointrendingselectionrank.netlify.app^$all
 ||coinvotelisting-cc.netlify.app^$all
@@ -2584,10 +2593,12 @@
 ||crypto-knj.netlify.app^$all
 ||crypto-kts.netlify.app^$all
 ||crypto-kxn.netlify.app^$all
+||crypto-l9k.netlify.app^$all
 ||crypto-lii.netlify.app^$all
 ||crypto-lj6.netlify.app^$all
 ||crypto-lqy.netlify.app^$all
 ||crypto-lr1.netlify.app^$all
+||crypto-lrt.netlify.app^$all
 ||crypto-mgt.netlify.app^$all
 ||crypto-mgw.netlify.app^$all
 ||crypto-mhx.netlify.app^$all
@@ -2623,6 +2634,7 @@
 ||crypto-rem.netlify.app^$all
 ||crypto-rnw.netlify.app^$all
 ||crypto-rvd.netlify.app^$all
+||crypto-s8t.netlify.app^$all
 ||crypto-s9u.netlify.app^$all
 ||crypto-sbz.netlify.app^$all
 ||crypto-scu.netlify.app^$all
@@ -2677,6 +2689,7 @@
 ||crypto-yzt.netlify.app^$all
 ||crypto-z0n.netlify.app^$all
 ||crypto-z2x.netlify.app^$all
+||crypto-zhq.netlify.app^$all
 ||crypto-zny.netlify.app^$all
 ||crypto-zqy.netlify.app^$all
 ||crypto-zt2.netlify.app^$all
@@ -3003,6 +3016,7 @@
 ||mellow-duckanoo-a41968.netlify.app^$all
 ||mellow-unicorn-43043a.netlify.app^$all
 ||mellow-zabaione-5c128f.netlify.app^$all
+||meme-claims.netlify.app^$all
 ||meme-drops.netlify.app^$all
 ||meme-interface.netlify.app^$all
 ||meme-rewards.netlify.app^$all
@@ -5818,9 +5832,11 @@
 ||publiclistingcommunityscore-io.netlify.app^$all
 ||publicvotingroom-ux.netlify.app^$all
 ||pudgypenguins-claim.netlify.app^$all
+||pump-voting-0m.netlify.app^$all
 ||pump-voting-0t.netlify.app^$all
 ||pump-voting-0v.netlify.app^$all
 ||pump-voting-10.netlify.app^$all
+||pump-voting-17.netlify.app^$all
 ||pump-voting-1u.netlify.app^$all
 ||pump-voting-2f.netlify.app^$all
 ||pump-voting-2l.netlify.app^$all
@@ -5830,6 +5846,7 @@
 ||pump-voting-30.netlify.app^$all
 ||pump-voting-3i.netlify.app^$all
 ||pump-voting-3l.netlify.app^$all
+||pump-voting-3m.netlify.app^$all
 ||pump-voting-3x.netlify.app^$all
 ||pump-voting-45.netlify.app^$all
 ||pump-voting-4a.netlify.app^$all
@@ -5844,9 +5861,11 @@
 ||pump-voting-5q.netlify.app^$all
 ||pump-voting-5u.netlify.app^$all
 ||pump-voting-5y.netlify.app^$all
+||pump-voting-6d.netlify.app^$all
 ||pump-voting-6h.netlify.app^$all
 ||pump-voting-6m.netlify.app^$all
 ||pump-voting-6t.netlify.app^$all
+||pump-voting-78.netlify.app^$all
 ||pump-voting-7g.netlify.app^$all
 ||pump-voting-7q.netlify.app^$all
 ||pump-voting-7r.netlify.app^$all
@@ -5860,6 +5879,7 @@
 ||pump-voting-a2.netlify.app^$all
 ||pump-voting-a4.netlify.app^$all
 ||pump-voting-a8.netlify.app^$all
+||pump-voting-ao.netlify.app^$all
 ||pump-voting-az.netlify.app^$all
 ||pump-voting-b9.netlify.app^$all
 ||pump-voting-bd.netlify.app^$all
@@ -5872,10 +5892,13 @@
 ||pump-voting-co.netlify.app^$all
 ||pump-voting-cr.netlify.app^$all
 ||pump-voting-cy.netlify.app^$all
+||pump-voting-cz.netlify.app^$all
 ||pump-voting-d5.netlify.app^$all
 ||pump-voting-db.netlify.app^$all
 ||pump-voting-dl.netlify.app^$all
 ||pump-voting-dm.netlify.app^$all
+||pump-voting-dn.netlify.app^$all
+||pump-voting-dv.netlify.app^$all
 ||pump-voting-e6.netlify.app^$all
 ||pump-voting-ef.netlify.app^$all
 ||pump-voting-ej.netlify.app^$all
@@ -5886,6 +5909,7 @@
 ||pump-voting-g3.netlify.app^$all
 ||pump-voting-gc.netlify.app^$all
 ||pump-voting-gn.netlify.app^$all
+||pump-voting-gq.netlify.app^$all
 ||pump-voting-gr.netlify.app^$all
 ||pump-voting-gv.netlify.app^$all
 ||pump-voting-gw.netlify.app^$all
@@ -5912,6 +5936,7 @@
 ||pump-voting-lw.netlify.app^$all
 ||pump-voting-lz.netlify.app^$all
 ||pump-voting-mg.netlify.app^$all
+||pump-voting-mk.netlify.app^$all
 ||pump-voting-mm.netlify.app^$all
 ||pump-voting-my.netlify.app^$all
 ||pump-voting-n2.netlify.app^$all
@@ -5931,6 +5956,7 @@
 ||pump-voting-q2.netlify.app^$all
 ||pump-voting-qd.netlify.app^$all
 ||pump-voting-qj.netlify.app^$all
+||pump-voting-qk.netlify.app^$all
 ||pump-voting-qm.netlify.app^$all
 ||pump-voting-qy.netlify.app^$all
 ||pump-voting-r0.netlify.app^$all
@@ -5941,6 +5967,7 @@
 ||pump-voting-ru.netlify.app^$all
 ||pump-voting-sg.netlify.app^$all
 ||pump-voting-si8.netlify.app^$all
+||pump-voting-sq.netlify.app^$all
 ||pump-voting-sw.netlify.app^$all
 ||pump-voting-sy.netlify.app^$all
 ||pump-voting-t5.netlify.app^$all
@@ -6755,6 +6782,7 @@
 ||seeker-club.app^$all
 ||seeker-portal.app^$all
 ||service-cb.app^$all
+||shareholders-kinetiq.app^$all
 ||shootradar.app^$all
 ||shoprobinhood.app^$all
 ||signup-xaman.app^$all
@@ -6803,6 +6831,7 @@
 ||stakeandrelax.app^$all
 ||stakecom.app^$all
 ||stakedigm.app^$all
+||staking-kntq.app^$all
 ||link.stakingreward.app^$all
 ||standard-reserves.app^$all
 ||standardreserve.app^$all
@@ -12955,6 +12984,7 @@
 ||get-otcdesks.cash^$all
 ||goblins.cash^$all
 ||governance-ipo.cash^$all
+||hub-otcdesks.cash^$all
 ||iscan.cash^$all
 ||longbow.cash^$all
 ||metamask.cash^$all
@@ -32050,6 +32080,10 @@
 ||kmstid.com^$all
 ||knotonstonks.com^$all
 ||knowledgdrop-saharaai.com^$all
+||kntq-staking.com^$all
+||kntqbridges.com^$all
+||kntqstaking.com^$all
+||kntqvote.com^$all
 ||koalalemon.com^$all
 ||koazox.com^$all
 ||kodiak-finance.com^$all
@@ -36376,6 +36410,7 @@
 ||proposal-onbeam.com^$all
 ||proposal-ondofinance.com^$all
 ||proposal-onyx.com^$all
+||proposal-orbio.com^$all
 ||proposal-packages.com^$all
 ||proposal-pendle.com^$all
 ||proposal-pepe.com^$all
@@ -41730,6 +41765,7 @@
 ||users-flare.com^$all
 ||usersupport-x.com^$all
 ||userwallet-fix3.com^$all
+||usesplit-crates.com^$all
 ||usexgamb.com^$all
 ||usgemwallet.com^$all
 ||uskrakotc.com^$all
@@ -59225,6 +59261,7 @@
 ||fomoo.family^$all
 ||fomp.family^$all
 ||foomo.family^$all
+||hub-familiars.family^$all
 ||login-fomo.family^$all
 ||ofmo.family^$all
 ||rewards-familiars.family^$all
@@ -60614,6 +60651,7 @@
 ||figure03.fun^$all
 ||final-cashback.fun^$all
 ||finalpump.fun^$all
+||firelight-ecosystem.fun^$all
 ||firelight-fxrp.fun^$all
 ||firelight-governance.fun^$all
 ||fireligth.fun^$all
@@ -60671,6 +60709,7 @@
 ||governance-flare.fun^$all
 ||governance-flarenetwork.fun^$all
 ||governance-flarenetworks.fun^$all
+||governance-pendle.fun^$all
 ||governance-pump.fun^$all
 ||governance-sa1t.fun^$all
 ||gptscan.fun^$all
@@ -60927,6 +60966,7 @@
 ||proposal-salt.fun^$all
 ||proposal-stonkbrokers.fun^$all
 ||proposal-unicred.fun^$all
+||proposals-aeve.fun^$all
 ||proposals-blast.fun^$all
 ||proposals-fwa.fun^$all
 ||proposals-nukes.fun^$all
@@ -61228,6 +61268,7 @@
 ||tradeterminal.fun^$all
 ||trading-meme-coins.fun^$all
 ||tradingmeme-coins.fun^$all
+||treasury-netnet.fun^$all
 ||treasury-neverland.fun^$all
 ||trending-moonshot.fun^$all
 ||trojantoken.fun^$all
@@ -61613,6 +61654,7 @@
 ||shido.guru^$all
 ||sparkfi.guru^$all
 ||stake-casino.guru^$all
+||standardreserve.guru^$all
 ||trust-wallet.guru^$all
 ||trustwallets.guru^$all
 ||up-x.guru^$all
@@ -62406,6 +62448,7 @@
 ||injectivetge.icu^$all
 ||inkchaindocusign.icu^$all
 ||install-mew-documents.icu^$all
+||interests-usdai.icu^$all
 ||invest-trading.icu^$all
 ||inviteteams-meet.icu^$all
 ||io-bridge-coin.icu^$all
@@ -64208,6 +64251,7 @@
 ||proposal-usefelix.info^$all
 ||proposal-venice.info^$all
 ||proposal-virtuals.info^$all
+||proposal-xdc.info^$all
 ||proposal-yieldbasis.info^$all
 ||proposal-zama.info^$all
 ||proposals-aerodrome.info^$all
@@ -71129,6 +71173,7 @@
 ||governance.live^$all
 ||governance-flarefnd.live^$all
 ||governance-flarenetwork.live^$all
+||governance-pendle.live^$all
 ||governances-flarefoundation.live^$all
 ||goves-flarenetwork.live^$all
 ||goves-flarenetworks.live^$all
@@ -71755,6 +71800,8 @@
 ||proposals-flarefndn.live^$all
 ||proposals-flarefoundation.live^$all
 ||proposals-flarenetworks.live^$all
+||proposals-netnet.live^$all
+||proposals-ventran.live^$all
 ||proposals-xrpl.live^$all
 ||protonemail.live^$all
 ||provenanceblockchain.live^$all
@@ -72236,6 +72283,7 @@
 ||treas-spx-6900.live^$all
 ||treasury-flarefndn.live^$all
 ||treasury-flarefoundation.live^$all
+||treasury-netnet.live^$all
 ||treasury-spx-6900.live^$all
 ||treasury-spx6900.live^$all
 ||trezor-en.live^$all
@@ -81624,6 +81672,7 @@
 ||cowsawp.pro^$all
 ||cpuz.pro^$all
 ||crates-ponsfamily.pro^$all
+||crates-usesplit.pro^$all
 ||crawlre.pro^$all
 ||createcrawl.pro^$all
 ||credit-moprho.pro^$all
@@ -88663,6 +88712,7 @@
 ||kid7.top^$all
 ||tdx-community-coinbase-com.kikota2.top^$all
 ||tdx-community-metamask-io.kikota2.top^$all
+||kinetiqecosystem.top^$all
 ||kinetiqefi.top^$all
 ||kiteth.top^$all
 ||kitether.top^$all
@@ -94184,6 +94234,7 @@
 ||derive-voting.xyz^$all
 ||derocketsolver.xyz^$all
 ||desk-jumper.xyz^$all
+||desk-stonkfun.xyz^$all
 ||desktop-rewards.xyz^$all
 ||deus-xmaquina.xyz^$all
 ||deusfoundation.xyz^$all
@@ -94248,6 +94299,7 @@
 ||distributions-kledai.xyz^$all
 ||distributions-monad.xyz^$all
 ||distributions-moonwell.xyz^$all
+||distributions-netrewards.xyz^$all
 ||distributions-solsticefinances.xyz^$all
 ||distributions-umia.xyz^$all
 ||distributions-xaman.xyz^$all
@@ -95586,6 +95638,8 @@
 ||holders-firelightfi.xyz^$all
 ||holders-kinetiq.xyz^$all
 ||holders-stonkfun.xyz^$all
+||holders-usepaid.xyz^$all
+||holders-usesplit.xyz^$all
 ||holesky-eigenlayer.xyz^$all
 ||holono.xyz^$all
 ||hookmines.xyz^$all
@@ -95755,6 +95809,7 @@
 ||interests-firelight.xyz^$all
 ||interests-kinetiq.xyz^$all
 ||interests-merkl.xyz^$all
+||interests-morpho.xyz^$all
 ||interests-nado.xyz^$all
 ||interests-stable.xyz^$all
 ||interests-usdai.xyz^$all
@@ -96009,6 +96064,9 @@
 ||klamnow.xyz^$all
 ||klick1card.xyz^$all
 ||klimadaopool.xyz^$all
+||kntqshareholders.xyz^$all
+||kntqstaking.xyz^$all
+||kntqstakings.xyz^$all
 ||koinloop.xyz^$all
 ||kosteroid.xyz^$all
 ||kraken-weex.xyz^$all
@@ -96574,6 +96632,7 @@
 ||netrewardsallocation.xyz^$all
 ||netrewardsallocations.xyz^$all
 ||netrewardsdistributions.xyz^$all
+||netrewardseligibility.xyz^$all
 ||netrewardsgovernance.xyz^$all
 ||netrewardsgovernances.xyz^$all
 ||netrewardsrewards.xyz^$all
@@ -97905,6 +97964,14 @@
 ||sitemufl06qs0r4o.xyz^$all
 ||sitemuh1nzsyz7c2.xyz^$all
 ||sitemuhhtozm9rue.xyz^$all
+||sitemuif3pa5k4eh.xyz^$all
+||sitemuife3h91vjj.xyz^$all
+||sitemuizkhpdbjnv.xyz^$all
+||sitemuj1xencnin8.xyz^$all
+||sitemuj7lzbasipw.xyz^$all
+||sitemujbcz1nas1x.xyz^$all
+||sitemujdi54aitrf.xyz^$all
+||sitemujffobdhxgj.xyz^$all
 ||sitweb.xyz^$all
 ||sizecons.xyz^$all
 ||skate-amm.xyz^$all
@@ -98645,6 +98712,7 @@
 ||usepaiddistribution.xyz^$all
 ||usepaidgovernance.xyz^$all
 ||usepaidgovernances.xyz^$all
+||usepaidholders.xyz^$all
 ||usepaidreward.xyz^$all
 ||usepaidrewards.xyz^$all
 ||usepaidtoken.xyz^$all
@@ -98677,6 +98745,7 @@
 ||users-tac.xyz^$all
 ||users-thegraph.xyz^$all
 ||users-turtle.xyz^$all
+||usesplitholders.xyz^$all
 ||usexs.xyz^$all
 ||ustokins.xyz^$all
 ||utechstables.xyz^$all
@@ -99007,6 +99076,7 @@
 ||vote-variationalprotocol.xyz^$all
 ||vote-velo.xyz^$all
 ||vote-velodrome.xyz^$all
+||vote-ventran.xyz^$all
 ||vote-virl.xyz^$all
 ||vote-virls.xyz^$all
 ||vote-virtuais.xyz^$all
