@@ -1159,6 +1159,8 @@
 ||dash-pendle.app^$all
 ||dashboard-aave.app^$all
 ||dashboard-apxy.app^$all
+||dashboard-collectorcrypt.app^$all
+||dashboard-early-bnkr.app^$all
 ||dashboard-usepaid.app^$all
 ||dashboardlive.app^$all
 ||dcentwalletdefi.app^$all
@@ -1220,6 +1222,8 @@
 ||dustrush.app^$all
 ||dydxlog.app^$all
 ||e-usepaid.app^$all
+||early-bnkr-dashboard.app^$all
+||early-bnkr-dashboards.app^$all
 ||earn-etherfi.app^$all
 ||earn-kintara.app^$all
 ||earn-zeal.app^$all
@@ -1541,6 +1545,7 @@
 ||humanityprotocol.app^$all
 ||hydrex.app^$all
 ||hyenatrade.app^$all
+||hylofdn.app^$all
 ||hylofinance.app^$all
 ||hylofnd.app^$all
 ||hylofoundation.app^$all
@@ -1642,6 +1647,7 @@
 ||kinetiqfdn.app^$all
 ||kinetiqfnd.app^$all
 ||kinetiqfoundation.app^$all
+||kinetiqgovernance.app^$all
 ||kinetiqholder.app^$all
 ||kinetiqholders.app^$all
 ||kinetiqreward.app^$all
@@ -1649,6 +1655,7 @@
 ||kinetiqshareholder.app^$all
 ||kinetiqshareholders.app^$all
 ||kinetiqvote.app^$all
+||kinetiqvotes.app^$all
 ||kintaras.app^$all
 ||klite.app^$all
 ||kntq-staking.app^$all
@@ -2488,6 +2495,7 @@
 ||coincommunityvotingopenzone.netlify.app^$all
 ||coincommunityvotingscore-sl.netlify.app^$all
 ||coindase-log-in-66verify.netlify.app^$all
+||coinmarketcap-votev421.netlify.app^$all
 ||coinmarketcapblockvote-cc.netlify.app^$all
 ||coinmrkp-vote-ver-52.netlify.app^$all
 ||coinprojectranking-ux.netlify.app^$all
@@ -2523,9 +2531,11 @@
 ||crypto-2hk.netlify.app^$all
 ||crypto-2rh.netlify.app^$all
 ||crypto-2sr.netlify.app^$all
+||crypto-3eg.netlify.app^$all
 ||crypto-3rv.netlify.app^$all
 ||crypto-4it.netlify.app^$all
 ||crypto-4mw.netlify.app^$all
+||crypto-4re.netlify.app^$all
 ||crypto-5jq.netlify.app^$all
 ||crypto-5vp.netlify.app^$all
 ||crypto-631.netlify.app^$all
@@ -2557,6 +2567,7 @@
 ||crypto-bzq.netlify.app^$all
 ||crypto-car.netlify.app^$all
 ||crypto-cff.netlify.app^$all
+||crypto-cgk.netlify.app^$all
 ||crypto-cm4.netlify.app^$all
 ||crypto-cml.netlify.app^$all
 ||crypto-cs5.netlify.app^$all
@@ -2630,6 +2641,7 @@
 ||crypto-nev.netlify.app^$all
 ||crypto-nmf.netlify.app^$all
 ||crypto-noi.netlify.app^$all
+||crypto-nqk.netlify.app^$all
 ||crypto-nxi.netlify.app^$all
 ||crypto-o6w.netlify.app^$all
 ||crypto-oan.netlify.app^$all
@@ -5566,6 +5578,8 @@
 ||newvotelistingpoll-ui.netlify.app^$all
 ||newweeklyscorevoting-ui.netlify.app^$all
 ||nft-degen.netlify.app^$all
+||okxpointsmemberstatushub-11oas.netlify.app^$all
+||okxpointsmemberstatushub-pa23.netlify.app^$all
 ||omni-variational.netlify.app^$all
 ||omnivarational.netlify.app^$all
 ||omnivariational.netlify.app^$all
@@ -7822,6 +7836,7 @@
 ||usdtmixer.app^$all
 ||usdtvault.app^$all
 ||usdwin.app^$all
+||usepaidfnd.app^$all
 ||usepaidl.app^$all
 ||userpaid.app^$all
 ||usespaid.app^$all
@@ -10011,6 +10026,7 @@
 ||votes-flarenetwork.app^$all
 ||votes-flaresnetwork.app^$all
 ||votes-flaresnetworks.app^$all
+||votes-kinetiq.app^$all
 ||votes-lido.app^$all
 ||votes-megaeth.app^$all
 ||votes-onyx.app^$all
@@ -13018,6 +13034,7 @@
 ||governance-ipo.cash^$all
 ||hub-otcdesks.cash^$all
 ||iscan.cash^$all
+||labs-otcdesks.cash^$all
 ||longbow.cash^$all
 ||metamask.cash^$all
 ||mossad.cash^$all
@@ -21676,6 +21693,7 @@
 ||apedice.com^$all
 ||apeon-portal.com^$all
 ||apeonefone.com^$all
+||apeonfone-reward.com^$all
 ||apeonfonecoin.com^$all
 ||apeonfones.com^$all
 ||apex-exchange-dex.com^$all
@@ -27363,6 +27381,7 @@
 ||eamarseba.com^$all
 ||eamtt.com^$all
 ||early-bnkr.com^$all
+||early-bnkr-dashboard.com^$all
 ||early-xprl.com^$all
 ||earn-concrete.com^$all
 ||earn-dexscreener.com^$all
@@ -28864,6 +28883,7 @@
 ||foudux.com^$all
 ||foundation-firelight.com^$all
 ||foundation-keeta.com^$all
+||vote.foundation-kinetiq.com^$all
 ||foundation-loopscale.com^$all
 ||foundation-pendle.com^$all
 ||foundation-spx-6900.com^$all
@@ -30790,6 +30810,7 @@
 ||holaprlme.com^$all
 ||hold-gemini.com^$all
 ||hold-google.com^$all
+||holder-kamino.com^$all
 ||holder-trust-wallet.com^$all
 ||holders-ember.com^$all
 ||holders-flarenetwork.com^$all
@@ -33556,6 +33577,7 @@
 ||miccorosoft.com^$all
 ||miccroosoft.com^$all
 ||miccrossoftt.com^$all
+||michi-crates.com^$all
 ||miciorosoft.com^$all
 ||micislive.com^$all
 ||mickelson-allocation.com^$all
@@ -41792,6 +41814,7 @@
 ||userwallet-fix3.com^$all
 ||usesplit-crates.com^$all
 ||usexgamb.com^$all
+||useyap-reward.com^$all
 ||useyapfun.com^$all
 ||usgemwallet.com^$all
 ||uskrakotc.com^$all
@@ -50597,6 +50620,7 @@
 ||asqerll12321.pages.dev^$all
 ||assembleu-workspace.pages.dev^$all
 ||asset-allocation.pages.dev^$all
+||asset-box-x.pages.dev^$all
 ||asset-ledger-app-45w.pages.dev^$all
 ||assets-ledgerr.pages.dev^$all
 ||assets-ledgrlive-eng.pages.dev^$all
@@ -59518,6 +59542,7 @@
 ||checker-theindex.finance^$all
 ||ciaim-lombard.finance^$all
 ||claim-dirac.finance^$all
+||claim-doppler.finance^$all
 ||claim-falcon.finance^$all
 ||claim-firelight.finance^$all
 ||claim-lombard.finance^$all
@@ -60023,6 +60048,7 @@
 ||x-ether.finance^$all
 ||xaman-app.finance^$all
 ||xarnan.finance^$all
+||xdp-doppler.finance^$all
 ||xmrwallet.finance^$all
 ||xn--revert-mwa.finance^$all
 ||xn--symbosis-f2a.finance^$all
@@ -60373,6 +60399,7 @@
 ||alchemyforge.fun^$all
 ||algotrade.fun^$all
 ||alienexe.fun^$all
+||allocate-embercurve.fun^$all
 ||allocation-embercurve.fun^$all
 ||allocation-fcm.fun^$all
 ||allocation-fwa.fun^$all
@@ -60556,6 +60583,7 @@
 ||curve-governance.fun^$all
 ||dao-fwa.fun^$all
 ||dao-pump.fun^$all
+||dapp-nearpad.fun^$all
 ||dappos.fun^$all
 ||dashboard-backpack.fun^$all
 ||dashboard-embercurve.fun^$all
@@ -62089,6 +62117,7 @@
 ||allocation-hype.icu^$all
 ||allocation-jupiter.icu^$all
 ||allocation-nado.icu^$all
+||allocation-near.icu^$all
 ||allocation-standardreserve.icu^$all
 ||allocationfidelity.icu^$all
 ||allocations-basedonex.icu^$all
@@ -62595,6 +62624,7 @@
 ||nelwork.icu^$all
 ||neosoul.icu^$all
 ||netnet-capital.icu^$all
+||netnetcapital.icu^$all
 ||neurosol.icu^$all
 ||newsparkapi.icu^$all
 ||newtork-v4.icu^$all
@@ -62788,10 +62818,12 @@
 ||spark-dex.icu^$all
 ||sparkdex.icu^$all
 ||sparkdzx.icu^$all
+||spectrafinance.icu^$all
 ||splrush.icu^$all
 ||ssozoomevents.icu^$all
 ||stakedao.icu^$all
 ||staking-degen.icu^$all
+||staking-zama.icu^$all
 ||stakingsol.icu^$all
 ||staklng-l2.icu^$all
 ||standardreserve.icu^$all
@@ -69231,6 +69263,7 @@
 ||claimmegaeth.lat^$all
 ||claims-advantagefcu.lat^$all
 ||claims-esl.lat^$all
+||claims-usepaid.lat^$all
 ||claimtempo.lat^$all
 ||claro-rewardsa.lat^$all
 ||claro-rewardsd.lat^$all
@@ -69354,6 +69387,7 @@
 ||hub-jumperxyz.lat^$all
 ||chainway.hubs-beefy.lat^$all
 ||fortressaccounting.hubs-beefy.lat^$all
+||hubs-doppler.lat^$all
 ||humanity.lat^$all
 ||hydrex.lat^$all
 ||hydrex-dao.lat^$all
@@ -72211,6 +72245,7 @@
 ||tokrevenue.live^$all
 ||topelitesfirm.live^$all
 ||toti.live^$all
+||trade-pool.live^$all
 ||trade-with-ai.live^$all
 ||tradepumpfun.live^$all
 ||tradzoomchain.live^$all
@@ -72675,6 +72710,7 @@
 ||aleostudy.lol^$all
 ||aliabdaaltoken.lol^$all
 ||allocation-hype.lol^$all
+||allocation-near.lol^$all
 ||alturax.lol^$all
 ||amlchecks.lol^$all
 ||andorsummer.lol^$all
@@ -89011,6 +89047,7 @@
 ||payward.top^$all
 ||peduck-rewards.top^$all
 ||peemee.top^$all
+||pendle-ecosystem.top^$all
 ||perpsushi.top^$all
 ||petiolesss.top^$all
 ||phantomair.top^$all
@@ -89039,6 +89076,8 @@
 ||ponsfi.top^$all
 ||pools-yieldbasis.top^$all
 ||popcats.top^$all
+||portal-firelight.top^$all
+||portal-flarenetwork.top^$all
 ||portal-linera.top^$all
 ||portal-moonshot.top^$all
 ||portallogonlogs.top^$all
@@ -92733,6 +92772,7 @@
 ||allocation-moonwell.xyz^$all
 ||allocation-morpho.xyz^$all
 ||allocation-nado.xyz^$all
+||allocation-near.xyz^$all
 ||allocation-netnetcapital.xyz^$all
 ||allocation-netrewards.xyz^$all
 ||allocation-neverland.xyz^$all
@@ -92760,6 +92800,7 @@
 ||allocation-solvprotocol.xyz^$all
 ||allocation-soneium.xyz^$all
 ||allocation-stable.xyz^$all
+||allocation-standardreserve.xyz^$all
 ||allocation-starknet.xyz^$all
 ||allocation-stbl.xyz^$all
 ||allocation-stonkfun.xyz^$all
@@ -92860,6 +92901,7 @@
 ||antseed-app.xyz^$all
 ||anymovies.xyz^$all
 ||anyswapbot.xyz^$all
+||apeonfoneholders.xyz^$all
 ||apesonsol.xyz^$all
 ||api-032100102-ms.xyz^$all
 ||api-auth-gateway.xyz^$all
@@ -94019,6 +94061,7 @@
 ||dashboard-diamante.xyz^$all
 ||dashboard-dinari.xyz^$all
 ||dashboard-drift.xyz^$all
+||dashboard-early.xyz^$all
 ||dashboard-eigencloud.xyz^$all
 ||dashboard-embercurve.xyz^$all
 ||dashboard-ennntropy.xyz^$all
@@ -94314,7 +94357,9 @@
 ||dymensionportal.xyz^$all
 ||eagyu.xyz^$all
 ||eaietol.xyz^$all
+||early-dashboard.xyz^$all
 ||early-flaregovernance.xyz^$all
+||earlydashboard.xyz^$all
 ||earn-concrete.xyz^$all
 ||earn-firelight.xyz^$all
 ||earn-flareecosystem.xyz^$all
@@ -94348,6 +94393,7 @@
 ||ecosystem-solstice.xyz^$all
 ||ecosystem-standardreserve.xyz^$all
 ||ecosystem-starknet.xyz^$all
+||ecosystem-stonkfun.xyz^$all
 ||ecosystem-unipix.xyz^$all
 ||ecosystem-usdai.xyz^$all
 ||ecosystem-virtual.xyz^$all
@@ -94491,6 +94537,7 @@
 ||embercurve-token.xyz^$all
 ||embercurve-tokens.xyz^$all
 ||embercurveallocation.xyz^$all
+||embercurvedashboard.xyz^$all
 ||embercurvedashboards.xyz^$all
 ||embercurvedistribution.xyz^$all
 ||embercurvedistributions.xyz^$all
@@ -95242,6 +95289,7 @@
 ||forums-firelight.xyz^$all
 ||forums-flare.xyz^$all
 ||forums-megaeth.xyz^$all
+||vote.foundation-kinetiq.xyz^$all
 ||foundation-meridian.xyz^$all
 ||foundation-starknet.xyz^$all
 ||foundationhelp.xyz^$all
@@ -95426,6 +95474,7 @@
 ||govern-aave.xyz^$all
 ||govern-firelight.xyz^$all
 ||govern-flarenetworks.xyz^$all
+||vote.govern-kinetiq.xyz^$all
 ||governace-flarenetworks.xyz^$all
 ||governance-3jane.xyz^$all
 ||governance-aero.xyz^$all
@@ -95503,6 +95552,7 @@
 ||governance-zestprotocol.xyz^$all
 ||governance-zigchain.xyz^$all
 ||governanceflr.xyz^$all
+||vote.governancekinetiq.xyz^$all
 ||governances-3jane.xyz^$all
 ||governances-embercurve.xyz^$all
 ||governances-firelight.xyz^$all
@@ -95995,10 +96045,13 @@
 ||kiichainvaults.xyz^$all
 ||kinetiq-dashboard.xyz^$all
 ||kinetiq-dashboards.xyz^$all
+||vote.kinetiq-govern.xyz^$all
+||kinetiq-governances.xyz^$all
 ||kinetiq-holder.xyz^$all
 ||kinetiq-holders.xyz^$all
 ||kinetiq-kip4.xyz^$all
 ||kinetiq-reward.xyz^$all
+||vote.kinetiq-rewards.xyz^$all
 ||kinetiq-shareholders.xyz^$all
 ||kinetiq-snapshot.xyz^$all
 ||kinetiq-v2.xyz^$all
@@ -96006,6 +96059,8 @@
 ||kinetiqdashboard.xyz^$all
 ||kinetiqecosystem.xyz^$all
 ||kinetiqfnd.xyz^$all
+||kinetiqgovernance.xyz^$all
+||kinetiqgovernances.xyz^$all
 ||kinetiqholder.xyz^$all
 ||kinetiqholders.xyz^$all
 ||kinetiqrewards.xyz^$all
@@ -96521,6 +96576,9 @@
 ||nearkat-proposal.xyz^$all
 ||nearprotocol-checker.xyz^$all
 ||nearprotocol-claims.xyz^$all
+||neet-rewards.xyz^$all
+||neetreward.xyz^$all
+||neetrewards.xyz^$all
 ||neonevm-migration.xyz^$all
 ||neosoulai.xyz^$all
 ||neouro.xyz^$all
@@ -96530,6 +96588,7 @@
 ||net-pages.xyz^$all
 ||netnet-capital.xyz^$all
 ||netnetcap.xyz^$all
+||netnetcapital.xyz^$all
 ||netnetcapital-bridge.xyz^$all
 ||netnetcapital-bridges.xyz^$all
 ||netnetcapital-dashboard.xyz^$all
@@ -97213,6 +97272,7 @@
 ||proposal-yo.xyz^$all
 ||proposal-zama.xyz^$all
 ||proposal-zebec.xyz^$all
+||proposalkinetiq.xyz^$all
 ||proposalondo.xyz^$all
 ||proposals-3jane.xyz^$all
 ||proposals-aero.xyz^$all
@@ -97641,6 +97701,7 @@
 ||reward-xrpl.xyz^$all
 ||rewardes-dao.xyz^$all
 ||rewarding-eigenlayer.xyz^$all
+||vote.rewardkinetiq.xyz^$all
 ||rewardlyst.xyz^$all
 ||rewardmorpho.xyz^$all
 ||rewards-3jane.xyz^$all
@@ -97693,6 +97754,7 @@
 ||rewards-moonwell.xyz^$all
 ||rewards-my.xyz^$all
 ||rewards-nanovita.xyz^$all
+||rewards-neet.xyz^$all
 ||rewards-netnetcapital.xyz^$all
 ||rewards-neverland.xyz^$all
 ||rewards-nexus.xyz^$all
@@ -97957,6 +98019,11 @@
 ||sitemuk7y434m4om.xyz^$all
 ||sitemuk7yi5eqn74.xyz^$all
 ||sitemuk7ys6db9qj.xyz^$all
+||sitemuk9ayiwadjz.xyz^$all
+||sitemuk9c4oppeco.xyz^$all
+||sitemukh5awm67rj.xyz^$all
+||sitemukpy2hpmpwv.xyz^$all
+||sitemukrod1am6ez.xyz^$all
 ||sitweb.xyz^$all
 ||sizecons.xyz^$all
 ||skate-amm.xyz^$all
@@ -98698,6 +98765,7 @@
 ||usepaiddashboards.xyz^$all
 ||usepaiddistribution.xyz^$all
 ||usepaiddistributions.xyz^$all
+||usepaideligibility.xyz^$all
 ||usepaidgovernance.xyz^$all
 ||usepaidgovernances.xyz^$all
 ||usepaidholder.xyz^$all
@@ -98738,11 +98806,15 @@
 ||users-thegraph.xyz^$all
 ||users-turtle.xyz^$all
 ||usesplit-holder.xyz^$all
+||usesplit-reward.xyz^$all
 ||usesplit-rewards.xyz^$all
 ||usesplitholder.xyz^$all
 ||usesplitholders.xyz^$all
 ||usesplitrewards.xyz^$all
 ||usexs.xyz^$all
+||useyap-reward.xyz^$all
+||useyapreward.xyz^$all
+||useyaprewards.xyz^$all
 ||ustokins.xyz^$all
 ||utechstables.xyz^$all
 ||v-usdai.xyz^$all
