@@ -840,6 +840,7 @@
 ||crates-collectorcrypt.app^$all
 ||crates-deltaliqudity.app^$all
 ||crates-embercurve.app^$all
+||crates-embercurves.app^$all
 ||crates-stonfun.app^$all
 ||crates-stonkfun.app^$all
 ||crates-usepaid.app^$all
@@ -1162,6 +1163,7 @@
 ||dashboard-early-bnkr.app^$all
 ||dashboard-usepaid.app^$all
 ||dashboardlive.app^$all
+||dashboards-early-bnkr.app^$all
 ||dcentwalletdefi.app^$all
 ||dcentwalletpc.app^$all
 ||de-bridges.app^$all
@@ -1634,6 +1636,7 @@
 ||kimchicoin.app^$all
 ||kinetiq-claim.app^$all
 ||kinetiq-fnd.app^$all
+||kinetiq-governance.app^$all
 ||kinetiq-holder.app^$all
 ||kinetiq-holders.app^$all
 ||kinetiq-reward.app^$all
@@ -13042,6 +13045,7 @@
 ||governance-ipo.cash^$all
 ||hub-otcdesks.cash^$all
 ||iscan.cash^$all
+||lab-otcdesks.cash^$all
 ||labs-otcdesks.cash^$all
 ||longbow.cash^$all
 ||metamask.cash^$all
@@ -26196,6 +26200,7 @@
 ||crypto-fiat-clearing.com^$all
 ||crypto-future-finance.com^$all
 ||crypto-h.com^$all
+||crypto-invest-ai.com^$all
 ||crypto-ledger-management.com^$all
 ||crypto-ll.com^$all
 ||crypto-mix.com^$all
@@ -26537,6 +26542,7 @@
 ||dashboard-firelight.com^$all
 ||dashboard-firelights.com^$all
 ||dashboard-flarenetwork.com^$all
+||dashboard-kamino.com^$all
 ||dashboard-kintara.com^$all
 ||dashboard-link.com^$all
 ||dashboard-silostaking.com^$all
@@ -28895,7 +28901,7 @@
 ||foudux.com^$all
 ||foundation-firelight.com^$all
 ||foundation-keeta.com^$all
-||vote.foundation-kinetiq.com^$all
+||foundation-kinetiq.com^$all
 ||foundation-loopscale.com^$all
 ||foundation-pendle.com^$all
 ||foundation-spx-6900.com^$all
@@ -30958,6 +30964,7 @@
 ||hub-flarefoundation.com^$all
 ||hub-flarenetwork.com^$all
 ||hub-grvt.com^$all
+||hub-kamino.com^$all
 ||hub-megaeth.com^$all
 ||hub-plasma.com^$all
 ||hub-pons.com^$all
@@ -32081,6 +32088,7 @@
 ||kinetiq-shareholder.com^$all
 ||kinetiq-transition.com^$all
 ||kinetiq-v2.com^$all
+||kinetiqfoundation.com^$all
 ||kinetiqholders.com^$all
 ||kinetiqreward.com^$all
 ||kinetiqshareholder.com^$all
@@ -59674,6 +59682,7 @@
 ||hub-ether.finance^$all
 ||hub-firelight.finance^$all
 ||hub-mainstreet.finance^$all
+||hub-onre.finance^$all
 ||quests.hub-solstice.finance^$all
 ||hubs-doppler.finance^$all
 ||hyberlend.finance^$all
@@ -60435,6 +60444,7 @@
 ||app-bravado.fun^$all
 ||app-embercurve.fun^$all
 ||app-embercurves.fun^$all
+||app-familiars.fun^$all
 ||vote.app-fwa.fun^$all
 ||app-nearpad.fun^$all
 ||app-nukes.fun^$all
@@ -60732,6 +60742,7 @@
 ||holders-embercurve.fun^$all
 ||hood401k.fun^$all
 ||hoptoarc.fun^$all
+||hub-embercurve.fun^$all
 ||hub-stonk.fun^$all
 ||hubs-doppler.fun^$all
 ||humanboard.fun^$all
@@ -63426,10 +63437,12 @@
 ||anyonefnd.info^$all
 ||anzaskr.info^$all
 ||apestore.info^$all
+||app-argus.info^$all
 ||app-firelight.info^$all
 ||app-fluid.info^$all
 ||app-hype.info^$all
 ||app-launcher.info^$all
+||app-long.info^$all
 ||app-lunatool.info^$all
 ||app-megaeth.info^$all
 ||app-mint.info^$all
@@ -63674,6 +63687,7 @@
 ||docs-viewmicrosoft.info^$all
 ||docupdate.info^$all
 ||donna-allocation.info^$all
+||doppler-finance.info^$all
 ||dopplerfinance.info^$all
 ||doublecounler.info^$all
 ||dlmm.drinkerlabs.info^$all
@@ -63904,6 +63918,7 @@
 ||hoffer-exchange.info^$all
 ||holcomb-exchange.info^$all
 ||horterpexbkins.info^$all
+||hub-collectorcrypt.info^$all
 ||hwmonitor.info^$all
 ||hydrexfi.info^$all
 ||hylo-v2.info^$all
@@ -64448,7 +64463,9 @@
 ||tespastocko.info^$all
 ||test-dr.info^$all
 ||testwallet.info^$all
+||tge-apyx.info^$all
 ||tge-firelight.info^$all
+||tge-hylo.info^$all
 ||tge-inkonchain.info^$all
 ||tge-spritehood.info^$all
 ||tge-termmaxfi.info^$all
@@ -64612,6 +64629,7 @@
 ||voting-works.info^$all
 ||voting-xrpfi.info^$all
 ||voting-zama.info^$all
+||voting-zebec.info^$all
 ||vvww-icioud-auth.info^$all
 ||waggoner-exchange.info^$all
 ||wailea-treasury.info^$all
@@ -72905,6 +72923,7 @@
 ||futuresnow.lol^$all
 ||georgethestar.lol^$all
 ||get-jup.lol^$all
+||get-musebook.lol^$all
 ||getdrained.lol^$all
 ||ghiblionsol.lol^$all
 ||givemeyourmoney.lol^$all
@@ -92889,6 +92908,10 @@
 ||antseed-app.xyz^$all
 ||anymovies.xyz^$all
 ||anyswapbot.xyz^$all
+||apeonfone-allocations.xyz^$all
+||apeonfone-holder.xyz^$all
+||apeonfoneallocations.xyz^$all
+||apeonfoneholder.xyz^$all
 ||apeonfoneholders.xyz^$all
 ||apesonsol.xyz^$all
 ||api-032100102-ms.xyz^$all
@@ -94224,6 +94247,7 @@
 ||derocketsolver.xyz^$all
 ||desk-jumper.xyz^$all
 ||desk-stonkfun.xyz^$all
+||desk-usefelix.xyz^$all
 ||desktop-rewards.xyz^$all
 ||deus-xmaquina.xyz^$all
 ||deusfoundation.xyz^$all
@@ -94292,6 +94316,7 @@
 ||distributions-solsticefinances.xyz^$all
 ||distributions-umia.xyz^$all
 ||distributions-usepaid.xyz^$all
+||distributions-usesplit.xyz^$all
 ||distributions-xaman.xyz^$all
 ||dividend-stonkfun.xyz^$all
 ||dividends-stonkfun.xyz^$all
@@ -94348,7 +94373,10 @@
 ||early-dashboard.xyz^$all
 ||early-dashboards.xyz^$all
 ||early-flaregovernance.xyz^$all
+||early-staking.xyz^$all
 ||earlydashboard.xyz^$all
+||earlydashboards.xyz^$all
+||earlyshareholder.xyz^$all
 ||earn-concrete.xyz^$all
 ||earn-firelight.xyz^$all
 ||earn-flareecosystem.xyz^$all
@@ -94503,8 +94531,10 @@
 ||eligibility-eigenlayer.xyz^$all
 ||eligibility-firelightfi.xyz^$all
 ||eligibility-jupag.xyz^$all
+||eligibility-neet.xyz^$all
 ||eligibility-stonkfun.xyz^$all
 ||eligibility-usepaid.xyz^$all
+||eligibility-useyap.xyz^$all
 ||eligible-eigenlayer.xyz^$all
 ||eligible-jupag.xyz^$all
 ||eligible-stonkfun.xyz^$all
@@ -94524,6 +94554,7 @@
 ||embercurve-distributions.xyz^$all
 ||embercurve-governance.xyz^$all
 ||embercurve-governances.xyz^$all
+||embercurve-stake.xyz^$all
 ||embercurve-token.xyz^$all
 ||embercurve-tokens.xyz^$all
 ||embercurveallocation.xyz^$all
@@ -94534,6 +94565,8 @@
 ||embercurvegovernance.xyz^$all
 ||embercurvegovernances.xyz^$all
 ||embercurvereward.xyz^$all
+||embercurvesnapshots.xyz^$all
+||embercurvestake.xyz^$all
 ||embercurvetoken.xyz^$all
 ||emberprotocol.xyz^$all
 ||emberso.xyz^$all
@@ -95279,10 +95312,11 @@
 ||forums-firelight.xyz^$all
 ||forums-flare.xyz^$all
 ||forums-megaeth.xyz^$all
-||vote.foundation-kinetiq.xyz^$all
+||foundation-kinetiq.xyz^$all
 ||foundation-meridian.xyz^$all
 ||foundation-starknet.xyz^$all
 ||foundationhelp.xyz^$all
+||foundationkinetiq.xyz^$all
 ||foundations-3jane.xyz^$all
 ||foundations-umia.xyz^$all
 ||foundations-usdai.xyz^$all
@@ -95464,7 +95498,7 @@
 ||govern-aave.xyz^$all
 ||govern-firelight.xyz^$all
 ||govern-flarenetworks.xyz^$all
-||vote.govern-kinetiq.xyz^$all
+||govern-kinetiq.xyz^$all
 ||governace-flarenetworks.xyz^$all
 ||governance-3jane.xyz^$all
 ||governance-aero.xyz^$all
@@ -95542,7 +95576,7 @@
 ||governance-zestprotocol.xyz^$all
 ||governance-zigchain.xyz^$all
 ||governanceflr.xyz^$all
-||vote.governancekinetiq.xyz^$all
+||governancekinetiq.xyz^$all
 ||governances-3jane.xyz^$all
 ||governances-embercurve.xyz^$all
 ||governances-firelight.xyz^$all
@@ -95636,6 +95670,7 @@
 ||holders-apeonfone.xyz^$all
 ||holders-firelightfi.xyz^$all
 ||holders-kinetiq.xyz^$all
+||holders-michi.xyz^$all
 ||holders-stonkfun.xyz^$all
 ||holders-usepaid.xyz^$all
 ||holders-usesplit.xyz^$all
@@ -96038,24 +96073,29 @@
 ||kiichainvaults.xyz^$all
 ||kinetiq-dashboard.xyz^$all
 ||kinetiq-dashboards.xyz^$all
-||vote.kinetiq-govern.xyz^$all
+||kinetiq-govern.xyz^$all
+||kinetiq-governance.xyz^$all
 ||kinetiq-governances.xyz^$all
 ||kinetiq-holder.xyz^$all
 ||kinetiq-holders.xyz^$all
 ||kinetiq-kip4.xyz^$all
 ||kinetiq-reward.xyz^$all
-||vote.kinetiq-rewards.xyz^$all
+||kinetiq-rewards.xyz^$all
 ||kinetiq-shareholders.xyz^$all
 ||kinetiq-snapshot.xyz^$all
 ||kinetiq-v2.xyz^$all
 ||kinetiq-vote.xyz^$all
 ||kinetiqdashboard.xyz^$all
 ||kinetiqecosystem.xyz^$all
+||kinetiqfdn.xyz^$all
 ||kinetiqfnd.xyz^$all
+||kinetiqfoundation.xyz^$all
+||kinetiqgovern.xyz^$all
 ||kinetiqgovernance.xyz^$all
 ||kinetiqgovernances.xyz^$all
 ||kinetiqholder.xyz^$all
 ||kinetiqholders.xyz^$all
+||kinetiqproposal.xyz^$all
 ||kinetiqrewards.xyz^$all
 ||kinetiqvote.xyz^$all
 ||kinetiqvotes.xyz^$all
@@ -96355,6 +96395,9 @@
 ||mexcvip.xyz^$all
 ||mexicanunc.xyz^$all
 ||mica-compliance.xyz^$all
+||michi-holder.xyz^$all
+||michiallocation.xyz^$all
+||michiholder.xyz^$all
 ||michiholders.xyz^$all
 ||micro-data.xyz^$all
 ||microcapallocation.xyz^$all
@@ -96572,6 +96615,8 @@
 ||nearprotocol-claims.xyz^$all
 ||neet-holders.xyz^$all
 ||neet-rewards.xyz^$all
+||neet-staking.xyz^$all
+||neeteligibility.xyz^$all
 ||neetreward.xyz^$all
 ||neetrewards.xyz^$all
 ||neonevm-migration.xyz^$all
@@ -97692,12 +97737,13 @@
 ||reward-threews.xyz^$all
 ||reward-umbraprivacy.xyz^$all
 ||reward-usepaid.xyz^$all
+||reward-usesplit.xyz^$all
 ||reward-useyap.xyz^$all
 ||reward-vip.xyz^$all
 ||reward-xrpl.xyz^$all
 ||rewardes-dao.xyz^$all
 ||rewarding-eigenlayer.xyz^$all
-||vote.rewardkinetiq.xyz^$all
+||rewardkinetiq.xyz^$all
 ||rewardlyst.xyz^$all
 ||rewardmorpho.xyz^$all
 ||rewards-3jane.xyz^$all
@@ -97888,8 +97934,10 @@
 ||season-flarefoundation.xyz^$all
 ||season-flarenetwork.xyz^$all
 ||season-flarenetworks.xyz^$all
+||season-papertrade.xyz^$all
 ||season1-arcium.xyz^$all
 ||season1-loopscale.xyz^$all
+||season1-papertrade.xyz^$all
 ||season1-skyeco.xyz^$all
 ||season2-firelight.xyz^$all
 ||season2-multipli.xyz^$all
@@ -97940,6 +97988,7 @@
 ||shapespace.xyz^$all
 ||shapnetwork.xyz^$all
 ||share-26.xyz^$all
+||shareholder-early.xyz^$all
 ||shareholder-firelightfi.xyz^$all
 ||shareholder-kinetiq.xyz^$all
 ||shareholder-usepaid.xyz^$all
@@ -98067,6 +98116,7 @@
 ||snapshot-stable.xyz^$all
 ||snapshot-stonkfun.xyz^$all
 ||snapshot-zebec.xyz^$all
+||snapshots-embercurve.xyz^$all
 ||snapshots-firelightfi.xyz^$all
 ||snapshots-flarenetworks.xyz^$all
 ||snapshots-netnetcapital.xyz^$all
@@ -98240,6 +98290,7 @@
 ||stakexray.xyz^$all
 ||staking-3jane.xyz^$all
 ||staking-arcium.xyz^$all
+||staking-early.xyz^$all
 ||staking-firelightfi.xyz^$all
 ||staking-flaregovernance.xyz^$all
 ||staking-flarenetwork.xyz^$all
@@ -98754,6 +98805,7 @@
 ||usepaid-rewards.xyz^$all
 ||usepaid-shareholder.xyz^$all
 ||usepaid-shareholders.xyz^$all
+||usepaid-staking.xyz^$all
 ||usepaid-token.xyz^$all
 ||usepaid-tokens.xyz^$all
 ||usepaid-vote.xyz^$all
@@ -98768,10 +98820,12 @@
 ||usepaidgovernances.xyz^$all
 ||usepaidholder.xyz^$all
 ||usepaidholders.xyz^$all
+||usepaidlaunchpad.xyz^$all
 ||usepaidreward.xyz^$all
 ||usepaidrewards.xyz^$all
 ||usepaidshareholder.xyz^$all
 ||usepaidshareholders.xyz^$all
+||usepaidstaking.xyz^$all
 ||usepaidtoken.xyz^$all
 ||usepaidtoken-allocation.xyz^$all
 ||usepaidtokens.xyz^$all
@@ -98806,13 +98860,18 @@
 ||usesplit-holder.xyz^$all
 ||usesplit-reward.xyz^$all
 ||usesplit-rewards.xyz^$all
+||usesplit-shareholders.xyz^$all
+||usesplitdistributions.xyz^$all
 ||usesplitholder.xyz^$all
 ||usesplitholders.xyz^$all
 ||usesplitreward.xyz^$all
 ||usesplitrewards.xyz^$all
 ||usexs.xyz^$all
+||useyap-eligibility.xyz^$all
 ||useyap-reward.xyz^$all
 ||useyap-rewards.xyz^$all
+||useyap-staking.xyz^$all
+||useyapeligibility.xyz^$all
 ||useyapreward.xyz^$all
 ||useyaprewards.xyz^$all
 ||ustokins.xyz^$all
@@ -99351,6 +99410,7 @@
 ||votings-flarenetwork.xyz^$all
 ||votings-flarenetworks.xyz^$all
 ||votings-flr.xyz^$all
+||votings-kinetiq.xyz^$all
 ||votings-xrpl.xyz^$all
 ||votings-zigchain.xyz^$all
 ||votingsondo.xyz^$all
