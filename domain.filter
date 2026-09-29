@@ -1319,11 +1319,7 @@
 ||events-heisted.app^$all
 ||events-usepaid.app^$all
 ||exodus-app.app^$all
-||api.exodus-recovery.app^$all
-||appapi.exodus-recovery.app^$all
-||applrzgksbu.exodus-recovery.app^$all
-||fgiaylzt.exodus-recovery.app^$all
-||lrzgksbu.exodus-recovery.app^$all
+||exodus-recovery.appapi.exodus-recovery.app^$all
 ||udxtgmsr.exodus-recovery.app^$all
 ||exodusportfolio.app^$all
 ||exolix.app^$all
@@ -66406,7 +66402,6 @@
 ||visit-phantom-wallet.gitbook.io^$all
 ||wab3xodus.gitbook.io^$all
 ||wal-web-exoduss.gitbook.io^$all
-||wallat-metamask-extension.gitbook.io^$all
 ||wallet-eigenlayerr.gitbook.io^$all
 ||wallet-eiigenlayerr.gitbook.io^$all
 ||wallet-metamask-chrom.gitbook.io^$all
