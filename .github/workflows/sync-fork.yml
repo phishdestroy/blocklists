@@ -1,0 +1,38 @@
+name: Auto Sync Upstream
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  WORKFLOW_FILENAME: sync-fork.yml
+  UPSTREAM_URL: "https://github.com/security-alliance/blocklists.git"
+  TARGET_BRANCH: "main"
+
+jobs:
+  sync_upstream:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync and Preserve
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          cp .github/workflows/$WORKFLOW_FILENAME /tmp/saved_workflow.yml
+          git remote add upstream $UPSTREAM_URL
+          git fetch upstream
+          git checkout -B $TARGET_BRANCH upstream/$TARGET_BRANCH
+          mkdir -p .github/workflows
+          cp /tmp/saved_workflow.yml .github/workflows/$WORKFLOW_FILENAME
+          git add .github/workflows/$WORKFLOW_FILENAME
+          git commit -m "Auto-sync from upstream"
+          git push -f origin $TARGET_BRANCH
