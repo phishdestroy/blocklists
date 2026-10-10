@@ -1350,6 +1350,7 @@
 ||defi-theindexfi.app^$all
 ||defilama.app^$all
 ||desk-allocate.app^$all
+||desk-allocates.app^$all
 ||desk-allocations.app^$all
 ||desk-allocatlon.app^$all
 ||desk-allocatlons.app^$all
@@ -52747,6 +52748,7 @@
 ||20-proposal-3jane.pages.dev^$all
 ||20-proposal-computersrh.pages.dev^$all
 ||20-proposal-derive.pages.dev^$all
+||20-proposal-ethos.pages.dev^$all
 ||20-proposal-globaldollar.pages.dev^$all
 ||20-proposal-loanmeme.pages.dev^$all
 ||20-proposal-prjx.pages.dev^$all
@@ -52848,6 +52850,7 @@
 ||24-ponsfamily.pages.dev^$all
 ||24-predeposit-papertrade.pages.dev^$all
 ||24-proposal-3jane.pages.dev^$all
+||24-proposal-computersrh.pages.dev^$all
 ||24-proposal-derive.pages.dev^$all
 ||24-proposal-globaldollar.pages.dev^$all
 ||24-proposal-loanmeme.pages.dev^$all
@@ -53058,6 +53061,7 @@
 ||31-reallocation-concrete.pages.dev^$all
 ||31-saturncredit.pages.dev^$all
 ||31-tge-extended.pages.dev^$all
+||31-venice.pages.dev^$all
 ||31-vote-argusworld.pages.dev^$all
 ||32-0xfluid.pages.dev^$all
 ||32-allowlist-ascendlaunch.pages.dev^$all
@@ -53082,6 +53086,7 @@
 ||33-netnet.pages.dev^$all
 ||33-predeposit-papertrade.pages.dev^$all
 ||33-proposal-globaldollar.pages.dev^$all
+||33-proposal-prjx.pages.dev^$all
 ||33-reallocate-flare.pages.dev^$all
 ||33-reallocation-concrete.pages.dev^$all
 ||33-saturncredit.pages.dev^$all
@@ -53096,6 +53101,7 @@
 ||34-netnet.pages.dev^$all
 ||34-predeposit-papertrade.pages.dev^$all
 ||34-proposal-globaldollar.pages.dev^$all
+||34-proposal-prjx.pages.dev^$all
 ||34-reallocate-flare.pages.dev^$all
 ||34-saturncredit.pages.dev^$all
 ||34-tge-extended.pages.dev^$all
@@ -53110,6 +53116,7 @@
 ||35-proposal-globaldollar.pages.dev^$all
 ||35-reallocate-flare.pages.dev^$all
 ||35-saturncredit.pages.dev^$all
+||35-tge-extended.pages.dev^$all
 ||35-vote-argusworld.pages.dev^$all
 ||36-0xfluid.pages.dev^$all
 ||36-allowlist-ascendlaunch.pages.dev^$all
@@ -53148,9 +53155,11 @@
 ||39-arguseco.pages.dev^$all
 ||39-argusworld.pages.dev^$all
 ||39-derivexyz.pages.dev^$all
+||39-gov-argus.pages.dev^$all
 ||39-netnet.pages.dev^$all
 ||39-reallocate-flare.pages.dev^$all
 ||39-saturncredit.pages.dev^$all
+||39-vote-argusworld.pages.dev^$all
 ||3ton-airdrop.pages.dev^$all
 ||4-0xfluid.pages.dev^$all
 ||4-aero.pages.dev^$all
@@ -53219,6 +53228,7 @@
 ||40-arguseco.pages.dev^$all
 ||40-argusworld.pages.dev^$all
 ||40-derivexyz.pages.dev^$all
+||40-gov-argus.pages.dev^$all
 ||40-netnet.pages.dev^$all
 ||40-reallocate-flare.pages.dev^$all
 ||40-saturncredit.pages.dev^$all
@@ -53263,6 +53273,7 @@
 ||46-arguseco.pages.dev^$all
 ||46-argusworld.pages.dev^$all
 ||46-derivexyz.pages.dev^$all
+||46-netnet.pages.dev^$all
 ||46-reallocate-flare.pages.dev^$all
 ||46-saturncredit.pages.dev^$all
 ||47-0xfluid.pages.dev^$all
@@ -53369,6 +53380,7 @@
 ||53-reallocate-flare.pages.dev^$all
 ||53-saturncredit.pages.dev^$all
 ||54-0xfluid.pages.dev^$all
+||54-arguseco.pages.dev^$all
 ||54-argusworld.pages.dev^$all
 ||54-reallocate-flare.pages.dev^$all
 ||54-saturncredit.pages.dev^$all
@@ -53376,6 +53388,7 @@
 ||55-argusworld.pages.dev^$all
 ||55-derivexyz.pages.dev^$all
 ||55-reallocate-flare.pages.dev^$all
+||55-saturncredit.pages.dev^$all
 ||56-0xfluid.pages.dev^$all
 ||56-argusworld.pages.dev^$all
 ||56-derivexyz.pages.dev^$all
@@ -53448,8 +53461,10 @@
 ||6-zamaprotocol.pages.dev^$all
 ||6-zipcoin.pages.dev^$all
 ||60-0xfluid.pages.dev^$all
+||60-derivexyz.pages.dev^$all
 ||60-reallocate-flare.pages.dev^$all
 ||61-0xfluid.pages.dev^$all
+||61-reallocate-flare.pages.dev^$all
 ||62-0xfluid.pages.dev^$all
 ||67to67billion.pages.dev^$all
 ||7-0xfluid.pages.dev^$all
@@ -53609,6 +53624,7 @@
 ||9-proposal-prjx.pages.dev^$all
 ||9-proposal-synthra.pages.dev^$all
 ||9-proposal-zama.pages.dev^$all
+||9-proposals-papertrade.pages.dev^$all
 ||9-ramses-events.pages.dev^$all
 ||9-reallocate-flare.pages.dev^$all
 ||9-reallocation-abs.pages.dev^$all
@@ -61981,6 +61997,7 @@
 ||listandvote.digital^$all
 ||listandvotes.digital^$all
 ||listandvoting.digital^$all
+||listingcommunity.digital^$all
 ||listingsupport.digital^$all
 ||listingvote.digital^$all
 ||lombardfi.digital^$all
