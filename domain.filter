@@ -52115,6 +52115,7 @@
 ||1-reallocation-concrete.pages.dev^$all
 ||1-reallocation-jumper.pages.dev^$all
 ||1-saturncredit.pages.dev^$all
+||1-stonkbroker-clutchmarkets.pages.dev^$all
 ||1-stonkbrokerseco.pages.dev^$all
 ||1-tge-extended.pages.dev^$all
 ||1-tge-predict.pages.dev^$all
@@ -52148,11 +52149,13 @@
 ||10-fluidio.pages.dev^$all
 ||10-gov-argus.pages.dev^$all
 ||10-gov-concrete.pages.dev^$all
+||10-gov-papertrade.pages.dev^$all
 ||10-gov-ramses.pages.dev^$all
 ||10-governance-kinetiq.pages.dev^$all
 ||10-hyperlinkapp-86x.pages.dev^$all
 ||10-hyperlinkxyz-e79.pages.dev^$all
 ||10-netnet.pages.dev^$all
+||10-paperdao.pages.dev^$all
 ||10-pons.pages.dev^$all
 ||10-ponsfamily.pages.dev^$all
 ||10-predeposit-papertrade.pages.dev^$all
@@ -52179,6 +52182,7 @@
 ||10-tge-extended.pages.dev^$all
 ||10-venice.pages.dev^$all
 ||10-vote-argusworld.pages.dev^$all
+||10-vote-paperstrategy.pages.dev^$all
 ||10-vote-papertrade.pages.dev^$all
 ||10-vote-ponsfamily.pages.dev^$all
 ||10-zamaprotocol.pages.dev^$all
@@ -52311,6 +52315,7 @@
 ||120-allowlist-ascendlaunch.pages.dev^$all
 ||121-allowlist-ascendlaunch.pages.dev^$all
 ||122-allowlist-ascendlaunch.pages.dev^$all
+||123-allowlist-ascendlaunch.pages.dev^$all
 ||13-0xfluid.pages.dev^$all
 ||13-allocation-abstract.pages.dev^$all
 ||13-allocation-yieldfields.pages.dev^$all
@@ -52346,6 +52351,7 @@
 ||13-proposal-globaldollar.pages.dev^$all
 ||13-proposal-jumper.pages.dev^$all
 ||13-proposal-loanmeme.pages.dev^$all
+||13-proposal-papertrade.pages.dev^$all
 ||13-proposal-prjx.pages.dev^$all
 ||13-proposal-synthra.pages.dev^$all
 ||13-proposal-zama.pages.dev^$all
@@ -52765,6 +52771,7 @@
 ||21-tge-extended.pages.dev^$all
 ||21-venice.pages.dev^$all
 ||21-vote-argusworld.pages.dev^$all
+||21-vote-papertrade.pages.dev^$all
 ||21-vote-ponsfamily.pages.dev^$all
 ||22-0xfluid.pages.dev^$all
 ||22-allocation-abstract.pages.dev^$all
@@ -52806,6 +52813,7 @@
 ||23-argusworld.pages.dev^$all
 ||23-derivexyz.pages.dev^$all
 ||23-gov-argus.pages.dev^$all
+||23-gov-concrete.pages.dev^$all
 ||23-governance-kinetiq.pages.dev^$all
 ||23-netnet.pages.dev^$all
 ||23-ponsfamily.pages.dev^$all
@@ -52815,6 +52823,7 @@
 ||23-proposal-derive.pages.dev^$all
 ||23-proposal-ethos.pages.dev^$all
 ||23-proposal-globaldollar.pages.dev^$all
+||23-proposal-jumper.pages.dev^$all
 ||23-proposal-loanmeme.pages.dev^$all
 ||23-proposal-prjx.pages.dev^$all
 ||23-ramses-events.pages.dev^$all
@@ -52824,6 +52833,7 @@
 ||23-tge-extended.pages.dev^$all
 ||23-venice.pages.dev^$all
 ||23-vote-argusworld.pages.dev^$all
+||23-vote-ponsfamily.pages.dev^$all
 ||24-0xfluid.pages.dev^$all
 ||24-allocation-yieldfields.pages.dev^$all
 ||24-allowlist-ascendlaunch.pages.dev^$all
@@ -53112,6 +53122,7 @@
 ||33-netnet.pages.dev^$all
 ||33-ponsfamily.pages.dev^$all
 ||33-predeposit-papertrade.pages.dev^$all
+||33-proposal-ethos.pages.dev^$all
 ||33-proposal-globaldollar.pages.dev^$all
 ||33-proposal-prjx.pages.dev^$all
 ||33-reallocate-flare.pages.dev^$all
@@ -53158,6 +53169,7 @@
 ||35-venice.pages.dev^$all
 ||35-vote-argusworld.pages.dev^$all
 ||36-0xfluid.pages.dev^$all
+||36-allocation-yieldfields.pages.dev^$all
 ||36-allowlist-ascendlaunch.pages.dev^$all
 ||36-arguseco.pages.dev^$all
 ||36-argusworld.pages.dev^$all
@@ -53165,6 +53177,7 @@
 ||36-gov-argus.pages.dev^$all
 ||36-governance-kinetiq.pages.dev^$all
 ||36-netnet.pages.dev^$all
+||36-ponsfamily.pages.dev^$all
 ||36-predeposit-papertrade.pages.dev^$all
 ||36-proposal-globaldollar.pages.dev^$all
 ||36-proposal-prjx.pages.dev^$all
@@ -53211,6 +53224,7 @@
 ||39-argusworld.pages.dev^$all
 ||39-derivexyz.pages.dev^$all
 ||39-gov-argus.pages.dev^$all
+||39-governance-kinetiq.pages.dev^$all
 ||39-netnet.pages.dev^$all
 ||39-predeposit-papertrade.pages.dev^$all
 ||39-proposal-globaldollar.pages.dev^$all
@@ -53345,6 +53359,7 @@
 ||43-reallocate-flare.pages.dev^$all
 ||43-saturncredit.pages.dev^$all
 ||43-tge-extended.pages.dev^$all
+||43-venice.pages.dev^$all
 ||43-vote-argusworld.pages.dev^$all
 ||44-0xfluid.pages.dev^$all
 ||44-arguseco.pages.dev^$all
@@ -53364,6 +53379,7 @@
 ||45-derivexyz.pages.dev^$all
 ||45-gov-argus.pages.dev^$all
 ||45-netnet.pages.dev^$all
+||45-proposal-globaldollar.pages.dev^$all
 ||45-proposal-prjx.pages.dev^$all
 ||45-reallocate-flare.pages.dev^$all
 ||45-saturncredit.pages.dev^$all
@@ -53420,6 +53436,7 @@
 ||5-arguseco.pages.dev^$all
 ||5-argusworld.pages.dev^$all
 ||5-argusworlds-933.pages.dev^$all
+||5-axisroboticsai.pages.dev^$all
 ||5-cantonnetwork.pages.dev^$all
 ||5-clutchmarkets.pages.dev^$all
 ||5-derive.pages.dev^$all
@@ -53654,6 +53671,7 @@
 ||62-arguseco.pages.dev^$all
 ||62-derivexyz.pages.dev^$all
 ||62-gov-argus.pages.dev^$all
+||62-netnet.pages.dev^$all
 ||62-proposal-prjx.pages.dev^$all
 ||62-reallocate-flare.pages.dev^$all
 ||62-saturncredit.pages.dev^$all
@@ -53705,6 +53723,7 @@
 ||68-gov-argus.pages.dev^$all
 ||68-proposal-prjx.pages.dev^$all
 ||68-reallocate-flare.pages.dev^$all
+||68-saturncredit.pages.dev^$all
 ||68-vote-argusworld.pages.dev^$all
 ||69-0xfluid.pages.dev^$all
 ||69-arguseco.pages.dev^$all
@@ -53766,6 +53785,7 @@
 ||7-tge-extended.pages.dev^$all
 ||7-venice.pages.dev^$all
 ||7-vote-argusworld.pages.dev^$all
+||7-vote-cashmereexchange.pages.dev^$all
 ||7-vote-paperstrategy.pages.dev^$all
 ||7-vote-papertrade.pages.dev^$all
 ||7-vote-ponsfamily.pages.dev^$all
@@ -53773,6 +53793,7 @@
 ||7-zipcoin.pages.dev^$all
 ||70-arguseco.pages.dev^$all
 ||70-derivexyz.pages.dev^$all
+||70-proposal-prjx.pages.dev^$all
 ||70-reallocate-flare.pages.dev^$all
 ||71-arguseco.pages.dev^$all
 ||71-derivexyz.pages.dev^$all
@@ -53801,6 +53822,7 @@
 ||78-derivexyz.pages.dev^$all
 ||78-reallocate-flare.pages.dev^$all
 ||79-arguseco.pages.dev^$all
+||79-derivexyz.pages.dev^$all
 ||79-reallocate-flare.pages.dev^$all
 ||8-0xfluid.pages.dev^$all
 ||8-allocation-abstract.pages.dev^$all
@@ -53889,6 +53911,7 @@
 ||9-argusworld.pages.dev^$all
 ||9-argusworlds-933.pages.dev^$all
 ||9-cantonnetwork.pages.dev^$all
+||9-clutchmarkets.pages.dev^$all
 ||9-derive.pages.dev^$all
 ||9-derives.pages.dev^$all
 ||9-derivexyz.pages.dev^$all
@@ -76211,7 +76234,6 @@
 ||rapid-firelightfi.live^$all
 ||raydium-rent.live^$all
 ||raydium-resolvers.live^$all
-||raydiumfixsol.live^$all
 ||razor-update.live^$all
 ||reallocation-jup.live^$all
 ||realtoken-network.live^$all
