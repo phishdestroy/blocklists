@@ -2784,6 +2784,7 @@
 ||crypto-ah4.netlify.app^$all
 ||crypto-alp.netlify.app^$all
 ||crypto-alr.netlify.app^$all
+||crypto-aoe.netlify.app^$all
 ||crypto-asw.netlify.app^$all
 ||crypto-auf.netlify.app^$all
 ||crypto-azl.netlify.app^$all
@@ -52259,6 +52260,7 @@
 ||11-tge-extended.pages.dev^$all
 ||11-venice.pages.dev^$all
 ||11-vote-argusworld.pages.dev^$all
+||11-vote-cashmereexchange.pages.dev^$all
 ||11-vote-paperstrategy.pages.dev^$all
 ||11-vote-papertrade.pages.dev^$all
 ||11-vote-ponsfamily.pages.dev^$all
@@ -52327,6 +52329,7 @@
 ||12-tge-extended.pages.dev^$all
 ||12-venice.pages.dev^$all
 ||12-vote-argusworld.pages.dev^$all
+||12-vote-paperstrategy.pages.dev^$all
 ||12-vote-papertrade.pages.dev^$all
 ||12-vote-ponsfamily.pages.dev^$all
 ||12-zamaprotocol.pages.dev^$all
@@ -52339,6 +52342,7 @@
 ||125-allowlist-ascendlaunch.pages.dev^$all
 ||126-allowlist-ascendlaunch.pages.dev^$all
 ||127-allowlist-ascendlaunch.pages.dev^$all
+||128-allowlist-ascendlaunch.pages.dev^$all
 ||13-0xfluid.pages.dev^$all
 ||13-allocation-abstract.pages.dev^$all
 ||13-allocation-yieldfields.pages.dev^$all
@@ -52350,6 +52354,7 @@
 ||13-argusworld.pages.dev^$all
 ||13-argusworlds-933.pages.dev^$all
 ||13-cantonnetwork.pages.dev^$all
+||13-clutchmarkets.pages.dev^$all
 ||13-derives.pages.dev^$all
 ||13-derivexyz.pages.dev^$all
 ||13-derivexyz-6ky.pages.dev^$all
@@ -52416,6 +52421,7 @@
 ||14-hyperlinkapp-86x.pages.dev^$all
 ||14-hyperlinkxyz-e79.pages.dev^$all
 ||14-netnet.pages.dev^$all
+||14-paperdao.pages.dev^$all
 ||14-pons.pages.dev^$all
 ||14-ponsfamily.pages.dev^$all
 ||14-predeposit-papertrade.pages.dev^$all
@@ -52564,6 +52570,7 @@
 ||17-proposal-globaldollar.pages.dev^$all
 ||17-proposal-jumper.pages.dev^$all
 ||17-proposal-loanmeme.pages.dev^$all
+||17-proposal-papertrade.pages.dev^$all
 ||17-proposal-prjx.pages.dev^$all
 ||17-proposal-synthra.pages.dev^$all
 ||17-proposals-papertrade.pages.dev^$all
@@ -52829,6 +52836,7 @@
 ||22-proposal-jumper.pages.dev^$all
 ||22-proposal-loanmeme.pages.dev^$all
 ||22-proposal-prjx.pages.dev^$all
+||22-proposals-papertrade.pages.dev^$all
 ||22-ramses-events.pages.dev^$all
 ||22-reallocate-flare.pages.dev^$all
 ||22-reallocation-concrete.pages.dev^$all
@@ -52959,6 +52967,7 @@
 ||27-argusworld.pages.dev^$all
 ||27-derivexyz.pages.dev^$all
 ||27-gov-argus.pages.dev^$all
+||27-gov-concrete.pages.dev^$all
 ||27-governance-kinetiq.pages.dev^$all
 ||27-netnet.pages.dev^$all
 ||27-ponsfamily.pages.dev^$all
@@ -52966,6 +52975,7 @@
 ||27-proposal-computersrh.pages.dev^$all
 ||27-proposal-ethos.pages.dev^$all
 ||27-proposal-globaldollar.pages.dev^$all
+||27-proposal-jumper.pages.dev^$all
 ||27-proposal-loanmeme.pages.dev^$all
 ||27-proposal-prjx.pages.dev^$all
 ||27-ramses-events.pages.dev^$all
@@ -52975,6 +52985,7 @@
 ||27-tge-extended.pages.dev^$all
 ||27-venice.pages.dev^$all
 ||27-vote-argusworld.pages.dev^$all
+||27-vote-ponsfamily.pages.dev^$all
 ||28-0xfluid.pages.dev^$all
 ||28-allocation-yieldfields.pages.dev^$all
 ||28-allowlist-ascendlaunch.pages.dev^$all
@@ -52997,6 +53008,7 @@
 ||28-tge-extended.pages.dev^$all
 ||28-venice.pages.dev^$all
 ||28-vote-argusworld.pages.dev^$all
+||28-vote-papertrade.pages.dev^$all
 ||29-0xfluid.pages.dev^$all
 ||29-allocation-yieldfields.pages.dev^$all
 ||29-allowlist-ascendlaunch.pages.dev^$all
@@ -53191,6 +53203,7 @@
 ||34-netnet.pages.dev^$all
 ||34-ponsfamily.pages.dev^$all
 ||34-predeposit-papertrade.pages.dev^$all
+||34-proposal-computersrh.pages.dev^$all
 ||34-proposal-ethos.pages.dev^$all
 ||34-proposal-globaldollar.pages.dev^$all
 ||34-proposal-prjx.pages.dev^$all
@@ -53249,6 +53262,7 @@
 ||37-netnet.pages.dev^$all
 ||37-ponsfamily.pages.dev^$all
 ||37-predeposit-papertrade.pages.dev^$all
+||37-proposal-ethos.pages.dev^$all
 ||37-proposal-globaldollar.pages.dev^$all
 ||37-proposal-prjx.pages.dev^$all
 ||37-reallocate-flare.pages.dev^$all
@@ -53265,6 +53279,7 @@
 ||38-gov-argus.pages.dev^$all
 ||38-governance-kinetiq.pages.dev^$all
 ||38-netnet.pages.dev^$all
+||38-ponsfamily.pages.dev^$all
 ||38-predeposit-papertrade.pages.dev^$all
 ||38-proposal-globaldollar.pages.dev^$all
 ||38-proposal-prjx.pages.dev^$all
@@ -53362,6 +53377,7 @@
 ||4-zamaprotocol.pages.dev^$all
 ||4-zipcoin.pages.dev^$all
 ||40-0xfluid.pages.dev^$all
+||40-allocation-yieldfields.pages.dev^$all
 ||40-allowlist-ascendlaunch.pages.dev^$all
 ||40-arguseco.pages.dev^$all
 ||40-argusworld.pages.dev^$all
@@ -53413,6 +53429,7 @@
 ||43-argusworld.pages.dev^$all
 ||43-derivexyz.pages.dev^$all
 ||43-gov-argus.pages.dev^$all
+||43-governance-kinetiq.pages.dev^$all
 ||43-netnet.pages.dev^$all
 ||43-proposal-globaldollar.pages.dev^$all
 ||43-proposal-prjx.pages.dev^$all
@@ -53471,6 +53488,8 @@
 ||47-proposal-prjx.pages.dev^$all
 ||47-reallocate-flare.pages.dev^$all
 ||47-saturncredit.pages.dev^$all
+||47-tge-extended.pages.dev^$all
+||47-venice.pages.dev^$all
 ||47-vote-argusworld.pages.dev^$all
 ||48-0xfluid.pages.dev^$all
 ||48-arguseco.pages.dev^$all
@@ -53489,6 +53508,7 @@
 ||49-derivexyz.pages.dev^$all
 ||49-gov-argus.pages.dev^$all
 ||49-netnet.pages.dev^$all
+||49-proposal-globaldollar.pages.dev^$all
 ||49-proposal-prjx.pages.dev^$all
 ||49-reallocate-flare.pages.dev^$all
 ||49-saturncredit.pages.dev^$all
@@ -53549,6 +53569,7 @@
 ||5-reallocation-abs.pages.dev^$all
 ||5-reallocation-concrete.pages.dev^$all
 ||5-saturncredit.pages.dev^$all
+||5-stonkbroker-clutchmarkets.pages.dev^$all
 ||5-tge-extended.pages.dev^$all
 ||5-venice.pages.dev^$all
 ||5-vote-argusworld.pages.dev^$all
@@ -53776,6 +53797,7 @@
 ||66-arguseco.pages.dev^$all
 ||66-derivexyz.pages.dev^$all
 ||66-gov-argus.pages.dev^$all
+||66-netnet.pages.dev^$all
 ||66-proposal-prjx.pages.dev^$all
 ||66-reallocate-flare.pages.dev^$all
 ||66-saturncredit.pages.dev^$all
@@ -53882,6 +53904,7 @@
 ||72-derivexyz.pages.dev^$all
 ||72-proposal-prjx.pages.dev^$all
 ||72-reallocate-flare.pages.dev^$all
+||72-saturncredit.pages.dev^$all
 ||73-allowlist-ascendlaunch.pages.dev^$all
 ||73-arguseco.pages.dev^$all
 ||73-derivexyz.pages.dev^$all
@@ -53902,6 +53925,7 @@
 ||761i-com-e8r.pages.dev^$all
 ||77-arguseco.pages.dev^$all
 ||77-derivexyz.pages.dev^$all
+||77-proposal-prjx.pages.dev^$all
 ||77-reallocate-flare.pages.dev^$all
 ||78-arguseco.pages.dev^$all
 ||78-derivexyz.pages.dev^$all
@@ -53985,6 +54009,7 @@
 ||85-derivexyz.pages.dev^$all
 ||85-reallocate-flare.pages.dev^$all
 ||86-allowlist-ascendlaunch.pages.dev^$all
+||86-derivexyz.pages.dev^$all
 ||86-reallocate-flare.pages.dev^$all
 ||87-reallocate-flare.pages.dev^$all
 ||88-reallocate-flare.pages.dev^$all
@@ -54003,6 +54028,7 @@
 ||9-arguseco.pages.dev^$all
 ||9-argusworld.pages.dev^$all
 ||9-argusworlds-933.pages.dev^$all
+||9-axisroboticsai.pages.dev^$all
 ||9-cantonnetwork.pages.dev^$all
 ||9-clutchmarkets.pages.dev^$all
 ||9-derive.pages.dev^$all
