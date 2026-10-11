@@ -2820,6 +2820,7 @@ crypto-crr.netlify.app
 crypto-cs5.netlify.app
 crypto-ctm.netlify.app
 crypto-cze.netlify.app
+crypto-czj.netlify.app
 crypto-d4w.netlify.app
 crypto-dfl.netlify.app
 crypto-dgs.netlify.app
@@ -10963,6 +10964,7 @@ vote-metronome.app
 vote-ondo.app
 vote-onyx.app
 vote-openserv.app
+vote-papertrade.app
 vote-phnix.app
 vote-plume.app
 vote-portal-flaresnetwork.app
@@ -19572,7 +19574,6 @@ enter-megaeth.co
 enter-thorchain.co
 erebusbuild.co
 es-ldger.co
-eth-lido.co
 ethcasino.co
 ethereum-proair.co
 ethersis.co
@@ -52271,6 +52272,7 @@ orbitprotocol.dev
 12-arguseco.pages.dev
 12-argusworld.pages.dev
 12-argusworlds-933.pages.dev
+12-axisroboticsai.pages.dev
 12-cantonnetwork.pages.dev
 12-clutchmarkets.pages.dev
 12-derive.pages.dev
@@ -52388,6 +52390,9 @@ orbitprotocol.dev
 13-zamaprotocol.pages.dev
 13-zipcoin.pages.dev
 130-allowlist-ascendlaunch.pages.dev
+131-allowlist-ascendlaunch.pages.dev
+132-allowlist-ascendlaunch.pages.dev
+133-allowlist-ascendlaunch.pages.dev
 14-0xfluid.pages.dev
 14-allocation-abstract.pages.dev
 14-allocation-yieldfields.pages.dev
@@ -52439,6 +52444,7 @@ orbitprotocol.dev
 14-tge-extended.pages.dev
 14-venice.pages.dev
 14-vote-argusworld.pages.dev
+14-vote-cashmereexchange.pages.dev
 14-vote-paperstrategy.pages.dev
 14-vote-papertrade.pages.dev
 14-vote-ponsfamily.pages.dev
@@ -52459,6 +52465,7 @@ orbitprotocol.dev
 15-fluidio.pages.dev
 15-gov-argus.pages.dev
 15-gov-concrete.pages.dev
+15-gov-papertrade.pages.dev
 15-gov-ramses.pages.dev
 15-governance-kinetiq.pages.dev
 15-hyperlinkapp-86x.pages.dev
@@ -52490,6 +52497,7 @@ orbitprotocol.dev
 15-tge-extended.pages.dev
 15-venice.pages.dev
 15-vote-argusworld.pages.dev
+15-vote-paperstrategy.pages.dev
 15-vote-papertrade.pages.dev
 15-vote-ponsfamily.pages.dev
 15-zipcoin.pages.dev
@@ -52502,6 +52510,7 @@ orbitprotocol.dev
 16-arguseco.pages.dev
 16-argusworld.pages.dev
 16-argusworlds-933.pages.dev
+16-clutchmarkets.pages.dev
 16-derive.pages.dev
 16-derivexyz.pages.dev
 16-fluidio.pages.dev
@@ -52554,6 +52563,7 @@ orbitprotocol.dev
 17-gov-ramses.pages.dev
 17-governance-kinetiq.pages.dev
 17-netnet.pages.dev
+17-paperdao.pages.dev
 17-pons.pages.dev
 17-ponsfamily.pages.dev
 17-predeposit-papertrade.pages.dev
@@ -52767,6 +52777,7 @@ pr-7831.1inch-io-app.pages.dev
 20-proposal-globaldollar.pages.dev
 20-proposal-jumper.pages.dev
 20-proposal-loanmeme.pages.dev
+20-proposal-papertrade.pages.dev
 20-proposal-prjx.pages.dev
 20-proposals-papertrade.pages.dev
 20-ramses-events.pages.dev
@@ -52895,6 +52906,7 @@ pr-7831.1inch-io-app.pages.dev
 24-proposal-jumper.pages.dev
 24-proposal-loanmeme.pages.dev
 24-proposal-prjx.pages.dev
+24-proposals-papertrade.pages.dev
 24-ramses-events.pages.dev
 24-reallocate-flare.pages.dev
 24-reallocation-concrete.pages.dev
@@ -53121,6 +53133,7 @@ pr-7831.1inch-io-app.pages.dev
 30-argusworld.pages.dev
 30-derivexyz.pages.dev
 30-gov-argus.pages.dev
+30-gov-concrete.pages.dev
 30-governance-kinetiq.pages.dev
 30-netnet.pages.dev
 30-ponsfamily.pages.dev
@@ -53128,6 +53141,7 @@ pr-7831.1inch-io-app.pages.dev
 30-proposal-computersrh.pages.dev
 30-proposal-ethos.pages.dev
 30-proposal-globaldollar.pages.dev
+30-proposal-jumper.pages.dev
 30-proposal-prjx.pages.dev
 30-ramses-events.pages.dev
 30-reallocate-flare.pages.dev
@@ -53137,6 +53151,7 @@ pr-7831.1inch-io-app.pages.dev
 30-venice.pages.dev
 30-vote-argusworld.pages.dev
 30-vote-papertrade.pages.dev
+30-vote-ponsfamily.pages.dev
 31-0xfluid.pages.dev
 31-allocation-yieldfields.pages.dev
 31-allowlist-ascendlaunch.pages.dev
@@ -53159,6 +53174,7 @@ pr-7831.1inch-io-app.pages.dev
 31-tge-extended.pages.dev
 31-venice.pages.dev
 31-vote-argusworld.pages.dev
+31-vote-papertrade.pages.dev
 32-0xfluid.pages.dev
 32-allocation-yieldfields.pages.dev
 32-allowlist-ascendlaunch.pages.dev
@@ -53179,6 +53195,7 @@ pr-7831.1inch-io-app.pages.dev
 32-tge-extended.pages.dev
 32-venice.pages.dev
 32-vote-argusworld.pages.dev
+32-vote-papertrade.pages.dev
 33-0xfluid.pages.dev
 33-allocation-yieldfields.pages.dev
 33-allowlist-ascendlaunch.pages.dev
@@ -53252,6 +53269,7 @@ pr-7831.1inch-io-app.pages.dev
 36-netnet.pages.dev
 36-ponsfamily.pages.dev
 36-predeposit-papertrade.pages.dev
+36-proposal-computersrh.pages.dev
 36-proposal-ethos.pages.dev
 36-proposal-globaldollar.pages.dev
 36-proposal-prjx.pages.dev
@@ -53397,7 +53415,9 @@ pr-7831.1inch-io-app.pages.dev
 40-gov-argus.pages.dev
 40-governance-kinetiq.pages.dev
 40-netnet.pages.dev
+40-ponsfamily.pages.dev
 40-predeposit-papertrade.pages.dev
+40-proposal-ethos.pages.dev
 40-proposal-globaldollar.pages.dev
 40-proposal-prjx.pages.dev
 40-reallocate-flare.pages.dev
@@ -53439,6 +53459,7 @@ pr-7831.1inch-io-app.pages.dev
 42-venice.pages.dev
 42-vote-argusworld.pages.dev
 43-0xfluid.pages.dev
+43-allocation-yieldfields.pages.dev
 43-arguseco.pages.dev
 43-argusworld.pages.dev
 43-derivexyz.pages.dev
@@ -53486,6 +53507,7 @@ pr-7831.1inch-io-app.pages.dev
 46-argusworld.pages.dev
 46-derivexyz.pages.dev
 46-gov-argus.pages.dev
+46-governance-kinetiq.pages.dev
 46-netnet.pages.dev
 46-proposal-globaldollar.pages.dev
 46-proposal-prjx.pages.dev
@@ -53530,6 +53552,7 @@ pr-7831.1inch-io-app.pages.dev
 49-proposal-prjx.pages.dev
 49-reallocate-flare.pages.dev
 49-saturncredit.pages.dev
+49-tge-extended.pages.dev
 49-venice.pages.dev
 49-vote-argusworld.pages.dev
 5-0xfluid.pages.dev
@@ -53628,6 +53651,7 @@ pr-7831.1inch-io-app.pages.dev
 52-derivexyz.pages.dev
 52-gov-argus.pages.dev
 52-netnet.pages.dev
+52-proposal-globaldollar.pages.dev
 52-proposal-prjx.pages.dev
 52-reallocate-flare.pages.dev
 52-saturncredit.pages.dev
@@ -53847,6 +53871,7 @@ pr-7831.1inch-io-app.pages.dev
 69-0xfluid.pages.dev
 69-arguseco.pages.dev
 69-derivexyz.pages.dev
+69-netnet.pages.dev
 69-proposal-prjx.pages.dev
 69-reallocate-flare.pages.dev
 69-saturncredit.pages.dev
@@ -53944,10 +53969,12 @@ pr-7831.1inch-io-app.pages.dev
 74-proposal-prjx.pages.dev
 74-reallocate-flare.pages.dev
 74-saturncredit.pages.dev
+75-0xfluid.pages.dev
 75-arguseco.pages.dev
 75-derivexyz.pages.dev
 75-proposal-prjx.pages.dev
 75-reallocate-flare.pages.dev
+75-saturncredit.pages.dev
 76-arguseco.pages.dev
 76-derivexyz.pages.dev
 76-proposal-prjx.pages.dev
@@ -54018,6 +54045,7 @@ pr-7831.1inch-io-app.pages.dev
 8-reallocation-abs.pages.dev
 8-reallocation-concrete.pages.dev
 8-saturncredit.pages.dev
+8-stonkbroker-clutchmarkets.pages.dev
 8-tge-extended.pages.dev
 8-venice.pages.dev
 8-vote-argusworld.pages.dev
@@ -54032,6 +54060,7 @@ pr-7831.1inch-io-app.pages.dev
 80-reallocate-flare.pages.dev
 81-allowlist-ascendlaunch.pages.dev
 81-derivexyz.pages.dev
+81-proposal-prjx.pages.dev
 81-reallocate-flare.pages.dev
 82-derivexyz.pages.dev
 82-reallocate-flare.pages.dev
@@ -54115,8 +54144,10 @@ pr-7831.1inch-io-app.pages.dev
 9-zamaprotocol.pages.dev
 9-zipcoin.pages.dev
 90-allowlist-ascendlaunch.pages.dev
+90-derivexyz.pages.dev
 90-reallocate-flare.pages.dev
 91-allowlist-ascendlaunch.pages.dev
+91-derivexyz.pages.dev
 91-reallocate-flare.pages.dev
 92-allowlist-ascendlaunch.pages.dev
 92-reallocate-flare.pages.dev
@@ -102368,6 +102399,7 @@ portals-kinetiq.xyz
 portals-lighter.xyz
 portals-netnetcapital.xyz
 portals-otc.xyz
+portals-papertrade.xyz
 portals-stonkfun.xyz
 portals-tonstakers.xyz
 portals-usepaid.xyz
