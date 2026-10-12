@@ -1363,6 +1363,7 @@ desk-ledger.app
 desk-ledgers.app
 desk-rewards.app
 desk-vault.app
+desk-vaults.app
 desk-xumm.app
 destranetworks.app
 support.dev-flarenetwork.app
@@ -38305,6 +38306,7 @@ proposals-kvlrcode.com
 proposals-lienfi.com
 proposals-megaeth.com
 proposals-nado.com
+proposals-papertrade.com
 proposals-ponsfamily.com
 proposals-sparkdex.com
 proposals-stockx.com
@@ -52155,6 +52157,7 @@ orbitprotocol.dev
 100-derivexyz.pages.dev
 100-reallocate-flare.pages.dev
 101-derivexyz.pages.dev
+102-derivexyz.pages.dev
 103-allowlist-ascendlaunch.pages.dev
 104-allowlist-ascendlaunch.pages.dev
 105-allowlist-ascendlaunch.pages.dev
@@ -52435,7 +52438,12 @@ orbitprotocol.dev
 141-allowlist-ascendlaunch.pages.dev
 142-allowlist-ascendlaunch.pages.dev
 143-allowlist-ascendlaunch.pages.dev
+144-allowlist-ascendlaunch.pages.dev
+145-allowlist-ascendlaunch.pages.dev
 146-allowlist-ascendlaunch.pages.dev
+147-allowlist-ascendlaunch.pages.dev
+148-allowlist-ascendlaunch.pages.dev
+149-allowlist-ascendlaunch.pages.dev
 15-0xfluid.pages.dev
 15-allocation-abstract.pages.dev
 15-allocation-yieldfields.pages.dev
@@ -52491,6 +52499,8 @@ orbitprotocol.dev
 15-vote-papertrade.pages.dev
 15-vote-ponsfamily.pages.dev
 15-zipcoin.pages.dev
+151-allowlist-ascendlaunch.pages.dev
+152-allowlist-ascendlaunch.pages.dev
 16-0xfluid.pages.dev
 16-allocation-abstract.pages.dev
 16-allocation-yieldfields.pages.dev
@@ -52534,6 +52544,7 @@ orbitprotocol.dev
 16-reallocate-flare.pages.dev
 16-reallocation-concrete.pages.dev
 16-saturncredit.pages.dev
+16-stonkbroker-clutchmarkets.pages.dev
 16-tge-extended.pages.dev
 16-venice.pages.dev
 16-vote-argusworld.pages.dev
@@ -52648,6 +52659,7 @@ orbitprotocol.dev
 19-derivexyz.pages.dev
 19-gov-argus.pages.dev
 19-gov-concrete.pages.dev
+19-gov-papertrade.pages.dev
 19-gov-ramses.pages.dev
 19-governance-kinetiq.pages.dev
 19-netnet.pages.dev
@@ -52837,6 +52849,7 @@ pr-7831.1inch-io-app.pages.dev
 21-tge-extended.pages.dev
 21-venice.pages.dev
 21-vote-argusworld.pages.dev
+21-vote-cashmereexchange.pages.dev
 21-vote-paperstrategy.pages.dev
 21-vote-papertrade.pages.dev
 21-vote-ponsfamily.pages.dev
@@ -52875,6 +52888,7 @@ pr-7831.1inch-io-app.pages.dev
 22-tge-extended.pages.dev
 22-venice.pages.dev
 22-vote-argusworld.pages.dev
+22-vote-paperstrategy.pages.dev
 22-vote-papertrade.pages.dev
 22-vote-ponsfamily.pages.dev
 23-0xfluid.pages.dev
@@ -52883,6 +52897,7 @@ pr-7831.1inch-io-app.pages.dev
 23-allowlist-ascendlaunch.pages.dev
 23-arguseco.pages.dev
 23-argusworld.pages.dev
+23-clutchmarkets.pages.dev
 23-derivexyz.pages.dev
 23-gov-argus.pages.dev
 23-gov-concrete.pages.dev
@@ -52920,6 +52935,7 @@ pr-7831.1inch-io-app.pages.dev
 24-gov-concrete.pages.dev
 24-governance-kinetiq.pages.dev
 24-netnet.pages.dev
+24-paperdao.pages.dev
 24-ponsfamily.pages.dev
 24-predeposit-papertrade.pages.dev
 24-proposal-3jane.pages.dev
@@ -53017,6 +53033,7 @@ pr-7831.1inch-io-app.pages.dev
 27-proposal-globaldollar.pages.dev
 27-proposal-jumper.pages.dev
 27-proposal-loanmeme.pages.dev
+27-proposal-papertrade.pages.dev
 27-proposal-prjx.pages.dev
 27-proposals-papertrade.pages.dev
 27-ramses-events.pages.dev
@@ -53176,6 +53193,7 @@ pr-7831.1inch-io-app.pages.dev
 30-proposal-globaldollar.pages.dev
 30-proposal-jumper.pages.dev
 30-proposal-prjx.pages.dev
+30-proposals-papertrade.pages.dev
 30-ramses-events.pages.dev
 30-reallocate-flare.pages.dev
 30-reallocation-concrete.pages.dev
@@ -53346,6 +53364,7 @@ pr-7831.1inch-io-app.pages.dev
 37-proposal-computersrh.pages.dev
 37-proposal-ethos.pages.dev
 37-proposal-globaldollar.pages.dev
+37-proposal-jumper.pages.dev
 37-proposal-prjx.pages.dev
 37-reallocate-flare.pages.dev
 37-saturncredit.pages.dev
@@ -53353,6 +53372,7 @@ pr-7831.1inch-io-app.pages.dev
 37-venice.pages.dev
 37-vote-argusworld.pages.dev
 37-vote-papertrade.pages.dev
+37-vote-ponsfamily.pages.dev
 38-0xfluid.pages.dev
 38-allocation-yieldfields.pages.dev
 38-allowlist-ascendlaunch.pages.dev
@@ -53519,6 +53539,7 @@ pr-7831.1inch-io-app.pages.dev
 42-governance-kinetiq.pages.dev
 42-netnet.pages.dev
 42-ponsfamily.pages.dev
+42-proposal-computersrh.pages.dev
 42-proposal-ethos.pages.dev
 42-proposal-globaldollar.pages.dev
 42-proposal-prjx.pages.dev
@@ -53545,6 +53566,7 @@ pr-7831.1inch-io-app.pages.dev
 43-tge-extended.pages.dev
 43-venice.pages.dev
 43-vote-argusworld.pages.dev
+43-vote-papertrade.pages.dev
 44-0xfluid.pages.dev
 44-allocation-yieldfields.pages.dev
 44-arguseco.pages.dev
@@ -53562,6 +53584,7 @@ pr-7831.1inch-io-app.pages.dev
 44-tge-extended.pages.dev
 44-venice.pages.dev
 44-vote-argusworld.pages.dev
+44-vote-papertrade.pages.dev
 45-0xfluid.pages.dev
 45-allocation-yieldfields.pages.dev
 45-arguseco.pages.dev
@@ -53589,6 +53612,7 @@ pr-7831.1inch-io-app.pages.dev
 46-governance-kinetiq.pages.dev
 46-netnet.pages.dev
 46-ponsfamily.pages.dev
+46-proposal-ethos.pages.dev
 46-proposal-globaldollar.pages.dev
 46-proposal-prjx.pages.dev
 46-reallocate-flare.pages.dev
@@ -53709,6 +53733,7 @@ pr-7831.1inch-io-app.pages.dev
 5-zamaprotocol.pages.dev
 5-zipcoin.pages.dev
 50-0xfluid.pages.dev
+50-allocation-yieldfields.pages.dev
 50-arguseco.pages.dev
 50-argusworld.pages.dev
 50-derivexyz.pages.dev
@@ -53756,6 +53781,7 @@ pr-7831.1inch-io-app.pages.dev
 53-argusworld.pages.dev
 53-derivexyz.pages.dev
 53-gov-argus.pages.dev
+53-governance-kinetiq.pages.dev
 53-netnet.pages.dev
 53-proposal-globaldollar.pages.dev
 53-proposal-prjx.pages.dev
@@ -53786,6 +53812,7 @@ pr-7831.1inch-io-app.pages.dev
 55-proposal-prjx.pages.dev
 55-reallocate-flare.pages.dev
 55-saturncredit.pages.dev
+55-tge-extended.pages.dev
 55-venice.pages.dev
 55-vote-argusworld.pages.dev
 56-0xfluid.pages.dev
@@ -53821,12 +53848,14 @@ pr-7831.1inch-io-app.pages.dev
 58-proposal-prjx.pages.dev
 58-reallocate-flare.pages.dev
 58-saturncredit.pages.dev
+58-venice.pages.dev
 58-vote-argusworld.pages.dev
 59-0xfluid.pages.dev
 59-arguseco.pages.dev
 59-derivexyz.pages.dev
 59-gov-argus.pages.dev
 59-netnet.pages.dev
+59-proposal-globaldollar.pages.dev
 59-proposal-prjx.pages.dev
 59-reallocate-flare.pages.dev
 59-saturncredit.pages.dev
@@ -54094,6 +54123,7 @@ pr-7831.1inch-io-app.pages.dev
 76-0xfluid.pages.dev
 76-arguseco.pages.dev
 76-derivexyz.pages.dev
+76-netnet.pages.dev
 76-proposal-prjx.pages.dev
 76-reallocate-flare.pages.dev
 76-saturncredit.pages.dev
@@ -54110,6 +54140,7 @@ pr-7831.1inch-io-app.pages.dev
 78-proposal-prjx.pages.dev
 78-reallocate-flare.pages.dev
 78-saturncredit.pages.dev
+79-0xfluid.pages.dev
 79-arguseco.pages.dev
 79-derivexyz.pages.dev
 79-proposal-prjx.pages.dev
@@ -54191,6 +54222,7 @@ pr-7831.1inch-io-app.pages.dev
 82-derivexyz.pages.dev
 82-proposal-prjx.pages.dev
 82-reallocate-flare.pages.dev
+82-saturncredit.pages.dev
 83-derivexyz.pages.dev
 83-reallocate-flare.pages.dev
 84-derivexyz.pages.dev
@@ -54237,6 +54269,7 @@ pr-7831.1inch-io-app.pages.dev
 9-gov-argus.pages.dev
 9-gov-concrete.pages.dev
 9-gov-papertrade.pages.dev
+9-gov-ponsfamily.pages.dev
 9-gov-ramses.pages.dev
 9-governance-kinetiq.pages.dev
 9-hyperlinkapp-86x.pages.dev
@@ -73770,6 +73803,7 @@ account-validation-service-s6.lat
 account-validation-service-s7.lat
 account-validation-service-s8.lat
 account-validation-service-s9.lat
+aercodlorme.lat
 aero-finance.lat
 aerodrome-portal.lat
 aeroxyzs.lat
@@ -74165,6 +74199,7 @@ pc-claim.lat
 peepacoin.lat
 peepatoken.lat
 pendle-dashboard.lat
+pendlefinance.lat
 pendlefinances.lat
 peniscoin.lat
 penldeflnance.lat
@@ -74265,6 +74300,7 @@ solsticefinances.lat
 solstices-fi.lat
 solvfinance.lat
 soneuim-votes.lat
+sonicslabs.lat
 sorel.lat
 spark-finance.lat
 sparkdotfi.lat
@@ -74354,6 +74390,7 @@ vdor-app.lat
 vdortoken.lat
 verify-sale-securely9556742.lat
 virtuals-app.lat
+virtualsfinance.lat
 vltualsapps.lat
 vnnz.lat
 vote-anyone.lat
@@ -102287,6 +102324,7 @@ papertrade-signup.xyz
 papertrade-token.xyz
 papertrade-vote.xyz
 papertradefdn.xyz
+papertradefndn.xyz
 papertraderewards.xyz
 papertradr.xyz
 papertrae.xyz
@@ -102307,6 +102345,7 @@ participate-lighter.xyz
 participate-merkl.xyz
 participate-nillion.xyz
 participate-ondo.xyz
+participate-papertrade.xyz
 participate-xrpl.xyz
 participate-zest.xyz
 participation-aerodrome.xyz
@@ -104129,6 +104168,7 @@ take-flarenetworks.xyz
 take-holder.xyz
 take-holders.xyz
 take-lighter.xyz
+take-papertrade.xyz
 take-reward.xyz
 take-rewards.xyz
 take-usepaid.xyz
