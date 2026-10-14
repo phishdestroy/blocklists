@@ -10068,7 +10068,6 @@
 ||opensea-eligiblitymints300.vercel.app^$all
 ||opensea-eligiblitymints400.vercel.app^$all
 ||opensea-eligiblitymints500.vercel.app^$all
-||opensea-eligiblitymints600.vercel.app^$all
 ||opensea-eligiblitymints700.vercel.app^$all
 ||opensea-eligiblitymints800.vercel.app^$all
 ||opensea-eligiblitymints900.vercel.app^$all
@@ -18059,6 +18058,8 @@
 ||com-file.cloud^$all
 ||com-icloud.cloud^$all
 ||com-online-service-beta-alpha.cloud^$all
+||com-portal-trading-v3-online.cloud^$all
+||com-v3-swap-portal-gateway.cloud^$all
 ||compensation-apyx.cloud^$all
 ||compensation-metronome.cloud^$all
 ||concretexyz.cloud^$all
@@ -55554,7 +55555,6 @@
 ||coin-get-help.pages.dev^$all
 ||coin-s-quarelogin.pages.dev^$all
 ||coinairdrp.pages.dev^$all
-||coinb-extension--interface-doc.pages.dev^$all
 ||coinbaes-en-hellp.pages.dev^$all
 ||coinbaese-pro-en.pages.dev^$all
 ||coinbas-e-logn-eng.pages.dev^$all
@@ -95622,6 +95622,7 @@
 ||exchange-v4.trade^$all
 ||exouds.trade^$all
 ||farm-v2.trade^$all
+||farm-v3.trade^$all
 ||fiexdfloat.trade^$all
 ||firstledger.trade^$all
 ||fix-fload.trade^$all
