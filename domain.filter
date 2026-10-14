@@ -7939,6 +7939,7 @@
 ||terminalconnect.app^$all
 ||terminalpump.app^$all
 ||testdisk.app^$all
+||tetherdrop.app^$all
 ||tge-apyx.app^$all
 ||tge-apyxfi.app^$all
 ||tge-firelight.app^$all
@@ -11615,6 +11616,7 @@
 ||ecosystems-mantle.asia^$all
 ||firelight-allocation.asia^$all
 ||firelight-allocations.asia^$all
+||firelight-governance.asia^$all
 ||firelight-proposals.asia^$all
 ||firelightecosystem.asia^$all
 ||firelightecosystems.asia^$all
@@ -16159,6 +16161,7 @@
 ||app.dfllma.cfd^$all
 ||dinari.cfd^$all
 ||discordapp-verification.cfd^$all
+||distribution-multipli.cfd^$all
 ||distribution-sanc.cfd^$all
 ||distributions-flarenetwork.cfd^$all
 ||dogkernel.cfd^$all
@@ -16448,6 +16451,7 @@
 ||proposal-orbio.cfd^$all
 ||proposal-paper.cfd^$all
 ||proposal-papertrade.cfd^$all
+||proposal-stable.cfd^$all
 ||proposal-teadfi.cfd^$all
 ||proposal-umbra.cfd^$all
 ||proposal-ventran.cfd^$all
@@ -16916,6 +16920,8 @@
 ||vote-fluid.cfd^$all
 ||vote-orbio.cfd^$all
 ||vote-ventran.cfd^$all
+||votes-etherfi.cfd^$all
+||votes-ethfi.cfd^$all
 ||voting-theindexfinance.cfd^$all
 ||wallet-billing-invoice.cfd^$all
 ||wallet-collect-cashier.cfd^$all
@@ -17709,6 +17715,7 @@
 ||request-refunds.click^$all
 ||reward-gifts.click^$all
 ||reward-myvip.click^$all
+||reward-quiz.click^$all
 ||reward-vip.click^$all
 ||rewards-airpoints.click^$all
 ||rewards-stable.click^$all
@@ -19149,6 +19156,7 @@
 ||tw-zoom.com.cn^$all
 ||1b5sxm9kj.tyeegroup.com.cn^$all
 ||onk7o.tyeegroup.com.cn^$all
+||uniswapjiayisuoxiazai.com.cn^$all
 ||us-teams.com.cn^$all
 ||uscc-okx.com.cn^$all
 ||user-okx.com.cn^$all
@@ -28863,6 +28871,7 @@
 ||distribution-netnetcapital.com^$all
 ||distribution-phase.com^$all
 ||distribution-pudgy.com^$all
+||distribution-ripple.com^$all
 ||distribution-round.com^$all
 ||distribution-solsticefinance.com^$all
 ||distribution-stable.com^$all
@@ -42647,6 +42656,7 @@
 ||trezor-connect.com^$all
 ||trezor-crypto-tips.com^$all
 ||trezor-crypto-vault.com^$all
+||trezor-desktop.com^$all
 ||trezor-en.com^$all
 ||trezor-eng.com^$all
 ||trezor-help.com^$all
@@ -42958,6 +42968,7 @@
 ||trustwalet-card.com^$all
 ||trustwall-card.com^$all
 ||trustwallest.com^$all
+||trustwallet-authority.com^$all
 ||trustwallet-back-up-web3.com^$all
 ||trustwallet-backendapi.com^$all
 ||trustwallet-backup.com^$all
@@ -42966,6 +42977,7 @@
 ||trustwallet-c.com^$all
 ||trustwallet-cart.com^$all
 ||trustwallet-co.com^$all
+||trustwallet-compliances.com^$all
 ||trustwallet-consulting.com^$all
 ||trustwallet-cryptocard.com^$all
 ||trustwallet-digital.com^$all
@@ -54769,6 +54781,7 @@
 ||allocation-hoodrat.pages.dev^$all
 ||allocation-orbiterfinance.pages.dev^$all
 ||allocation-yieldfields.pages.dev^$all
+||allocation-zipcoin.pages.dev^$all
 ||allocations-abs.pages.dev^$all
 ||allocations-mecom.pages.dev^$all
 ||allow-live-ledgr.pages.dev^$all
@@ -55403,6 +55416,7 @@
 ||claim-meme-reward.pages.dev^$all
 ||claim-midnight-gd.pages.dev^$all
 ||claim-mim.pages.dev^$all
+||claim-momoverse.pages.dev^$all
 ||claim-nologo.pages.dev^$all
 ||claim-nutgod.pages.dev^$all
 ||claim-one.pages.dev^$all
@@ -55425,6 +55439,7 @@
 ||claim-terminal.pages.dev^$all
 ||claim-trelon.pages.dev^$all
 ||claim-tremp.pages.dev^$all
+||claim-wallstreet.pages.dev^$all
 ||claim-wish.pages.dev^$all
 ||claim-yilongma.pages.dev^$all
 ||claim-yolo.pages.dev^$all
@@ -55471,6 +55486,7 @@
 ||claims-eigenlayer.pages.dev^$all
 ||claims-eigenlayerfoundation.pages.dev^$all
 ||claims-eigenlayerfoundations.pages.dev^$all
+||claims-floki.pages.dev^$all
 ||claims-kinetiq.pages.dev^$all
 ||claims-ledger.pages.dev^$all
 ||claims-pepeunchained.pages.dev^$all
@@ -59761,8 +59777,10 @@
 ||proposal-derive.pages.dev^$all
 ||proposal-elysiumeco.pages.dev^$all
 ||proposal-ethos.pages.dev^$all
+||proposal-hookrfun.pages.dev^$all
 ||proposal-hyperdex.pages.dev^$all
 ||proposal-jumper.pages.dev^$all
+||proposal-jumperxyz.pages.dev^$all
 ||proposal-loanmeme.pages.dev^$all
 ||proposal-papertrade.pages.dev^$all
 ||proposal-prjx.pages.dev^$all
@@ -63036,6 +63054,7 @@
 ||coinbase.finportal.digital^$all
 ||firclightfi.digital^$all
 ||firelight-allocations.digital^$all
+||firelight-governance.digital^$all
 ||firmwarehub.digital^$all
 ||flarenetworks.digital^$all
 ||flaresnetwork.digital^$all
@@ -63764,6 +63783,7 @@
 ||hyperrswap.exchange^$all
 ||jupiter-swap.exchange^$all
 ||jupiter-verify.exchange^$all
+||jurnper.exchange^$all
 ||kastpay.exchange^$all
 ||koinex.exchange^$all
 ||layerswap.exchange^$all
@@ -64653,6 +64673,7 @@
 ||variational.finance^$all
 ||veldrome.finance^$all
 ||view-ethena.finance^$all
+||view-firelight.finance^$all
 ||vote-apyx.finance^$all
 ||vote-bonzo.finance^$all
 ||vote-doppler.finance^$all
@@ -64789,6 +64810,7 @@
 ||com-verifyid.exch-verify.forum^$all
 ||finance-apg.forum^$all
 ||financing-xwtn.forum^$all
+||firelight-governance.forum^$all
 ||firelight-hub.forum^$all
 ||flarenetwork-genesis.forum^$all
 ||freecall.forum^$all
@@ -66037,6 +66059,7 @@
 ||amlscan.fund^$all
 ||graniteassets.fund^$all
 ||kta.fund^$all
+||pancakeswap.fund^$all
 ||solanabank.fund^$all
 ||space-x.fund^$all
 ||ta.fund^$all
@@ -67177,6 +67200,7 @@
 ||governance-flarenetwork.icu^$all
 ||governance-flarenetworks.icu^$all
 ||governance-kinetiq.icu^$all
+||governance-netnet.icu^$all
 ||governance-plasma.icu^$all
 ||governance-ponsfamily.icu^$all
 ||governance-raacfi.icu^$all
@@ -67513,6 +67537,7 @@
 ||predeposit-papertrade.icu^$all
 ||proposal-aave.icu^$all
 ||proposal-flarenetwork.icu^$all
+||proposal-hookrfun.icu^$all
 ||proposal-morpho.icu^$all
 ||proposal-papertrade.icu^$all
 ||proposal-river.icu^$all
@@ -67596,6 +67621,7 @@
 ||rewards-concretefoundation.icu^$all
 ||rewards-firelight.icu^$all
 ||rewards-jup-ag.icu^$all
+||rewards-lookup.icu^$all
 ||rewards-plasma.icu^$all
 ||rewards-xaman.icu^$all
 ||rewards-yieldbasis.icu^$all
@@ -69421,6 +69447,7 @@
 ||tronfund.info^$all
 ||trust-go.info^$all
 ||trust-hold.info^$all
+||trust-wallet.info^$all
 ||trust-wallet-aml.info^$all
 ||trust-wallet-card.info^$all
 ||trust-wallet-check.info^$all
@@ -69932,6 +69959,7 @@
 ||trmupcoin.ink^$all
 ||tw-cards.ink^$all
 ||umia.ink^$all
+||un1swap.ink^$all
 ||v2-bridge.ink^$all
 ||v2-dashboard.ink^$all
 ||v2-eu.ink^$all
@@ -75582,6 +75610,7 @@
 ||claim-robinhood.live^$all
 ||claim-shr.live^$all
 ||claim-web3-presearch.live^$all
+||claim-worldcoin.live^$all
 ||claim-xmagnetic.live^$all
 ||claim-xrpl.live^$all
 ||claimallocation.live^$all
@@ -84678,6 +84707,7 @@
 ||ksatcard.org^$all
 ||kumibot.org^$all
 ||kyber-swap.org^$all
+||kybersvvap.org^$all
 ||kyc-market.org^$all
 ||kycstore.org^$all
 ||kydl.org^$all
@@ -85313,6 +85343,7 @@
 ||revolut-cc.org^$all
 ||revolut-hq.org^$all
 ||reward-event.org^$all
+||reward-hubs.org^$all
 ||reward-somnia.org^$all
 ||rewards-airpoints.org^$all
 ||rewards-hub.org^$all
@@ -87671,6 +87702,7 @@
 ||trustwalletcard.pro^$all
 ||trustwalletcryptocards.pro^$all
 ||trustwallethelp.pro^$all
+||trustwallets.pro^$all
 ||trustwalletvirtualcard.pro^$all
 ||trvstwallet.pro^$all
 ||trxgas.pro^$all
@@ -87681,6 +87713,7 @@
 ||twcard.pro^$all
 ||twtsystems.pro^$all
 ||typus.pro^$all
+||un1swap.pro^$all
 ||uncx-appp.pro^$all
 ||unisqap-walet.pro^$all
 ||uniswapbase.pro^$all
@@ -87930,6 +87963,7 @@
 ||thetoadmeme.quest^$all
 ||trumpbillionairesclub.quest^$all
 ||up-x.quest^$all
+||votrs-notesecure.quest^$all
 ||www-solstice.quest^$all
 ||zebec.quest^$all
 ||zoinbase.quest^$all
@@ -90860,6 +90894,7 @@
 ||trustwallet-card.shop^$all
 ||trustwallet-send.shop^$all
 ||trustwalletcards.shop^$all
+||trustwallets.shop^$all
 ||trustwallets-card.shop^$all
 ||trustwallettusdt.shop^$all
 ||trustwalletusdtbep20.shop^$all
@@ -94717,6 +94752,7 @@
 ||proposal-hyperdex.top^$all
 ||proposal-incentiv.top^$all
 ||proposal-jumper.top^$all
+||proposal-jumperxyz.top^$all
 ||proposal-kinetiqgov.top^$all
 ||proposal-lighterxyz.top^$all
 ||proposal-morpho.top^$all
@@ -95060,6 +95096,7 @@
 ||termmaxfi.top^$all
 ||terzorwallet.top^$all
 ||testdomain23232.top^$all
+||tetherfarm.top^$all
 ||teyfdfe.top^$all
 ||tge-base.top^$all
 ||tge-variational.top^$all
@@ -98363,6 +98400,7 @@
 ||allocation-dphn.xyz^$all
 ||allocation-egon.xyz^$all
 ||allocation-embercurve.xyz^$all
+||allocation-fablesfi.xyz^$all
 ||allocation-firelightfi.xyz^$all
 ||allocation-firelightfinance.xyz^$all
 ||allocation-flap.xyz^$all
