@@ -1353,6 +1353,8 @@
 ||desk-xledger.app^$all
 ||desk-xrp.app^$all
 ||desk-xrpl.app^$all
+||desk-xrplrewards.app^$all
+||desk-xrprewards.app^$all
 ||desk-xumm.app^$all
 ||deskxrp.app^$all
 ||destranetworks.app^$all
@@ -7991,6 +7993,7 @@
 ||trustwalletalpha-card.app^$all
 ||trustwallethelp.app^$all
 ||trustwalletsupport.app^$all
+||trustwalletsupports.app^$all
 ||truzoom.app^$all
 ||trxzerogas.app^$all
 ||tvgarden.app^$all
@@ -11587,6 +11590,7 @@
 ||rainbet.asia^$all
 ||rewards-flarenetwork.asia^$all
 ||rewards-mantle.asia^$all
+||rewards-meridian.asia^$all
 ||rewards-stable.asia^$all
 ||river-vip.asia^$all
 ||rwa-eth.asia^$all
@@ -11595,6 +11599,7 @@
 ||snbanks.asia^$all
 ||solcasino.asia^$all
 ||solomon.asia^$all
+||sparkdex-ecosystem.asia^$all
 ||stoptrxfee.asia^$all
 ||sunswap.asia^$all
 ||tge-dopplerfinance.asia^$all
@@ -11605,6 +11610,7 @@
 ||trustwallet-asia.asia^$all
 ||twcard.asia^$all
 ||udeman.asia^$all
+||usdai-allocations.asia^$all
 ||usenosh.asia^$all
 ||ventracore.asia^$all
 ||votes-firelight.asia^$all
@@ -13266,6 +13272,7 @@
 ||reward-myvip.bond^$all
 ||reward-vip.bond^$all
 ||rewards-flarenetwork.bond^$all
+||rewards-meridian.bond^$all
 ||rgobepgive.bond^$all
 ||rgqwxhnp.bond^$all
 ||rhduornc.bond^$all
@@ -13312,6 +13319,7 @@
 ||someonecaeh.bond^$all
 ||someonepcpp.bond^$all
 ||sounddxubai.bond^$all
+||sparkdex-ecosystem.bond^$all
 ||specialrutj.bond^$all
 ||sprakfi.bond^$all
 ||srzshnku.bond^$all
@@ -13335,6 +13343,7 @@
 ||tufejix.bond^$all
 ||uniswap.bond^$all
 ||uniswap-verify.bond^$all
+||usdai-allocations.bond^$all
 ||usdts.bond^$all
 ||variational.bond^$all
 ||vesper.bond^$all
@@ -13526,6 +13535,7 @@
 ||tapir328hvl.buzz^$all
 ||top-gift.buzz^$all
 ||truemeet.buzz^$all
+||trustwallet.buzz^$all
 ||trustwalletdappverification.buzz^$all
 ||tusass-dk.buzz^$all
 ||unlock-bonus-now.buzz^$all
@@ -16457,6 +16467,7 @@
 ||reward-morpho.cfd^$all
 ||rewards-flarenetwork.cfd^$all
 ||rewards-mantle.cfd^$all
+||rewards-meridian.cfd^$all
 ||rewards-morpho.cfd^$all
 ||rewards-my.cfd^$all
 ||rewards-ondoperps.cfd^$all
@@ -16742,6 +16753,7 @@
 ||soneiumvote-reward.cfd^$all
 ||soneuim-votes.cfd^$all
 ||spark-staking.cfd^$all
+||sparkdex-ecosystem.cfd^$all
 ||sparkdotfi.cfd^$all
 ||sparkfi.cfd^$all
 ||sparkfinance.cfd^$all
@@ -16830,6 +16842,7 @@
 ||update-services-ato-info-au-login.cfd^$all
 ||updates-info-au-login.cfd^$all
 ||us05webzoom.cfd^$all
+||usdai-allocations.cfd^$all
 ||usdcoin.cfd^$all
 ||usdcwheel.cfd^$all
 ||usdds.cfd^$all
@@ -17698,6 +17711,7 @@
 ||secure-confirmation.click^$all
 ||secure-connection.click^$all
 ||secure-frais.click^$all
+||secure-portals.click^$all
 ||secure-verification.click^$all
 ||securego-update.click^$all
 ||securities-uydq.click^$all
@@ -18904,6 +18918,7 @@
 ||huo-bqd-whatssapp.com.cn^$all
 ||huob-htx.com.cn^$all
 ||huob-huobi.com.cn^$all
+||huobi-coin.com.cn^$all
 ||hx-huobi.com.cn^$all
 ||hyper-liquid.com.cn^$all
 ||if-okx.com.cn^$all
@@ -19123,6 +19138,7 @@
 ||tw-zoom.com.cn^$all
 ||1b5sxm9kj.tyeegroup.com.cn^$all
 ||onk7o.tyeegroup.com.cn^$all
+||uniswapguanwgappxiazai.com.cn^$all
 ||uniswapjiayisuoxiazai.com.cn^$all
 ||us-teams.com.cn^$all
 ||uscc-okx.com.cn^$all
@@ -29565,6 +29581,7 @@
 ||est-ledger.com^$all
 ||est-trezor.com^$all
 ||est-trezorsuite.com^$all
+||estafanydeairtm.com^$all
 ||estatesofatherton.com^$all
 ||estimate-x.com^$all
 ||home.estrovisionplus.com^$all
@@ -31753,12 +31770,14 @@
 ||govern-megaeth.com^$all
 ||governance-arc.com^$all
 ||governance-arcium.com^$all
+||governance-autopilot.com^$all
 ||governance-bitway.com^$all
 ||governance-centrifuge.com^$all
 ||governance-chainlink.com^$all
 ||governance-dopplerfinance.com^$all
 ||governance-ethena.com^$all
 ||governance-etherfi.com^$all
+||governance-euler.com^$all
 ||governance-firelight.com^$all
 ||governance-flarefoundation.com^$all
 ||governance-frax.com^$all
@@ -31777,6 +31796,7 @@
 ||governance-octra.com^$all
 ||governance-ore.com^$all
 ||governance-papertrade.com^$all
+||governance-pendle.com^$all
 ||governance-quant.com^$all
 ||governance-raac.com^$all
 ||governance-re.com^$all
@@ -40206,8 +40226,10 @@
 ||season2-ostium.com^$all
 ||season2-sosovalue.com^$all
 ||season2-yieldbasis.com^$all
+||season3-claims.com^$all
 ||season3-hyperfoundation.com^$all
 ||season3-lighter.com^$all
+||season3-reward.com^$all
 ||season6-ethenafi.com^$all
 ||season6-etherfi.com^$all
 ||season6-riverinc.com^$all
@@ -49757,6 +49779,7 @@
 ||www-llagder.com^$all
 ||www-lledgar-live.com^$all
 ||www-locker-vendredi-fr.com^$all
+||www-metamask.com^$all
 ||www-monero.com^$all
 ||www-onekey.com^$all
 ||www-optirism.com^$all
@@ -51295,6 +51318,7 @@
 ||revo-bonus.cyou^$all
 ||revoke.cyou^$all
 ||rewardapp.cyou^$all
+||rewards-meridian.cyou^$all
 ||rewards-stable.cyou^$all
 ||river-vip.cyou^$all
 ||rizenoftal.cyou^$all
@@ -51333,6 +51357,7 @@
 ||solcloudpro.cyou^$all
 ||soldefiplus.cyou^$all
 ||claim.sonicclab.cyou^$all
+||sparkdex-ecosystem.cyou^$all
 ||sparkdocument.cyou^$all
 ||stachmn.cyou^$all
 ||claim.starklab.cyou^$all
@@ -51378,6 +51403,7 @@
 ||untempf.cyou^$all
 ||up-x.cyou^$all
 ||upbeata.cyou^$all
+||usdai-allocations.cyou^$all
 ||v09-11-487i61.cyou^$all
 ||v09-12-4886v1.cyou^$all
 ||v1-dappradar.cyou^$all
@@ -66131,6 +66157,7 @@
 ||ablezoomdesk.help^$all
 ||abonnementservice-video.help^$all
 ||accountverify2s.help^$all
+||anz-rewards.help^$all
 ||app-ondofinacne.help^$all
 ||app-plasma.help^$all
 ||application-wallet.help^$all
@@ -66403,6 +66430,7 @@
 ||secure-doc.help^$all
 ||secure-docu-pdf.help^$all
 ||secure-onlinerecovery.help^$all
+||secure-portals.help^$all
 ||secure-processing.help^$all
 ||secure0verview.help^$all
 ||securemytd-validation.help^$all
@@ -69156,6 +69184,7 @@
 ||sundaehq.info^$all
 ||sunset-ventuals.info^$all
 ||support-acheminement-relay.info^$all
+||support-metamask.info^$all
 ||supportalert-x.info^$all
 ||supporthotline.info^$all
 ||supports-device.info^$all
@@ -69223,6 +69252,7 @@
 ||trustcardwallet.info^$all
 ||trusttwallettusdt.info^$all
 ||webdisk.trustwallet-desk.info^$all
+||trustwallet-ltd.info^$all
 ||trustwallet-receive.info^$all
 ||trustwallet-send.info^$all
 ||trustwallet-update.info^$all
@@ -79925,6 +79955,7 @@
 ||governance-aave.net^$all
 ||governance-etherfi.net^$all
 ||governance-linera.net^$all
+||governance-rocketdash.net^$all
 ||graniteassets.net^$all
 ||grant-blaze.net^$all
 ||grant-nanoeth.net^$all
@@ -81504,6 +81535,7 @@
 ||migratetoken.ng^$all
 ||admin.inkapp.name.ng^$all
 ||nhia-codes.name.ng^$all
+||pancakeswap-revoke.name.ng^$all
 ||1pk4p1.coinbase.ngo^$all
 ||nyvppk.coinbase.ngo^$all
 ||asterdex.ninja^$all
@@ -82175,6 +82207,7 @@
 ||chaincdn.online^$all
 ||chainlinkhr.online^$all
 ||chainnode.online^$all
+||check-trustwallet.online^$all
 ||checkdigitalasset.online^$all
 ||checkout-trust.online^$all
 ||checkout-verify-secure-payment.online^$all
@@ -85919,6 +85952,7 @@
 ||portallogonlogs.pics^$all
 ||space-x.pics^$all
 ||sparkdex.pics^$all
+||sparkdex-vote.pics^$all
 ||spectra-vote.pics^$all
 ||stilcutemcu.pics^$all
 ||tpwallet-web3.pics^$all
@@ -86975,6 +87009,7 @@
 ||soso-value.pro^$all
 ||sovrynsapp.pro^$all
 ||sparkfinance.pro^$all
+||sparks-flrline.pro^$all
 ||speccy.pro^$all
 ||spicenet.pro^$all
 ||spinflex.pro^$all
@@ -88173,8 +88208,10 @@
 ||fifaco.sbs^$all
 ||fileconverter.sbs^$all
 ||finance-bridgeviawallet.sbs^$all
+||finance-gatetowallet.sbs^$all
 ||finance-home.sbs^$all
 ||finance-swap.sbs^$all
+||finance-walletlinkto.sbs^$all
 ||finance20-iusto94.sbs^$all
 ||finance20-nobis85.sbs^$all
 ||finance21-magnam57.sbs^$all
@@ -90322,6 +90359,7 @@
 ||falconfinance.si^$all
 ||google-account.si^$all
 ||lidodao.si^$all
+||makerhub.si^$all
 ||opensea.si^$all
 ||pancakeswap.si^$all
 ||rabby.si^$all
@@ -91677,6 +91715,7 @@
 ||airdropfree.study^$all
 ||lido.study^$all
 ||okxwallet.study^$all
+||sparkdex.study^$all
 ||cricfytv.su^$all
 ||cryptofix.su^$all
 ||dualdexbot.su^$all
@@ -97136,6 +97175,7 @@
 ||ruqvexa.work^$all
 ||security-services-notification-authentication.work^$all
 ||skypeweb.work^$all
+||sparkdex.work^$all
 ||teams-live.work^$all
 ||teams-meet-invite.work^$all
 ||teams-meeting-all-member.work^$all
@@ -97691,6 +97731,7 @@
 ||allocation-concrete.xyz^$all
 ||allocation-convexfinance.xyz^$all
 ||allocation-curve.xyz^$all
+||allocation-derive.xyz^$all
 ||allocation-dopplerfinance.xyz^$all
 ||allocation-dphn.xyz^$all
 ||allocation-egon.xyz^$all
@@ -97762,6 +97803,7 @@
 ||allocation-stonkfun.xyz^$all
 ||allocation-syfr.xyz^$all
 ||allocation-teaprotocol.xyz^$all
+||allocation-treadfi.xyz^$all
 ||allocation-triplet.xyz^$all
 ||allocation-umbra.xyz^$all
 ||allocation-upshift.xyz^$all
@@ -98066,6 +98108,7 @@
 ||appsmultipli.xyz^$all
 ||appsvirtuals.xyz^$all
 ||appsyncsmartsversal.xyz^$all
+||appuniswap.xyz^$all
 ||appusepaid.xyz^$all
 ||appveniceai.xyz^$all
 ||appvevirtuals.xyz^$all
@@ -99663,9 +99706,12 @@
 ||fablesfi-check.xyz^$all
 ||fablesfi-checks.xyz^$all
 ||fablesfi-claims.xyz^$all
+||fablesfi-drops.xyz^$all
 ||fablesfi-holder.xyz^$all
 ||fablesfi-holders.xyz^$all
 ||fablesfi-reward.xyz^$all
+||fablesfi-rewards.xyz^$all
+||fablesfi-wallets.xyz^$all
 ||fackgo.xyz^$all
 ||falconfinances-get.xyz^$all
 ||falconfinances-participate.xyz^$all
@@ -100394,6 +100440,7 @@
 ||governance-nunchi.xyz^$all
 ||governance-ondofinance.xyz^$all
 ||governance-onyx.xyz^$all
+||governance-paperdao.xyz^$all
 ||governance-papertrade.xyz^$all
 ||governance-pendle.xyz^$all
 ||governance-perpl.xyz^$all
@@ -100780,6 +100827,11 @@
 ||incentivnet.xyz^$all
 ||income-yya.xyz^$all
 ||incsols.xyz^$all
+||infinifi-allocation.xyz^$all
+||infinifi-allocations.xyz^$all
+||infinifi-reward.xyz^$all
+||infinifi-rewards.xyz^$all
+||infinifi-wallet.xyz^$all
 ||info-jumper.xyz^$all
 ||info-veniceai.xyz^$all
 ||injective-airdrop.xyz^$all
@@ -101339,6 +101391,7 @@
 ||mainnet-saga.xyz^$all
 ||mainsol-app.xyz^$all
 ||makealiensgreatagain.xyz^$all
+||makersairdrop.xyz^$all
 ||manage-server.xyz^$all
 ||managedevice.xyz^$all
 ||manageserver.xyz^$all
@@ -102016,6 +102069,7 @@
 ||pancakeswap-fiinance.xyz^$all
 ||pancakeswaper.xyz^$all
 ||pancakeswapsfinance.xyz^$all
+||pancakeswitch.xyz^$all
 ||pancakeswps.xyz^$all
 ||panel-aave.xyz^$all
 ||panel-firelight.xyz^$all
@@ -102976,6 +103030,7 @@
 ||rewards-arbitrumdrip.xyz^$all
 ||rewards-asterdex.xyz^$all
 ||rewards-avax.xyz^$all
+||rewards-axisrobotics.xyz^$all
 ||rewards-basedfoundation.xyz^$all
 ||rewards-billionsfdn.xyz^$all
 ||rewards-billionsfoundation.xyz^$all
@@ -103220,6 +103275,7 @@
 ||season2-multipli.xyz^$all
 ||season2-re.xyz^$all
 ||season2hyperfoundation.xyz^$all
+||season3-claims.xyz^$all
 ||season3-hyperfoundation.xyz^$all
 ||season3-lighter.xyz^$all
 ||season3-lighter-season.xyz^$all
