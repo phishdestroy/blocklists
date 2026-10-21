@@ -1772,7 +1772,6 @@
 ||io-suites-connect.app^$all
 ||io-swap.app^$all
 ||io-v3-start-suite.app^$all
-||io-wallet.app^$all
 ||io-wallet-suite.app^$all
 ||io-wallet-suites.app^$all
 ||io-wallets.app^$all
@@ -11568,6 +11567,7 @@
 ||vangrid-hub.web.app^$all
 ||variational-io.web.app^$all
 ||vertexdeployenvironment.web.app^$all
+||w-variational.web.app^$all
 ||walletconnectrpc.web.app^$all
 ||wallnets-nodefix.web.app^$all
 ||worldlibertys-financials.web.app^$all
@@ -19172,7 +19172,6 @@
 ||cn-metamask.com.cn^$all
 ||cnap-binance.com.cn^$all
 ||cns-bybit.com.cn^$all
-||coinbaseqianbao.com.cn^$all
 ||coinbasgwxiazai4.com.cn^$all
 ||coingecko.com.cn^$all
 ||com-huobi.com.cn^$all
@@ -30627,8 +30626,6 @@
 ||finance-keeta.com^$all
 ||finance-keplr-wall.com^$all
 ||finance-moonpay.com^$all
-||finance-ok0x-ex.com^$all
-||finance-ok0x-web.com^$all
 ||finance-polymarket.com^$all
 ||finance-stabilizer.com^$all
 ||finance-starbot.com^$all
