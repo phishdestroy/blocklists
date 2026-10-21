@@ -1662,6 +1662,7 @@
 ||governance-flare.app^$all
 ||governance-flarenetwork.app^$all
 ||governance-flarenetworks.app^$all
+||governance-hyperfoundation.app^$all
 ||governance-kinetiq.app^$all
 ||governance-layerzero.app^$all
 ||governance-lido.app^$all
@@ -1677,6 +1678,7 @@
 ||governance-unipegv4.app^$all
 ||governance-xaman.app^$all
 ||governance-zebec.app^$all
+||governances-hyperfoundation.app^$all
 ||governances-xaman.app^$all
 ||grandslamtoken.app^$all
 ||grassfoundation-vote.app^$all
@@ -6459,6 +6461,7 @@
 ||portal-moonshot-0dw.netlify.app^$all
 ||portal-moonshot-0ld.netlify.app^$all
 ||portal-moonshot-0o9.netlify.app^$all
+||portal-moonshot-0sr.netlify.app^$all
 ||portal-moonshot-0ts.netlify.app^$all
 ||portal-moonshot-0uw.netlify.app^$all
 ||portal-moonshot-0w6.netlify.app^$all
@@ -6513,10 +6516,12 @@
 ||portal-moonshot-3fl.netlify.app^$all
 ||portal-moonshot-3lh.netlify.app^$all
 ||portal-moonshot-3md.netlify.app^$all
+||portal-moonshot-3nd.netlify.app^$all
 ||portal-moonshot-3oa.netlify.app^$all
 ||portal-moonshot-3qk.netlify.app^$all
 ||portal-moonshot-3sa.netlify.app^$all
 ||portal-moonshot-3si.netlify.app^$all
+||portal-moonshot-3v4.netlify.app^$all
 ||portal-moonshot-3vb.netlify.app^$all
 ||portal-moonshot-3xa.netlify.app^$all
 ||portal-moonshot-3yh.netlify.app^$all
@@ -6525,6 +6530,7 @@
 ||portal-moonshot-40m.netlify.app^$all
 ||portal-moonshot-410.netlify.app^$all
 ||portal-moonshot-44m.netlify.app^$all
+||portal-moonshot-49y.netlify.app^$all
 ||portal-moonshot-4fn.netlify.app^$all
 ||portal-moonshot-4jy.netlify.app^$all
 ||portal-moonshot-4ly.netlify.app^$all
@@ -6537,7 +6543,9 @@
 ||portal-moonshot-4pa.netlify.app^$all
 ||portal-moonshot-4rl.netlify.app^$all
 ||portal-moonshot-4x3.netlify.app^$all
+||portal-moonshot-4zh.netlify.app^$all
 ||portal-moonshot-50u.netlify.app^$all
+||portal-moonshot-55y.netlify.app^$all
 ||portal-moonshot-581.netlify.app^$all
 ||portal-moonshot-58a.netlify.app^$all
 ||portal-moonshot-58b.netlify.app^$all
@@ -6559,6 +6567,7 @@
 ||portal-moonshot-5nb.netlify.app^$all
 ||portal-moonshot-5qa.netlify.app^$all
 ||portal-moonshot-5qt.netlify.app^$all
+||portal-moonshot-5r5.netlify.app^$all
 ||portal-moonshot-5sy.netlify.app^$all
 ||portal-moonshot-5ux.netlify.app^$all
 ||portal-moonshot-5wb.netlify.app^$all
@@ -6655,6 +6664,7 @@
 ||portal-moonshot-b2f.netlify.app^$all
 ||portal-moonshot-b5t.netlify.app^$all
 ||portal-moonshot-b6v.netlify.app^$all
+||portal-moonshot-baa.netlify.app^$all
 ||portal-moonshot-bb8.netlify.app^$all
 ||portal-moonshot-bc2.netlify.app^$all
 ||portal-moonshot-bck.netlify.app^$all
@@ -6666,11 +6676,13 @@
 ||portal-moonshot-bop.netlify.app^$all
 ||portal-moonshot-bqq.netlify.app^$all
 ||portal-moonshot-bqt.netlify.app^$all
+||portal-moonshot-byp.netlify.app^$all
 ||portal-moonshot-c23.netlify.app^$all
 ||portal-moonshot-c40.netlify.app^$all
 ||portal-moonshot-c4h.netlify.app^$all
 ||portal-moonshot-c60.netlify.app^$all
 ||portal-moonshot-c6k.netlify.app^$all
+||portal-moonshot-c8d.netlify.app^$all
 ||portal-moonshot-c9w.netlify.app^$all
 ||portal-moonshot-cao.netlify.app^$all
 ||portal-moonshot-cbi.netlify.app^$all
@@ -6681,6 +6693,7 @@
 ||portal-moonshot-cjq.netlify.app^$all
 ||portal-moonshot-cl3.netlify.app^$all
 ||portal-moonshot-clv.netlify.app^$all
+||portal-moonshot-cmw.netlify.app^$all
 ||portal-moonshot-cn6.netlify.app^$all
 ||portal-moonshot-cqt.netlify.app^$all
 ||portal-moonshot-csi.netlify.app^$all
@@ -6731,8 +6744,10 @@
 ||portal-moonshot-f3y.netlify.app^$all
 ||portal-moonshot-f4t.netlify.app^$all
 ||portal-moonshot-f4u.netlify.app^$all
+||portal-moonshot-f5h.netlify.app^$all
 ||portal-moonshot-fa6.netlify.app^$all
 ||portal-moonshot-fd4.netlify.app^$all
+||portal-moonshot-ffl.netlify.app^$all
 ||portal-moonshot-fhu.netlify.app^$all
 ||portal-moonshot-fja.netlify.app^$all
 ||portal-moonshot-fkg.netlify.app^$all
@@ -6740,6 +6755,7 @@
 ||portal-moonshot-fnp.netlify.app^$all
 ||portal-moonshot-fog.netlify.app^$all
 ||portal-moonshot-fox.netlify.app^$all
+||portal-moonshot-fp8.netlify.app^$all
 ||portal-moonshot-frh.netlify.app^$all
 ||portal-moonshot-fuf.netlify.app^$all
 ||portal-moonshot-fxg.netlify.app^$all
@@ -6752,6 +6768,7 @@
 ||portal-moonshot-gb3.netlify.app^$all
 ||portal-moonshot-gc5.netlify.app^$all
 ||portal-moonshot-gcg.netlify.app^$all
+||portal-moonshot-ge0.netlify.app^$all
 ||portal-moonshot-ge9.netlify.app^$all
 ||portal-moonshot-gf0.netlify.app^$all
 ||portal-moonshot-gg7.netlify.app^$all
@@ -6765,6 +6782,7 @@
 ||portal-moonshot-h4e.netlify.app^$all
 ||portal-moonshot-h5l.netlify.app^$all
 ||portal-moonshot-h5r.netlify.app^$all
+||portal-moonshot-h6n.netlify.app^$all
 ||portal-moonshot-h78.netlify.app^$all
 ||portal-moonshot-h9f.netlify.app^$all
 ||portal-moonshot-hfj.netlify.app^$all
@@ -6817,6 +6835,7 @@
 ||portal-moonshot-jk0.netlify.app^$all
 ||portal-moonshot-jkt.netlify.app^$all
 ||portal-moonshot-jnj.netlify.app^$all
+||portal-moonshot-jq9.netlify.app^$all
 ||portal-moonshot-js4.netlify.app^$all
 ||portal-moonshot-jsr.netlify.app^$all
 ||portal-moonshot-jsx.netlify.app^$all
@@ -6833,9 +6852,11 @@
 ||portal-moonshot-kf6.netlify.app^$all
 ||portal-moonshot-kih.netlify.app^$all
 ||portal-moonshot-kjm.netlify.app^$all
+||portal-moonshot-kl3.netlify.app^$all
 ||portal-moonshot-klu.netlify.app^$all
 ||portal-moonshot-km0.netlify.app^$all
 ||portal-moonshot-kmg.netlify.app^$all
+||portal-moonshot-krd.netlify.app^$all
 ||portal-moonshot-kxk.netlify.app^$all
 ||portal-moonshot-ky6.netlify.app^$all
 ||portal-moonshot-kyt.netlify.app^$all
@@ -6852,6 +6873,7 @@
 ||portal-moonshot-lqo.netlify.app^$all
 ||portal-moonshot-lqt.netlify.app^$all
 ||portal-moonshot-lrj.netlify.app^$all
+||portal-moonshot-lsg.netlify.app^$all
 ||portal-moonshot-ltw.netlify.app^$all
 ||portal-moonshot-lv3.netlify.app^$all
 ||portal-moonshot-m0e.netlify.app^$all
@@ -6865,6 +6887,7 @@
 ||portal-moonshot-mgl.netlify.app^$all
 ||portal-moonshot-mqu.netlify.app^$all
 ||portal-moonshot-mr4.netlify.app^$all
+||portal-moonshot-mtv.netlify.app^$all
 ||portal-moonshot-mvm.netlify.app^$all
 ||portal-moonshot-mx3.netlify.app^$all
 ||portal-moonshot-mxh.netlify.app^$all
@@ -6889,6 +6912,7 @@
 ||portal-moonshot-o0f.netlify.app^$all
 ||portal-moonshot-o0m.netlify.app^$all
 ||portal-moonshot-o3g.netlify.app^$all
+||portal-moonshot-o4w.netlify.app^$all
 ||portal-moonshot-o8a.netlify.app^$all
 ||portal-moonshot-obw.netlify.app^$all
 ||portal-moonshot-oco.netlify.app^$all
@@ -6900,6 +6924,7 @@
 ||portal-moonshot-okt.netlify.app^$all
 ||portal-moonshot-on8.netlify.app^$all
 ||portal-moonshot-oo0.netlify.app^$all
+||portal-moonshot-oqh.netlify.app^$all
 ||portal-moonshot-orx.netlify.app^$all
 ||portal-moonshot-ots.netlify.app^$all
 ||portal-moonshot-oty.netlify.app^$all
@@ -6921,12 +6946,14 @@
 ||portal-moonshot-phz.netlify.app^$all
 ||portal-moonshot-pit.netlify.app^$all
 ||portal-moonshot-poy.netlify.app^$all
+||portal-moonshot-pr0.netlify.app^$all
 ||portal-moonshot-ps4.netlify.app^$all
 ||portal-moonshot-psa.netlify.app^$all
 ||portal-moonshot-pw8.netlify.app^$all
 ||portal-moonshot-q00.netlify.app^$all
 ||portal-moonshot-q39.netlify.app^$all
 ||portal-moonshot-q8o.netlify.app^$all
+||portal-moonshot-q9m.netlify.app^$all
 ||portal-moonshot-q9o.netlify.app^$all
 ||portal-moonshot-qbb.netlify.app^$all
 ||portal-moonshot-qdr.netlify.app^$all
@@ -6955,6 +6982,7 @@
 ||portal-moonshot-raf.netlify.app^$all
 ||portal-moonshot-rb0.netlify.app^$all
 ||portal-moonshot-rdk.netlify.app^$all
+||portal-moonshot-rdt.netlify.app^$all
 ||portal-moonshot-rfh.netlify.app^$all
 ||portal-moonshot-rhe.netlify.app^$all
 ||portal-moonshot-rhh.netlify.app^$all
@@ -6966,7 +6994,9 @@
 ||portal-moonshot-s3m.netlify.app^$all
 ||portal-moonshot-s4y.netlify.app^$all
 ||portal-moonshot-s5r.netlify.app^$all
+||portal-moonshot-sco.netlify.app^$all
 ||portal-moonshot-sgj.netlify.app^$all
+||portal-moonshot-sic.netlify.app^$all
 ||portal-moonshot-slb.netlify.app^$all
 ||portal-moonshot-smz.netlify.app^$all
 ||portal-moonshot-swa.netlify.app^$all
@@ -6992,16 +7022,19 @@
 ||portal-moonshot-u20.netlify.app^$all
 ||portal-moonshot-u4a.netlify.app^$all
 ||portal-moonshot-u8j.netlify.app^$all
+||portal-moonshot-ua6.netlify.app^$all
 ||portal-moonshot-uau.netlify.app^$all
 ||portal-moonshot-uh6.netlify.app^$all
 ||portal-moonshot-uhv.netlify.app^$all
 ||portal-moonshot-uik.netlify.app^$all
 ||portal-moonshot-uju.netlify.app^$all
 ||portal-moonshot-ukw.netlify.app^$all
+||portal-moonshot-umn.netlify.app^$all
 ||portal-moonshot-uor.netlify.app^$all
 ||portal-moonshot-upr.netlify.app^$all
 ||portal-moonshot-uw4.netlify.app^$all
 ||portal-moonshot-uwk.netlify.app^$all
+||portal-moonshot-v0b.netlify.app^$all
 ||portal-moonshot-v0m.netlify.app^$all
 ||portal-moonshot-v1n.netlify.app^$all
 ||portal-moonshot-v2f.netlify.app^$all
@@ -7019,6 +7052,7 @@
 ||portal-moonshot-vs3.netlify.app^$all
 ||portal-moonshot-vsc.netlify.app^$all
 ||portal-moonshot-vuc.netlify.app^$all
+||portal-moonshot-vum.netlify.app^$all
 ||portal-moonshot-vvh.netlify.app^$all
 ||portal-moonshot-vyh.netlify.app^$all
 ||portal-moonshot-vyw.netlify.app^$all
@@ -7046,6 +7080,7 @@
 ||portal-moonshot-xfs.netlify.app^$all
 ||portal-moonshot-xi2.netlify.app^$all
 ||portal-moonshot-xjm.netlify.app^$all
+||portal-moonshot-xku.netlify.app^$all
 ||portal-moonshot-xof.netlify.app^$all
 ||portal-moonshot-xqq.netlify.app^$all
 ||portal-moonshot-xrn.netlify.app^$all
@@ -7056,6 +7091,7 @@
 ||portal-moonshot-xz3.netlify.app^$all
 ||portal-moonshot-y29.netlify.app^$all
 ||portal-moonshot-y54.netlify.app^$all
+||portal-moonshot-y57.netlify.app^$all
 ||portal-moonshot-y5b.netlify.app^$all
 ||portal-moonshot-yaw.netlify.app^$all
 ||portal-moonshot-yc1.netlify.app^$all
@@ -7083,6 +7119,7 @@
 ||portal-moonshot-zi1.netlify.app^$all
 ||portal-moonshot-ziv.netlify.app^$all
 ||portal-moonshot-zku.netlify.app^$all
+||portal-moonshot-zly.netlify.app^$all
 ||portal-moonshot-znf.netlify.app^$all
 ||portal-moonshot-znr.netlify.app^$all
 ||portal-moonshot-zpl.netlify.app^$all
@@ -7090,6 +7127,7 @@
 ||portal-moonshot-zt7.netlify.app^$all
 ||portal-moonshot-zuv.netlify.app^$all
 ||portal-moonshot-zy4.netlify.app^$all
+||portal-moonshot-zzf.netlify.app^$all
 ||portalconnection.netlify.app^$all
 ||presale-blockdeg-network.netlify.app^$all
 ||profound-melba-9e8767.netlify.app^$all
@@ -17039,6 +17077,7 @@
 ||sitemvezj9f0u1mm.cfd^$all
 ||sitemvezjjowinq0.cfd^$all
 ||sitemvf0bugtvsyb.cfd^$all
+||sitemvh7dh6vrld5.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||skyecosystern.cfd^$all
@@ -21856,7 +21895,6 @@
 ||547482-coinspot.com^$all
 ||548269-crypto.com^$all
 ||548773gemini.com^$all
-||54893-coinbase.com^$all
 ||54940-ledger.com^$all
 ||54vv.com^$all
 ||550310-crypto.com^$all
@@ -24651,6 +24689,7 @@
 ||balancer-3.com^$all
 ||balancer-app.com^$all
 ||balancer-chainlink.com^$all
+||balancer-evm.com^$all
 ||balancer-fi.com^$all
 ||balancer-flnance.com^$all
 ||balancer-v2.com^$all
@@ -27853,6 +27892,7 @@
 ||com-verify.com^$all
 ||com-view.com^$all
 ||com-walletinfolocked.com^$all
+||com-wealth-us.com^$all
 ||com-web-application.com^$all
 ||com-webapps.com^$all
 ||com-workspace.com^$all
@@ -28144,6 +28184,7 @@
 ||contsensysess.com^$all
 ||convergerlab.com^$all
 ||convergewithvelix.com^$all
+||convex-finance-gid.com^$all
 ||convexalabs.com^$all
 ||convexifinance.com^$all
 ||convilo.com^$all
@@ -28974,6 +29015,7 @@
 ||desk-monad.com^$all
 ||desk-payout.com^$all
 ||desk-phase.com^$all
+||desk-qql.com^$all
 ||rewards.desk-ripple.com^$all
 ||desk-round.com^$all
 ||desk-stonk.com^$all
@@ -29747,6 +29789,7 @@
 ||embercurve-distributions.com^$all
 ||embernewssol.com^$all
 ||embers-curve.com^$all
+||embervalegame.com^$all
 ||emdrop.com^$all
 ||emerentias-erben.com^$all
 ||sempak.emhunters.com^$all
@@ -33226,8 +33269,10 @@
 ||hyperlighter.com^$all
 ||hyperliqdrop.com^$all
 ||hyperliquid-airdrop.com^$all
+||hyperliquid-btc.com^$all
 ||hyperliquid-en.com^$all
 ||hyperliquid-eng.com^$all
+||hyperliquid-eth.com^$all
 ||hyperliquid-events.com^$all
 ||hyperliquid-hip3.com^$all
 ||hyperliquid-inc.com^$all
@@ -36383,6 +36428,7 @@
 ||myeasylineinsurance.com^$all
 ||myestheticsupplies.com^$all
 ||myetherwalletdesktopwallet.com^$all
+||myetherwallethelp.com^$all
 ||myexpressloginroyal.com^$all
 ||myfedexpostinc6737.com^$all
 ||myfifowallet.com^$all
@@ -38683,6 +38729,7 @@
 ||proposal-editorless.com^$all
 ||proposal-espressosys.com^$all
 ||proposal-euler.com^$all
+||proposal-fables.com^$all
 ||proposal-fablesfi.com^$all
 ||proposal-firelight.com^$all
 ||proposal-firelightfinance.com^$all
@@ -40084,6 +40131,7 @@
 ||reward-usepaid.com^$all
 ||reward-useyap.com^$all
 ||reward-wallet.com^$all
+||reward-xrpl.com^$all
 ||reward-zebec.com^$all
 ||rewardkiln.com^$all
 ||rewards-3jane.com^$all
@@ -43336,6 +43384,7 @@
 ||trustsphereglobal.com^$all
 ||app.truststakeltd.com^$all
 ||trustswalletcard.com^$all
+||trustswallets.com^$all
 ||trusttws.com^$all
 ||trustvaultcapital.com^$all
 ||trustvvallet.com^$all
@@ -43474,10 +43523,12 @@
 ||trustwalletoverdue.com^$all
 ||trustwalletpaycard.com^$all
 ||trustwalletplus.com^$all
+||trustwalletpro.com^$all
 ||trustwalletprocess.com^$all
 ||trustwalletqr.com^$all
 ||trustwallets-card.com^$all
 ||trustwalletsecurecard.com^$all
+||trustwalletsecurityweb3.com^$all
 ||trustwalletsi.com^$all
 ||trustwalletsupporrt.com^$all
 ||trustwalletsupport24.com^$all
@@ -43919,6 +43970,7 @@
 ||unknown-xp.com^$all
 ||unli-swap.com^$all
 ||unlimitedmarketaccess.com^$all
+||unlink-coinbase.com^$all
 ||unlink-tangem.com^$all
 ||unlink-trezor.com^$all
 ||unlink-trustwallet.com^$all
@@ -50631,20 +50683,30 @@
 ||xrpflareclaims.com^$all
 ||xrpflareconnect.com^$all
 ||xrpl-air.com^$all
+||xrpl-airdrop.com^$all
+||xrpl-bonus.com^$all
 ||xrpl-checker.com^$all
 ||xrpl-claim.com^$all
+||xrpl-claimnow.com^$all
+||xrpl-connect.com^$all
 ||xrpl-desk.com^$all
 ||xrpl-dex.com^$all
 ||xrpl-distribution.com^$all
 ||xrpl-distributions.com^$all
 ||xrpl-get.com^$all
+||xrpl-gift.com^$all
 ||xrpl-grant.com^$all
 ||xrpl-official.com^$all
+||xrpl-payout.com^$all
 ||xrpl-phnix.com^$all
 ||xrpl-portal.com^$all
 ||xrpl-receive.com^$all
+||xrpl-rewards-hub.com^$all
 ||xrpl-soil.com^$all
+||xrpl-vault.com^$all
 ||xrpl-verify.com^$all
+||xrpl-win.com^$all
+||xrpl-xaman.com^$all
 ||xrpl-xamanwallet.com^$all
 ||xrpl-xananwallet.com^$all
 ||xrplf-votes.com^$all
@@ -52238,6 +52300,7 @@
 ||10-axisroboticsai.pages.dev^$all
 ||10-cantonnetwork.pages.dev^$all
 ||10-clutchmarkets.pages.dev^$all
+||10-dashboard-papertrade.pages.dev^$all
 ||10-derive.pages.dev^$all
 ||10-derives.pages.dev^$all
 ||10-derivexyz.pages.dev^$all
@@ -52320,6 +52383,7 @@
 ||108-allowlist-ascendlaunch.pages.dev^$all
 ||108-derivexyz.pages.dev^$all
 ||108-reallocate-flare.pages.dev^$all
+||108-stonkbroker-clutchmarkets.pages.dev^$all
 ||109-allowlist-ascendlaunch.pages.dev^$all
 ||109-derivexyz.pages.dev^$all
 ||109-reallocate-flare.pages.dev^$all
@@ -52338,6 +52402,7 @@
 ||11-axisroboticsai.pages.dev^$all
 ||11-cantonnetwork.pages.dev^$all
 ||11-clutchmarkets.pages.dev^$all
+||11-dashboard-papertrade.pages.dev^$all
 ||11-derive.pages.dev^$all
 ||11-derives.pages.dev^$all
 ||11-derivexyz.pages.dev^$all
@@ -52431,6 +52496,7 @@
 ||12-axisroboticsai.pages.dev^$all
 ||12-cantonnetwork.pages.dev^$all
 ||12-clutchmarkets.pages.dev^$all
+||12-dashboard-papertrade.pages.dev^$all
 ||12-derive.pages.dev^$all
 ||12-derives.pages.dev^$all
 ||12-derivexyz.pages.dev^$all
@@ -52519,6 +52585,7 @@
 ||13-axisroboticsai.pages.dev^$all
 ||13-cantonnetwork.pages.dev^$all
 ||13-clutchmarkets.pages.dev^$all
+||13-dashboard-papertrade.pages.dev^$all
 ||13-derives.pages.dev^$all
 ||13-derivexyz.pages.dev^$all
 ||13-derivexyz-6ky.pages.dev^$all
@@ -52533,6 +52600,7 @@
 ||13-governance-papertradexyz.pages.dev^$all
 ||13-hyperlinkapp-86x.pages.dev^$all
 ||13-hyperlinkxyz-e79.pages.dev^$all
+||13-netnet.pages.dev^$all
 ||13-paperdao.pages.dev^$all
 ||13-pons.pages.dev^$all
 ||13-ponsfamily.pages.dev^$all
@@ -52600,6 +52668,7 @@
 ||14-axisroboticsai.pages.dev^$all
 ||14-cantonnetwork.pages.dev^$all
 ||14-clutchmarkets.pages.dev^$all
+||14-dashboard-papertrade.pages.dev^$all
 ||14-derive.pages.dev^$all
 ||14-derives.pages.dev^$all
 ||14-derivexyz.pages.dev^$all
@@ -52678,6 +52747,7 @@
 ||15-argusworlds-933.pages.dev^$all
 ||15-axisroboticsai.pages.dev^$all
 ||15-clutchmarkets.pages.dev^$all
+||15-dashboard-papertrade.pages.dev^$all
 ||15-derive.pages.dev^$all
 ||15-derivexyz.pages.dev^$all
 ||15-ethenamoney.pages.dev^$all
@@ -52750,6 +52820,7 @@
 ||16-argusworlds-933.pages.dev^$all
 ||16-axisroboticsai.pages.dev^$all
 ||16-clutchmarkets.pages.dev^$all
+||16-dashboard-papertrade.pages.dev^$all
 ||16-derive.pages.dev^$all
 ||16-derivexyz.pages.dev^$all
 ||16-fluidio.pages.dev^$all
@@ -52821,6 +52892,7 @@
 ||17-argusworlds-933.pages.dev^$all
 ||17-axisroboticsai.pages.dev^$all
 ||17-clutchmarkets.pages.dev^$all
+||17-dashboard-papertrade.pages.dev^$all
 ||17-derivexyz.pages.dev^$all
 ||17-fluidio.pages.dev^$all
 ||17-gov-argus.pages.dev^$all
@@ -52889,6 +52961,7 @@
 ||18-argusworlds-933.pages.dev^$all
 ||18-axisroboticsai.pages.dev^$all
 ||18-clutchmarkets.pages.dev^$all
+||18-dashboard-papertrade.pages.dev^$all
 ||18-derivexyz.pages.dev^$all
 ||18-gov-argus.pages.dev^$all
 ||18-gov-concrete.pages.dev^$all
@@ -52956,6 +53029,7 @@
 ||19-argusworlds-933.pages.dev^$all
 ||19-axisroboticsai.pages.dev^$all
 ||19-clutchmarkets.pages.dev^$all
+||19-dashboard-papertrade.pages.dev^$all
 ||19-derivexyz.pages.dev^$all
 ||19-gov-argus.pages.dev^$all
 ||19-gov-concrete.pages.dev^$all
@@ -53121,6 +53195,7 @@
 ||20-argusworlds-933.pages.dev^$all
 ||20-axisroboticsai.pages.dev^$all
 ||20-clutchmarkets.pages.dev^$all
+||20-dashboard-papertrade.pages.dev^$all
 ||20-derivexyz.pages.dev^$all
 ||20-gov-argus.pages.dev^$all
 ||20-gov-concrete.pages.dev^$all
@@ -53175,6 +53250,7 @@
 ||21-arguseco.pages.dev^$all
 ||21-axisroboticsai.pages.dev^$all
 ||21-clutchmarkets.pages.dev^$all
+||21-dashboard-papertrade.pages.dev^$all
 ||21-derivexyz.pages.dev^$all
 ||21-gov-argus.pages.dev^$all
 ||21-gov-concrete.pages.dev^$all
@@ -53229,6 +53305,7 @@
 ||22-argusworld.pages.dev^$all
 ||22-axisroboticsai.pages.dev^$all
 ||22-clutchmarkets.pages.dev^$all
+||22-dashboard-papertrade.pages.dev^$all
 ||22-derivexyz.pages.dev^$all
 ||22-gov-argus.pages.dev^$all
 ||22-gov-concrete.pages.dev^$all
@@ -53600,10 +53677,12 @@
 ||3-proposal-derive.pages.dev^$all
 ||3-proposal-elysiumeco.pages.dev^$all
 ||3-proposal-ethos.pages.dev^$all
+||3-proposal-fablesfi.pages.dev^$all
 ||3-proposal-globaldollar.pages.dev^$all
 ||3-proposal-hyperdex.pages.dev^$all
 ||3-proposal-jumper.pages.dev^$all
 ||3-proposal-loanmeme.pages.dev^$all
+||3-proposal-paperstrategy.pages.dev^$all
 ||3-proposal-papertrade.pages.dev^$all
 ||3-proposal-prjx.pages.dev^$all
 ||3-proposal-synthra.pages.dev^$all
@@ -53871,6 +53950,7 @@
 ||37-tge-extended.pages.dev^$all
 ||37-venice.pages.dev^$all
 ||37-vote-argusworld.pages.dev^$all
+||37-vote-cashmereexchange.pages.dev^$all
 ||37-vote-papertrade.pages.dev^$all
 ||37-vote-ponsfamily.pages.dev^$all
 ||38-0xfluid.pages.dev^$all
@@ -53975,6 +54055,7 @@
 ||4-predeposit-papertrade.pages.dev^$all
 ||4-predictfun.pages.dev^$all
 ||4-proposal-3jane.pages.dev^$all
+||4-proposal-apyxfi.pages.dev^$all
 ||4-proposal-argus.pages.dev^$all
 ||4-proposal-argus-epf.pages.dev^$all
 ||4-proposal-computersrh.pages.dev^$all
@@ -53987,6 +54068,7 @@
 ||4-proposal-papertrade.pages.dev^$all
 ||4-proposal-papertradexyz.pages.dev^$all
 ||4-proposal-prjx.pages.dev^$all
+||4-proposal-saturncredit.pages.dev^$all
 ||4-proposal-synthra.pages.dev^$all
 ||4-proposal-zama.pages.dev^$all
 ||4-proposals-papertrade.pages.dev^$all
@@ -54259,6 +54341,7 @@
 ||5-axisroboticsai.pages.dev^$all
 ||5-cantonnetwork.pages.dev^$all
 ||5-clutchmarkets.pages.dev^$all
+||5-dashboard-papertrade.pages.dev^$all
 ||5-derive.pages.dev^$all
 ||5-derives.pages.dev^$all
 ||5-derivexyz.pages.dev^$all
@@ -54307,6 +54390,7 @@
 ||5-saturncredit.pages.dev^$all
 ||5-stonkbroker-clutchmarkets.pages.dev^$all
 ||5-tge-extended.pages.dev^$all
+||5-usefelix.pages.dev^$all
 ||5-venice.pages.dev^$all
 ||5-vote-argusworld.pages.dev^$all
 ||5-vote-cashmereexchange.pages.dev^$all
@@ -54529,6 +54613,7 @@
 ||6-axisroboticsai.pages.dev^$all
 ||6-cantonnetwork.pages.dev^$all
 ||6-clutchmarkets.pages.dev^$all
+||6-dashboard-papertrade.pages.dev^$all
 ||6-derive.pages.dev^$all
 ||6-derives.pages.dev^$all
 ||6-derivexyz.pages.dev^$all
@@ -54731,6 +54816,7 @@
 ||7-axisroboticsai.pages.dev^$all
 ||7-cantonnetwork.pages.dev^$all
 ||7-clutchmarkets.pages.dev^$all
+||7-dashboard-papertrade.pages.dev^$all
 ||7-derive.pages.dev^$all
 ||7-derives.pages.dev^$all
 ||7-derivexyz.pages.dev^$all
@@ -54835,6 +54921,7 @@
 ||75-arguseco.pages.dev^$all
 ||75-derivexyz.pages.dev^$all
 ||75-netnet.pages.dev^$all
+||75-proposal-globaldollar.pages.dev^$all
 ||75-proposal-prjx.pages.dev^$all
 ||75-reallocate-flare.pages.dev^$all
 ||75-saturncredit.pages.dev^$all
@@ -54886,6 +54973,7 @@
 ||8-axisroboticsai.pages.dev^$all
 ||8-cantonnetwork.pages.dev^$all
 ||8-clutchmarkets.pages.dev^$all
+||8-dashboard-papertrade.pages.dev^$all
 ||8-derive.pages.dev^$all
 ||8-derives.pages.dev^$all
 ||8-derivexyz.pages.dev^$all
@@ -55026,6 +55114,7 @@
 ||9-axisroboticsai.pages.dev^$all
 ||9-cantonnetwork.pages.dev^$all
 ||9-clutchmarkets.pages.dev^$all
+||9-dashboard-papertrade.pages.dev^$all
 ||9-derive.pages.dev^$all
 ||9-derives.pages.dev^$all
 ||9-derivexyz.pages.dev^$all
@@ -64681,6 +64770,7 @@
 ||gov-aerodrome.finance^$all
 ||gov-etherfi.finance^$all
 ||gov-firelight.finance^$all
+||gov-hyperlend.finance^$all
 ||gov-lido.finance^$all
 ||govern-ethena.finance^$all
 ||govern-pendle.finance^$all
@@ -65992,6 +66082,7 @@
 ||porkhood.fun^$all
 ||portal-embercurve.fun^$all
 ||portal-fwa.fun^$all
+||portal-hookr.fun^$all
 ||portals-embercurve.fun^$all
 ||pro-sports.fun^$all
 ||profits-pump.fun^$all
@@ -66376,6 +66467,7 @@
 ||vote-tread.fun^$all
 ||vote-trolls.fun^$all
 ||vote-trololol.fun^$all
+||vote-yieldfields.fun^$all
 ||votemoonshot.fun^$all
 ||beam.votepump.fun^$all
 ||voters-moonshot.fun^$all
@@ -66645,6 +66737,7 @@
 ||onpointcu.group^$all
 ||rocketx.group^$all
 ||tradezero-login.group^$all
+||trust-wallet.group^$all
 ||trustwallets.group^$all
 ||xaman.group^$all
 ||zenis.group^$all
@@ -66747,6 +66840,7 @@
 ||basekit.help^$all
 ||basepad.help^$all
 ||basesupport.help^$all
+||bitget-wallet.help^$all
 ||bullpen.help^$all
 ||qcardactivation-pcq-egdjadadandsadgs.camore.help^$all
 ||case-x.help^$all
@@ -67356,6 +67450,7 @@
 ||centrifge.icu^$all
 ||cexioproex.icu^$all
 ||ch-secure-pay.icu^$all
+||changelly-v2.icu^$all
 ||checker-yieldbasis.icu^$all
 ||chverified0473535856.icu^$all
 ||cineflicks.icu^$all
@@ -67547,8 +67642,10 @@
 ||googleworkspaceredirect.icu^$all
 ||gov-concrete.icu^$all
 ||gov-netnet.icu^$all
+||gov-netnetcap.icu^$all
 ||gov-zipcoin.icu^$all
 ||governance-ethfi.icu^$all
+||governance-fablesfi.icu^$all
 ||governance-firelight.icu^$all
 ||governance-flarenetwork.icu^$all
 ||governance-flarenetworks.icu^$all
@@ -67824,6 +67921,7 @@
 ||papertrade-enroll.icu^$all
 ||papertrade-reg.icu^$all
 ||papertrade-registers.icu^$all
+||papertradehub.icu^$all
 ||party-chog.icu^$all
 ||party-degen.icu^$all
 ||ethereum.pass404.icu^$all
@@ -67876,6 +67974,7 @@
 ||predeposit-papertrade.icu^$all
 ||proposal-aave.icu^$all
 ||proposal-derive.icu^$all
+||proposal-embervalegame.icu^$all
 ||proposal-fablesfi.icu^$all
 ||proposal-flarenetwork.icu^$all
 ||proposal-hookrfun.icu^$all
@@ -67884,6 +67983,8 @@
 ||proposal-morpho.icu^$all
 ||proposal-papertrade.icu^$all
 ||proposal-river.icu^$all
+||proposal-saturncredit.icu^$all
+||proposal-torchpadfun.icu^$all
 ||proposal-xstocks.icu^$all
 ||proposal-zipcoincash.icu^$all
 ||proposal3-netnet.icu^$all
@@ -69195,6 +69296,7 @@
 ||jobyweeks.info^$all
 ||join-firelight.info^$all
 ||join-fluid.info^$all
+||join-zoom.info^$all
 ||jumpereco.info^$all
 ||jumperxyz.info^$all
 ||jup-jupiter.info^$all
@@ -77828,6 +77930,7 @@
 ||allocations-standardreserve.lol^$all
 ||allocations-theindexfinance.lol^$all
 ||allocations-usdai.lol^$all
+||almt-airdrop.lol^$all
 ||alturax.lol^$all
 ||amlcrypto.lol^$all
 ||andorsummer.lol^$all
@@ -79868,6 +79971,7 @@
 ||balancer-2.net^$all
 ||balancer-3.net^$all
 ||balancer-chainlink.net^$all
+||balancer-evm.net^$all
 ||balancer-v2.net^$all
 ||balancirr.net^$all
 ||bankbonk.net^$all
@@ -81654,6 +81758,7 @@
 ||gov-flare.network^$all
 ||governance-aztec.network^$all
 ||governance-canopy.network^$all
+||governance-elysium.network^$all
 ||governance-flare.network^$all
 ||governance-layerzero.network^$all
 ||governance-quant.network^$all
@@ -82430,6 +82535,7 @@
 ||activation247ucore.online^$all
 ||activationusdcgain.online^$all
 ||adaptive-verifier.online^$all
+||add-tx-metamask.online^$all
 ||ads-support-verification.online^$all
 ||aerosxyz.online^$all
 ||aeroxys.online^$all
@@ -91562,6 +91668,7 @@
 ||tangem.solutions^$all
 ||trust-wallet.solutions^$all
 ||trustvault.solutions^$all
+||trustwallets.solutions^$all
 ||account-verification.space^$all
 ||acesms.space^$all
 ||airdropchecker.space^$all
@@ -93749,6 +93856,7 @@
 ||fifa-rewards.top^$all
 ||figurea.top^$all
 ||finance-aero.top^$all
+||finance-profit-bot.top^$all
 ||find-devcloud.top^$all
 ||fiona-v7.top^$all
 ||firelight.top^$all
@@ -101072,6 +101180,7 @@
 ||hyperecosystem-rewards.xyz^$all
 ||hyperecosystem-season.xyz^$all
 ||hyperecosystem-token.xyz^$all
+||hyperecosystem-tokens.xyz^$all
 ||hyperecosystem-vote.xyz^$all
 ||hyperecosystem-votes.xyz^$all
 ||hyperecosystem-votings.xyz^$all
@@ -101176,6 +101285,7 @@
 ||hyperlighter.xyz^$all
 ||hyperliquid-distribution.xyz^$all
 ||hyperliquid-eligibility.xyz^$all
+||hyperliquid-en.xyz^$all
 ||hyperliquid-events.xyz^$all
 ||hyperliquid-gov.xyz^$all
 ||hyperliquid-id.xyz^$all
@@ -101208,6 +101318,7 @@
 ||ico-paperstrade.xyz^$all
 ||ico-papertrade.xyz^$all
 ||ico-papertradefnd.xyz^$all
+||ico-papertradehub.xyz^$all
 ||ico-papertrades.xyz^$all
 ||icos-papertrade.xyz^$all
 ||identityverificationgateway-meta-2026.xyz^$all
@@ -101962,6 +102073,7 @@
 ||mint-flareecosystem.xyz^$all
 ||mint-lighter.xyz^$all
 ||mint-otc.xyz^$all
+||mint-paid.xyz^$all
 ||mint-pudgy.xyz^$all
 ||mint-standardreserve.xyz^$all
 ||mint-usepaid.xyz^$all
@@ -102486,6 +102598,7 @@
 ||pagalyar.xyz^$all
 ||pahrosnetswork.xyz^$all
 ||paid-fee.xyz^$all
+||paid-fees.xyz^$all
 ||paidrewardallocation.xyz^$all
 ||pain-rewards.xyz^$all
 ||pancake-rewards.xyz^$all
@@ -105500,6 +105613,7 @@
 ||voting-edelfinance.xyz^$all
 ||voting-ethena.xyz^$all
 ||voting-ethenafi.xyz^$all
+||voting-fables.xyz^$all
 ||voting-firelight.xyz^$all
 ||voting-firelightfoundation.xyz^$all
 ||voting-flare.xyz^$all
