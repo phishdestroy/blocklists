@@ -11839,6 +11839,7 @@
 ||x7pad.app^$all
 ||xaipolicy.app^$all
 ||xaman-allocations.app^$all
+||xaman-announcement.app^$all
 ||xaman-dashboard.app^$all
 ||xaman-info.app^$all
 ||xaman-vote.app^$all
@@ -40985,6 +40986,7 @@
 ||rewards-firelight.com^$all
 ||rewards-flarenetwork.com^$all
 ||rewards-fluid.com^$all
+||rewards-flyingtulip.com^$all
 ||rewards-gacha.com^$all
 ||rewards-gas.com^$all
 ||rewards-hachiko.com^$all
@@ -53530,6 +53532,7 @@
 ||10-allocation-yieldfields.pages.dev^$all
 ||10-allowlist-ascendlaunch.pages.dev^$all
 ||10-app-argus.pages.dev^$all
+||10-app-ethersfi.pages.dev^$all
 ||10-arcustrade-ecosystem.pages.dev^$all
 ||10-argus.pages.dev^$all
 ||10-argus-pad.pages.dev^$all
@@ -53559,6 +53562,7 @@
 ||10-governance-orbio.pages.dev^$all
 ||10-governance-papertradexyz.pages.dev^$all
 ||10-governance-zama.pages.dev^$all
+||10-hub-ethersfi.pages.dev^$all
 ||10-hyperlinkapp-86x.pages.dev^$all
 ||10-hyperlinkxyz-e79.pages.dev^$all
 ||10-kinetiqgov.pages.dev^$all
@@ -54618,6 +54622,7 @@
 ||2-pons.pages.dev^$all
 ||2-ponsfamily.pages.dev^$all
 ||2-portal-concrete.pages.dev^$all
+||2-portal-papertradegov.pages.dev^$all
 ||2-predeposit-papertrade.pages.dev^$all
 ||2-predictfun.pages.dev^$all
 ||2-proposal-3jane.pages.dev^$all
@@ -54776,6 +54781,7 @@
 ||21-proposal-globaldollar.pages.dev^$all
 ||21-proposal-jumper.pages.dev^$all
 ||21-proposal-loanmeme.pages.dev^$all
+||21-proposal-paperstrategy.pages.dev^$all
 ||21-proposal-papertrade.pages.dev^$all
 ||21-proposal-prjx.pages.dev^$all
 ||21-proposal-saturncredit.pages.dev^$all
@@ -54812,6 +54818,7 @@
 ||217-reallocate-flare.pages.dev^$all
 ||217-stonkbroker-clutchmarkets.pages.dev^$all
 ||218-reallocate-flare.pages.dev^$all
+||218-stonkbroker-clutchmarkets.pages.dev^$all
 ||219-reallocate-flare.pages.dev^$all
 ||22-0xfluid.pages.dev^$all
 ||22-allocation-abstract.pages.dev^$all
@@ -54970,6 +54977,7 @@
 ||24-saturncredit.pages.dev^$all
 ||24-stonkbroker-clutchmarkets.pages.dev^$all
 ||24-tge-extended.pages.dev^$all
+||24-usefelix.pages.dev^$all
 ||24-venice.pages.dev^$all
 ||24-vote-argusworld.pages.dev^$all
 ||24-vote-cashmereexchange.pages.dev^$all
@@ -55203,6 +55211,7 @@
 ||3-argus-2n6.pages.dev^$all
 ||3-argus-pad.pages.dev^$all
 ||3-arguseco.pages.dev^$all
+||3-arguspadgov.pages.dev^$all
 ||3-argusworld.pages.dev^$all
 ||3-argusworlds.pages.dev^$all
 ||3-argusworlds-933.pages.dev^$all
@@ -55500,6 +55509,7 @@
 ||35-proposal-jumper.pages.dev^$all
 ||35-proposal-papertrade.pages.dev^$all
 ||35-proposal-prjx.pages.dev^$all
+||35-proposal-saturncredit.pages.dev^$all
 ||35-proposals-papertrade.pages.dev^$all
 ||35-reallocate-flare.pages.dev^$all
 ||35-saturncredit.pages.dev^$all
@@ -56660,6 +56670,7 @@
 ||71-saturncredit.pages.dev^$all
 ||71-stonkbroker-clutchmarkets.pages.dev^$all
 ||72-0xfluid.pages.dev^$all
+||72-allocation-yieldfields.pages.dev^$all
 ||72-arguseco.pages.dev^$all
 ||72-derivexyz.pages.dev^$all
 ||72-kinetiqgov.pages.dev^$all
@@ -59086,6 +59097,7 @@
 ||f-trezer-bridge-io.pages.dev^$all
 ||fa-g-trust-tr.pages.dev^$all
 ||faaq-rayiidum-wallet.pages.dev^$all
+||fables-votes.pages.dev^$all
 ||fairway-ledger-2yp.pages.dev^$all
 ||family-ledger-497.pages.dev^$all
 ||family-ledger-5vr.pages.dev^$all
@@ -59392,11 +59404,13 @@
 ||gov-ponsfamily.pages.dev^$all
 ||gov-ramses.pages.dev^$all
 ||gov-torchpad.pages.dev^$all
+||gov-usenest.pages.dev^$all
 ||governance-etherfi.pages.dev^$all
 ||governance-fablesfi.pages.dev^$all
 ||governance-gloam.pages.dev^$all
 ||governance-kinetiq.pages.dev^$all
 ||governance-netnetcap.pages.dev^$all
+||governance-netnetcapital.pages.dev^$all
 ||governance-orbio.pages.dev^$all
 ||governance-papertrade.pages.dev^$all
 ||governance-ponsfamily.pages.dev^$all
@@ -67752,6 +67766,7 @@
 ||flarenetworks.fun^$all
 ||flareswap.fun^$all
 ||flowtoken.fun^$all
+||flr-ecosystem.fun^$all
 ||fomofamily.fun^$all
 ||fomopad.fun^$all
 ||foundation-firelight.fun^$all
@@ -68227,6 +68242,7 @@
 ||scarlock.fun^$all
 ||scratch-solana.fun^$all
 ||scroll-spin.fun^$all
+||season-5-etherfi.fun^$all
 ||season-embercurve.fun^$all
 ||season1-embercurve.fun^$all
 ||season1-usepaid.fun^$all
@@ -84226,6 +84242,7 @@
 ||voting-layerzero.network^$all
 ||voting-moonshot.network^$all
 ||voting-netnet.network^$all
+||voting-quant.network^$all
 ||voting-realio.network^$all
 ||voting-zebec.network^$all
 ||web-billions.network^$all
@@ -102959,6 +102976,7 @@
 ||flare-defi.xyz^$all
 ||flare-distribution.xyz^$all
 ||flare-drop.xyz^$all
+||flare-foundation.xyz^$all
 ||flare-gain.xyz^$all
 ||flare-gov.xyz^$all
 ||flare-gover.xyz^$all
