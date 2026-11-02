@@ -1788,6 +1788,7 @@
 ||hyperecosystems.app^$all
 ||hyperliquid-claiming.app^$all
 ||hyperliquid-events.app^$all
+||hyperliquid-foundation.app^$all
 ||hyperliquid-reward.app^$all
 ||hyperliquid-rewards.app^$all
 ||hyperliquid-xyz.app^$all
@@ -18224,8 +18225,8 @@
 ||firelightecosystems.click^$all
 ||firelightfi.click^$all
 ||firelightfoundation.click^$all
-||portal.flare-allocation.click^$all
-||portal.flarefoundation.click^$all
+||flare-allocation.click^$all
+||flarefoundation.click^$all
 ||flarenetwork.click^$all
 ||flarenetwork-portal.click^$all
 ||flarenetworks.click^$all
@@ -22954,7 +22955,6 @@
 ||610800-kraken.com^$all
 ||611405-crypto.com^$all
 ||611587-coinbase.com^$all
-||612487-kraken.com^$all
 ||612947-crypto.com^$all
 ||612yahoo.com^$all
 ||614029-crypto.com^$all
@@ -24561,13 +24561,15 @@
 ||allocation-flapsh.com^$all
 ||allocation-flow.com^$all
 ||allocation-fluid.com^$all
+||allocation-gato.com^$all
+||allocation-hylo.com^$all
 ||allocation-hyperbeat.com^$all
 ||allocation-infinifi.com^$all
 ||allocation-jeanphil.com^$all
 ||allocation-jumper.com^$all
 ||allocation-jupiter.com^$all
 ||allocation-kintara.com^$all
-||app.allocation-knotsstonk.com^$all
+||allocation-knotsstonk.com^$all
 ||allocation-laptopbase.com^$all
 ||allocation-laptoptoken.com^$all
 ||allocation-lienfi.com^$all
@@ -24628,11 +24630,14 @@
 ||allocations-firelight.com^$all
 ||allocations-flarenetwork.com^$all
 ||allocations-flyingtulip.com^$all
+||allocations-gato.com^$all
 ||allocations-hyperfoundation.com^$all
 ||allocations-laptoptoken.com^$all
 ||allocations-loopscale.com^$all
 ||allocations-nado.com^$all
 ||allocations-ondofi.com^$all
+||allocations-ore.com^$all
+||allocations-otc.com^$all
 ||allocations-perpl.com^$all
 ||allocations-polymarket.com^$all
 ||allocations-ponsfamily.com^$all
@@ -31404,6 +31409,7 @@
 ||eth-coine.com^$all
 ||eth-core.com^$all
 ||eth-dapp.com^$all
+||eth-lidostake.com^$all
 ||eth-online-casino.com^$all
 ||eth-pumpfun.com^$all
 ||eth-qr-code.com^$all
@@ -33615,6 +33621,7 @@
 ||governance-globeinf.com^$all
 ||governance-harmonixfi.com^$all
 ||governance-hypereco.com^$all
+||governance-hypersecosystem.com^$all
 ||governance-hypurrfi.com^$all
 ||governance-ins.com^$all
 ||governance-iq.com^$all
@@ -34689,6 +34696,7 @@
 ||hyperphpqeowon11122.com^$all
 ||hyperreco.com^$all
 ||hyperrecosystem.com^$all
+||hyperrecosystems.com^$all
 ||hypersapp.com^$all
 ||hypersol-trading.com^$all
 ||hypersui-claim.com^$all
@@ -71133,6 +71141,7 @@
 ||vote.allocations-morpho.fun^$all
 ||vote.allocations-netnet.fun^$all
 ||allocations-toes.fun^$all
+||allocations-umiafinance.fun^$all
 ||allocations-usdai.fun^$all
 ||allocations-worldcup.fun^$all
 ||alpha-drop.fun^$all
@@ -73271,6 +73280,7 @@
 ||firelightfoundation.icu^$all
 ||firmwares.icu^$all
 ||fixdappstring.icu^$all
+||flare-allocation.icu^$all
 ||flare-distribution.icu^$all
 ||flare-distributions.icu^$all
 ||flare-governance.icu^$all
@@ -73339,6 +73349,7 @@
 ||governance-flarenetworks.icu^$all
 ||governance-fluid.icu^$all
 ||governance-grvt.icu^$all
+||governance-hellhoundmeme.icu^$all
 ||governance-hookrfun.icu^$all
 ||governance-hyperlend.icu^$all
 ||governance-hyperunit.icu^$all
@@ -74806,6 +74817,7 @@
 ||dappsfix.info^$all
 ||darknetbible.info^$all
 ||dashboard-aerodrome.info^$all
+||dashboard-littlepepe-claim.info^$all
 ||git.dashboardmetamask.info^$all
 ||metabridgeapp.info.dashboardmetamask.info^$all
 ||decatloshop.info^$all
@@ -75034,6 +75046,7 @@
 ||governance-aave.info^$all
 ||governance-anyone.info^$all
 ||governance-apyx.info^$all
+||governance-avicimoney.info^$all
 ||governance-based.info^$all
 ||governance-centrifuge.info^$all
 ||governance-ethena.info^$all
@@ -80637,6 +80650,7 @@
 ||gov-argus.lat^$all
 ||gov-concrete.lat^$all
 ||gov-joinopenstandard.lat^$all
+||governance-mancerfnd.lat^$all
 ||governance-ramseseco.lat^$all
 ||grass.lat^$all
 ||grvt-allocation.lat^$all
@@ -82745,6 +82759,7 @@
 ||migrate-lido.live^$all
 ||migrate-lidov2.live^$all
 ||migrate-moonbeam.live^$all
+||migrate-naoris.live^$all
 ||migrate-pengu.live^$all
 ||migrate-sanchan.live^$all
 ||migrate-solareum.live^$all
@@ -82758,9 +82773,11 @@
 ||migratekaminov2.live^$all
 ||migratelidov2.live^$all
 ||migratenow.live^$all
+||migratepeercoin.live^$all
 ||migrates-brickken.live^$all
 ||migratestarknet.live^$all
 ||migratestarknetv2.live^$all
+||migrateswissborg.live^$all
 ||migratetokenv.live^$all
 ||migration-aitech.live^$all
 ||migration-brickken.live^$all
@@ -84380,6 +84397,7 @@
 ||spumps.lol^$all
 ||staking-near.lol^$all
 ||staking-yieldbasis.lol^$all
+||stakingrewards.lol^$all
 ||standardreserve.lol^$all
 ||staytruthnomilowe.lol^$all
 ||stockfish.lol^$all
@@ -88952,7 +88970,7 @@
 ||flagmanship.online^$all
 ||flare-foundation.online^$all
 ||flareclaim.online^$all
-||portal.flarefoundation.online^$all
+||flarefoundation.online^$all
 ||flarenetwork.online^$all
 ||flarenetworks.online^$all
 ||flaresnetrworks.online^$all
@@ -100409,7 +100427,7 @@
 ||fjerfot.top^$all
 ||fjkwt.top^$all
 ||fjwojggr.top^$all
-||portal.flare-allocation.top^$all
+||flare-allocation.top^$all
 ||flare-foundation.top^$all
 ||flare-foundations.top^$all
 ||flarefoundation.top^$all
@@ -100516,6 +100534,7 @@
 ||governance-firelight.top^$all
 ||governance-flare-network.top^$all
 ||governance-flarenetworks.top^$all
+||governance-gauntleteco.top^$all
 ||governance-mantle.top^$all
 ||governance-plasma.top^$all
 ||governance-ponsfamily.top^$all
@@ -100544,6 +100563,7 @@
 ||h-cl.top^$all
 ||hashwood.top^$all
 ||hederafunds.top^$all
+||hellhound-rewards.top^$all
 ||hfto.top^$all
 ||hgr050.top^$all
 ||hhbus83l.top^$all
@@ -101288,7 +101308,7 @@
 ||season-firelight.top^$all
 ||season2-firelight.top^$all
 ||season2-usdai.top^$all
-||season5.season5-etherfi.top^$all
+||season5-etherfi.top^$all
 ||season5-proposal-etherfi.top^$all
 ||seasons2-firelight.top^$all
 ||seccuredocumennt.top^$all
@@ -101437,6 +101457,7 @@
 ||stgsushi.top^$all
 ||stkeslots.top^$all
 ||stockereum-governance.top^$all
+||stonk-rewards.top^$all
 ||stonkbrokers.top^$all
 ||storage-upgrade-pro.top^$all
 ||straitsx.top^$all
@@ -104786,6 +104807,7 @@
 ||allocation-jupag.xyz^$all
 ||allocation-jupiter.xyz^$all
 ||allocation-kittenswap.xyz^$all
+||allocation-knotsstonk.xyz^$all
 ||allocation-liquity.xyz^$all
 ||allocation-long.xyz^$all
 ||allocation-mage.xyz^$all
@@ -104803,6 +104825,7 @@
 ||allocation-octra.xyz^$all
 ||allocation-openvpp.xyz^$all
 ||allocation-ordo.xyz^$all
+||allocation-ore.xyz^$all
 ||allocation-otc.xyz^$all
 ||allocation-otomato.xyz^$all
 ||allocation-pacifica.xyz^$all
@@ -104883,6 +104906,7 @@
 ||allocations-jtx.xyz^$all
 ||allocations-jumper.xyz^$all
 ||allocations-jumpers.xyz^$all
+||allocations-knotsstonk.xyz^$all
 ||allocations-lido.xyz^$all
 ||allocations-lighter.xyz^$all
 ||allocations-long.xyz^$all
@@ -104894,6 +104918,7 @@
 ||allocations-netnet.xyz^$all
 ||allocations-nillion.xyz^$all
 ||allocations-ondofinance.xyz^$all
+||allocations-ore.xyz^$all
 ||allocations-otc.xyz^$all
 ||allocations-pacifica.xyz^$all
 ||allocations-papertrade.xyz^$all
@@ -106982,6 +107007,7 @@
 ||flapshdashboards.xyz^$all
 ||flapshreward.xyz^$all
 ||flapshrewards.xyz^$all
+||flare-allocation.xyz^$all
 ||flare-allocation-proposal.xyz^$all
 ||flare-defi.xyz^$all
 ||flare-distribution.xyz^$all
@@ -107442,6 +107468,7 @@
 ||gov-flarefoundations.xyz^$all
 ||gov-flarenetwork.xyz^$all
 ||gov-flarenetworks.xyz^$all
+||gov-gauntlet.xyz^$all
 ||gov-grove.xyz^$all
 ||gov-hyperliquid.xyz^$all
 ||gov-jumper.xyz^$all
@@ -109726,6 +109753,7 @@
 ||proposal-longbow.xyz^$all
 ||proposal-longdot.xyz^$all
 ||proposal-longdots.xyz^$all
+||proposal-mancer.xyz^$all
 ||proposal-megaeth.xyz^$all
 ||proposal-mogcoin.xyz^$all
 ||proposal-multipli.xyz^$all
@@ -112108,6 +112136,7 @@
 ||vote-linera.xyz^$all
 ||vote-liquity.xyz^$all
 ||vote-lit.xyz^$all
+||vote-mancer.xyz^$all
 ||vote-mantrachain.xyz^$all
 ||vote-manyways.xyz^$all
 ||vote-maple.xyz^$all
