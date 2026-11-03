@@ -1385,7 +1385,9 @@
 ||desk-xledger.app^$all
 ||desk-xrp.app^$all
 ||desk-xrpallocation.app^$all
+||desk-xrpdrop.app^$all
 ||desk-xrpl.app^$all
+||desk-xrplreward.app^$all
 ||desk-xrplrewards.app^$all
 ||desk-xrpreward.app^$all
 ||desk-xrprewards.app^$all
@@ -1507,6 +1509,7 @@
 ||ethosnetwork.app^$all
 ||ethus.app^$all
 ||eu-keplrwallet.app^$all
+||eu-xaman.app^$all
 ||eu-xamanwallet.app^$all
 ||eu-xversewallet.app^$all
 ||eurounionbank.app^$all
@@ -2021,6 +2024,7 @@
 ||metamaskhelp.app^$all
 ||metamasksupport.app^$all
 ||metawebextension.app^$all
+||meteora-pool.app^$all
 ||mgba.app^$all
 ||microsoft-365.app^$all
 ||microsofteam.app^$all
@@ -8093,6 +8097,7 @@
 ||ondo-voting.app^$all
 ||ondofinance.app^$all
 ||ondoglobalmarkets.app^$all
+||ondostaking.app^$all
 ||ondotokenization.app^$all
 ||ondovote.app^$all
 ||ondovoting.app^$all
@@ -11981,6 +11986,7 @@
 ||xamon.app^$all
 ||xdc-wallet.app^$all
 ||xdefi.app^$all
+||xmagnetic-xrpl.app^$all
 ||xmrwallet.app^$all
 ||xn--ethrscan-6db.app^$all
 ||xn--guada-7bb.app^$all
@@ -11998,6 +12004,7 @@
 ||xrpallocation.app^$all
 ||xrpcafe-apex.app^$all
 ||xrpclaim.app^$all
+||xrpdrop.app^$all
 ||xrpdrops.app^$all
 ||xrpfi-flare.app^$all
 ||xrpfi-flarenetwork.app^$all
@@ -12009,10 +12016,12 @@
 ||xrplallocation.app^$all
 ||xrplclaim.app^$all
 ||xrpldesk.app^$all
+||xrpldrop.app^$all
 ||xrpldrops.app^$all
 ||xrpledger-desk.app^$all
 ||xrplreward.app^$all
 ||xrplrewards.app^$all
+||xrpmint.app^$all
 ||xrprewards.app^$all
 ||xrpswap.app^$all
 ||xversewalletpc.app^$all
@@ -15669,6 +15678,7 @@
 ||huntex.cc^$all
 ||hyextechnogoy.cc^$all
 ||hyperlane.cc^$all
+||hyperliquid-exchange.cc^$all
 ||hyuikltop.cc^$all
 ||i-in.cc^$all
 ||i-nt.cc^$all
@@ -17623,6 +17633,7 @@
 ||v05-25-313z178.cfd^$all
 ||v05-26-3132158.cfd^$all
 ||v2-ray.cfd^$all
+||v2-rubic.cfd^$all
 ||v4-ledger.cfd^$all
 ||v6ept-5fi6z-irdjcj.cfd^$all
 ||v8888.cfd^$all
@@ -18325,10 +18336,13 @@
 ||messenger-verification-notification.click^$all
 ||messenger-verification-supporsst.click^$all
 ||meta-test.click^$all
+||meteora-dlmm.click^$all
+||meteora-lp.click^$all
 ||meteora-sol.click^$all
 ||meteora-swap.click^$all
 ||meteora-v2.click^$all
 ||meteora-v3.click^$all
+||meteoraswap.click^$all
 ||meteorousastro.click^$all
 ||microsoftteams.click^$all
 ||miningsol.click^$all
@@ -18405,6 +18419,7 @@
 ||pdfviewonline.click^$all
 ||pendle-rewards.click^$all
 ||pendlefinance.click^$all
+||phase2-firelight.click^$all
 ||phatominstallwallet.click^$all
 ||phoenixtrade.click^$all
 ||pikashowtv.click^$all
@@ -29303,6 +29318,7 @@
 ||community-flarenetwork.com^$all
 ||community-hyperfoundation.com^$all
 ||community-lists.com^$all
+||community-okxvoting.com^$all
 ||community-powergacha.com^$all
 ||community-sparkdex.com^$all
 ||community-trustwallet.com^$all
@@ -37675,6 +37691,7 @@
 ||moonshot-opn.com^$all
 ||moonshot-rbhd.com^$all
 ||moonshot-rbhood.com^$all
+||moonshot-reward.com^$all
 ||moonshot-tp.com^$all
 ||moonshot-votings.com^$all
 ||moonshot-warp.com^$all
@@ -46937,6 +46954,7 @@
 ||wallet-confirm.com^$all
 ||wallet-connect-gate.com^$all
 ||wallet-connect-payment.com^$all
+||wallet-connect72.com^$all
 ||wallet-department.com^$all
 ||wallet-download-ledger.com^$all
 ||wallet-es.com^$all
@@ -71096,6 +71114,7 @@
 ||checker-flare.foundation^$all
 ||dao-firelight.foundation^$all
 ||defi-flare.foundation^$all
+||desk-xrpl.foundation^$all
 ||distribution-flare.foundation^$all
 ||distributions-flare.foundation^$all
 ||docupdate.foundation^$all
@@ -71811,6 +71830,7 @@
 ||pendle-rewards.fun^$all
 ||pendlefinance.fun^$all
 ||phantom-pump.fun^$all
+||phase2-firelight.fun^$all
 ||pikanad.fun^$all
 ||pitchw.fun^$all
 ||playsolreward.fun^$all
@@ -80814,6 +80834,7 @@
 ||gov-argus.lat^$all
 ||gov-concrete.lat^$all
 ||gov-joinopenstandard.lat^$all
+||governance-collectorcrypteco.lat^$all
 ||governance-mancerfnd.lat^$all
 ||governance-ramseseco.lat^$all
 ||grass.lat^$all
@@ -89094,6 +89115,7 @@
 ||equity-tyq.online^$all
 ||equity-uxm.online^$all
 ||eth-binance.online^$all
+||ethena.online^$all
 ||etherfi.online^$all
 ||ethersfi.online^$all
 ||etz-swapfix.online^$all
@@ -89403,6 +89425,8 @@
 ||onchain-dex.online^$all
 ||onchainex.online^$all
 ||onchainportal.online^$all
+||ondo-foundation.online^$all
+||ondofoundation.online^$all
 ||ondoperps.online^$all
 ||oneaccess.online^$all
 ||onevision360.online^$all
@@ -89431,6 +89455,7 @@
 ||pendlefi.online^$all
 ||phantombranch.online^$all
 ||phantomwallet.online^$all
+||phase2-firelight.online^$all
 ||pikashow.online^$all
 ||pikashowapks.online^$all
 ||pitaes.online^$all
@@ -92333,6 +92358,7 @@
 ||digital-card.page^$all
 ||hyperliquid.page^$all
 ||io-suite.page^$all
+||kinetiq.page^$all
 ||launchtopaid.page^$all
 ||appsweb-rabby.mmm.page^$all
 ||bridge-trezo.mmm.page^$all
@@ -92899,6 +92925,7 @@
 ||a9xgsre.pro^$all
 ||aave-app.pro^$all
 ||aave-gov.pro^$all
+||aave-v4.pro^$all
 ||aaveapp.pro^$all
 ||aavefinance.pro^$all
 ||aaveloan.pro^$all
@@ -97540,6 +97567,7 @@
 ||messenger-verification-worsk.site^$all
 ||meta-mask.site^$all
 ||metamask-wallet.site^$all
+||meteora-mining.site^$all
 ||mhvcv.site^$all
 ||micalls.site^$all
 ||micreseftenlino.site^$all
@@ -97640,6 +97668,7 @@
 ||phantomhr.site^$all
 ||phantomsuport.site^$all
 ||phantomwalletbr.site^$all
+||phase2-firelight.site^$all
 ||metamask.io.pizzafat.site^$all
 ||plasmafoundation.site^$all
 ||playplayjokmax.site^$all
@@ -98588,6 +98617,7 @@
 ||mymonero.store^$all
 ||nestcredit.store^$all
 ||onchain-dex.store^$all
+||ondo-foundation.store^$all
 ||ondofinance.store^$all
 ||onlymonster.store^$all
 ||opensea-nfts.store^$all
@@ -101514,6 +101544,7 @@
 ||skdfjklsjdklflkkldjkls.top^$all
 ||login-us.sketchbase.top^$all
 ||skisushi.top^$all
+||skr-rewards.top^$all
 ||skyecos.top^$all
 ||skyecosystem.top^$all
 ||skyecosystems.top^$all
@@ -101898,6 +101929,7 @@
 ||voidbot.top^$all
 ||vote-abs.top^$all
 ||vote-argusworld.top^$all
+||vote-asendnow.top^$all
 ||vote-asterdex.top^$all
 ||vote-asterdexapp.top^$all
 ||vote-cashmereexchange.top^$all
@@ -102015,6 +102047,7 @@
 ||wywkwqzwzoomw.top^$all
 ||x-pay.top^$all
 ||xaman-app.top^$all
+||xamandropapp.top^$all
 ||xantsushi.top^$all
 ||xarb.top^$all
 ||xbsc168.top^$all
@@ -102931,6 +102964,7 @@
 ||microsoftfiles.us^$all
 ||microsoftonline-auth.us^$all
 ||mineoptions.us^$all
+||moonshot-vote.us^$all
 ||mpfholding.us^$all
 ||ms35778756675-livesshared-views-review.us^$all
 ||mscallroom.us^$all
