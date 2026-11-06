@@ -11751,6 +11751,7 @@
 ||vote-unipegv4.app^$all
 ||vote-upeg.app^$all
 ||vote-usdd.app^$all
+||vote-worldlibertyfinance.app^$all
 ||vote-xamam.app^$all
 ||vote-xamon.app^$all
 ||vote-xstocksfi.app^$all
@@ -31674,7 +31675,6 @@
 ||events-florentine.com^$all
 ||events-hyperlendfi.com^$all
 ||events-kamino.com^$all
-||events-megaeth.com^$all
 ||events-ondofi.com^$all
 ||events-ponsfamily.com^$all
 ||events-spx6900.com^$all
@@ -40108,6 +40108,7 @@
 ||proposal-liquid.com^$all
 ||proposal-listadao.com^$all
 ||proposal-loanmeme.com^$all
+||proposal-maplefinance.com^$all
 ||proposal-metronome.com^$all
 ||proposal-netrun.com^$all
 ||proposal-octra.com^$all
@@ -46542,8 +46543,10 @@
 ||vote-casinocoin.com^$all
 ||vote-centrifuge.com^$all
 ||vote-citrea.com^$all
+||vote-convexfinance.com^$all
 ||vote-coredao.com^$all
 ||vote-curvefinance.com^$all
+||vote-d2finance.com^$all
 ||vote-eitherway.com^$all
 ||vote-embervalegame.com^$all
 ||vote-ethena.com^$all
@@ -46573,6 +46576,7 @@
 ||vote-jumper.com^$all
 ||vote-justnetwork.com^$all
 ||vote-kaitoai.com^$all
+||vote-kaminofinance.com^$all
 ||vote-kennedy.com^$all
 ||vote-kled.com^$all
 ||vote-kntq.com^$all
@@ -46596,6 +46600,7 @@
 ||vote-octra.com^$all
 ||vote-ondofin.com^$all
 ||vote-oqenservs.com^$all
+||vote-pendlcfinance.com^$all
 ||vote-pharos.com^$all
 ||vote-pons.com^$all
 ||vote-ponsfamily.com^$all
@@ -46676,6 +46681,7 @@
 ||votes-hyperecosystems.com^$all
 ||votes-irobinhood.com^$all
 ||votes-kinetiq.com^$all
+||votes-lidofinance.com^$all
 ||votes-lighter.com^$all
 ||votes-listadao.com^$all
 ||votes-netnetcapital.com^$all
@@ -53258,6 +53264,7 @@
 ||imtookon.cyou^$all
 ||income-pgne.cyou^$all
 ||inconsk.cyou^$all
+||interestfundfinance.cyou^$all
 ||ishifuku.cyou^$all
 ||japanel.cyou^$all
 ||join-zoom-meeting-request.cyou^$all
@@ -70642,16 +70649,21 @@
 ||govern-maple.finance^$all
 ||govern-pendle.finance^$all
 ||governance-apyx.finance^$all
+||governance-ethena.finance^$all
+||governance-fables.finance^$all
 ||governance-firelight.finance^$all
 ||governance-flare.finance^$all
 ||governance-harmonix.finance^$all
 ||governance-hyperfoundation.finance^$all
+||governance-hyperlend.finance^$all
 ||governance-kinetiq.finance^$all
 ||governance-lido.finance^$all
 ||governance-rysk.finance^$all
+||governance-solv.finance^$all
 ||governance-theindex.finance^$all
 ||governance-tread.finance^$all
 ||governance-umia.finance^$all
+||governances-ethena.finance^$all
 ||governances-firelight.finance^$all
 ||governances-hyperlend.finance^$all
 ||governances-mainstreet.finance^$all
@@ -70690,6 +70702,7 @@
 ||hyperledn.finance^$all
 ||hyperlemd.finance^$all
 ||hyperlen.finance^$all
+||hyperlend-vote.finance^$all
 ||hyperllend.finance^$all
 ||hyperlned.finance^$all
 ||hyprelend.finance^$all
@@ -70808,15 +70821,22 @@
 ||premarket-ondo.finance^$all
 ||preview-firelight.finance^$all
 ||preview-fluid.finance^$all
+||proposal-apyx.finance^$all
 ||proposal-bonzo.finance^$all
+||proposal-ethena.finance^$all
 ||proposal-fables.finance^$all
+||proposal-firelight.finance^$all
 ||proposal-hyperlend.finance^$all
 ||proposal-mainstreet.finance^$all
+||proposal-maple.finance^$all
+||proposal-marinade.finance^$all
 ||proposal-neutrl.finance^$all
+||proposal-pendle.finance^$all
 ||proposal-termmax.finance^$all
 ||proposal-theindex.finance^$all
 ||proposal-tread.finance^$all
 ||proposal-umia.finance^$all
+||proposals-ethena.finance^$all
 ||proposals-firelight.finance^$all
 ||proposals-multipli.finance^$all
 ||proposals-theindex.finance^$all
@@ -70996,24 +71016,32 @@
 ||view-firelight.finance^$all
 ||vote-apyx.finance^$all
 ||vote-bonzo.finance^$all
+||vote-curve.finance^$all
 ||vote-doppler.finance^$all
 ||vote-ethena.finance^$all
+||vote-ether.finance^$all
 ||vote-fables.finance^$all
+||vote-firelight.finance^$all
 ||vote-harmonix.finance^$all
+||vote-hyperlend.finance^$all
 ||vote-libertyswap.finance^$all
 ||vote-lido.finance^$all
 ||vote-mainstreet.finance^$all
 ||vote-mainstreets.finance^$all
 ||vote-maple.finance^$all
+||vote-marinade.finance^$all
 ||vote-metronome.finance^$all
 ||vote-multipli.finance^$all
 ||vote-neutrl.finance^$all
+||vote-pendle.finance^$all
 ||vote-spark.finance^$all
 ||vote-termmax.finance^$all
 ||vote-theindex.finance^$all
 ||vote-xstocks.finance^$all
 ||votes-apyx.finance^$all
 ||votes-bonzo.finance^$all
+||votes-ether.finance^$all
+||votes-firelight.finance^$all
 ||votes-hyperlend.finance^$all
 ||votes-mainstreet.finance^$all
 ||votes-maple.finance^$all
@@ -71022,6 +71050,7 @@
 ||votes-multipli.finance^$all
 ||votes-neutrl.finance^$all
 ||votes-rysk.finance^$all
+||votes-silo.finance^$all
 ||votes-xstocks.finance^$all
 ||voting-apyx.finance^$all
 ||voting-ether.finance^$all
@@ -73739,6 +73768,7 @@
 ||governs-netnet.icu^$all
 ||grandvegas.icu^$all
 ||grovefinance-allocations.icu^$all
+||grovefinance-governance.icu^$all
 ||growth-engineer.icu^$all
 ||grvtapps.icu^$all
 ||grvtio.icu^$all
@@ -75287,7 +75317,7 @@
 ||filtersmap.info^$all
 ||fin-firelights.info^$all
 ||finance-community.info^$all
-||maple.finance-proposal.info^$all
+||finance-proposal.info^$all
 ||finanz-coinbase.info^$all
 ||find-icloudin.info^$all
 ||fingerprint-veri.info^$all
@@ -87934,6 +87964,7 @@
 ||vivawallet.net^$all
 ||vmtool.net^$all
 ||vote-firelight.net^$all
+||vote-ondofinance.net^$all
 ||vote-prjx.net^$all
 ||vote-starknet.net^$all
 ||vote-variational.net^$all
@@ -100750,6 +100781,7 @@
 ||finance-aero.top^$all
 ||doppler.finance-allocations.top^$all
 ||finance-profit-bot.top^$all
+||finance-proposal.top^$all
 ||finance-proposals.top^$all
 ||spark.finance-reward.top^$all
 ||finance-rewards-proposal.top^$all
@@ -106876,6 +106908,7 @@
 ||ecosystemsstonkfun.xyz^$all
 ||ecosystemstonkfun.xyz^$all
 ||edelfi.xyz^$all
+||edelfinance-vote.xyz^$all
 ||edelfinance-votes.xyz^$all
 ||edelvaults.xyz^$all
 ||edensun.xyz^$all
@@ -107094,6 +107127,7 @@
 ||etherfi-voting.xyz^$all
 ||etherfii.xyz^$all
 ||etherfiii.xyz^$all
+||etherfinances-proposal.xyz^$all
 ||etherfiwc26.xyz^$all
 ||etherflow-wl.xyz^$all
 ||ethersfi.xyz^$all
@@ -107932,6 +107966,7 @@
 ||governance-aero.xyz^$all
 ||governance-aerodrome.xyz^$all
 ||governance-aethircloud.xyz^$all
+||governance-apricotfinance.xyz^$all
 ||governance-apyx.xyz^$all
 ||governance-arc.xyz^$all
 ||governance-asterdex.xyz^$all
@@ -107943,6 +107978,7 @@
 ||governance-dopplerfinance.xyz^$all
 ||governance-edgex.xyz^$all
 ||governance-embercurve.xyz^$all
+||governance-enzymefinance.xyz^$all
 ||governance-ethena.xyz^$all
 ||governance-ethenafi.xyz^$all
 ||governance-ethfi.xyz^$all
@@ -107961,6 +107997,7 @@
 ||governance-fluid.xyz^$all
 ||governance-fobo.xyz^$all
 ||governance-foundations.xyz^$all
+||governance-grovefinance.xyz^$all
 ||governance-harmonixfi.xyz^$all
 ||governance-hype.xyz^$all
 ||governance-hyperecosystem.xyz^$all
@@ -108471,6 +108508,7 @@
 ||interest-kinetiq.xyz^$all
 ||interest-lido.xyz^$all
 ||interest-plasma.xyz^$all
+||interest-rheafinance.xyz^$all
 ||interests-3jane.xyz^$all
 ||interests-aave.xyz^$all
 ||interests-curve.xyz^$all
@@ -110160,6 +110198,7 @@
 ||proposal-hyperecosystem.xyz^$all
 ||proposal-hyperlink.xyz^$all
 ||proposal-injective.xyz^$all
+||proposal-inversefinance.xyz^$all
 ||proposal-kaitoai.xyz^$all
 ||proposal-kinetiqfdn.xyz^$all
 ||proposal-kinetiqfnd.xyz^$all
@@ -112562,6 +112601,7 @@
 ||vote-cronos.xyz^$all
 ||vote-curvance.xyz^$all
 ||vote-d2-finance.xyz^$all
+||vote-d2finance.xyz^$all
 ||vote-derive.xyz^$all
 ||vote-dexscreener.xyz^$all
 ||vote-doppler.xyz^$all
@@ -112633,6 +112673,7 @@
 ||vote-mantrachain.xyz^$all
 ||vote-manyways.xyz^$all
 ||vote-maple.xyz^$all
+||vote-maplefinance.xyz^$all
 ||vote-maquina.xyz^$all
 ||vote-marinade.xyz^$all
 ||vote-meridian.xyz^$all
@@ -112644,6 +112685,7 @@
 ||vote-multiplifi.xyz^$all
 ||vote-nanovitalab.xyz^$all
 ||vote-near.xyz^$all
+||vote-neptfinance.xyz^$all
 ||vote-nestusd.xyz^$all
 ||vote-netnet.xyz^$all
 ||vote-netnetcapital.xyz^$all
@@ -112680,6 +112722,7 @@
 ||vote-raydium.xyz^$all
 ||vote-relayprotocol.xyz^$all
 ||vote-relays.xyz^$all
+||vote-rheafinance.xyz^$all
 ||vote-rippie.xyz^$all
 ||vote-ripple.xyz^$all
 ||vote-riv.xyz^$all
@@ -112760,6 +112803,7 @@
 ||votemantle.xyz^$all
 ||votes-3jane.xyz^$all
 ||votes-aero.xyz^$all
+||votes-aerodromefinance.xyz^$all
 ||votes-apyx.xyz^$all
 ||votes-apyxfi.xyz^$all
 ||votes-arbitrum.xyz^$all
@@ -112772,11 +112816,13 @@
 ||votes-dopplerfinance.xyz^$all
 ||votes-dphn.xyz^$all
 ||votes-edel-finance.xyz^$all
+||votes-edelfinance.xyz^$all
 ||votes-elysium.xyz^$all
 ||votes-ethena.xyz^$all
 ||votes-etherfinances.xyz^$all
 ||votes-fables.xyz^$all
 ||votes-falconfinance.xyz^$all
+||votes-falconfinances.xyz^$all
 ||votes-firelight.xyz^$all
 ||votes-firelightfi.xyz^$all
 ||votes-firelightfinance.xyz^$all
@@ -112810,6 +112856,7 @@
 ||votes-nillion.xyz^$all
 ||votes-octra.xyz^$all
 ||votes-ondo.xyz^$all
+||votes-ondofinance.xyz^$all
 ||votes-onre.xyz^$all
 ||votes-onyx.xyz^$all
 ||votes-oresupply.xyz^$all
