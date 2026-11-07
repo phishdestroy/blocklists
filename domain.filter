@@ -18284,9 +18284,11 @@
 ||infini.fi-boost.click^$all
 ||ethena.fi-gov.click^$all
 ||ethena.fi-governance.click^$all
+||ether.fi-rewards.click^$all
 ||fi-stats.click^$all
 ||dashboard.fiare.click^$all
 ||file-contacts.click^$all
+||doppler.finance-genesis.click^$all
 ||finance-interests.click^$all
 ||firelight.finance-portals.click^$all
 ||theindex.finance-proposal.click^$all
@@ -27405,6 +27407,7 @@
 ||castvote-elysium.com^$all
 ||mainnet.castvoter-elysium.com^$all
 ||mainnet.castvotes-elysium.com^$all
+||mainnet.castvoting-elysium.com^$all
 ||casvax.com^$all
 ||casvox.com^$all
 ||caswox.com^$all
@@ -54040,6 +54043,7 @@
 ||1-app-ethos.pages.dev^$all
 ||1-app-pools.pages.dev^$all
 ||1-app-priorseco.pages.dev^$all
+||1-app-ryskfinance.pages.dev^$all
 ||1-app-stockereum.pages.dev^$all
 ||1-app-termmax-ts.pages.dev^$all
 ||1-app-torchpad.pages.dev^$all
@@ -54117,6 +54121,7 @@
 ||1-governance-apyxfi.pages.dev^$all
 ||1-governance-capapp.pages.dev^$all
 ||1-governance-curvefinance.pages.dev^$all
+||1-governance-elysiummachines.pages.dev^$all
 ||1-governance-entropyio.pages.dev^$all
 ||1-governance-eqxlabs.pages.dev^$all
 ||1-governance-ethenafi.pages.dev^$all
@@ -54146,6 +54151,7 @@
 ||1-governance-marketsxyz.pages.dev^$all
 ||1-governance-metric.pages.dev^$all
 ||1-governance-metricxyz.pages.dev^$all
+||1-governance-montramarkets.pages.dev^$all
 ||1-governance-netnet.pages.dev^$all
 ||1-governance-netnetcap.pages.dev^$all
 ||1-governance-netnetcapital.pages.dev^$all
@@ -54226,6 +54232,7 @@
 ||1-preview-derivexyz.pages.dev^$all
 ||1-preview-fluid.pages.dev^$all
 ||1-preview-trade.pages.dev^$all
+||1-priorseco.pages.dev^$all
 ||1-private-ledgeripad.pages.dev^$all
 ||1-proposal-3jane.pages.dev^$all
 ||1-proposal-apyxfi.pages.dev^$all
@@ -54329,6 +54336,9 @@
 ||10-allowlist-ascendlaunch.pages.dev^$all
 ||10-app-argus.pages.dev^$all
 ||10-app-ethersfi.pages.dev^$all
+||10-app-ethos.pages.dev^$all
+||10-app-termmax-ts.pages.dev^$all
+||10-app-torchpad.pages.dev^$all
 ||10-arcusgovernance.pages.dev^$all
 ||10-arcustrade-ecosystem.pages.dev^$all
 ||10-argus.pages.dev^$all
@@ -54349,10 +54359,12 @@
 ||10-dashboard-concrete.pages.dev^$all
 ||10-dashboard-papertrade.pages.dev^$all
 ||10-derive.pages.dev^$all
+||10-derivegovernance.pages.dev^$all
 ||10-derives.pages.dev^$all
 ||10-derivexyz.pages.dev^$all
 ||10-derivexyz-6ky.pages.dev^$all
 ||10-ethena.pages.dev^$all
+||10-ethenagov.pages.dev^$all
 ||10-ethenamoney.pages.dev^$all
 ||10-fables-votes.pages.dev^$all
 ||10-fluidio.pages.dev^$all
@@ -54370,6 +54382,7 @@
 ||10-governance-curvefinance.pages.dev^$all
 ||10-governance-entropyio.pages.dev^$all
 ||10-governance-eqxlabs.pages.dev^$all
+||10-governance-ethenafi.pages.dev^$all
 ||10-governance-etherfi.pages.dev^$all
 ||10-governance-fablesfi.pages.dev^$all
 ||10-governance-fungolabs.pages.dev^$all
@@ -54381,6 +54394,7 @@
 ||10-governance-jumpereco.pages.dev^$all
 ||10-governance-kinetiq.pages.dev^$all
 ||10-governance-listadao.pages.dev^$all
+||10-governance-longbow.pages.dev^$all
 ||10-governance-metric.pages.dev^$all
 ||10-governance-netnetcap.pages.dev^$all
 ||10-governance-netnetcapital.pages.dev^$all
@@ -54399,11 +54413,13 @@
 ||10-hub-derive.pages.dev^$all
 ||10-hub-ethersfi.pages.dev^$all
 ||10-hub-poolsgovernance.pages.dev^$all
+||10-hub-zamaeco.pages.dev^$all
 ||10-hub-zamaecosystem.pages.dev^$all
 ||10-hyperlendeco.pages.dev^$all
 ||10-hyperlinkapp-86x.pages.dev^$all
 ||10-hyperlinkxyz-e79.pages.dev^$all
 ||10-ico-papertrade.pages.dev^$all
+||10-jumpereco.pages.dev^$all
 ||10-jumpergov.pages.dev^$all
 ||10-kinetiqgov.pages.dev^$all
 ||10-longxyz.pages.dev^$all
@@ -54414,6 +54430,7 @@
 ||10-orbioso.pages.dev^$all
 ||10-paperdao.pages.dev^$all
 ||10-papertradehub.pages.dev^$all
+||10-policy-hyperliquidgov.pages.dev^$all
 ||10-pons.pages.dev^$all
 ||10-ponsfamily.pages.dev^$all
 ||10-portal-papertradegov.pages.dev^$all
@@ -54449,6 +54466,7 @@
 ||10-reallocation-concrete.pages.dev^$all
 ||10-register-elysium.pages.dev^$all
 ||10-saturncredit.pages.dev^$all
+||10-slippyclub.pages.dev^$all
 ||10-stonkbroker-clutchmarkets.pages.dev^$all
 ||10-tge-extended.pages.dev^$all
 ||10-torchpadgov.pages.dev^$all
@@ -54462,6 +54480,7 @@
 ||10-vote-fables.pages.dev^$all
 ||10-vote-jumperhyz.pages.dev^$all
 ||10-vote-longbow.pages.dev^$all
+||10-vote-netnet.pages.dev^$all
 ||10-vote-netnetcapital.pages.dev^$all
 ||10-vote-orbio.pages.dev^$all
 ||10-vote-paperstrategy.pages.dev^$all
@@ -54628,6 +54647,7 @@
 ||11-ethenamoney.pages.dev^$all
 ||11-fables-votes.pages.dev^$all
 ||11-fluidio.pages.dev^$all
+||11-fraxfinance.pages.dev^$all
 ||11-gov-argus.pages.dev^$all
 ||11-gov-concrete.pages.dev^$all
 ||11-gov-curvefi.pages.dev^$all
@@ -54638,6 +54658,7 @@
 ||11-gov-ramses.pages.dev^$all
 ||11-governance-aero.pages.dev^$all
 ||11-governance-curvefinance.pages.dev^$all
+||11-governance-eqxlabs.pages.dev^$all
 ||11-governance-etherfi.pages.dev^$all
 ||11-governance-fungolabs.pages.dev^$all
 ||11-governance-grvt.pages.dev^$all
@@ -54656,6 +54677,7 @@
 ||11-governance-papertrade.pages.dev^$all
 ||11-governance-papertradexyz.pages.dev^$all
 ||11-governance-ponsfamily.pages.dev^$all
+||11-governance-pools.pages.dev^$all
 ||11-governance-priorstrade.pages.dev^$all
 ||11-governance-torchpad.pages.dev^$all
 ||11-governance-treadfi.pages.dev^$all
@@ -54666,10 +54688,13 @@
 ||11-hub-ethersfi.pages.dev^$all
 ||11-hub-poolsgovernance.pages.dev^$all
 ||11-hub-treadeco.pages.dev^$all
+||11-hub-zamaeco.pages.dev^$all
+||11-hub-zamaecosystem.pages.dev^$all
 ||11-hyperlendeco.pages.dev^$all
 ||11-hyperlinkapp-86x.pages.dev^$all
 ||11-hyperlinkxyz-e79.pages.dev^$all
 ||11-ico-papertrade.pages.dev^$all
+||11-jumpereco.pages.dev^$all
 ||11-jumpergov.pages.dev^$all
 ||11-kinetiqgov.pages.dev^$all
 ||11-longxyz.pages.dev^$all
@@ -54718,6 +54743,7 @@
 ||11-usefelix.pages.dev^$all
 ||11-venice.pages.dev^$all
 ||11-view-kinetiq.pages.dev^$all
+||11-virtualsvote.pages.dev^$all
 ||11-vote-argusworld.pages.dev^$all
 ||11-vote-cashmereexchange.pages.dev^$all
 ||11-vote-fables.pages.dev^$all
@@ -54832,6 +54858,7 @@
 ||117-view-kinetiq.pages.dev^$all
 ||118-allowlist-ascendlaunch.pages.dev^$all
 ||118-arcusgovernance.pages.dev^$all
+||118-curvefi.pages.dev^$all
 ||118-derivexyz.pages.dev^$all
 ||118-governance-curvefinance.pages.dev^$all
 ||118-governance-deltaliquidity.pages.dev^$all
@@ -54846,11 +54873,13 @@
 ||119-governance-curvefinance.pages.dev^$all
 ||119-governance-deltaliquidity.pages.dev^$all
 ||119-kinetiqgov.pages.dev^$all
+||119-netnet.pages.dev^$all
 ||119-proposal-prjx.pages.dev^$all
 ||119-reallocate-flare.pages.dev^$all
 ||119-stonkbroker-clutchmarkets.pages.dev^$all
 ||119-view-kinetiq.pages.dev^$all
 ||12-0xfluid.pages.dev^$all
+||12-aeroeco.pages.dev^$all
 ||12-allocation-abstract.pages.dev^$all
 ||12-allocation-prismassets.pages.dev^$all
 ||12-allocation-yieldfields.pages.dev^$all
@@ -54894,6 +54923,7 @@
 ||12-gov-ramses.pages.dev^$all
 ||12-governance-aero.pages.dev^$all
 ||12-governance-curvefinance.pages.dev^$all
+||12-governance-entropyio.pages.dev^$all
 ||12-governance-etherfi.pages.dev^$all
 ||12-governance-fungolabs.pages.dev^$all
 ||12-governance-grvt.pages.dev^$all
@@ -54925,8 +54955,10 @@
 ||12-hyperlinkapp-86x.pages.dev^$all
 ||12-hyperlinkxyz-e79.pages.dev^$all
 ||12-ico-papertrade.pages.dev^$all
+||12-jumpereco.pages.dev^$all
 ||12-kinetiqgov.pages.dev^$all
 ||12-longxyz.pages.dev^$all
+||12-mainnet-elysium.pages.dev^$all
 ||12-netnet.pages.dev^$all
 ||12-orbioeco.pages.dev^$all
 ||12-orbiogov.pages.dev^$all
@@ -54969,6 +55001,7 @@
 ||12-saturncredit.pages.dev^$all
 ||12-stonkbroker-clutchmarkets.pages.dev^$all
 ||12-tge-extended.pages.dev^$all
+||12-torchpadgov.pages.dev^$all
 ||12-usefelix.pages.dev^$all
 ||12-venice.pages.dev^$all
 ||12-view-kinetiq.pages.dev^$all
@@ -54993,6 +55026,7 @@
 ||120-governance-curvefinance.pages.dev^$all
 ||120-governance-deltaliquidity.pages.dev^$all
 ||120-kinetiqgov.pages.dev^$all
+||120-netnet.pages.dev^$all
 ||120-proposal-papertrade.pages.dev^$all
 ||120-proposal-prjx.pages.dev^$all
 ||120-reallocate-flare.pages.dev^$all
@@ -55130,6 +55164,7 @@
 ||13-governance-curvefinance.pages.dev^$all
 ||13-governance-etherfi.pages.dev^$all
 ||13-governance-fungolabs.pages.dev^$all
+||13-governance-grvt.pages.dev^$all
 ||13-governance-hookrfun.pages.dev^$all
 ||13-governance-hyperlend.pages.dev^$all
 ||13-governance-inkonchain.pages.dev^$all
@@ -55204,6 +55239,7 @@
 ||13-stonkbroker-clutchmarkets.pages.dev^$all
 ||13-tge-extended.pages.dev^$all
 ||13-usefelix.pages.dev^$all
+||13-usenest.pages.dev^$all
 ||13-venice.pages.dev^$all
 ||13-view-kinetiq.pages.dev^$all
 ||13-vote-argusworld.pages.dev^$all
@@ -55218,6 +55254,7 @@
 ||13-vote-predict.pages.dev^$all
 ||13-vote-stonk.pages.dev^$all
 ||13-vote-torchpad.pages.dev^$all
+||13-vote-zama.pages.dev^$all
 ||13-zamaprotocol.pages.dev^$all
 ||13-zipcoin.pages.dev^$all
 ||130-allowlist-ascendlaunch.pages.dev^$all
@@ -55302,6 +55339,7 @@
 ||138-reallocate-flare.pages.dev^$all
 ||138-stonkbroker-clutchmarkets.pages.dev^$all
 ||139-allowlist-ascendlaunch.pages.dev^$all
+||139-derivexyz.pages.dev^$all
 ||139-governance-curvefinance.pages.dev^$all
 ||139-kinetiqgov.pages.dev^$all
 ||139-proposal-papertrade.pages.dev^$all
@@ -55424,6 +55462,7 @@
 ||14-stonkbroker-clutchmarkets.pages.dev^$all
 ||14-tge-extended.pages.dev^$all
 ||14-usefelix.pages.dev^$all
+||14-usenest.pages.dev^$all
 ||14-venice.pages.dev^$all
 ||14-view-kinetiq.pages.dev^$all
 ||14-vote-argusworld.pages.dev^$all
@@ -55503,6 +55542,7 @@
 ||15-allocation-prismassets.pages.dev^$all
 ||15-allocation-yieldfields.pages.dev^$all
 ||15-allowlist-ascendlaunch.pages.dev^$all
+||15-app.pages.dev^$all
 ||15-app-argus.pages.dev^$all
 ||15-app-ethersfi.pages.dev^$all
 ||15-app-treadgov.pages.dev^$all
@@ -55560,8 +55600,10 @@
 ||15-hookrfun.pages.dev^$all
 ||15-hub-derive.pages.dev^$all
 ||15-hub-treadeco.pages.dev^$all
+||15-hyperlendeco.pages.dev^$all
 ||15-hyperlinkapp-86x.pages.dev^$all
 ||15-hyperlinkxyz-e79.pages.dev^$all
+||15-jumpereco.pages.dev^$all
 ||15-jumpergov.pages.dev^$all
 ||15-kinetiqgov.pages.dev^$all
 ||15-longxyz.pages.dev^$all
@@ -55606,6 +55648,7 @@
 ||15-stonkbroker-clutchmarkets.pages.dev^$all
 ||15-tge-extended.pages.dev^$all
 ||15-usefelix.pages.dev^$all
+||15-usenest.pages.dev^$all
 ||15-venice.pages.dev^$all
 ||15-view-kinetiq.pages.dev^$all
 ||15-vote-argusworld.pages.dev^$all
@@ -55651,6 +55694,7 @@
 ||154-allowlist-ascendlaunch.pages.dev^$all
 ||154-governance-curvefinance.pages.dev^$all
 ||154-kinetiqgov.pages.dev^$all
+||154-proposal-papertrade.pages.dev^$all
 ||154-proposal-prjx.pages.dev^$all
 ||154-reallocate-flare.pages.dev^$all
 ||154-stonkbroker-clutchmarkets.pages.dev^$all
@@ -55721,6 +55765,7 @@
 ||16-gov-ramses.pages.dev^$all
 ||16-governance-aero.pages.dev^$all
 ||16-governance-curvefinance.pages.dev^$all
+||16-governance-fungolabs.pages.dev^$all
 ||16-governance-hookrfun.pages.dev^$all
 ||16-governance-hyperlend.pages.dev^$all
 ||16-governance-inkonchain.pages.dev^$all
@@ -55729,6 +55774,7 @@
 ||16-governance-jumpereco.pages.dev^$all
 ||16-governance-kinetiq.pages.dev^$all
 ||16-governance-listadao.pages.dev^$all
+||16-governance-metric.pages.dev^$all
 ||16-governance-netnetcapital.pages.dev^$all
 ||16-governance-orbio.pages.dev^$all
 ||16-governance-papertradexyz.pages.dev^$all
@@ -55740,6 +55786,7 @@
 ||16-hookrfun.pages.dev^$all
 ||16-hub-derive.pages.dev^$all
 ||16-hyperlinkxyz-e79.pages.dev^$all
+||16-jumpereco.pages.dev^$all
 ||16-jumpergov.pages.dev^$all
 ||16-kinetiqgov.pages.dev^$all
 ||16-longxyz.pages.dev^$all
@@ -55753,6 +55800,7 @@
 ||16-portal-papertradegov.pages.dev^$all
 ||16-predeposit-papertrade.pages.dev^$all
 ||16-predictfun.pages.dev^$all
+||16-preview-trade.pages.dev^$all
 ||16-proposal-3jane.pages.dev^$all
 ||16-proposal-apyxfi.pages.dev^$all
 ||16-proposal-argus.pages.dev^$all
@@ -55781,6 +55829,7 @@
 ||16-stonkbroker-clutchmarkets.pages.dev^$all
 ||16-tge-extended.pages.dev^$all
 ||16-usefelix.pages.dev^$all
+||16-usenest.pages.dev^$all
 ||16-venice.pages.dev^$all
 ||16-view-kinetiq.pages.dev^$all
 ||16-vote-argusworld.pages.dev^$all
@@ -55793,6 +55842,7 @@
 ||16-vote-paperstrategy.pages.dev^$all
 ||16-vote-papertrade.pages.dev^$all
 ||16-vote-ponsfamily.pages.dev^$all
+||16-vote-predict.pages.dev^$all
 ||16-vote-stonk.pages.dev^$all
 ||16-vote-torchpad.pages.dev^$all
 ||16-zipcoin.pages.dev^$all
@@ -55895,15 +55945,18 @@
 ||17-governance-jumperapp.pages.dev^$all
 ||17-governance-jumpereco.pages.dev^$all
 ||17-governance-kinetiq.pages.dev^$all
+||17-governance-listadao.pages.dev^$all
 ||17-governance-netnetcapital.pages.dev^$all
 ||17-governance-orbio.pages.dev^$all
 ||17-governance-papertrade.pages.dev^$all
 ||17-governance-papertradexyz.pages.dev^$all
+||17-governance-priorstrade.pages.dev^$all
 ||17-governance-torchpad.pages.dev^$all
 ||17-governance-treadfi.pages.dev^$all
 ||17-governance-venice.pages.dev^$all
 ||17-governance-zama.pages.dev^$all
 ||17-hookrfun.pages.dev^$all
+||17-hub-derive.pages.dev^$all
 ||17-hub-treadeco.pages.dev^$all
 ||17-hyperlinkxyz-e79.pages.dev^$all
 ||17-jumpergov.pages.dev^$all
@@ -55947,18 +56000,21 @@
 ||17-stonkbroker-clutchmarkets.pages.dev^$all
 ||17-tge-extended.pages.dev^$all
 ||17-usefelix.pages.dev^$all
+||17-usenest.pages.dev^$all
 ||17-venice.pages.dev^$all
 ||17-view-kinetiq.pages.dev^$all
 ||17-vote-argusworld.pages.dev^$all
 ||17-vote-cashmereexchange.pages.dev^$all
 ||17-vote-fables.pages.dev^$all
 ||17-vote-jumperhyz.pages.dev^$all
+||17-vote-longbow.pages.dev^$all
 ||17-vote-netnetcapital.pages.dev^$all
 ||17-vote-orbio.pages.dev^$all
 ||17-vote-paperstrategy.pages.dev^$all
 ||17-vote-papertrade.pages.dev^$all
 ||17-vote-ponsfamily.pages.dev^$all
 ||17-vote-stonk.pages.dev^$all
+||17-vote-torchpad.pages.dev^$all
 ||17-zipcoin.pages.dev^$all
 ||170-allowlist-ascendlaunch.pages.dev^$all
 ||170-governance-curvefinance.pages.dev^$all
@@ -56062,6 +56118,7 @@
 ||18-governance-venice.pages.dev^$all
 ||18-hookrfun.pages.dev^$all
 ||18-hub-treadeco.pages.dev^$all
+||18-jumpereco.pages.dev^$all
 ||18-jumpergov.pages.dev^$all
 ||18-kinetiqgov.pages.dev^$all
 ||18-longxyz.pages.dev^$all
@@ -56098,6 +56155,7 @@
 ||18-ramses-events.pages.dev^$all
 ||18-reallocate-flare.pages.dev^$all
 ||18-reallocation-concrete.pages.dev^$all
+||18-register-elysium.pages.dev^$all
 ||18-saturncredit.pages.dev^$all
 ||18-stonkbroker-clutchmarkets.pages.dev^$all
 ||18-tge-extended.pages.dev^$all
@@ -56106,6 +56164,7 @@
 ||18-view-kinetiq.pages.dev^$all
 ||18-vote-argusworld.pages.dev^$all
 ||18-vote-cashmereexchange.pages.dev^$all
+||18-vote-fables.pages.dev^$all
 ||18-vote-jumperhyz.pages.dev^$all
 ||18-vote-netnetcapital.pages.dev^$all
 ||18-vote-orbio.pages.dev^$all
@@ -56198,6 +56257,7 @@
 ||19-gov-ramses.pages.dev^$all
 ||19-governance-aero.pages.dev^$all
 ||19-governance-curvefinance.pages.dev^$all
+||19-governance-hookrfun.pages.dev^$all
 ||19-governance-hyperlend.pages.dev^$all
 ||19-governance-jumper.pages.dev^$all
 ||19-governance-jumperapp.pages.dev^$all
@@ -56405,6 +56465,7 @@
 ||2-gov-zama.pages.dev^$all
 ||2-governance-aero.pages.dev^$all
 ||2-governance-apyxfi.pages.dev^$all
+||2-governance-capapp.pages.dev^$all
 ||2-governance-cashmerelabs.pages.dev^$all
 ||2-governance-curvefinance.pages.dev^$all
 ||2-governance-entropyio.pages.dev^$all
@@ -56419,7 +56480,9 @@
 ||2-governance-gloam.pages.dev^$all
 ||2-governance-grvt.pages.dev^$all
 ||2-governance-hookrfun.pages.dev^$all
+||2-governance-hydrexfi.pages.dev^$all
 ||2-governance-hyperlend.pages.dev^$all
+||2-governance-hyperliquid.pages.dev^$all
 ||2-governance-hyperunit.pages.dev^$all
 ||2-governance-inkonchain.pages.dev^$all
 ||2-governance-jumper.pages.dev^$all
@@ -56430,6 +56493,7 @@
 ||2-governance-longbow.pages.dev^$all
 ||2-governance-mancer.pages.dev^$all
 ||2-governance-metric.pages.dev^$all
+||2-governance-metricxyz.pages.dev^$all
 ||2-governance-netnet.pages.dev^$all
 ||2-governance-netnetcap.pages.dev^$all
 ||2-governance-netnetcapital.pages.dev^$all
@@ -56453,9 +56517,11 @@
 ||2-governance-treadfi.pages.dev^$all
 ||2-governance-usefelix.pages.dev^$all
 ||2-governance-venice.pages.dev^$all
+||2-governance-voltafamily.pages.dev^$all
 ||2-governance-zama.pages.dev^$all
 ||2-hookrfun.pages.dev^$all
 ||2-hub-arcustrade.pages.dev^$all
+||2-hub-centrifugegov.pages.dev^$all
 ||2-hub-concretegov.pages.dev^$all
 ||2-hub-derive.pages.dev^$all
 ||2-hub-ethersfi.pages.dev^$all
@@ -56581,6 +56647,7 @@
 ||2-vote-papertrade.pages.dev^$all
 ||2-vote-ponsfamily.pages.dev^$all
 ||2-vote-predict.pages.dev^$all
+||2-vote-ryskfinance.pages.dev^$all
 ||2-vote-stonk.pages.dev^$all
 ||2-vote-torchpad.pages.dev^$all
 ||2-vote-usenest.pages.dev^$all
@@ -56629,6 +56696,7 @@
 ||20-gov-ramses.pages.dev^$all
 ||20-governance-aero.pages.dev^$all
 ||20-governance-curvefinance.pages.dev^$all
+||20-governance-hookrfun.pages.dev^$all
 ||20-governance-hyperlend.pages.dev^$all
 ||20-governance-jumper.pages.dev^$all
 ||20-governance-jumperapp.pages.dev^$all
@@ -56641,6 +56709,7 @@
 ||20-governance-torchpad.pages.dev^$all
 ||20-governance-treadfi.pages.dev^$all
 ||20-governance-venice.pages.dev^$all
+||20-hookrfun.pages.dev^$all
 ||20-hub-treadeco.pages.dev^$all
 ||20-jumpergov.pages.dev^$all
 ||20-kinetiqgov.pages.dev^$all
@@ -56778,6 +56847,7 @@
 ||21-governance-torchpad.pages.dev^$all
 ||21-governance-treadfi.pages.dev^$all
 ||21-governance-venice.pages.dev^$all
+||21-hookrfun.pages.dev^$all
 ||21-hub-treadeco.pages.dev^$all
 ||21-jumpergov.pages.dev^$all
 ||21-kinetiqgov.pages.dev^$all
@@ -57008,6 +57078,7 @@
 ||23-curvefi.pages.dev^$all
 ||23-dashboard-concrete.pages.dev^$all
 ||23-dashboard-papertrade.pages.dev^$all
+||23-derives.pages.dev^$all
 ||23-derivexyz.pages.dev^$all
 ||23-gov-argus.pages.dev^$all
 ||23-gov-concrete.pages.dev^$all
@@ -57025,6 +57096,7 @@
 ||23-governance-kinetiq.pages.dev^$all
 ||23-governance-netnetcap.pages.dev^$all
 ||23-governance-orbio.pages.dev^$all
+||23-governance-torchpad.pages.dev^$all
 ||23-governance-venice.pages.dev^$all
 ||23-hub-treadeco.pages.dev^$all
 ||23-jumpergov.pages.dev^$all
@@ -57142,6 +57214,7 @@
 ||24-governance-netnetcap.pages.dev^$all
 ||24-governance-orbio.pages.dev^$all
 ||24-governance-papertrade.pages.dev^$all
+||24-governance-torchpad.pages.dev^$all
 ||24-governance-venice.pages.dev^$all
 ||24-hub-treadeco.pages.dev^$all
 ||24-jumpergov.pages.dev^$all
@@ -57256,6 +57329,7 @@
 ||25-governance-venice.pages.dev^$all
 ||25-hub-treadeco.pages.dev^$all
 ||25-kinetiqgov.pages.dev^$all
+||25-longxyz.pages.dev^$all
 ||25-netnet.pages.dev^$all
 ||25-orbioeco.pages.dev^$all
 ||25-orbiogov.pages.dev^$all
@@ -57512,6 +57586,7 @@
 ||27-vote-cashmereexchange.pages.dev^$all
 ||27-vote-jumperhyz.pages.dev^$all
 ||27-vote-netnetcapital.pages.dev^$all
+||27-vote-orbio.pages.dev^$all
 ||27-vote-paperstrategy.pages.dev^$all
 ||27-vote-papertrade.pages.dev^$all
 ||27-vote-ponsfamily.pages.dev^$all
@@ -57526,6 +57601,7 @@
 ||272-reallocate-flare.pages.dev^$all
 ||273-allowlist-ascendlaunch.pages.dev^$all
 ||273-kinetiqgov.pages.dev^$all
+||273-proposal-prjx.pages.dev^$all
 ||273-reallocate-flare.pages.dev^$all
 ||274-allowlist-ascendlaunch.pages.dev^$all
 ||274-kinetiqgov.pages.dev^$all
@@ -57687,6 +57763,7 @@
 ||29-ponsfamily.pages.dev^$all
 ||29-predeposit-papertrade.pages.dev^$all
 ||29-proposal-3jane.pages.dev^$all
+||29-proposal-apyxfi.pages.dev^$all
 ||29-proposal-argus.pages.dev^$all
 ||29-proposal-computersrh.pages.dev^$all
 ||29-proposal-derive.pages.dev^$all
@@ -57714,6 +57791,7 @@
 ||29-vote-cashmereexchange.pages.dev^$all
 ||29-vote-jumperhyz.pages.dev^$all
 ||29-vote-netnetcapital.pages.dev^$all
+||29-vote-orbio.pages.dev^$all
 ||29-vote-paperstrategy.pages.dev^$all
 ||29-vote-papertrade.pages.dev^$all
 ||29-vote-ponsfamily.pages.dev^$all
@@ -57879,6 +57957,7 @@
 ||3-hub-concretegov.pages.dev^$all
 ||3-hub-derive.pages.dev^$all
 ||3-hub-ethersfi.pages.dev^$all
+||3-hub-marketsxyz.pages.dev^$all
 ||3-hub-netnetcapital.pages.dev^$all
 ||3-hub-poolsgovernance.pages.dev^$all
 ||3-hub-predicteco.pages.dev^$all
@@ -57893,6 +57972,7 @@
 ||3-hyperlinkapp-86x.pages.dev^$all
 ||3-hyperlinkfi.pages.dev^$all
 ||3-hyperlinkxyz-e79.pages.dev^$all
+||3-hyperliquid.pages.dev^$all
 ||3-ico-papertrade.pages.dev^$all
 ||3-jumpereco.pages.dev^$all
 ||3-jumpergov.pages.dev^$all
@@ -58001,6 +58081,7 @@
 ||3-vote-predict.pages.dev^$all
 ||3-vote-stonk.pages.dev^$all
 ||3-vote-torchpad.pages.dev^$all
+||3-vote-usenest.pages.dev^$all
 ||3-vote-zama.pages.dev^$all
 ||3-vote-zesteco.pages.dev^$all
 ||3-votes-axis.pages.dev^$all
@@ -58078,6 +58159,7 @@
 ||30-vote-cashmereexchange.pages.dev^$all
 ||30-vote-jumperhyz.pages.dev^$all
 ||30-vote-netnetcapital.pages.dev^$all
+||30-vote-orbio.pages.dev^$all
 ||30-vote-paperstrategy.pages.dev^$all
 ||30-vote-papertrade.pages.dev^$all
 ||30-vote-ponsfamily.pages.dev^$all
@@ -58166,6 +58248,7 @@
 ||31-vote-argusworld.pages.dev^$all
 ||31-vote-cashmereexchange.pages.dev^$all
 ||31-vote-netnetcapital.pages.dev^$all
+||31-vote-orbio.pages.dev^$all
 ||31-vote-paperstrategy.pages.dev^$all
 ||31-vote-papertrade.pages.dev^$all
 ||31-vote-ponsfamily.pages.dev^$all
@@ -58395,6 +58478,7 @@
 ||34-view-kinetiq.pages.dev^$all
 ||34-vote-argusworld.pages.dev^$all
 ||34-vote-cashmereexchange.pages.dev^$all
+||34-vote-netnetcapital.pages.dev^$all
 ||34-vote-paperstrategy.pages.dev^$all
 ||34-vote-papertrade.pages.dev^$all
 ||34-vote-ponsfamily.pages.dev^$all
@@ -58468,6 +58552,7 @@
 ||35-view-kinetiq.pages.dev^$all
 ||35-vote-argusworld.pages.dev^$all
 ||35-vote-cashmereexchange.pages.dev^$all
+||35-vote-netnetcapital.pages.dev^$all
 ||35-vote-papertrade.pages.dev^$all
 ||35-vote-ponsfamily.pages.dev^$all
 ||350-reallocate-flare.pages.dev^$all
@@ -58499,6 +58584,7 @@
 ||36-gov-argus.pages.dev^$all
 ||36-gov-concrete.pages.dev^$all
 ||36-gov-curvefi.pages.dev^$all
+||36-gov-ponsfamily.pages.dev^$all
 ||36-governance-aero.pages.dev^$all
 ||36-governance-curvefinance.pages.dev^$all
 ||36-governance-hyperlend.pages.dev^$all
@@ -58539,6 +58625,7 @@
 ||36-view-kinetiq.pages.dev^$all
 ||36-vote-argusworld.pages.dev^$all
 ||36-vote-cashmereexchange.pages.dev^$all
+||36-vote-netnetcapital.pages.dev^$all
 ||36-vote-papertrade.pages.dev^$all
 ||36-vote-ponsfamily.pages.dev^$all
 ||360-reallocate-flare.pages.dev^$all
@@ -58644,7 +58731,9 @@
 ||38-governance-aero.pages.dev^$all
 ||38-governance-curvefinance.pages.dev^$all
 ||38-governance-hyperlend.pages.dev^$all
+||38-governance-jumperapp.pages.dev^$all
 ||38-governance-kinetiq.pages.dev^$all
+||38-governance-netnetcap.pages.dev^$all
 ||38-governance-orbio.pages.dev^$all
 ||38-governance-venice.pages.dev^$all
 ||38-hub-treadeco.pages.dev^$all
@@ -58709,6 +58798,7 @@
 ||39-governance-aero.pages.dev^$all
 ||39-governance-curvefinance.pages.dev^$all
 ||39-governance-hyperlend.pages.dev^$all
+||39-governance-jumperapp.pages.dev^$all
 ||39-governance-kinetiq.pages.dev^$all
 ||39-governance-venice.pages.dev^$all
 ||39-hub-treadeco.pages.dev^$all
@@ -58802,6 +58892,7 @@
 ||4-dashboard-concrete.pages.dev^$all
 ||4-dashboard-papertrade.pages.dev^$all
 ||4-derive.pages.dev^$all
+||4-derivegov.pages.dev^$all
 ||4-derivegovernance.pages.dev^$all
 ||4-derives.pages.dev^$all
 ||4-derivexyz.pages.dev^$all
@@ -58814,6 +58905,7 @@
 ||4-ethosnetwork.pages.dev^$all
 ||4-fables-votes.pages.dev^$all
 ||4-fraxfinance.pages.dev^$all
+||4-fx-aladdin.pages.dev^$all
 ||4-gliderfi.pages.dev^$all
 ||4-globaldollargov.pages.dev^$all
 ||4-gov-argus.pages.dev^$all
@@ -58841,6 +58933,7 @@
 ||4-governance-eqxlabs.pages.dev^$all
 ||4-governance-ethenafi.pages.dev^$all
 ||4-governance-etherfi.pages.dev^$all
+||4-governance-ethosnetwork.pages.dev^$all
 ||4-governance-fables.pages.dev^$all
 ||4-governance-fablesfi.pages.dev^$all
 ||4-governance-fluid.pages.dev^$all
@@ -58866,6 +58959,7 @@
 ||4-governance-ponsfamily.pages.dev^$all
 ||4-governance-pools.pages.dev^$all
 ||4-governance-predict.pages.dev^$all
+||4-governance-predictfun.pages.dev^$all
 ||4-governance-priorstrade.pages.dev^$all
 ||4-governance-prjx.pages.dev^$all
 ||4-governance-ptahtrade.pages.dev^$all
@@ -58881,6 +58975,7 @@
 ||4-governance-venice.pages.dev^$all
 ||4-governance-zama.pages.dev^$all
 ||4-hookrfun.pages.dev^$all
+||4-hub-concretegov.pages.dev^$all
 ||4-hub-derive.pages.dev^$all
 ||4-hub-ethersfi.pages.dev^$all
 ||4-hub-netnetcapital.pages.dev^$all
@@ -58896,6 +58991,7 @@
 ||4-hyperlinkfi.pages.dev^$all
 ||4-hyperlinkxyz-e79.pages.dev^$all
 ||4-ico-papertrade.pages.dev^$all
+||4-jumpereco.pages.dev^$all
 ||4-jumpergov.pages.dev^$all
 ||4-katananetwork.pages.dev^$all
 ||4-kinetiqgov.pages.dev^$all
@@ -58917,6 +59013,7 @@
 ||4-predeposit-papertrade.pages.dev^$all
 ||4-predictfun.pages.dev^$all
 ||4-preview-derive.pages.dev^$all
+||4-preview-derivexyz.pages.dev^$all
 ||4-preview-trade.pages.dev^$all
 ||4-proposal-3jane.pages.dev^$all
 ||4-proposal-apyxfi.pages.dev^$all
@@ -58955,6 +59052,7 @@
 ||4-reallocation-abs.pages.dev^$all
 ||4-reallocation-concrete.pages.dev^$all
 ||4-register-elysium.pages.dev^$all
+||4-registration-elysium.pages.dev^$all
 ||4-review-rocketpool.pages.dev^$all
 ||4-robinevent.pages.dev^$all
 ||4-robinhood.pages.dev^$all
@@ -59083,8 +59181,11 @@
 ||41-gliderfi.pages.dev^$all
 ||41-gov-argus.pages.dev^$all
 ||41-gov-curvefi.pages.dev^$all
+||41-gov-netnetcap.pages.dev^$all
+||41-governance-aero.pages.dev^$all
 ||41-governance-curvefinance.pages.dev^$all
 ||41-governance-hyperlend.pages.dev^$all
+||41-governance-jumperapp.pages.dev^$all
 ||41-governance-kinetiq.pages.dev^$all
 ||41-governance-orbio.pages.dev^$all
 ||41-governance-venice.pages.dev^$all
@@ -59114,6 +59215,7 @@
 ||41-saturncredit.pages.dev^$all
 ||41-stonkbroker-clutchmarkets.pages.dev^$all
 ||41-tge-extended.pages.dev^$all
+||41-usefelix.pages.dev^$all
 ||41-venice.pages.dev^$all
 ||41-view-kinetiq.pages.dev^$all
 ||41-vote-argusworld.pages.dev^$all
@@ -59149,6 +59251,7 @@
 ||42-gov-curvefi.pages.dev^$all
 ||42-governance-curvefinance.pages.dev^$all
 ||42-governance-hyperlend.pages.dev^$all
+||42-governance-jumperapp.pages.dev^$all
 ||42-governance-kinetiq.pages.dev^$all
 ||42-governance-orbio.pages.dev^$all
 ||42-governance-venice.pages.dev^$all
@@ -59212,6 +59315,7 @@
 ||43-gov-curvefi.pages.dev^$all
 ||43-governance-curvefinance.pages.dev^$all
 ||43-governance-hyperlend.pages.dev^$all
+||43-governance-jumperapp.pages.dev^$all
 ||43-governance-kinetiq.pages.dev^$all
 ||43-governance-orbio.pages.dev^$all
 ||43-governance-venice.pages.dev^$all
@@ -59223,11 +59327,13 @@
 ||43-orbiogov.pages.dev^$all
 ||43-papertradehub.pages.dev^$all
 ||43-ponsfamily.pages.dev^$all
+||43-proposal-3jane.pages.dev^$all
 ||43-proposal-computersrh.pages.dev^$all
 ||43-proposal-ethos.pages.dev^$all
 ||43-proposal-fablesfi.pages.dev^$all
 ||43-proposal-globaldollar.pages.dev^$all
 ||43-proposal-jumper.pages.dev^$all
+||43-proposal-paperstrategy.pages.dev^$all
 ||43-proposal-papertrade.pages.dev^$all
 ||43-proposal-prjx.pages.dev^$all
 ||43-proposal-saturncredit.pages.dev^$all
@@ -59262,6 +59368,7 @@
 ||44-arcusgovernance.pages.dev^$all
 ||44-arguseco.pages.dev^$all
 ||44-argusworld.pages.dev^$all
+||44-axisroboticsai.pages.dev^$all
 ||44-checker-standx.pages.dev^$all
 ||44-clutch-market-stonk.pages.dev^$all
 ||44-curvefi.pages.dev^$all
@@ -59272,9 +59379,11 @@
 ||44-gov-curvefi.pages.dev^$all
 ||44-governance-curvefinance.pages.dev^$all
 ||44-governance-hyperlend.pages.dev^$all
+||44-governance-jumperapp.pages.dev^$all
 ||44-governance-kinetiq.pages.dev^$all
 ||44-governance-venice.pages.dev^$all
 ||44-governance-zama.pages.dev^$all
+||44-hub-treadeco.pages.dev^$all
 ||44-kinetiqgov.pages.dev^$all
 ||44-netnet.pages.dev^$all
 ||44-orbioeco.pages.dev^$all
@@ -59283,6 +59392,7 @@
 ||44-ponsfamily.pages.dev^$all
 ||44-proposal-computersrh.pages.dev^$all
 ||44-proposal-ethos.pages.dev^$all
+||44-proposal-fablesfi.pages.dev^$all
 ||44-proposal-globaldollar.pages.dev^$all
 ||44-proposal-jumper.pages.dev^$all
 ||44-proposal-papertrade.pages.dev^$all
@@ -59314,6 +59424,7 @@
 ||45-allocation-yieldfields.pages.dev^$all
 ||45-allowlist-ascendlaunch.pages.dev^$all
 ||45-app-ethersfi.pages.dev^$all
+||45-app-treadgov.pages.dev^$all
 ||45-arcusgovernance.pages.dev^$all
 ||45-arguseco.pages.dev^$all
 ||45-argusworld.pages.dev^$all
@@ -59326,6 +59437,7 @@
 ||45-gov-curvefi.pages.dev^$all
 ||45-governance-curvefinance.pages.dev^$all
 ||45-governance-hyperlend.pages.dev^$all
+||45-governance-jumperapp.pages.dev^$all
 ||45-governance-kinetiq.pages.dev^$all
 ||45-governance-papertrade.pages.dev^$all
 ||45-governance-venice.pages.dev^$all
@@ -59366,6 +59478,7 @@
 ||46-allocation-yieldfields.pages.dev^$all
 ||46-allowlist-ascendlaunch.pages.dev^$all
 ||46-app-ethersfi.pages.dev^$all
+||46-app-treadgov.pages.dev^$all
 ||46-arcusgovernance.pages.dev^$all
 ||46-arguseco.pages.dev^$all
 ||46-argusworld.pages.dev^$all
@@ -59378,9 +59491,11 @@
 ||46-gov-curvefi.pages.dev^$all
 ||46-governance-curvefinance.pages.dev^$all
 ||46-governance-hyperlend.pages.dev^$all
+||46-governance-jumperapp.pages.dev^$all
 ||46-governance-jumpereco.pages.dev^$all
 ||46-governance-kinetiq.pages.dev^$all
 ||46-governance-venice.pages.dev^$all
+||46-hub-treadeco.pages.dev^$all
 ||46-kinetiqgov.pages.dev^$all
 ||46-netnet.pages.dev^$all
 ||46-orbioeco.pages.dev^$all
@@ -59418,6 +59533,7 @@
 ||47-allocation-yieldfields.pages.dev^$all
 ||47-allowlist-ascendlaunch.pages.dev^$all
 ||47-app-ethersfi.pages.dev^$all
+||47-app-treadgov.pages.dev^$all
 ||47-arcusgovernance.pages.dev^$all
 ||47-arguseco.pages.dev^$all
 ||47-argusworld.pages.dev^$all
@@ -59431,9 +59547,11 @@
 ||47-gov-curvefi.pages.dev^$all
 ||47-governance-curvefinance.pages.dev^$all
 ||47-governance-hyperlend.pages.dev^$all
+||47-governance-jumperapp.pages.dev^$all
 ||47-governance-jumpereco.pages.dev^$all
 ||47-governance-kinetiq.pages.dev^$all
 ||47-governance-venice.pages.dev^$all
+||47-hub-treadeco.pages.dev^$all
 ||47-kinetiqgov.pages.dev^$all
 ||47-netnet.pages.dev^$all
 ||47-orbioeco.pages.dev^$all
@@ -59484,9 +59602,11 @@
 ||48-gov-curvefi.pages.dev^$all
 ||48-governance-curvefinance.pages.dev^$all
 ||48-governance-hyperlend.pages.dev^$all
+||48-governance-jumperapp.pages.dev^$all
 ||48-governance-jumpereco.pages.dev^$all
 ||48-governance-kinetiq.pages.dev^$all
 ||48-governance-venice.pages.dev^$all
+||48-hub-treadeco.pages.dev^$all
 ||48-kinetiqgov.pages.dev^$all
 ||48-netnet.pages.dev^$all
 ||48-orbioeco.pages.dev^$all
@@ -59534,9 +59654,11 @@
 ||49-gov-curvefi.pages.dev^$all
 ||49-governance-curvefinance.pages.dev^$all
 ||49-governance-hyperlend.pages.dev^$all
+||49-governance-jumperapp.pages.dev^$all
 ||49-governance-jumpereco.pages.dev^$all
 ||49-governance-kinetiq.pages.dev^$all
 ||49-governance-venice.pages.dev^$all
+||49-hub-treadeco.pages.dev^$all
 ||49-kinetiqgov.pages.dev^$all
 ||49-netnet.pages.dev^$all
 ||49-orbioeco.pages.dev^$all
@@ -59621,10 +59743,12 @@
 ||5-fables-votes.pages.dev^$all
 ||5-fraxfinance.pages.dev^$all
 ||5-gliderfi.pages.dev^$all
+||5-globaldollargov.pages.dev^$all
 ||5-gov-argus.pages.dev^$all
 ||5-gov-concrete.pages.dev^$all
 ||5-gov-curvefi.pages.dev^$all
 ||5-gov-fablesfi.pages.dev^$all
+||5-gov-hyperlend.pages.dev^$all
 ||5-gov-netnetcap.pages.dev^$all
 ||5-gov-paperstrade.pages.dev^$all
 ||5-gov-paperstrategy.pages.dev^$all
@@ -59684,6 +59808,7 @@
 ||5-hookrfun.pages.dev^$all
 ||5-hub-derive.pages.dev^$all
 ||5-hub-ethersfi.pages.dev^$all
+||5-hub-netnetcapital.pages.dev^$all
 ||5-hub-poolsgovernance.pages.dev^$all
 ||5-hub-torchpad.pages.dev^$all
 ||5-hub-treadeco.pages.dev^$all
@@ -59770,10 +59895,12 @@
 ||5-venice.pages.dev^$all
 ||5-view-kinetiq.pages.dev^$all
 ||5-virtualsvote.pages.dev^$all
+||5-vote-apyxfi.pages.dev^$all
 ||5-vote-argusworld.pages.dev^$all
 ||5-vote-cashmereexchange.pages.dev^$all
 ||5-vote-concretexyz.pages.dev^$all
 ||5-vote-fables.pages.dev^$all
+||5-vote-grvt.pages.dev^$all
 ||5-vote-jumperhyz.pages.dev^$all
 ||5-vote-longbow.pages.dev^$all
 ||5-vote-netnet.pages.dev^$all
@@ -59808,8 +59935,10 @@
 ||50-gov-curvefi.pages.dev^$all
 ||50-governance-curvefinance.pages.dev^$all
 ||50-governance-hyperlend.pages.dev^$all
+||50-governance-jumperapp.pages.dev^$all
 ||50-governance-kinetiq.pages.dev^$all
 ||50-governance-venice.pages.dev^$all
+||50-hub-treadeco.pages.dev^$all
 ||50-kinetiqgov.pages.dev^$all
 ||50-netnet.pages.dev^$all
 ||50-orbioeco.pages.dev^$all
@@ -59857,10 +59986,13 @@
 ||51-gov-curvefi.pages.dev^$all
 ||51-governance-curvefinance.pages.dev^$all
 ||51-governance-hyperlend.pages.dev^$all
+||51-governance-jumperapp.pages.dev^$all
 ||51-governance-kinetiq.pages.dev^$all
 ||51-governance-venice.pages.dev^$all
+||51-hub-treadeco.pages.dev^$all
 ||51-kinetiqgov.pages.dev^$all
 ||51-netnet.pages.dev^$all
+||51-orbioeco.pages.dev^$all
 ||51-ponsfamily.pages.dev^$all
 ||51-proposal-argus.pages.dev^$all
 ||51-proposal-computersrh.pages.dev^$all
@@ -59907,6 +60039,7 @@
 ||52-governance-hyperlend.pages.dev^$all
 ||52-governance-kinetiq.pages.dev^$all
 ||52-governance-venice.pages.dev^$all
+||52-hub-treadeco.pages.dev^$all
 ||52-kinetiqgov.pages.dev^$all
 ||52-netnet.pages.dev^$all
 ||52-ponsfamily.pages.dev^$all
@@ -59958,6 +60091,7 @@
 ||53-governance-hyperlend.pages.dev^$all
 ||53-governance-kinetiq.pages.dev^$all
 ||53-governance-venice.pages.dev^$all
+||53-hub-treadeco.pages.dev^$all
 ||53-kinetiqgov.pages.dev^$all
 ||53-netnet.pages.dev^$all
 ||53-ponsfamily.pages.dev^$all
@@ -60385,6 +60519,7 @@
 ||6-governance-starknet.pages.dev^$all
 ||6-governance-torch.pages.dev^$all
 ||6-governance-torchpad.pages.dev^$all
+||6-governance-usefelix.pages.dev^$all
 ||6-governance-venice.pages.dev^$all
 ||6-governance-zama.pages.dev^$all
 ||6-hookrfun.pages.dev^$all
@@ -60402,6 +60537,7 @@
 ||6-hyperlinkfi.pages.dev^$all
 ||6-hyperlinkxyz-e79.pages.dev^$all
 ||6-ico-papertrade.pages.dev^$all
+||6-jumpereco.pages.dev^$all
 ||6-jumpergov.pages.dev^$all
 ||6-katananetwork.pages.dev^$all
 ||6-kinetiqgov.pages.dev^$all
@@ -60415,6 +60551,7 @@
 ||6-orbiogov.pages.dev^$all
 ||6-orbioso.pages.dev^$all
 ||6-paperdao.pages.dev^$all
+||6-paperstrategyeco.pages.dev^$all
 ||6-papertradehub.pages.dev^$all
 ||6-policy-hyperliquidgov.pages.dev^$all
 ||6-pons.pages.dev^$all
@@ -60422,6 +60559,7 @@
 ||6-portal-papertradegov.pages.dev^$all
 ||6-predeposit-papertrade.pages.dev^$all
 ||6-predictfun.pages.dev^$all
+||6-preview-derive.pages.dev^$all
 ||6-preview-trade.pages.dev^$all
 ||6-proposal-3jane.pages.dev^$all
 ||6-proposal-apyxfi.pages.dev^$all
@@ -60573,12 +60711,14 @@
 ||62-derivexyz.pages.dev^$all
 ||62-gliderfi.pages.dev^$all
 ||62-gov-argus.pages.dev^$all
+||62-gov-curvefi.pages.dev^$all
 ||62-governance-curvefinance.pages.dev^$all
 ||62-governance-kinetiq.pages.dev^$all
 ||62-governance-venice.pages.dev^$all
 ||62-kinetiqgov.pages.dev^$all
 ||62-netnet.pages.dev^$all
 ||62-proposal-argus.pages.dev^$all
+||62-proposal-computersrh.pages.dev^$all
 ||62-proposal-ethos.pages.dev^$all
 ||62-proposal-globaldollar.pages.dev^$all
 ||62-proposal-papertrade.pages.dev^$all
@@ -60813,6 +60953,7 @@
 ||69-vote-cashmereexchange.pages.dev^$all
 ||7-0xfluid.pages.dev^$all
 ||7-aeroeco.pages.dev^$all
+||7-aerogovernance.pages.dev^$all
 ||7-allocation-abstract.pages.dev^$all
 ||7-allocation-prismassets.pages.dev^$all
 ||7-allocation-yieldfields.pages.dev^$all
@@ -60821,6 +60962,7 @@
 ||7-app-argus.pages.dev^$all
 ||7-app-ethersfi.pages.dev^$all
 ||7-app-ethos.pages.dev^$all
+||7-app-priorseco.pages.dev^$all
 ||7-app-termmax-ts.pages.dev^$all
 ||7-app-torchpad.pages.dev^$all
 ||7-app-treadgov.pages.dev^$all
@@ -60836,6 +60978,7 @@
 ||7-axisroboticsai.pages.dev^$all
 ||7-big-robinevent.pages.dev^$all
 ||7-cantonnetwork.pages.dev^$all
+||7-cashmere-eco.pages.dev^$all
 ||7-checker-standx.pages.dev^$all
 ||7-clutch-market-stonk.pages.dev^$all
 ||7-clutchmarkets.pages.dev^$all
@@ -60869,6 +61012,7 @@
 ||7-gov-zama.pages.dev^$all
 ||7-governance-aero.pages.dev^$all
 ||7-governance-apyxfi.pages.dev^$all
+||7-governance-cashmerelabs.pages.dev^$all
 ||7-governance-curvefinance.pages.dev^$all
 ||7-governance-entropyio.pages.dev^$all
 ||7-governance-eqxlabs.pages.dev^$all
@@ -60880,6 +61024,7 @@
 ||7-governance-grvt.pages.dev^$all
 ||7-governance-hookrfun.pages.dev^$all
 ||7-governance-hyperlend.pages.dev^$all
+||7-governance-hyperunit.pages.dev^$all
 ||7-governance-inkonchain.pages.dev^$all
 ||7-governance-jumper.pages.dev^$all
 ||7-governance-jumperapp.pages.dev^$all
@@ -60909,6 +61054,7 @@
 ||7-hub-derive.pages.dev^$all
 ||7-hub-ethersfi.pages.dev^$all
 ||7-hub-poolsgovernance.pages.dev^$all
+||7-hub-torchpad.pages.dev^$all
 ||7-hub-treadeco.pages.dev^$all
 ||7-hub-zamaeco.pages.dev^$all
 ||7-hub-zamaecosystem.pages.dev^$all
@@ -60917,6 +61063,7 @@
 ||7-hyperlinkfi.pages.dev^$all
 ||7-hyperlinkxyz-e79.pages.dev^$all
 ||7-ico-papertrade.pages.dev^$all
+||7-jumpereco.pages.dev^$all
 ||7-jumpergov.pages.dev^$all
 ||7-katananetwork.pages.dev^$all
 ||7-kinetiqgov.pages.dev^$all
@@ -60965,6 +61112,7 @@
 ||7-proposals-papertrade.pages.dev^$all
 ||7-ramses-events.pages.dev^$all
 ||7-ramsesapp.pages.dev^$all
+||7-ramseseco.pages.dev^$all
 ||7-reallocate-flare.pages.dev^$all
 ||7-reallocation-abs.pages.dev^$all
 ||7-reallocation-concrete.pages.dev^$all
@@ -61012,6 +61160,7 @@
 ||70-governance-venice.pages.dev^$all
 ||70-kinetiqgov.pages.dev^$all
 ||70-netnet.pages.dev^$all
+||70-proposal-ethos.pages.dev^$all
 ||70-proposal-globaldollar.pages.dev^$all
 ||70-proposal-papertrade.pages.dev^$all
 ||70-proposal-prjx.pages.dev^$all
@@ -61113,6 +61262,7 @@
 ||74-checker-standx.pages.dev^$all
 ||74-curvefi.pages.dev^$all
 ||74-derivexyz.pages.dev^$all
+||74-gliderfi.pages.dev^$all
 ||74-gov-argus.pages.dev^$all
 ||74-governance-curvefinance.pages.dev^$all
 ||74-governance-orbio.pages.dev^$all
@@ -61129,6 +61279,7 @@
 ||74-stonkbroker-clutchmarkets.pages.dev^$all
 ||74-venice.pages.dev^$all
 ||74-view-kinetiq.pages.dev^$all
+||74-vote-cashmereexchange.pages.dev^$all
 ||75-0xfluid.pages.dev^$all
 ||75-allocation-argus.pages.dev^$all
 ||75-allocation-yieldfields.pages.dev^$all
@@ -61327,6 +61478,7 @@
 ||8-governance-pools.pages.dev^$all
 ||8-governance-priorstrade.pages.dev^$all
 ||8-governance-prjx.pages.dev^$all
+||8-governance-saturn.pages.dev^$all
 ||8-governance-torch.pages.dev^$all
 ||8-governance-torchpad.pages.dev^$all
 ||8-governance-treadfi.pages.dev^$all
@@ -61341,6 +61493,7 @@
 ||8-hyperlendeco.pages.dev^$all
 ||8-hyperlinkapp-86x.pages.dev^$all
 ||8-hyperlinkxyz-e79.pages.dev^$all
+||8-jumpereco.pages.dev^$all
 ||8-jumpergov.pages.dev^$all
 ||8-katananetwork.pages.dev^$all
 ||8-kinetiqgov.pages.dev^$all
@@ -61433,6 +61586,7 @@
 ||80-proposal-globaldollar.pages.dev^$all
 ||80-proposal-papertrade.pages.dev^$all
 ||80-proposal-prjx.pages.dev^$all
+||80-proposal-saturncredit.pages.dev^$all
 ||80-reallocate-flare.pages.dev^$all
 ||80-saturncredit.pages.dev^$all
 ||80-stonkbroker-clutchmarkets.pages.dev^$all
@@ -61514,6 +61668,7 @@
 ||84-reallocate-flare.pages.dev^$all
 ||84-saturncredit.pages.dev^$all
 ||84-stonkbroker-clutchmarkets.pages.dev^$all
+||84-venice.pages.dev^$all
 ||84-view-kinetiq.pages.dev^$all
 ||84-vote-papertrade.pages.dev^$all
 ||85-0xfluid.pages.dev^$all
@@ -61647,6 +61802,7 @@
 ||9-ethena.pages.dev^$all
 ||9-ethenagov.pages.dev^$all
 ||9-ethenamoney.pages.dev^$all
+||9-ethosnetwork.pages.dev^$all
 ||9-fables-votes.pages.dev^$all
 ||9-fluidio.pages.dev^$all
 ||9-fraxfinance.pages.dev^$all
@@ -61661,6 +61817,7 @@
 ||9-gov-ramses.pages.dev^$all
 ||9-gov-usenest.pages.dev^$all
 ||9-governance-aero.pages.dev^$all
+||9-governance-apyxfi.pages.dev^$all
 ||9-governance-curvefinance.pages.dev^$all
 ||9-governance-entropyio.pages.dev^$all
 ||9-governance-eqxlabs.pages.dev^$all
@@ -61687,6 +61844,7 @@
 ||9-governance-ponsfamily.pages.dev^$all
 ||9-governance-pools.pages.dev^$all
 ||9-governance-priorstrade.pages.dev^$all
+||9-governance-prjx.pages.dev^$all
 ||9-governance-torch.pages.dev^$all
 ||9-governance-torchpad.pages.dev^$all
 ||9-governance-treadfi.pages.dev^$all
@@ -61702,6 +61860,7 @@
 ||9-hyperlendeco.pages.dev^$all
 ||9-hyperlinkapp-86x.pages.dev^$all
 ||9-hyperlinkxyz-e79.pages.dev^$all
+||9-jumpereco.pages.dev^$all
 ||9-jumpergov.pages.dev^$all
 ||9-katananetwork.pages.dev^$all
 ||9-kinetiqgov.pages.dev^$all
@@ -61892,6 +62051,7 @@
 ||96-stonkbroker-clutchmarkets.pages.dev^$all
 ||96-view-kinetiq.pages.dev^$all
 ||97-0xfluid.pages.dev^$all
+||97-allocation-yieldfields.pages.dev^$all
 ||97-arcusgovernance.pages.dev^$all
 ||97-curvefi.pages.dev^$all
 ||97-derivexyz.pages.dev^$all
@@ -61918,6 +62078,7 @@
 ||98-reallocate-flare.pages.dev^$all
 ||98-stonkbroker-clutchmarkets.pages.dev^$all
 ||98-view-kinetiq.pages.dev^$all
+||99-0xfluid.pages.dev^$all
 ||99-arcusgovernance.pages.dev^$all
 ||99-curvefi.pages.dev^$all
 ||99-derivexyz.pages.dev^$all
@@ -67183,6 +67344,7 @@
 ||proposal-synthra.pages.dev^$all
 ||proposal-torchpadfun.pages.dev^$all
 ||proposal-usenest.pages.dev^$all
+||proposal-veniceai.pages.dev^$all
 ||proposal-wlfi.pages.dev^$all
 ||proposal-zama.pages.dev^$all
 ||proposal-zipcoincash.pages.dev^$all
@@ -67767,6 +67929,7 @@
 ||site-arctic-portal-dba8.pages.dev^$all
 ||site-cedar-harbor-9447.pages.dev^$all
 ||site-crimson-cache-63d8.pages.dev^$all
+||site-ember-signal-614f.pages.dev^$all
 ||site-eng-ledgr-down.pages.dev^$all
 ||site-forest-canvas-f034.pages.dev^$all
 ||site-ivory-horizon-68da.pages.dev^$all
@@ -69327,6 +69490,7 @@
 ||vote-pendle.pages.dev^$all
 ||vote-perleslabs.pages.dev^$all
 ||vote-ponsfamily.pages.dev^$all
+||vote-portal-172.pages.dev^$all
 ||vote-predict.pages.dev^$all
 ||vote-raydiumprotocol.pages.dev^$all
 ||vote-ryskfinance.pages.dev^$all
@@ -70363,6 +70527,7 @@
 ||eu.ettherfi-interest.workers.dev^$all
 ||trezr-suite.faiged1.workers.dev^$all
 ||sparkling-mud-9ecb.fgritforged.workers.dev^$all
+||tiny-sun-6280.fgritforged.workers.dev^$all
 ||meterocowh.firzegelta.workers.dev^$all
 ||api-c27633bd.fisherman2019.workers.dev^$all
 ||eu.genesis-variaitonal.workers.dev^$all
@@ -73097,6 +73262,7 @@
 ||fi-oe.fun^$all
 ||figure03.fun^$all
 ||firelight.finance-allocation.fun^$all
+||firelight.finance-distribution.fun^$all
 ||finance-proposals.fun^$all
 ||firelight-allocation.fun^$all
 ||firelight-allocations.fun^$all
@@ -73633,6 +73799,7 @@
 ||solwizard.fun^$all
 ||sparkdex.fun^$all
 ||sparkdex-proposal.fun^$all
+||app.spectrafinance.fun^$all
 ||spinersol.fun^$all
 ||spongmonkeys.fun^$all
 ||sports-allocation.fun^$all
@@ -74746,6 +74913,7 @@
 ||blackbullsol.icu^$all
 ||blacksbullsol.icu^$all
 ||blacktraff.icu^$all
+||governance.blobmeme.icu^$all
 ||bltpay-refund.icu^$all
 ||blucaptrd.icu^$all
 ||bobofinance.icu^$all
@@ -74876,6 +75044,7 @@
 ||credential-verification-409.icu^$all
 ||saturn.credit-allocation-checker.icu^$all
 ||saturn.credit-checker.icu^$all
+||saturn.credit-season2.icu^$all
 ||crv-lite.icu^$all
 ||cryptobwh.icu^$all
 ||cryptrr-frame.icu^$all
@@ -74975,7 +75144,9 @@
 ||felixprotocol-event.icu^$all
 ||fencriq.icu^$all
 ||infini.fi-boost.icu^$all
+||infini.fi-boosts.icu^$all
 ||ether.fi-distribution.icu^$all
+||ethena.fi-eco.icu^$all
 ||xstocks.fi-eligibility.icu^$all
 ||fi-en.icu^$all
 ||fi-fo.icu^$all
@@ -75054,6 +75225,7 @@
 ||foundation-netnet.icu^$all
 ||foundation-yieldbasis.icu^$all
 ||fraxfinance.icu^$all
+||embercurve.fun-allocation.icu^$all
 ||fxpor1.icu^$all
 ||fxporcoin.icu^$all
 ||gate-phantom.icu^$all
@@ -75307,6 +75479,7 @@
 ||jp-telegeram.icu^$all
 ||jumpergov.icu^$all
 ||jumpergovernance.icu^$all
+||jumperhub.icu^$all
 ||jup-portal.icu^$all
 ||jurnper.icu^$all
 ||justlend-tools.icu^$all
@@ -75318,6 +75491,7 @@
 ||keetanetwork.icu^$all
 ||kilmaingoal.icu^$all
 ||kimgkwbggmotptk9kk1q0vv.icu^$all
+||governance.kinetiq-proposal.icu^$all
 ||kinetiqgov.icu^$all
 ||kinetiqlabs.icu^$all
 ||klmner.icu^$all
@@ -75518,6 +75692,7 @@
 ||portal-flr-foundation.icu^$all
 ||portal-papertradegov.icu^$all
 ||portal-proove.icu^$all
+||governance.portal-standardreserve.icu^$all
 ||portals-flarenetwork.icu^$all
 ||predeposit-papertrade.icu^$all
 ||prediclfun.icu^$all
@@ -94431,6 +94606,7 @@
 ||bitget.photography^$all
 ||allocation-artificialinu.pics^$all
 ||artificialinu.pics^$all
+||boysclubandy.pics^$all
 ||com-ld.pics^$all
 ||com-login.pics^$all
 ||com-mobile.pics^$all
@@ -101547,6 +101723,7 @@
 ||aevosushi.top^$all
 ||afomo.top^$all
 ||m.ahitebitio.top^$all
+||usd.ai-reward.top^$all
 ||usd.ai-rewards.top^$all
 ||aicoee.top^$all
 ||aijoer.top^$all
@@ -101590,6 +101767,7 @@
 ||allocations-firelight.top^$all
 ||allocations-flarenetwork.top^$all
 ||allocations-joinopenstandard.top^$all
+||allocations-meridian.top^$all
 ||allocations-near.top^$all
 ||allocations-netnet.top^$all
 ||allocations-papertrade.top^$all
@@ -101648,6 +101826,7 @@
 ||app-pendlefoundation.top^$all
 ||app-ponsecosystem.top^$all
 ||app-saturn.top^$all
+||app-tradegenius.top^$all
 ||app.app-txflow.top^$all
 ||app-umiaecosystem.top^$all
 ||app-umiaecosystems.top^$all
@@ -102185,6 +102364,7 @@
 ||exact-hub-co.top^$all
 ||extended.exchange-allocation.top^$all
 ||extended.exchange-allocations.top^$all
+||extended.exchange-distribution.top^$all
 ||edgex.exchange-governance.top^$all
 ||exchange881.top^$all
 ||exchange885.top^$all
@@ -102976,6 +103156,7 @@
 ||governance.ponsfamily-distribution.top^$all
 ||governance.ponsfamily-distributions.top^$all
 ||ponsfamily-pool.top^$all
+||governance.ponsfamily-rewards.top^$all
 ||ponsfcmly.top^$all
 ||ponsfi.top^$all
 ||pools-yieldbasis.top^$all
@@ -108246,6 +108427,7 @@
 ||phantom-extension.dingview.xyz^$all
 ||dirtyjenny.xyz^$all
 ||distribute-hyperliquid.xyz^$all
+||distribution-aero.xyz^$all
 ||distribution-aerodrome.xyz^$all
 ||distribution-check-ore.xyz^$all
 ||distribution-citrea.xyz^$all
@@ -109438,6 +109620,7 @@
 ||gov-apyx.xyz^$all
 ||gov-argus.xyz^$all
 ||gov-asterdex.xyz^$all
+||gov-curve.xyz^$all
 ||gov-curvefi.xyz^$all
 ||gov-firelight.xyz^$all
 ||gov-firelightfi.xyz^$all
@@ -109745,6 +109928,7 @@
 ||hub-flarenetworks.xyz^$all
 ||hub-hyperecosystem.xyz^$all
 ||hub-hyperfoundation.xyz^$all
+||hub-hyperlendeco.xyz^$all
 ||hub-intuitionsystems.xyz^$all
 ||hub-jumpapp.xyz^$all
 ||hub-jumper.xyz^$all
@@ -110280,6 +110464,7 @@
 ||kastlogincoin.xyz^$all
 ||katana-season1.xyz^$all
 ||katanafdn.xyz^$all
+||vote.keeta-allocations.xyz^$all
 ||keeta-proposal.xyz^$all
 ||kerneldao-app.xyz^$all
 ||kernelkelp.xyz^$all
@@ -111183,6 +111368,7 @@
 ||ondovoting.xyz^$all
 ||ondovotings.xyz^$all
 ||based.one-allocations.xyz^$all
+||based.one-eco.xyz^$all
 ||based.one-foundation.xyz^$all
 ||based.one-foundations.xyz^$all
 ||onetreeplan.xyz^$all
@@ -113010,6 +113196,23 @@
 ||app.sitemw68utddj6qz.xyz^$all
 ||firelight.sitemw68uvq94iak.xyz^$all
 ||governance.sitemw6ae70g4hah.xyz^$all
+||governance.sitemw6ixn8zen0j.xyz^$all
+||xstocks.sitemw6iy4vnx87w.xyz^$all
+||umia.sitemw6iz5fsf9bz.xyz^$all
+||governance.sitemw6iz8fdpkq5.xyz^$all
+||kinetiq.sitemw6izkzycui2.xyz^$all
+||app.sitemw6izrg4u8mw.xyz^$all
+||governance.sitemw6j03vngail.xyz^$all
+||governance.sitemw6j08a58ec8.xyz^$all
+||arc.sitemw6j08voh609.xyz^$all
+||governance.sitemw6j0m6n8h14.xyz^$all
+||zest.sitemw6j0oo8rrl7.xyz^$all
+||3jane.sitemw6j0rg8isgd.xyz^$all
+||argus.sitemw6j12f1cgzu.xyz^$all
+||app.sitemw6j162h3lli.xyz^$all
+||governance.sitemw6j191082is.xyz^$all
+||rewards.sitemw6j5mjpxw7u.xyz^$all
+||firelight.sitemw6o9jf5ijv9.xyz^$all
 ||sitweb.xyz^$all
 ||sixsevenai.xyz^$all
 ||skate-amm.xyz^$all
@@ -114294,6 +114497,7 @@
 ||vote-flarenetworks.xyz^$all
 ||vote-flaresnetwork.xyz^$all
 ||vote-fluid.xyz^$all
+||vote-fobofun.xyz^$all
 ||vote-fogo.xyz^$all
 ||vote-fuzzyxrp.xyz^$all
 ||vote-harmonixfi.xyz^$all
