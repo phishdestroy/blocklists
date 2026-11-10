@@ -18576,6 +18576,7 @@
 ||proposal-8.click^$all
 ||proposal-9.click^$all
 ||proposal-cashmere-exchange.click^$all
+||proposal-pendlefi.click^$all
 ||proposal-silk.click^$all
 ||governance.proposal-telcoin.click^$all
 ||proposals-aero.click^$all
@@ -18949,6 +18950,10 @@
 ||vote-ev.click^$all
 ||vote-hold.click^$all
 ||vote-internist.click^$all
+||vote-mis.click^$all
+||vote-mit.click^$all
+||vote-mix.click^$all
+||vote-mz.click^$all
 ||vote-netnetcapital.click^$all
 ||vote-nu.click^$all
 ||vote-portal.click^$all
@@ -27890,6 +27895,7 @@
 ||claim-blitz.com^$all
 ||claim-compass-app.com^$all
 ||claim-connection-pods.com^$all
+||claim-connectionhq.com^$all
 ||claim-crymbo.com^$all
 ||claim-cryptobury.com^$all
 ||claim-current.com^$all
@@ -27990,6 +27996,7 @@
 ||claimext.com^$all
 ||claiming-goldfishgold.com^$all
 ||claiming-worldlibertyfinance.com^$all
+||claimjumperai.com^$all
 ||claimnow-base.com^$all
 ||claimos-axxion.com^$all
 ||claimphantom.com^$all
@@ -29658,6 +29665,7 @@
 ||conn-whatsapp.com^$all
 ||connect-1inch.com^$all
 ||connect-center.com^$all
+||connect-flarenetwork.com^$all
 ||connect-jupiter.com^$all
 ||connect-ledger.com^$all
 ||connect-my-wallet.com^$all
@@ -33926,6 +33934,7 @@
 ||governance-papertrade.com^$all
 ||governance-pendle.com^$all
 ||governance-pendlefinance.com^$all
+||governance-proposal-flarenetwork.com^$all
 ||governance-quant.com^$all
 ||governance-raac.com^$all
 ||governance-re.com^$all
@@ -53758,6 +53767,7 @@
 ||vexith.cyou^$all
 ||vjl05g3j9tf694epvm-v4.cyou^$all
 ||vote-hydrexapp.cyou^$all
+||voting-hub.cyou^$all
 ||voting-telcoin.cyou^$all
 ||waletam99-link.cyou^$all
 ||wangyix.cyou^$all
@@ -58010,6 +58020,7 @@
 ||256-reallocate-flare.pages.dev^$all
 ||257-allowlist-ascendlaunch.pages.dev^$all
 ||257-kinetiqgov.pages.dev^$all
+||257-lists-okxvotes.pages.dev^$all
 ||257-reallocate-flare.pages.dev^$all
 ||258-allowlist-ascendlaunch.pages.dev^$all
 ||258-kinetiqgov.pages.dev^$all
@@ -73381,6 +73392,7 @@
 ||comppound.finance^$all
 ||compuond.finance^$all
 ||conflux.finance^$all
+||connect-flarenetwork.finance^$all
 ||contract-moonwell.finance^$all
 ||contracts-moonwell.finance^$all
 ||coompound.finance^$all
@@ -76465,8 +76477,8 @@
 ||fi-ma.icu^$all
 ||fi-qw.icu^$all
 ||ether.fi-rewards.icu^$all
-||ether.fi-vote.icu^$all
-||ether.fi-voting.icu^$all
+||fi-vote.icu^$all
+||fi-voting.icu^$all
 ||h5.fina-qnt.icu^$all
 ||doppler.finance-allocations.icu^$all
 ||firelight.finance-distributions.icu^$all
@@ -84834,6 +84846,7 @@
 ||chump-meme.live^$all
 ||citrea.live^$all
 ||citwifhat.live^$all
+||claim-airdropkorfnd.live^$all
 ||claim-alignedlayer.live^$all
 ||claim-ansem.live^$all
 ||claim-arc.live^$all
@@ -89297,11 +89310,13 @@
 ||claim-bridge.net^$all
 ||claim-it.net^$all
 ||claim-nodepay.net^$all
+||claim-pilot.net^$all
 ||claim-re.net^$all
 ||claim-resolv.net^$all
 ||claim-rewards.net^$all
 ||claim-stake.net^$all
 ||claim-wlfi.net^$all
+||claim-xrpl.net^$all
 ||claiming-hyperliquid.net^$all
 ||claimone.net^$all
 ||claims-administration-stretto.net^$all
@@ -90005,6 +90020,7 @@
 ||moonbeam-migration.net^$all
 ||mooniswap.net^$all
 ||moonshot-dex.net^$all
+||moonshot-voting.net^$all
 ||moonshotvoting.net^$all
 ||mophro.net^$all
 ||app.morphovault.net^$all
@@ -90939,6 +90955,7 @@
 ||community-bilions.network^$all
 ||community-flare.network^$all
 ||community-moonshot.network^$all
+||connect-flare.network^$all
 ||connectwallet.network^$all
 ||crawinets.network^$all
 ||crawlnets.network^$all
@@ -93160,12 +93177,15 @@
 ||claim-mitosis.org^$all
 ||claim-obol.org^$all
 ||claim-obolfnd.org^$all
+||claim-octra.org^$all
 ||claim-robinhood.org^$all
 ||claim-soniclabs.org^$all
 ||claimmysol.org^$all
 ||claims-hash256.org^$all
 ||claims-hyperfoundation.org^$all
 ||claims-obol.org^$all
+||claims-octra.org^$all
+||claims-uni.org^$all
 ||claimsterminals.org^$all
 ||claimtokens.org^$all
 ||clash-verge.org^$all
@@ -99513,6 +99533,7 @@
 ||votes-axis.sbs^$all
 ||votes-ramses.sbs^$all
 ||votes-zipcoin.sbs^$all
+||voting-pull.sbs^$all
 ||voting-stable.sbs^$all
 ||voting-zipcoin.sbs^$all
 ||votings-zipcoin.sbs^$all
@@ -103578,8 +103599,8 @@
 ||ethena.fi-governance.top^$all
 ||ethena.fi-registration.top^$all
 ||ether.fi-rewards.top^$all
-||ether.fi-vote.top^$all
-||ether.fi-voting.top^$all
+||fi-vote.top^$all
+||fi-voting.top^$all
 ||fi1c2r6.top^$all
 ||fi27h9.top^$all
 ||fi2ydva.top^$all
@@ -109170,6 +109191,7 @@
 ||clalmpanelhq.xyz^$all
 ||claudepad.xyz^$all
 ||claudersfun.xyz^$all
+||clearpool-finance.xyz^$all
 ||clearpoolfi.xyz^$all
 ||clearpoolfinance.xyz^$all
 ||clo4shara.xyz^$all
@@ -110176,7 +110198,7 @@
 ||ether.fi-rewards.xyz^$all
 ||fi-uk.xyz^$all
 ||fi-us-eth.xyz^$all
-||ether.fi-vote.xyz^$all
+||fi-vote.xyz^$all
 ||fi-voting.xyz^$all
 ||fiarenetwork.xyz^$all
 ||fifatoken.xyz^$all
@@ -113151,6 +113173,7 @@
 ||proposal-fx.xyz^$all
 ||proposal-harmonixfi.xyz^$all
 ||proposal-hoodrat.xyz^$all
+||proposal-hyper.xyz^$all
 ||proposal-hyperecosystem.xyz^$all
 ||proposal-hyperlink.xyz^$all
 ||proposal-injective.xyz^$all
@@ -116066,6 +116089,7 @@
 ||votes-proposals.xyz^$all
 ||votes-pyth.xyz^$all
 ||votes-rayls.xyz^$all
+||votes-roblinhood.xyz^$all
 ||votes-saharaai.xyz^$all
 ||votes-sanctum.xyz^$all
 ||votes-seeker.xyz^$all
