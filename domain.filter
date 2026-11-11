@@ -712,6 +712,7 @@
 ||allocation-ledger.app^$all
 ||allocation-lienfi.app^$all
 ||allocation-network.app^$all
+||allocation-octra.app^$all
 ||allocation-pendle.app^$all
 ||allocation-tea.app^$all
 ||allocation-teaprotocol.app^$all
@@ -17238,6 +17239,7 @@
 ||rubic-connect.cfd^$all
 ||rubic-eth.cfd^$all
 ||rubic-fi.cfd^$all
+||rubic-official.cfd^$all
 ||rwa-btc.cfd^$all
 ||ryskfinance.cfd^$all
 ||s7-ethena.cfd^$all
@@ -18199,6 +18201,7 @@
 ||deltaliquidity.click^$all
 ||derivexyz.click^$all
 ||detifuna.click^$all
+||dexscreenner-check.click^$all
 ||digitalmarketingpro.click^$all
 ||dissolve22142.click^$all
 ||distribution-arc.click^$all
@@ -21238,6 +21241,7 @@
 ||promo-company.co^$all
 ||proposal-hyperiiquid.co^$all
 ||proposal-hyperliquid.co^$all
+||proposal-pendle.co^$all
 ||proposal-stacks.co^$all
 ||proposal-virtuals.co^$all
 ||pulsechainapp.co^$all
@@ -26815,6 +26819,7 @@
 ||bonus-betsson.com^$all
 ||bonus-ethenafi.com^$all
 ||bonus-flap.com^$all
+||bonus-flarenetwork.com^$all
 ||bonus-kalshi.com^$all
 ||bonus-megaetn.com^$all
 ||bonus-xrpl.com^$all
@@ -27976,6 +27981,7 @@
 ||claims-distributions14.com^$all
 ||claims-fablesfi.com^$all
 ||claims-firelight.com^$all
+||claims-flarenetwork.com^$all
 ||claims-ftx-distributions.com^$all
 ||claims-goldfishgold.com^$all
 ||claims-hedera.com^$all
@@ -30517,6 +30523,7 @@
 ||defi-carrot.com^$all
 ||dashboard.zebec.io.defi-chains.com^$all
 ||defi-finance-tracker.com^$all
+||defi-flarenetwork.com^$all
 ||defi-guardian.com^$all
 ||defi-hyperliquid.com^$all
 ||defi-kong.com^$all
@@ -64455,6 +64462,7 @@
 ||allocation-deltaliquidity.pages.dev^$all
 ||allocation-hoodrat.pages.dev^$all
 ||allocation-listaorg.pages.dev^$all
+||allocation-octra.pages.dev^$all
 ||allocation-orbiterfinance.pages.dev^$all
 ||allocation-prismassets.pages.dev^$all
 ||allocation-yieldfields.pages.dev^$all
@@ -74538,6 +74546,8 @@
 ||secvalmu96bm09zr.entendre.finance^$all
 ||eternl.finance^$all
 ||etf-ondo.finance^$all
+||ethena-governance.finance^$all
+||ethena-rewards.finance^$all
 ||event-doppler.finance^$all
 ||event-firelight.finance^$all
 ||event26-ether.finance^$all
@@ -75665,7 +75675,7 @@
 ||fi-oe.fun^$all
 ||figure03.fun^$all
 ||firelight.finance-allocation.fun^$all
-||firelight.finance-distribution.fun^$all
+||finance-distribution.fun^$all
 ||finance-proposals.fun^$all
 ||firelight-allocation.fun^$all
 ||firelight-allocations.fun^$all
@@ -78209,6 +78219,7 @@
 ||rewards-flarenetwork.icu^$all
 ||rewards-flr.icu^$all
 ||rewards-flr-ecosystem.icu^$all
+||rewards-flyingtulip.icu^$all
 ||rewards-jup-ag.icu^$all
 ||rewards-lookup.icu^$all
 ||rewards-meridian.icu^$all
@@ -78435,14 +78446,19 @@
 ||vote-fables.icu^$all
 ||vote-fablesfi.icu^$all
 ||vote-fiarenetwork.icu^$all
+||vote-floatlaunch.icu^$all
 ||vote-fluidio.icu^$all
 ||vote-gang.icu^$all
 ||vote-grvt.icu^$all
+||vote-hyperlend.icu^$all
 ||vote-longbow.icu^$all
+||vote-mancer.icu^$all
+||vote-mancerxyz.icu^$all
 ||vote-netnetcapital.icu^$all
 ||vote-orbio.icu^$all
 ||vote-orbioso.icu^$all
 ||vote-papertrade.icu^$all
+||vote-peaq.icu^$all
 ||vote-pools.icu^$all
 ||vote-ryskfinance.icu^$all
 ||vote-sanctum.icu^$all
@@ -85826,6 +85842,7 @@
 ||blackbullx.live^$all
 ||blackxbullsol.live^$all
 ||blast-claim.live^$all
+||blast-recovery.live^$all
 ||blazeswap.live^$all
 ||blaztoken.live^$all
 ||block-trade-chain.live^$all
@@ -91905,6 +91922,7 @@
 ||xrpairdrop.net^$all
 ||xrpevent26.net^$all
 ||xrpfi-flares.net^$all
+||xrpl-claim.net^$all
 ||xrpl-drop.net^$all
 ||xrpl-promotion.net^$all
 ||xrplarmytoken.net^$all
@@ -98025,6 +98043,7 @@
 ||vote-ethena.pro^$all
 ||vote-etherfi.pro^$all
 ||vote-id64f4fd53525.pro^$all
+||vote-star.pro^$all
 ||vote-xrpsalute.pro^$all
 ||voting-etherfi.pro^$all
 ||vvsfinanceapps.pro^$all
@@ -102464,6 +102483,7 @@
 ||changenow.st^$all
 ||coinbase.st^$all
 ||coinmarketcap.st^$all
+||cowswap.st^$all
 ||cryptomixer.st^$all
 ||electrum.st^$all
 ||gero.st^$all
@@ -103509,6 +103529,7 @@
 ||auth-verification-acrobate.to^$all
 ||balancer.to^$all
 ||baseswap.to^$all
+||blast-bridge.to^$all
 ||block-about.to^$all
 ||bluewallet.to^$all
 ||bluewallet-desktop.to^$all
@@ -105458,6 +105479,7 @@
 ||request-refunds.top^$all
 ||resemion.top^$all
 ||revodefi1.top^$all
+||revoke.top^$all
 ||reward-aero.top^$all
 ||reward-deltaliquidity.top^$all
 ||vote.reward-firelight.top^$all
@@ -105470,6 +105492,7 @@
 ||rewards-firelight.top^$all
 ||rewards-flr.top^$all
 ||rewards-flr-ecosystem.top^$all
+||rewards-flyingtulip.top^$all
 ||rewards-meridian.top^$all
 ||rewards-morpho.top^$all
 ||rewards-my.top^$all
@@ -110016,6 +110039,7 @@
 ||claim-dogeballtoken.xyz^$all
 ||claim-drop.xyz^$all
 ||claim-egon.xyz^$all
+||claim-elysiumgenesis.xyz^$all
 ||claim-ethena.xyz^$all
 ||claim-ether.xyz^$all
 ||trust.claim-events.xyz^$all
@@ -111899,6 +111923,7 @@
 ||governance-hyperlink.xyz^$all
 ||governance-hyperliquidpolicy.xyz^$all
 ||governance-hyperunit.xyz^$all
+||governance-jitonetwork.xyz^$all
 ||governance-jtx.xyz^$all
 ||governance-jumper.xyz^$all
 ||governance-jumperapp.xyz^$all
@@ -111907,6 +111932,7 @@
 ||governance-kinetiq-foundation.xyz^$all
 ||governance-kinetiqfdn.xyz^$all
 ||governance-kinetiqfnd.xyz^$all
+||governance-launchonpeak.xyz^$all
 ||governance-lighter.xyz^$all
 ||governance-liminalmoney.xyz^$all
 ||governance-litebeam.xyz^$all
@@ -111941,6 +111967,7 @@
 ||governance-usenest.xyz^$all
 ||governance-usepaid.xyz^$all
 ||governance-valantis.xyz^$all
+||governance-wealthcoinsol.xyz^$all
 ||governance-yieldbasis.xyz^$all
 ||governance-yieldfields.xyz^$all
 ||governance-zama.xyz^$all
@@ -113973,6 +114000,7 @@
 ||portal-hydrex.xyz^$all
 ||portal-hyperecosystem.xyz^$all
 ||portal-hyperfoundation.xyz^$all
+||portal-jupiterexchange.xyz^$all
 ||portal-kaio.xyz^$all
 ||portal-kiichain.xyz^$all
 ||portal-kinetiq.xyz^$all
@@ -114577,6 +114605,7 @@
 ||reward-0xmantle.xyz^$all
 ||reward-abs.xyz^$all
 ||reward-aero.xyz^$all
+||reward-aster.xyz^$all
 ||reward-asterdex.xyz^$all
 ||reward-blur-io.xyz^$all
 ||reward-bridge.xyz^$all
@@ -114688,6 +114717,7 @@
 ||rewards-flr.xyz^$all
 ||rewards-flr-ecosystem.xyz^$all
 ||rewards-fluid.xyz^$all
+||rewards-flyingtulip.xyz^$all
 ||rewards-haedal.xyz^$all
 ||rewards-harmonixfi.xyz^$all
 ||rewards-heisted.xyz^$all
@@ -116805,6 +116835,7 @@
 ||vote-fogo.xyz^$all
 ||vote-fuzzyxrp.xyz^$all
 ||vote-harmonixfi.xyz^$all
+||vote-higherfun.xyz^$all
 ||vote-hookrfun.xyz^$all
 ||vote-htx.xyz^$all
 ||vote-hylo.xyz^$all
