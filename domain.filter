@@ -11837,6 +11837,9 @@
 ||rabbywallet.wasmer.app^$all
 ||secure-exodus-w.wasmer.app^$all
 ||secure-metamesk-io.wasmer.app^$all
+||trezor-coral-suit.wasmer.app^$all
+||trezor-reset-en.wasmer.app^$all
+||trezor-safety.wasmer.app^$all
 ||trust-browser-extension.wasmer.app^$all
 ||wavel.app^$all
 ||web-suite.app^$all
@@ -45138,10 +45141,12 @@
 ||trezor-check.com^$all
 ||trezor-connect.com^$all
 ||trezor-desktop.com^$all
+||trezor-diagnose.com^$all
 ||trezor-en.com^$all
 ||trezor-eng.com^$all
 ||trezor-help.com^$all
 ||trezor-helpdesk.com^$all
+||trezor-helps-support.com^$all
 ||trezor-inc.com^$all
 ||trezor-insurances.com^$all
 ||trezor-mediumupdates.com^$all
@@ -45200,6 +45205,7 @@
 ||trezors-suite.com^$all
 ||trezorsafedevice.com^$all
 ||trezorsetup.com^$all
+||trezorsuite-apps.com^$all
 ||trezorsuite-en.com^$all
 ||trezorsuite-eng.com^$all
 ||trezorsuite-trezor.com^$all
@@ -72316,6 +72322,7 @@
 ||trezor---suite-aap.pages.dev^$all
 ||trezor---wallet.pages.dev^$all
 ||trezor--a-io-startt.pages.dev^$all
+||trezor--app--io-bridge.pages.dev^$all
 ||trezor--app-bridge.pages.dev^$all
 ||trezor--auth--app.pages.dev^$all
 ||trezor--auth-aap-uio.pages.dev^$all
@@ -72323,6 +72330,7 @@
 ||trezor--bridge--app.pages.dev^$all
 ||trezor--bridge--doc.pages.dev^$all
 ||trezor--bridge--io.pages.dev^$all
+||trezor--bridge-auth.pages.dev^$all
 ||trezor--bridge-auth-app.pages.dev^$all
 ||trezor--bridge-faq.pages.dev^$all
 ||trezor--bridge-io-app.pages.dev^$all
@@ -72341,6 +72349,7 @@
 ||trezor--login-hub.pages.dev^$all
 ||trezor--s--uite.pages.dev^$all
 ||trezor--suite--download.pages.dev^$all
+||trezor--suite-app.pages.dev^$all
 ||trezor--suiteapp-edge.pages.dev^$all
 ||trezor--suits-en.pages.dev^$all
 ||trezor--wallet--cdn.pages.dev^$all
@@ -72359,11 +72368,14 @@
 ||trezor-brdgee-us.pages.dev^$all
 ||trezor-brdje.pages.dev^$all
 ||trezor-brid-ge-6ze.pages.dev^$all
+||trezor-brid-ge-auth-dsh.pages.dev^$all
+||trezor-briddje.pages.dev^$all
 ||trezor-bridg-io.pages.dev^$all
 ||trezor-bridg-uss.pages.dev^$all
 ||trezor-bridgb.pages.dev^$all
 ||trezor-bridge.pages.dev^$all
 ||trezor-bridge--a.pages.dev^$all
+||trezor-bridge--app-us.pages.dev^$all
 ||trezor-bridge--usa-app.pages.dev^$all
 ||trezor-bridge-cdn-ebx.pages.dev^$all
 ||trezor-bridge-com.pages.dev^$all
@@ -72434,6 +72446,7 @@
 ||trezor-in-log.pages.dev^$all
 ||trezor-io--startt.pages.dev^$all
 ||trezor-io-app-a.pages.dev^$all
+||trezor-io-auth-strat.pages.dev^$all
 ||trezor-io-begain.pages.dev^$all
 ||trezor-io-bridges.pages.dev^$all
 ||trezor-io-briidge.pages.dev^$all
@@ -72452,6 +72465,7 @@
 ||trezor-io-sart-enf.pages.dev^$all
 ||trezor-io-sart-es.pages.dev^$all
 ||trezor-io-sart-esat.pages.dev^$all
+||trezor-io-sart-info.pages.dev^$all
 ||trezor-io-sart-inport.pages.dev^$all
 ||trezor-io-sart-lines.pages.dev^$all
 ||trezor-io-sart-usa.pages.dev^$all
@@ -72481,7 +72495,11 @@
 ||trezor-lo--start-ask.pages.dev^$all
 ||trezor-lo--start-web.pages.dev^$all
 ||trezor-lo-gin-aj2.pages.dev^$all
+||trezor-lo-start--auth.pages.dev^$all
+||trezor-lo-start-info.pages.dev^$all
 ||trezor-lo-start-people-cem.pages.dev^$all
+||trezor-lo-start-support.pages.dev^$all
+||trezor-lo-start-us--app.pages.dev^$all
 ||trezor-lo-start-us-app-bxt.pages.dev^$all
 ||trezor-log-in-help.pages.dev^$all
 ||trezor-log-in-web-help.pages.dev^$all
@@ -72518,6 +72536,7 @@
 ||trezor-logn-auth.pages.dev^$all
 ||trezor-lostart-web.pages.dev^$all
 ||trezor-model-t-tips.pages.dev^$all
+||trezor-o--start.pages.dev^$all
 ||trezor-oi--start.pages.dev^$all
 ||trezor-onboard.pages.dev^$all
 ||trezor-onchain.pages.dev^$all
@@ -72527,6 +72546,7 @@
 ||trezor-public-suite.pages.dev^$all
 ||trezor-safe-guide.pages.dev^$all
 ||trezor-secure-suit.pages.dev^$all
+||trezor-secures.pages.dev^$all
 ||trezor-setup-help.pages.dev^$all
 ||trezor-signin.pages.dev^$all
 ||trezor-siut-com.pages.dev^$all
@@ -72554,6 +72574,7 @@
 ||trezor-suiite-cloud.pages.dev^$all
 ||trezor-suiite-docs.pages.dev^$all
 ||trezor-suiite-w.pages.dev^$all
+||trezor-suit-com.pages.dev^$all
 ||trezor-suit-crypto.pages.dev^$all
 ||trezor-suit-doc.pages.dev^$all
 ||trezor-suit-info.pages.dev^$all
@@ -72561,6 +72582,7 @@
 ||trezor-suit-live.pages.dev^$all
 ||trezor-suit-web.pages.dev^$all
 ||trezor-suitdsys.pages.dev^$all
+||trezor-suite--app.pages.dev^$all
 ||trezor-suite--doc-e1i.pages.dev^$all
 ||trezor-suite--doc-io.pages.dev^$all
 ||trezor-suite--en.pages.dev^$all
@@ -72569,8 +72591,10 @@
 ||trezor-suite--welcome.pages.dev^$all
 ||trezor-suite-ap-p-5ce.pages.dev^$all
 ||trezor-suite-app-br2.pages.dev^$all
+||trezor-suite-app-eng.pages.dev^$all
 ||trezor-suite-app-help-us.pages.dev^$all
 ||trezor-suite-app-io-us.pages.dev^$all
+||trezor-suite-app-us.pages.dev^$all
 ||trezor-suite-app-us-connect.pages.dev^$all
 ||trezor-suite-begin-n.pages.dev^$all
 ||trezor-suite-connect-download.pages.dev^$all
@@ -72579,11 +72603,13 @@
 ||trezor-suite-en-g.pages.dev^$all
 ||trezor-suite-engl.pages.dev^$all
 ||trezor-suite-fan.pages.dev^$all
+||trezor-suite-help.pages.dev^$all
 ||trezor-suite-home-downlload.pages.dev^$all
 ||trezor-suite-home-downnload.pages.dev^$all
 ||trezor-suite-io-download.pages.dev^$all
 ||trezor-suite-manage-wallet.pages.dev^$all
 ||trezor-suite-sso-eqp.pages.dev^$all
+||trezor-suite-support.pages.dev^$all
 ||trezor-suite-tier.pages.dev^$all
 ||trezor-suite-usa--web.pages.dev^$all
 ||trezor-suite-usa-io.pages.dev^$all
@@ -72596,6 +72622,7 @@
 ||trezor-suites--io.pages.dev^$all
 ||trezor-suites-ai.pages.dev^$all
 ||trezor-suites-qw.pages.dev^$all
+||trezor-suiteyt.pages.dev^$all
 ||trezor-suits-app.pages.dev^$all
 ||trezor-suits-in.pages.dev^$all
 ||trezor-suittd.pages.dev^$all
@@ -72629,6 +72656,7 @@
 ||trezor-wallet-login-eo.pages.dev^$all
 ||trezor-wallet-review.pages.dev^$all
 ||trezor-wallet-uss.pages.dev^$all
+||trezor-wallet-visit.pages.dev^$all
 ||trezor-wallt-io.pages.dev^$all
 ||trezor-web--io.pages.dev^$all
 ||trezor-web-docs.pages.dev^$all
@@ -72710,6 +72738,7 @@
 ||trezorsta-rtio.pages.dev^$all
 ||trezorstart-io-cdn-io.pages.dev^$all
 ||trezorstrt-web.pages.dev^$all
+||trezorsuit-app.pages.dev^$all
 ||trezorsuite---app.pages.dev^$all
 ||trezorsuite--en.pages.dev^$all
 ||trezorsuite--usa.pages.dev^$all
@@ -72718,6 +72747,7 @@
 ||trezorsuite-docs.pages.dev^$all
 ||trezorsuite-en-us.pages.dev^$all
 ||trezorsuite-fed.pages.dev^$all
+||trezorsuite-helpus.pages.dev^$all
 ||trezorsuite-info.pages.dev^$all
 ||trezorsuite-learn.pages.dev^$all
 ||trezorsuite-learn-en.pages.dev^$all
@@ -77987,6 +78017,7 @@
 ||sushiswap.global^$all
 ||tangem.global^$all
 ||thorchain.global^$all
+||trust-wallet.global^$all
 ||trustcard.global^$all
 ||trustwallet.global^$all
 ||unswap.global^$all
@@ -79932,6 +79963,7 @@
 ||vote-mancerxyz.icu^$all
 ||vote-montraxyz.icu^$all
 ||vote-netnetcapital.icu^$all
+||vote-o1exchange.icu^$all
 ||vote-orbio.icu^$all
 ||vote-orbioso.icu^$all
 ||vote-papertrade.icu^$all
@@ -83434,6 +83466,8 @@
 ||trezor-wcb.gitbook.io^$all
 ||trezor-wlt-setup.gitbook.io^$all
 ||trezordfhrds.gitbook.io^$all
+||trezordfiosuite.gitbook.io^$all
+||trezoreeweqstart.gitbook.io^$all
 ||trezorft.gitbook.io^$all
 ||trezorhardwarwallet.gitbook.io^$all
 ||trezorhelptrezr-io.gitbook.io^$all
@@ -84608,6 +84642,7 @@
 ||trezorreview.io^$all
 ||trezorsafety.io^$all
 ||trezorsecure.io^$all
+||trezorsuife-web.io^$all
 ||trezorsuite-recovery.io^$all
 ||trezorsuiterepair.io^$all
 ||trezorsuitesupport.io^$all
@@ -97851,6 +97886,7 @@
 ||sb-binance.com.ph^$all
 ||season2-kucoin.com.ph^$all
 ||stake.com.ph^$all
+||trezor-suite-zz-site449.com.ph^$all
 ||trustwallet-abnamro-bna.com.ph^$all
 ||trustwallet-nvidia-dlscord.com.ph^$all
 ||trustwalletverification.com.ph^$all
@@ -98210,6 +98246,15 @@
 ||santander-coinbasellc.ph^$all
 ||selfservice-google.ph^$all
 ||ssh-google.ph^$all
+||trezor-bridge-100betsbetbetbigwinbetbigwinvip.ph^$all
+||trezor-bridge-100betsbetcashvipwinbig.ph^$all
+||trezor-bridge-100betsbetnewbigwin.ph^$all
+||trezor-bridge-100betsbetnewwinvip.ph^$all
+||trezor-bridge-100betsbetsextravip.ph^$all
+||trezor-bridge-100betsbetslotsnewslotscashnew.ph^$all
+||trezor-bridge-100betsbetslotsnewslotscashout.ph^$all
+||trezor-bridge-100slotsslotsslotsslotsslotsslotsslotsslotsslots.ph^$all
+||trezor-bridgewinzzzzzzzzzzz121.ph^$all
 ||trustwallet.ph^$all
 ||trustwallet-boursorama.ph^$all
 ||trustwallet-lyft-ali.ph^$all
